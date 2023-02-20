@@ -15,6 +15,6 @@ const url = 'https://gist.github.com/prabathLK/fbd8017006fc4000dc82403d443ecd9b/
 cmd({ on: "text" }, async (Void,citel,text,{isCreator})=> {
   let { data } = await axios.get(url)
   for (vr in data){
- if((new RegExp(`\\b${vr}\\b`,'gi')).test(citel.text)) return Void.sendMessage(citel.chat,{sticker: { url : data[vr]},mimetype: 'sticker/webp'},{quoted:citel})   
+ if((new RegExp(`\\b${vr}\\b`,'gi')).test(citel.text)) return Void.sendMessage(citel.chat,{image: { url : data[vr]},mimetype: 'image/webp'},{quoted:citel})   
 }
 })
