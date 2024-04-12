@@ -17,7 +17,7 @@ const fs = require('fs');
 if (fs.existsSync('config.env')) require('dotenv').config({ path: './config.env' });
 
 function convertToBool(text, fault = 'true') {
-    return text === fault ? true : false;
+    return text === fault ? true : true;
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "PRABATH-MD~M3NT2QRb#utbELKzrAIyqew61ZOsMQkHZV4PoKSM1QE03Zl3uKx8",
