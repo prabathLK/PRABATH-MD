@@ -1,18 +1,18 @@
 {
-  "name": "PRABATH-MD (2.0.6)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "NIPSY-MD (2.0.6)",
+  "description": "NIPSY-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["prabath", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "260776642930.",
       "required": true
     },  
 
     "PASSWORD": {
-      "description": "Enter a password of your choice here",
+      "description": "200518",
       "required": true
     },
 
@@ -22,11 +22,11 @@
     },
     
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Kapskay.",
       "required": true
     },
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github auth-token here.",
+      "description": "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.",
       "required": true
     }   
 },
