@@ -1,6 +1,6 @@
 <br>
 
-## PRABATH-MD 👨‍💻 🇱🇰 - A Javascript WhatsApp User Bot
+## KRISHSHAW80 - A Javascript WhatsApp User Bot
 
 <br>
 
@@ -9,8 +9,8 @@
 <br>
  
   <p align="center">  
-  <a href="https://telegra.ph/file/1743544c222ffd613c219.jpg">
-    <img alt="prabath-md" height="300" src="https://telegra.ph/file/1743544c222ffd613c219.jpg">
+  <a href="[https://telegra.ph/file/1743544c222ffd613c219.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F07%2Fchatgpt-and-whatsapp-logo-on-digital-circuit-background.jpg&tbnid=uTouf5P_Tr1LBM&vet=1&imgrefurl=https%3A%2F%2Fwww.makeuseof.com%2Fintegrate-chatgpt-whatsapp-for-customer-support%2F&docid=tpb_mT5tcU8HLM&w=1680&h=840&itg=1&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=8a2160bf7cc706af&shem=abme%2Ctrie)">
+    <img alt="prabath-md" height="300" src="[https://telegra.ph/file/1743544c222ffd613c219.jpg](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic1.makeuseofimages.com%2Fwordpress%2Fwp-content%2Fuploads%2F2023%2F07%2Fchatgpt-and-whatsapp-logo-on-digital-circuit-background.jpg&tbnid=uTouf5P_Tr1LBM&vet=1&imgrefurl=https%3A%2F%2Fwww.makeuseof.com%2Fintegrate-chatgpt-whatsapp-for-customer-support%2F&docid=tpb_mT5tcU8HLM&w=1680&h=840&itg=1&hl=en-US&source=sh%2Fx%2Fim%2Fm6%2F4&kgs=8a2160bf7cc706af&shem=abme%2Ctrie)">
     
   
   </a>
@@ -79,7 +79,7 @@
 
 <a href="https://www.buymeacoffee.com/PrabathKumara" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
-# PRABATH-MD Bot Commands
+# KRISHSHAW80 Bot Commands
 
 This is a list of commands supported by the Prabath-Md bot. The commands are organized in a table with the following structure:
 
@@ -240,7 +240,7 @@ This is a list of commands supported by the Prabath-Md bot. The commands are org
 
 
 
-## 👑 **`PRABATH-MD BOT OWNERS,`** 👑
+## 👑 **`KRISHSHAW80 BOT OWNERS,`** 👑
 
 
    <a href="https://github.com/prabathLK/"><img src="https://avatars.githubusercontent.com/u/106251140?v=4" width=80 height=80></a>   
