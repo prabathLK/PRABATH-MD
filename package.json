@@ -1,5 +1,5 @@
 {
-"name": "PRABATH-MD",
+"name": "CASTO-MD",
 "version": "2.0.6",
 "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
@@ -75,7 +75,7 @@
 "@sl-code-lords/si-subdl":"1.1.1",
 "@xct007/frieren-scraper":"github:xct007/frieren-scraper",
 "ytdl-secktor":"latest",
-"@sl-code-lords/movie-dl":"1.1.0",
+"@sl-code-lords/movie-dl":"1.1.0,
 "fb-info-video":"1.0.2",
 "bard-ai":"2.0.3",
 "scr-emoji":"0.0.3",
