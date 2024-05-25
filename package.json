@@ -1,6 +1,6 @@
 {
 "name": "PRABATH-MD",
-"version": "2.0.6",
+"version": "2.1.1",
 "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
@@ -9,15 +9,15 @@
 "restart": "pm2 restart prabath-md"
 },
 "dependencies": {
-"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys.git#master", 
-"@sampandey001/baileys": "git+https://github.com/prabathLK/PRABATH-MD-baileys.git", 
+"@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
 "@adiwajshing/keyed-db": "^0.2.4",
 "wa_set_pkg": "1.0.1",
-"heroku-client": "^3.1.0",
+"gemini-ai" : "latest",
 "simple-git":"3.22.0",
 "crypto-digest-sync": "^1.0.0",
 "puppeteer": "^21.5.0",
 "jspdf": "^2.5.1",
+"imgur": "latest",
 "mathjs": "^12.0.0",
 "fraction.js": "^4.3.7",
 "chart.js": "^4.4.0",
@@ -41,9 +41,9 @@
 "ffmpeg": "^0.0.4",
 "fluent-ffmpeg": "^2.1.2",
 "crypto-js":"latest",
-"youtubedl-core": "github:SACHIBOT/sachibot-youtubedl#main",
+"youtubedl-core": "4.11.7",
 "node-fetch": "^2.6.1" ,
-"megajs": "^1.1.0",
+"megajs": "1.1.0",
 "file-type": "^16.5.3",
 "vm": "^0.1.0",
 "qrcode-terminal": "^0.12.0",
@@ -92,9 +92,16 @@
 "@sasmeee/wabetainfo":"1.1.1",
 "nima-wabeta-info":"1.0.5",
 "@vitalets/google-translate-api":"9.2.0",
+"pastebin-js": "latest",
 "is-standard-emoji":"1.0.0",
 "@tobyg74/tiktok-api-dl":"1.0.13",
 "sinhala-cricket-newsjs":"1.0.0",
-"gms-mobile-news":"1.0.0"
+"gms-mobile-news":"1.0.0",
+"@octokit/rest":"20.0.2",
+"mime-types":"2.1.35",
+"@black-king/temp-mail-gen":"1.0.1",
+"turndown":"7.1.3",
+"imaginesdk":"latest",
+"extract-zip":"2.0.1"
 }
 }
