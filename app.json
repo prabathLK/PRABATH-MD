@@ -1,28 +1,28 @@
 {
-  "name": "PRABATH-MD (2.1.1)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "name": "CHATHURA-MD (2.1.1)",
+  "description": "CHATHURA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
   "env": {
     "BOT_NUMBER": {
-      "description": "Put the number here.",
+      "description": "+94 762798008",
       "required": true
     },  
 
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "PRABATH-MD~1JgHxZbQ#Q0G-WdhBWx8FZM0ql4SKrYedpwUPEroIOW_QgXgoe44",
       "required": true
     },  
 
     "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
+      "description": "Chathurasuranjith",
       "required": true
     },
     
     "GITHUB_AUTH_TOKEN": {
-      "description": "Put your github authtoken here.",
+      "description": "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",
       "required": true
     }   
 },
