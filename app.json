@@ -1,7 +1,7 @@
 {
-  "name": "PRABATH-MD (2.1.1)",
+  "name": "Billo-jan",
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
+  "logo": "https://i.imgur.com/U61OUAw.jpeg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
   "success_url": "/",
 
@@ -25,7 +25,7 @@
 
      "buildpacks": [
         {
-            "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
+            "url": "https://i.imgur.com/U61OUAw.jpeg"
         }
      ],
   "stack": "heroku-22"
