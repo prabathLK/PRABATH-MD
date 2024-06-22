@@ -1,8 +1,8 @@
 {
-  "name": "PRABATH-MD (2.1.1)",
-  "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
-  "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
-  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
+  "name": "IMALKA-MD (2.1.1)",
+  "description": "IMALKA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "logo": "https://telegra.ph/file/2dbdf1b949025326c3ffd.jpg",
+  "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "IMALKA-md"],
   "success_url": "/",
 
   "env": {
