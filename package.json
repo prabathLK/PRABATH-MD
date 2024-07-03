@@ -1,7 +1,7 @@
 {
 "name": "PRABATH-MD",
 "version": "2.1.1",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "NADEEN-POORNA has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
 "start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
