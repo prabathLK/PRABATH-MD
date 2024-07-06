@@ -1,0 +1,17 @@
+{
+	"name": "ffmpeg",
+	"description": "Utility for managing video streams using ffmpeg",
+	"version": "0.0.4",
+	"author": {
+		"name": "Damiano Ciarla",
+		"email": "damiano.ciarl@gmail.com"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/damianociarla/node-ffmpeg.git"
+	},
+	"main": "./index.js",
+	"dependencies": {
+		"when" : ">= 0.0.1"
+	}
+}

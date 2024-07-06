@@ -1,0 +1,34 @@
+{
+  "name": "fclone",
+  "version": "1.0.11",
+  "description": "Clone objects by dropping circular references",
+  "main": "dist/fclone",
+  "scripts": {
+    "test": "./node_modules/.bin/_mocha",
+    "build": "./node_modules/.bin/gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soyuka/fclone.git"
+  },
+  "keywords": [
+    "clone",
+    "deep",
+    "circular",
+    "json",
+    "stringify",
+    "fast"
+  ],
+  "author": "soyuka <soyuka@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-preset-es2015": "^6.9.0",
+    "chai": "^3.5.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^6.1.2",
+    "gulp-rename": "^1.2.2",
+    "gulp-uglify": "^1.5.4",
+    "gulp-wrap": "^0.13.0",
+    "mocha": "^2.5.3"
+  }
+}

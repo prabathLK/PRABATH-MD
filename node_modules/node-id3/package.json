@@ -1,0 +1,53 @@
+{
+  "name": "node-id3",
+  "version": "0.2.6",
+  "description": "Pure JavaScript ID3v2 Tag writer and reader",
+  "author": "Jan Metzger <jan.metzger@gmx.net>",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zazama/node-id3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Zazama/node-id3/issues"
+  },
+  "keywords": [
+    "ID3",
+    "ID3v2",
+    "metadata",
+    "tags",
+    "mp3",
+    "audio",
+    "music"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Zazama/node-id3/raw/master/LICENSE"
+    }
+  ],
+  "homepage": "https://github.com/Zazama/node-id3#readme",
+  "directories": {
+    "test": "test",
+    "example": "example"
+  },
+  "scripts": {
+    "test": "mocha",
+    "markdownlint": "markdownlint --fix README.md CHANGELOG.md",
+    "eslint": "eslint **/*.js",
+    "eslint-fix": "eslint --fix **/*.js"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "iconv-lite": "0.6.2"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "eslint": "^8.28.0",
+    "eslint-plugin-mocha": "^10.1.0",
+    "jsmediatags": "^3.9.3",
+    "markdownlint-cli": "^0.32.2",
+    "mocha": "8.1.3"
+  }
+}

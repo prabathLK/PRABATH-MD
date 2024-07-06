@@ -1,0 +1,12 @@
+{
+  "name": "is-url",
+  "repository": "https://github.com/segmentio/is-url",
+  "version": "1.2.2",
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "*"
+  }
+}

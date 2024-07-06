@@ -1,0 +1,39 @@
+{
+  "name": "redstar",
+  "version": "0.0.2",
+  "description": "quick and dirty file globber ( quicker but dirtier than 'glob' )",
+  "main": "redstar.js",
+  "files": [
+    "redstar.js"
+  ],
+  "scripts": {
+    "lint": "spacestandard --fix **/*.js",
+    "test": "cd test && node test.js | faucet"
+  },
+  "keywords": [
+    "redstar",
+    "glob",
+    "globstar",
+    "filestar",
+    "file"
+  ],
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/redstar"
+  },
+  "bugs": {
+    "url": "https://github.com/talmobi/redstar/issues",
+    "email": "talmo.christian@gmail.com"
+  },
+  "dependencies": {
+    "minimatch": "~3.0.4"
+  },
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "spacestandard": "0.0.6",
+    "tape": "~4.8.0"
+  }
+}

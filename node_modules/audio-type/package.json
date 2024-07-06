@@ -1,0 +1,41 @@
+{
+  "name": "audio-type",
+  "version": "2.2.1",
+  "description": "Detect the audio type of a Buffer/Uint8Array",
+  "license": "MIT",
+  "repository": "audiojs/audio-type",
+  "type": "module",
+  "main": "audio-type.js",
+  "author": {
+    "name": "Hemanth.HM",
+    "email": "hemanth.hm@gmail.com",
+    "url": "http://h3manth.com"
+  },
+  "engines": {
+    "node": ">=14"
+  },
+  "scripts": {
+    "test": "node test"
+  },
+  "files": [
+    "audio-type.js"
+  ],
+  "keywords": [
+    "audiojs",
+    "audio",
+    "sound",
+    "wav",
+    "mp3",
+    "flac",
+    "type",
+    "detect",
+    "check",
+    "is",
+    "binary",
+    "uint8array"
+  ],
+  "devDependencies": {
+    "read-chunk": "^2.0.0",
+    "tape": "^4.6.3"
+  }
+}

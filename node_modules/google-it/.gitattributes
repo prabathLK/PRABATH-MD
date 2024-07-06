@@ -1,0 +1,14 @@
+__tests__/data/* -linguist-detectable
+*.html linguist-detectable=false
+__tests__/data/*.html -linguist-detectable
+__tests__/data/*.html linguist-detectable=false
+__tests__/data/* linguist-vendored
+__tests__/data/* linguist-generated
+__tests__/data/*.html linguist-generated
+__tests__/data/* linguist-generated
+
+__tests__/data/* -linguist-detectable
+__tests__/data/* linguist-detectable=false
+
+coverage/* -linguist-detectable
+coverage/* linguist-detectable=false

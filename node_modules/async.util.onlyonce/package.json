@@ -1,0 +1,17 @@
+{
+  "name": "async.util.onlyonce",
+  "description": "async onlyoncehelper method as module.",
+  "main": "./index.js",
+  "repository": "async-js/async.util",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "version": "0.5.2",
+  "license": "MIT",
+  "keywords": [
+    "async.util",
+    "onlyonce"
+  ]
+}
