@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AC27A9AAD7B16C56E96"
+    },
+    "messageTimestamp": 1720063087,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "eka mta promise wenn",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720022210",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AC27A9AAD7B16C56E96",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "eka mta promise wenn",
+    "mentionUser": [],
+    "body": "eka mta promise wenn",
+    "quoted": null
+  }
+]

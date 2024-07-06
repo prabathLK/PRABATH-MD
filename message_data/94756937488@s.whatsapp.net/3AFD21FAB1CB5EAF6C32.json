@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AFD21FAB1CB5EAF6C32"
+    },
+    "messageTimestamp": 1720114540,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ura 😒",
+        "contextInfo": {
+          "stanzaId": "EC6BA4C5D5FD0163053A24E8B9B370A2",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Horen nidagaththoth ht udeta bada ynw 👍"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AFD21FAB1CB5EAF6C32",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ura 😒",
+      "contextInfo": {
+        "stanzaId": "EC6BA4C5D5FD0163053A24E8B9B370A2",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Horen nidagaththoth ht udeta bada ynw 👍"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ura 😒",
+    "quoted": {
+      "conversation": "Horen nidagaththoth ht udeta bada ynw 👍"
+    }
+  }
+]

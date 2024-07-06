@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A94208A01E732A8042B"
+    },
+    "messageTimestamp": 1720090023,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "anee mn bus eke",
+        "contextInfo": {
+          "stanzaId": "AE4CA4BBDD5151E9200872B5DE2BA06B",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Photo ek ko 😒"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720085169",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A94208A01E732A8042B",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "anee mn bus eke",
+      "contextInfo": {
+        "stanzaId": "AE4CA4BBDD5151E9200872B5DE2BA06B",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Photo ek ko 😒"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "anee mn bus eke",
+    "quoted": {
+      "conversation": "Photo ek ko 😒"
+    }
+  }
+]

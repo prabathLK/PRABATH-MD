@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A3DD31973A24ACFF1B8"
+    },
+    "messageTimestamp": 1720061856,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "oy hodta inn oni",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720022210",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A3DD31973A24ACFF1B8",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "oy hodta inn oni",
+    "mentionUser": [],
+    "body": "oy hodta inn oni",
+    "quoted": null
+  }
+]

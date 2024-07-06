@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AC848D0452E64C9C632"
+    },
+    "messageTimestamp": 1720112096,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ew ba",
+        "contextInfo": {
+          "stanzaId": "36A43CF7956BD0AB7A98FECF8975F4A9",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "මං හරි ආසයි කෝට් දාන්න 🌚"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AC848D0452E64C9C632",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ew ba",
+      "contextInfo": {
+        "stanzaId": "36A43CF7956BD0AB7A98FECF8975F4A9",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "මං හරි ආසයි කෝට් දාන්න 🌚"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ew ba",
+    "quoted": {
+      "conversation": "මං හරි ආසයි කෝට් දාන්න 🌚"
+    }
+  }
+]

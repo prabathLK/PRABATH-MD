@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "1ABB14DE3CB5FF8A6588DBB8FA7378E9",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091241,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Kaudha bn me  madhen payin ne 🤣🤬",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3ADC6DED1AAD3F13053D",
+          "participant": "94775996551@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ewwww"
+          },
+          "mentionedJid": [
+            "94775996551@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "1ABB14DE3CB5FF8A6588DBB8FA7378E9",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Kaudha bn me  madhen payin ne 🤣🤬",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3ADC6DED1AAD3F13053D",
+        "participant": "94775996551@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ewwww"
+        },
+        "mentionedJid": [
+          "94775996551@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94775996551@s.whatsapp.net"
+    ],
+    "body": "Kaudha bn me  madhen payin ne 🤣🤬",
+    "quoted": {
+      "conversation": "Ewwww"
+    }
+  }
+]

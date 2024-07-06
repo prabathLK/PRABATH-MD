@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A3221D77E9EBC429994"
+    },
+    "messageTimestamp": 1720107258,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "mn lga nath ekk",
+        "contextInfo": {
+          "stanzaId": "705F2269599367415E635C9C4CFCF7D8",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Hamathanama mage photo dnwa 😂 innwako"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720107162",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A3221D77E9EBC429994",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "mn lga nath ekk",
+      "contextInfo": {
+        "stanzaId": "705F2269599367415E635C9C4CFCF7D8",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Hamathanama mage photo dnwa 😂 innwako"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "mn lga nath ekk",
+    "quoted": {
+      "conversation": "Hamathanama mage photo dnwa 😂 innwako"
+    }
+  }
+]

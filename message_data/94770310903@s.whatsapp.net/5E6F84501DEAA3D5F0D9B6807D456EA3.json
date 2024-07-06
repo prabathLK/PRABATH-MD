@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94770310903@s.whatsapp.net",
+      "fromMe": false,
+      "id": "5E6F84501DEAA3D5F0D9B6807D456EA3"
+    },
+    "messageTimestamp": 1720094973,
+    "pushName": "චඳූ 🌼",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Mn kiuwenm love krnn kyl nemei tika klyk oma htpm kyl🤭",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "E2C4DC5473D0B6AC73B102FBEABAF87A",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Hamadama lv krnna kya kya bannane"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "5E6F84501DEAA3D5F0D9B6807D456EA3",
+    "chat": "94770310903@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94770310903@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Mn kiuwenm love krnn kyl nemei tika klyk oma htpm kyl🤭",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "E2C4DC5473D0B6AC73B102FBEABAF87A",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Hamadama lv krnna kya kya bannane"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Mn kiuwenm love krnn kyl nemei tika klyk oma htpm kyl🤭",
+    "quoted": {
+      "conversation": "Hamadama lv krnna kya kya bannane"
+    }
+  }
+]

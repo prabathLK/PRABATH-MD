@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "229402ACFC958A61167EB50199A0A350",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162567,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/29109065_7577354965708444_2198462722371817554_n.enc?ccb=11-4&oh=01_Q5AaIIrBPeiTWWTdGvGtkNy6n0LY2b9IcZ5ENhVQLzEd0xgI&oe=66AF1250&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "tn5RjDDMikjNlJOKE46CkTne7IS6nLoxAPqvR8xesso=",
+        "fileEncSha256": "5mGY93BJo+fKXclv+Z3hB/L4dG039n7V975joeiFXrI=",
+        "mediaKey": "fqCpZ6dBpcSB5qTHYE/FmS+mVz3kMnvLPc0HSJuqgWg=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/29109065_7577354965708444_2198462722371817554_n.enc?ccb=11-4&oh=01_Q5AaIIrBPeiTWWTdGvGtkNy6n0LY2b9IcZ5ENhVQLzEd0xgI&oe=66AF1250&_nc_sid=5e03e0",
+        "fileLength": "106388",
+        "mediaKeyTimestamp": "1720162556",
+        "isAnimated": false,
+        "stickerSentTs": "1720162556123",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "229402ACFC958A61167EB50199A0A350",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/29109065_7577354965708444_2198462722371817554_n.enc?ccb=11-4&oh=01_Q5AaIIrBPeiTWWTdGvGtkNy6n0LY2b9IcZ5ENhVQLzEd0xgI&oe=66AF1250&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "tn5RjDDMikjNlJOKE46CkTne7IS6nLoxAPqvR8xesso=",
+      "fileEncSha256": "5mGY93BJo+fKXclv+Z3hB/L4dG039n7V975joeiFXrI=",
+      "mediaKey": "fqCpZ6dBpcSB5qTHYE/FmS+mVz3kMnvLPc0HSJuqgWg=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/29109065_7577354965708444_2198462722371817554_n.enc?ccb=11-4&oh=01_Q5AaIIrBPeiTWWTdGvGtkNy6n0LY2b9IcZ5ENhVQLzEd0xgI&oe=66AF1250&_nc_sid=5e03e0",
+      "fileLength": "106388",
+      "mediaKeyTimestamp": "1720162556",
+      "isAnimated": false,
+      "stickerSentTs": "1720162556123",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

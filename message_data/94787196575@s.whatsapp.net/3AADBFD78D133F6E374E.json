@@ -1,0 +1,77 @@
+[
+  {
+    "key": {
+      "remoteJid": "94787196575@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AADBFD78D133F6E374E"
+    },
+    "messageTimestamp": 1720186990,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-d8659a5b-e226-484b-a8a3-d3fd3945cb81?ccb=9-4&oh=01_Q5AaIETIdOg8BRm3VCmPgMwUHxdBarVyq3GQh7BxQYQTVOQv&oe=66AF602D&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "fileSha256": "J+amHPchujf0zq3QpveCKlOL7s1qOlCYY35h44WRPNQ=",
+        "fileLength": "81494",
+        "height": 1280,
+        "width": 592,
+        "mediaKey": "V3y2uNVMUdW7J5ft1C1DnDlZ+/s4BsEP4BbySCzIL9U=",
+        "fileEncSha256": "Mz3VzBIT7LcCqieBo02dincjGisK6ynQtS1MODL+o/k=",
+        "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-d8659a5b-e226-484b-a8a3-d3fd3945cb81?ccb=9-4&oh=01_Q5AaIETIdOg8BRm3VCmPgMwUHxdBarVyq3GQh7BxQYQTVOQv&oe=66AF602D&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720186987",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACEDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAADxa83YmenlEjnGlr8rLzpNMAFjszbwkYAXs6ICHgmIOnQBgBAH/8QAFBEBAAAAAAAAAAAAAAAAAAAAMP/aAAgBAgEBPwB//8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEREgIQIjD/2gAIAQMBAT8AycFiBpM53Xw//8QAKBABAAIBAwMDAwUAAAAAAAAAAQACEQMSIRAxUQQTIhQyYiNBYZGh/9oACAEBAAE/AK1H45GV0THNibSrLJtTBMnmaD+qRKh3WfH+ZqFdi856aWmiWyRvfyR1LD3Jf1CjVDoatwwM96/me3uObd5bRAeetRs4O8oajgsYCW+1m08R2VcNSDQeKz3Dw/3C48Y/2ZJwmdhMfiTH4keD7SZnrNT0+pY+n02oHMK57VYmO9Wbq5y1cY6NaFTauf3laWTJLUsGWFK4czZXxP/+AAMA/9k=",
+        "firstScanSidecar": "PiecjQoyLsQ3lg==",
+        "firstScanLength": 6191,
+        "scansSidecar": "PiecjQoyLsQ3lsgtmOu0wvnOHb25+70dOBNEA6Pff4UBZ0qHy+iO5g==",
+        "scanLengths": [
+          6191,
+          29671,
+          17686,
+          27944
+        ],
+        "midQualityFileSha256": "stiyotiucXvuLUB9S4nnS1oPa8HNp3MxsHCz5XxAR6A="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720186712",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AADBFD78D133F6E374E",
+    "chat": "94787196575@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-d8659a5b-e226-484b-a8a3-d3fd3945cb81?ccb=9-4&oh=01_Q5AaIETIdOg8BRm3VCmPgMwUHxdBarVyq3GQh7BxQYQTVOQv&oe=66AF602D&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "J+amHPchujf0zq3QpveCKlOL7s1qOlCYY35h44WRPNQ=",
+      "fileLength": "81494",
+      "height": 1280,
+      "width": 592,
+      "mediaKey": "V3y2uNVMUdW7J5ft1C1DnDlZ+/s4BsEP4BbySCzIL9U=",
+      "fileEncSha256": "Mz3VzBIT7LcCqieBo02dincjGisK6ynQtS1MODL+o/k=",
+      "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-d8659a5b-e226-484b-a8a3-d3fd3945cb81?ccb=9-4&oh=01_Q5AaIETIdOg8BRm3VCmPgMwUHxdBarVyq3GQh7BxQYQTVOQv&oe=66AF602D&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720186987",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACEDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAEDAgQF/8QAFgEBAQEAAAAAAAAAAAAAAAAAAAID/9oADAMBAAIQAxAAAADxa83YmenlEjnGlr8rLzpNMAFjszbwkYAXs6ICHgmIOnQBgBAH/8QAFBEBAAAAAAAAAAAAAAAAAAAAMP/aAAgBAgEBPwB//8QAGxEAAgIDAQAAAAAAAAAAAAAAAAEREgIQIjD/2gAIAQMBAT8AycFiBpM53Xw//8QAKBABAAIBAwMDAwUAAAAAAAAAAQACEQMSIRAxUQQTIhQyYiNBYZGh/9oACAEBAAE/AK1H45GV0THNibSrLJtTBMnmaD+qRKh3WfH+ZqFdi856aWmiWyRvfyR1LD3Jf1CjVDoatwwM96/me3uObd5bRAeetRs4O8oajgsYCW+1m08R2VcNSDQeKz3Dw/3C48Y/2ZJwmdhMfiTH4keD7SZnrNT0+pY+n02oHMK57VYmO9Wbq5y1cY6NaFTauf3laWTJLUsGWFK4czZXxP/+AAMA/9k=",
+      "firstScanSidecar": "PiecjQoyLsQ3lg==",
+      "firstScanLength": 6191,
+      "scansSidecar": "PiecjQoyLsQ3lsgtmOu0wvnOHb25+70dOBNEA6Pff4UBZ0qHy+iO5g==",
+      "scanLengths": [
+        6191,
+        29671,
+        17686,
+        27944
+      ],
+      "midQualityFileSha256": "stiyotiucXvuLUB9S4nnS1oPa8HNp3MxsHCz5XxAR6A="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

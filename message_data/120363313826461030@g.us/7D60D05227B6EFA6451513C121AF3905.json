@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "7D60D05227B6EFA6451513C121AF3905",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090132,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "Thota arinawa piliyan dhala bodare dhala"
+    },
+    "id": "7D60D05227B6EFA6451513C121AF3905",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Thota arinawa piliyan dhala bodare dhala",
+    "mentionUser": [],
+    "body": "Thota arinawa piliyan dhala bodare dhala",
+    "quoted": null
+  }
+]

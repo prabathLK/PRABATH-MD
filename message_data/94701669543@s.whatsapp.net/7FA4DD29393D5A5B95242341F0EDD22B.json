@@ -1,0 +1,74 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701669543@s.whatsapp.net",
+      "fromMe": false,
+      "id": "7FA4DD29393D5A5B95242341F0EDD22B"
+    },
+    "messageTimestamp": 1720087988,
+    "pushName": "DHANUKA",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": ".gdrive https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk",
+        "matchedText": "https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk",
+        "canonicalUrl": "https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk&usp=embed_facebook",
+        "title": "Kill Craft (2024) 720P.mp4",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "1716812943",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "UNKNOWN",
+            "initiatedByMe": false
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "QdmZY09IuNo+WQ==",
+          "senderTimestamp": "1719981536",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2,
+        "messageSecret": "MP/zHA3R8iJObWMiiMSQVVrs/hSvGW3w6b6hc4b0u2Y="
+      }
+    },
+    "verifiedBizName": "DHANUKA",
+    "id": "7FA4DD29393D5A5B95242341F0EDD22B",
+    "chat": "94701669543@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701669543@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": ".gdrive https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk",
+      "matchedText": "https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk",
+      "canonicalUrl": "https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk&usp=embed_facebook",
+      "title": "Kill Craft (2024) 720P.mp4",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1716812943",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": ".gdrive https://drive.google.com/file/d/1qMb3zlrLM7EaOp0uZuvMZXFK_OkgKP9e/view?usp=drivesdk",
+    "quoted": null
+  }
+]

@@ -1,0 +1,68 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "7EEB72BFB08321D0514CFB1C83921C53",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720156958,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-699d41d1-3ff8-4702-bbf6-cc71c367347c?ccb=9-4&oh=01_Q5AaIErduGCLtGcPZH9LOyiKebAuxuIEdR4hKMHt9hs9AmSM&oe=66AF0F16&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Meken ned report ghnne 🥹",
+        "fileSha256": "Ts5Clm0rTzYkKmXtpKN2fPFhIpSZSC/dMxcbPf9XJ0E=",
+        "fileLength": "31465",
+        "height": 1280,
+        "width": 606,
+        "mediaKey": "M26wNPqpZRw3eURR6YpyWxXpsn+fTcP8bd45ymIqIwQ=",
+        "fileEncSha256": "h4t5zX+ELBIQtWGN/R1KlLOK3EYKUqLmIpN4Erx1C3Y=",
+        "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-699d41d1-3ff8-4702-bbf6-cc71c367347c?ccb=9-4&oh=01_Q5AaIErduGCLtGcPZH9LOyiKebAuxuIEdR4hKMHt9hs9AmSM&oe=66AF0F16&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720156947",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIgMBIgACEQEDEQH/xAAtAAEAAwEBAAAAAAAAAAAAAAAAAgMEAQUBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9udueW+FN6TFMurFNR34Ny9FwpuLTcAIc6AAQmCISB//xAAjEAEAAQMEAQUBAAAAAAAAAAABAgADEQQQEiEgExQwMUFS/9oACAEBAAE/ALnMFhHuiU8GY0UqqY31F70IcsZatakmkJdTTOKDtd9TC3Pjzasaa1G83c5knhc1NrLFaNTZj9NR7DdsWlywK9vZ/g+URcZ78SESTL9dvyuBt//EABYRAAMAAAAAAAAAAAAAAAAAAAEgMP/aAAgBAgEBPwBBP//EABwRAQEAAgMBAQAAAAAAAAAAAAECABARITEgIv/aAAgBAwEBPwA76yuRDjUzVP5Fy5s7qU0KeKY0vqvyAb//2Q==",
+        "scansSidecar": "ylhPUhplkTpewmTtzT5JDMV1qclJt/Xo18pCv1em5ILQf8tyaQmqtQ==",
+        "scanLengths": [
+          4085,
+          16395,
+          4795,
+          6190
+        ],
+        "midQualityFileSha256": "U69dqtgJABN/zVGcHCR+OpeGSCkKKwQezDZEDaylEr4="
+      }
+    },
+    "id": "7EEB72BFB08321D0514CFB1C83921C53",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-699d41d1-3ff8-4702-bbf6-cc71c367347c?ccb=9-4&oh=01_Q5AaIErduGCLtGcPZH9LOyiKebAuxuIEdR4hKMHt9hs9AmSM&oe=66AF0F16&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Meken ned report ghnne 🥹",
+      "fileSha256": "Ts5Clm0rTzYkKmXtpKN2fPFhIpSZSC/dMxcbPf9XJ0E=",
+      "fileLength": "31465",
+      "height": 1280,
+      "width": 606,
+      "mediaKey": "M26wNPqpZRw3eURR6YpyWxXpsn+fTcP8bd45ymIqIwQ=",
+      "fileEncSha256": "h4t5zX+ELBIQtWGN/R1KlLOK3EYKUqLmIpN4Erx1C3Y=",
+      "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-699d41d1-3ff8-4702-bbf6-cc71c367347c?ccb=9-4&oh=01_Q5AaIErduGCLtGcPZH9LOyiKebAuxuIEdR4hKMHt9hs9AmSM&oe=66AF0F16&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720156947",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIgMBIgACEQEDEQH/xAAtAAEAAwEBAAAAAAAAAAAAAAAAAgMEAQUBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA9udueW+FN6TFMurFNR34Ny9FwpuLTcAIc6AAQmCISB//xAAjEAEAAQMEAQUBAAAAAAAAAAABAgADEQQQEiEgExQwMUFS/9oACAEBAAE/ALnMFhHuiU8GY0UqqY31F70IcsZatakmkJdTTOKDtd9TC3Pjzasaa1G83c5knhc1NrLFaNTZj9NR7DdsWlywK9vZ/g+URcZ78SESTL9dvyuBt//EABYRAAMAAAAAAAAAAAAAAAAAAAEgMP/aAAgBAgEBPwBBP//EABwRAQEAAgMBAQAAAAAAAAAAAAECABARITEgIv/aAAgBAwEBPwA76yuRDjUzVP5Fy5s7qU0KeKY0vqvyAb//2Q==",
+      "scansSidecar": "ylhPUhplkTpewmTtzT5JDMV1qclJt/Xo18pCv1em5ILQf8tyaQmqtQ==",
+      "scanLengths": [
+        4085,
+        16395,
+        4795,
+        6190
+      ],
+      "midQualityFileSha256": "U69dqtgJABN/zVGcHCR+OpeGSCkKKwQezDZEDaylEr4="
+    },
+    "mentionUser": [],
+    "body": "Meken ned report ghnne 🥹",
+    "quoted": null
+  }
+]

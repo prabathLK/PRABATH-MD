@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF6C22A718A7CE9AFE6"
+    },
+    "messageTimestamp": 1720105857,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "editedMessage": {
+        "message": {
+          "protocolMessage": {
+            "key": {
+              "remoteJid": "94787177718@s.whatsapp.net",
+              "fromMe": true,
+              "id": "3A2C6D2CD0889872BD96"
+            },
+            "type": "MESSAGE_EDIT",
+            "editedMessage": {
+              "conversation": "Athl  ekt dmme"
+            },
+            "timestampMs": "1720105857007"
+          }
+        }
+      }
+    },
+    "id": "3AF6C22A718A7CE9AFE6",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "editedMessage",
+    "msg": {
+      "message": {
+        "protocolMessage": {
+          "key": {
+            "remoteJid": "94787177718@s.whatsapp.net",
+            "fromMe": true,
+            "id": "3A2C6D2CD0889872BD96"
+          },
+          "type": "MESSAGE_EDIT",
+          "editedMessage": {
+            "conversation": "Athl  ekt dmme"
+          },
+          "timestampMs": "1720105857007"
+        }
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

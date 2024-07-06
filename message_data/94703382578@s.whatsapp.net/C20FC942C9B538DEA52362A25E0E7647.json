@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "C20FC942C9B538DEA52362A25E0E7647"
+    },
+    "messageTimestamp": 1720102858,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "අපි දෙන්නා ජුන්ඩෝ ගාවන්නද පගෝ😒",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "C20FC942C9B538DEA52362A25E0E7647",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "අපි දෙන්නා ජුන්ඩෝ ගාවන්නද පගෝ😒",
+    "mentionUser": [],
+    "body": "අපි දෙන්නා ජුන්ඩෝ ගාවන්නද පගෝ😒",
+    "quoted": null
+  }
+]

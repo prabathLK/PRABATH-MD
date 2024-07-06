@@ -1,0 +1,93 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AD600A1BFE6D9E76A49",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158761,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Achchit htto 😂😂",
+        "contextInfo": {
+          "stanzaId": "87B4D6DC50667D47CFF2397778CCD4EF",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "audioMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "audio/ogg; codecs=opus",
+              "fileSha256": "g5Cw84huB07qDTLedaQXBuG9q0ahMoFOmKJEh4tn5mA=",
+              "fileLength": "23090",
+              "seconds": 10,
+              "ptt": true,
+              "mediaKey": "bMavrmglZ/9sk+zHHs/MzQIA1ksOTKw1O+IsFFq2VvY=",
+              "fileEncSha256": "KDFKJb9rutvZ/fTAqt8PPWjQl3nDMjmPua4guSqvDAo=",
+              "directPath": "/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720158680",
+              "streamingSidecar": "",
+              "waveform": "AFRbRUhMT1EpTjVDTkVHBBRMOzRGSk5ESU5BSkAkRU0/AAwAS05dPxUAAAAAAAApYz8KIEBHRT5CRkhIR0UqAA=="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3AD600A1BFE6D9E76A49",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Achchit htto 😂😂",
+      "contextInfo": {
+        "stanzaId": "87B4D6DC50667D47CFF2397778CCD4EF",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "audioMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "audio/ogg; codecs=opus",
+            "fileSha256": "g5Cw84huB07qDTLedaQXBuG9q0ahMoFOmKJEh4tn5mA=",
+            "fileLength": "23090",
+            "seconds": 10,
+            "ptt": true,
+            "mediaKey": "bMavrmglZ/9sk+zHHs/MzQIA1ksOTKw1O+IsFFq2VvY=",
+            "fileEncSha256": "KDFKJb9rutvZ/fTAqt8PPWjQl3nDMjmPua4guSqvDAo=",
+            "directPath": "/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720158680",
+            "streamingSidecar": "",
+            "waveform": "AFRbRUhMT1EpTjVDTkVHBBRMOzRGSk5ESU5BSkAkRU0/AAwAS05dPxUAAAAAAAApYz8KIEBHRT5CRkhIR0UqAA=="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Achchit htto 😂😂",
+    "quoted": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "g5Cw84huB07qDTLedaQXBuG9q0ahMoFOmKJEh4tn5mA=",
+        "fileLength": "23090",
+        "seconds": 10,
+        "ptt": true,
+        "mediaKey": "bMavrmglZ/9sk+zHHs/MzQIA1ksOTKw1O+IsFFq2VvY=",
+        "fileEncSha256": "KDFKJb9rutvZ/fTAqt8PPWjQl3nDMjmPua4guSqvDAo=",
+        "directPath": "/v/t62.7117-24/30623504_1215465982780795_5653320738509617330_n.enc?ccb=11-4&oh=01_Q5AaIBB51yWVRmOwHmqhY9hc9yDQsOTuuvZ7R1hqdv806AfF&oe=66AF159F&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720158680",
+        "streamingSidecar": "",
+        "waveform": "AFRbRUhMT1EpTjVDTkVHBBRMOzRGSk5ESU5BSkAkRU0/AAwAS05dPxUAAAAAAAApYz8KIEBHRT5CRkhIR0UqAA=="
+      }
+    }
+  }
+]

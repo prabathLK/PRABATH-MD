@@ -1,0 +1,93 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A8CDC58BFA8AFEE9223",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158787,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Hmmt 😂😂",
+        "contextInfo": {
+          "stanzaId": "709641F988C2B39001D62CF47D1F465B",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "audioMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "audio/ogg; codecs=opus",
+              "fileSha256": "QkRrgm8GEjOeIFwUttQS3k67Bl4/8LIgD05pwa2ESlA=",
+              "fileLength": "8366",
+              "seconds": 3,
+              "ptt": true,
+              "mediaKey": "14zHg97tfF/t5pe/id/lzicvPtMHwtu3p8kUyUpDCnk=",
+              "fileEncSha256": "A8Axpb3hR2diZufeIrFBilp45FzNonWlqIOHzXMIsXE=",
+              "directPath": "/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720158717",
+              "streamingSidecar": "",
+              "waveform": "AAAAFUpdYlxWVl5PR1dOSEo9UERJVlBNP0ZMVVM9LSk3O0NHRkJERUJNPzsQAAAAABArMENFT09VW05PU047Kw=="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3A8CDC58BFA8AFEE9223",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Hmmt 😂😂",
+      "contextInfo": {
+        "stanzaId": "709641F988C2B39001D62CF47D1F465B",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "audioMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "audio/ogg; codecs=opus",
+            "fileSha256": "QkRrgm8GEjOeIFwUttQS3k67Bl4/8LIgD05pwa2ESlA=",
+            "fileLength": "8366",
+            "seconds": 3,
+            "ptt": true,
+            "mediaKey": "14zHg97tfF/t5pe/id/lzicvPtMHwtu3p8kUyUpDCnk=",
+            "fileEncSha256": "A8Axpb3hR2diZufeIrFBilp45FzNonWlqIOHzXMIsXE=",
+            "directPath": "/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720158717",
+            "streamingSidecar": "",
+            "waveform": "AAAAFUpdYlxWVl5PR1dOSEo9UERJVlBNP0ZMVVM9LSk3O0NHRkJERUJNPzsQAAAAABArMENFT09VW05PU047Kw=="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Hmmt 😂😂",
+    "quoted": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "QkRrgm8GEjOeIFwUttQS3k67Bl4/8LIgD05pwa2ESlA=",
+        "fileLength": "8366",
+        "seconds": 3,
+        "ptt": true,
+        "mediaKey": "14zHg97tfF/t5pe/id/lzicvPtMHwtu3p8kUyUpDCnk=",
+        "fileEncSha256": "A8Axpb3hR2diZufeIrFBilp45FzNonWlqIOHzXMIsXE=",
+        "directPath": "/v/t62.7117-24/31797961_482160527547416_5840939279869580650_n.enc?ccb=11-4&oh=01_Q5AaIHlJ_UUOc-CS2DgvaVJFyP4k-GMkiUgdUTzTMeWrzC_D&oe=66AEFDDF&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720158717",
+        "streamingSidecar": "",
+        "waveform": "AAAAFUpdYlxWVl5PR1dOSEo9UERJVlBNP0ZMVVM9LSk3O0NHRkJERUJNPzsQAAAAABArMENFT09VW05PU047Kw=="
+      }
+    }
+  }
+]

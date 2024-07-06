@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A772B65927CE846BAE2"
+    },
+    "messageTimestamp": 1720068132,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ko ammi",
+        "contextInfo": {
+          "stanzaId": "4894D2C88B048BEF974F225E23B6196C",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Okkotama klin oy kmaththa denna epai"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720064537",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A772B65927CE846BAE2",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ko ammi",
+      "contextInfo": {
+        "stanzaId": "4894D2C88B048BEF974F225E23B6196C",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Okkotama klin oy kmaththa denna epai"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ko ammi",
+    "quoted": {
+      "conversation": "Okkotama klin oy kmaththa denna epai"
+    }
+  }
+]

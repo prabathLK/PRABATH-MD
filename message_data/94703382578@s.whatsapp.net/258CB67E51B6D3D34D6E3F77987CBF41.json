@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "258CB67E51B6D3D34D6E3F77987CBF41"
+    },
+    "messageTimestamp": 1720102604,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "එහෙම කියන්ඩ එපා යාලුවේ",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "258CB67E51B6D3D34D6E3F77987CBF41",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "එහෙම කියන්ඩ එපා යාලුවේ",
+    "mentionUser": [],
+    "body": "එහෙම කියන්ඩ එපා යාලුවේ",
+    "quoted": null
+  }
+]

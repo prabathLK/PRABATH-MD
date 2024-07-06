@@ -1,0 +1,57 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "C18CC82D4FCDABB1C101AAAEC84E29EC"
+    },
+    "messageTimestamp": 1720158097,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/30949815_3627271357511627_6374116989254496731_n.enc?ccb=11-4&oh=01_Q5AaIF0lT4C9T1vr9I3kushdsa67qaxGCn-7j2wpefbM_4_e&oe=66AF1317&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "e/CGkJEtrwEc4MMln0kB+FjT02BhFRRxXEIwolQJwBQ=",
+        "fileLength": "72167",
+        "seconds": 36,
+        "ptt": true,
+        "mediaKey": "IrfD0qfUwRf9k2ea4zEBTZNYmEuq5ZSkCiT2/IF5T3w=",
+        "fileEncSha256": "UwYGYECdWHS3iBKdTdY+BQRJOr0yWjfqWenN2qicRMA=",
+        "directPath": "/v/t62.7117-24/30949815_3627271357511627_6374116989254496731_n.enc?ccb=11-4&oh=01_Q5AaIF0lT4C9T1vr9I3kushdsa67qaxGCn-7j2wpefbM_4_e&oe=66AF1317&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720158061",
+        "waveform": "AAAuJCYAAFJAKCoALSw3HAAhNC0bAABEMjgAQBYAHAAAAAAtJgAANjAjIwAAAAwyNiwpJAAAADoNPiAANzYyAA=="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "C18CC82D4FCDABB1C101AAAEC84E29EC",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/30949815_3627271357511627_6374116989254496731_n.enc?ccb=11-4&oh=01_Q5AaIF0lT4C9T1vr9I3kushdsa67qaxGCn-7j2wpefbM_4_e&oe=66AF1317&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "e/CGkJEtrwEc4MMln0kB+FjT02BhFRRxXEIwolQJwBQ=",
+      "fileLength": "72167",
+      "seconds": 36,
+      "ptt": true,
+      "mediaKey": "IrfD0qfUwRf9k2ea4zEBTZNYmEuq5ZSkCiT2/IF5T3w=",
+      "fileEncSha256": "UwYGYECdWHS3iBKdTdY+BQRJOr0yWjfqWenN2qicRMA=",
+      "directPath": "/v/t62.7117-24/30949815_3627271357511627_6374116989254496731_n.enc?ccb=11-4&oh=01_Q5AaIF0lT4C9T1vr9I3kushdsa67qaxGCn-7j2wpefbM_4_e&oe=66AF1317&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720158061",
+      "waveform": "AAAuJCYAAFJAKCoALSw3HAAhNC0bAABEMjgAQBYAHAAAAAAtJgAANjAjIwAAAAwyNiwpJAAAADoNPiAANzYyAA=="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

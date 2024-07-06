@@ -1,0 +1,78 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A50506E7B818DEC6B65",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077212,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-f82ffc7b-b91c-48af-ba78-e9ff6bdd4cd3?ccb=9-4&oh=01_Q5AaIEAci1OxSxDLoi0Hy-pn7GUNQkX5l33NhSoNQ8wX9w9y&oe=66ADA1F4&_nc_sid=000000&mms3=true",
+        "fileSha256": "CZBZ9Ko6VcQ4HdvrEi7GR+5uvvXXjM+VTDKsiIv348Y=",
+        "fileEncSha256": "Fga4wp5sOK/Wn66pWFy/gGIhEYSLlw9OXxtlhO7GmYs=",
+        "mediaKey": "i037phjFHYi2sbAx1VHbqJPBEPlS9i1VncjDo9P57OM=",
+        "mimetype": "image/webp",
+        "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-f82ffc7b-b91c-48af-ba78-e9ff6bdd4cd3?ccb=9-4&oh=01_Q5AaIEAci1OxSxDLoi0Hy-pn7GUNQkX5l33NhSoNQ8wX9w9y&oe=66ADA1F4&_nc_sid=000000",
+        "fileLength": "31230",
+        "mediaKeyTimestamp": "1720043466",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "DE8B80874F20084D66564E8FC579AFCD",
+          "participant": "94769643954@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+          },
+          "mentionedJid": [
+            "94769643954@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720077211073",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3A50506E7B818DEC6B65",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-f82ffc7b-b91c-48af-ba78-e9ff6bdd4cd3?ccb=9-4&oh=01_Q5AaIEAci1OxSxDLoi0Hy-pn7GUNQkX5l33NhSoNQ8wX9w9y&oe=66ADA1F4&_nc_sid=000000&mms3=true",
+      "fileSha256": "CZBZ9Ko6VcQ4HdvrEi7GR+5uvvXXjM+VTDKsiIv348Y=",
+      "fileEncSha256": "Fga4wp5sOK/Wn66pWFy/gGIhEYSLlw9OXxtlhO7GmYs=",
+      "mediaKey": "i037phjFHYi2sbAx1VHbqJPBEPlS9i1VncjDo9P57OM=",
+      "mimetype": "image/webp",
+      "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-f82ffc7b-b91c-48af-ba78-e9ff6bdd4cd3?ccb=9-4&oh=01_Q5AaIEAci1OxSxDLoi0Hy-pn7GUNQkX5l33NhSoNQ8wX9w9y&oe=66ADA1F4&_nc_sid=000000",
+      "fileLength": "31230",
+      "mediaKeyTimestamp": "1720043466",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "DE8B80874F20084D66564E8FC579AFCD",
+        "participant": "94769643954@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+        },
+        "mentionedJid": [
+          "94769643954@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720077211073",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94769643954@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+    }
+  }
+]

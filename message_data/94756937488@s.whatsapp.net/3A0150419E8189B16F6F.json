@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A0150419E8189B16F6F"
+    },
+    "messageTimestamp": 1720112530,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "gnn gnn anee",
+        "contextInfo": {
+          "stanzaId": "2D48148E03CE8D634AFDA0AABA45D4CB",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Menna meka thama mn gnne nathi video eka 😅"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A0150419E8189B16F6F",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "gnn gnn anee",
+      "contextInfo": {
+        "stanzaId": "2D48148E03CE8D634AFDA0AABA45D4CB",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Menna meka thama mn gnne nathi video eka 😅"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "gnn gnn anee",
+    "quoted": {
+      "conversation": "Menna meka thama mn gnne nathi video eka 😅"
+    }
+  }
+]

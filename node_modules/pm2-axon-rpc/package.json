@@ -1,0 +1,38 @@
+{
+  "name": "pm2-axon-rpc",
+  "version": "0.7.1",
+  "description": "Remote procedure calls built on top of axon.",
+  "keywords": [
+    "axon",
+    "rpc",
+    "cloud"
+  ],
+  "author": "TJ Holowaychuk <tj@learnboost.com>",
+  "engines": {
+    "node": ">=5"
+  },
+  "contributors": [
+    {
+      "name": "Bret Copeland",
+      "email": "bret@atlantisflight.org",
+      "url": "https://github.com/bretcope"
+    }
+  ],
+  "dependencies": {
+    "debug": "^4.3.1"
+  },
+  "devDependencies": {
+    "better-assert": "*",
+    "mocha": "^8.1",
+    "pm2-axon": "^4.0.0"
+  },
+  "main": "index",
+  "scripts": {
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/unitech/pm2-axon-rpc.git"
+  },
+  "license": "MIT"
+}

@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A752D441E9131637DF5"
+    },
+    "messageTimestamp": 1720103027,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Oy nm aiy🥲😹",
+        "contextInfo": {
+          "stanzaId": "7EDF67C02ED69AF7727D9F72932CADDC",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "E unt adanakotath lccanai 🌚"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102642",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A752D441E9131637DF5",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Oy nm aiy🥲😹",
+      "contextInfo": {
+        "stanzaId": "7EDF67C02ED69AF7727D9F72932CADDC",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "E unt adanakotath lccanai 🌚"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Oy nm aiy🥲😹",
+    "quoted": {
+      "conversation": "E unt adanakotath lccanai 🌚"
+    }
+  }
+]

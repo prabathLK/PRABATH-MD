@@ -1,0 +1,79 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A617F65B38D6EBCF558"
+    },
+    "messageTimestamp": 1720114091,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-3119a8a7-4b92-41f7-86c2-f99cb464ee79?ccb=9-4&oh=01_Q5AaILXmlMBicpTPu05KELchSF2-beMAXXuZPY47TZtPOB_J&oe=66AE60E1&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "off wei locu boss",
+        "fileSha256": "EgnwQUDLA6o07lnNuIvKcdjxQe+p00a9ODV879LxThs=",
+        "fileLength": "126664",
+        "height": 1600,
+        "width": 900,
+        "mediaKey": "SeH3WBBxiW0MEGeSd9jPlRz+vQkK1y4WDrNkQnvyOic=",
+        "fileEncSha256": "eMy3D+EC2t81bqq/BOzDjCgMQFUXK6mEmM1EwrcAh2w=",
+        "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-3119a8a7-4b92-41f7-86c2-f99cb464ee79?ccb=9-4&oh=01_Q5AaILXmlMBicpTPu05KELchSF2-beMAXXuZPY47TZtPOB_J&oe=66AE60E1&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720114088",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACkDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAA87jeXmC3Lgb1Vo5+M5olGsIKjjrpDlJiz5I4TavKGixTp87IXaolNshVe2T73ZoEbB//xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRIRAx/9oACAECAQE/AJI0URosWkZOtGLBe9rv/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECERASUSEx/9oACAEDAQE/ALNhOyz0Q48HEUe42Iu/uKQlR//EACUQAAICAgICAQQDAAAAAAAAAAECABESIQMxE1EEIkFSYTJTkf/aAAgBAQABPwBRr9ylyogiZKBQBgrLfUz4egpJmv6RFEPDZszww8W9TjQBxKEwcm7qFXHbQ5Eaap8cAPfK2qmSBpkJcZcxXUZDx6LWYb9xGOYsSpWrEE5SC52Jj+xFxDAmWPYj/KKgfRH+UzClFQ2WsmechKA3DzsRWp5G9mMvkemNGcoTjaquALq+Mxl7+kxeJmNHQngX8oHLvlVtPkg5iD+IN/ad/aOaQ9TNvcD7BFCPTdkX7mZ/IQO1E5j/ACNtaLDYniHuf//+AAMA/9k=",
+        "firstScanSidecar": "/rVvaXiZ8khvAw==",
+        "firstScanLength": 11993,
+        "scansSidecar": "/rVvaXiZ8khvA786X+g/IZX8ppkLQUU0XxQwiSr1Dexs3Iiv9UnXnw==",
+        "scanLengths": [
+          11993,
+          56399,
+          22047,
+          36223
+        ],
+        "midQualityFileSha256": "IvTeG0HoQiEGiJer1ne4jTb2e4/GhWQdCMA7M94st44="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A617F65B38D6EBCF558",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-3119a8a7-4b92-41f7-86c2-f99cb464ee79?ccb=9-4&oh=01_Q5AaILXmlMBicpTPu05KELchSF2-beMAXXuZPY47TZtPOB_J&oe=66AE60E1&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "off wei locu boss",
+      "fileSha256": "EgnwQUDLA6o07lnNuIvKcdjxQe+p00a9ODV879LxThs=",
+      "fileLength": "126664",
+      "height": 1600,
+      "width": 900,
+      "mediaKey": "SeH3WBBxiW0MEGeSd9jPlRz+vQkK1y4WDrNkQnvyOic=",
+      "fileEncSha256": "eMy3D+EC2t81bqq/BOzDjCgMQFUXK6mEmM1EwrcAh2w=",
+      "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-3119a8a7-4b92-41f7-86c2-f99cb464ee79?ccb=9-4&oh=01_Q5AaILXmlMBicpTPu05KELchSF2-beMAXXuZPY47TZtPOB_J&oe=66AE60E1&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720114088",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACkDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAgMEAAEF/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//aAAwDAQACEAMQAAAA87jeXmC3Lgb1Vo5+M5olGsIKjjrpDlJiz5I4TavKGixTp87IXaolNshVe2T73ZoEbB//xAAaEQACAwEBAAAAAAAAAAAAAAAAAQIRIRAx/9oACAECAQE/AJI0URosWkZOtGLBe9rv/8QAHBEAAgIDAQEAAAAAAAAAAAAAAAECERASUSEx/9oACAEDAQE/ALNhOyz0Q48HEUe42Iu/uKQlR//EACUQAAICAgICAQQDAAAAAAAAAAECABESIQMxE1EEIkFSYTJTkf/aAAgBAQABPwBRr9ylyogiZKBQBgrLfUz4egpJmv6RFEPDZszww8W9TjQBxKEwcm7qFXHbQ5Eaap8cAPfK2qmSBpkJcZcxXUZDx6LWYb9xGOYsSpWrEE5SC52Jj+xFxDAmWPYj/KKgfRH+UzClFQ2WsmechKA3DzsRWp5G9mMvkemNGcoTjaquALq+Mxl7+kxeJmNHQngX8oHLvlVtPkg5iD+IN/ad/aOaQ9TNvcD7BFCPTdkX7mZ/IQO1E5j/ACNtaLDYniHuf//+AAMA/9k=",
+      "firstScanSidecar": "/rVvaXiZ8khvAw==",
+      "firstScanLength": 11993,
+      "scansSidecar": "/rVvaXiZ8khvA786X+g/IZX8ppkLQUU0XxQwiSr1Dexs3Iiv9UnXnw==",
+      "scanLengths": [
+        11993,
+        56399,
+        22047,
+        36223
+      ],
+      "midQualityFileSha256": "IvTeG0HoQiEGiJer1ne4jTb2e4/GhWQdCMA7M94st44="
+    },
+    "mentionUser": [],
+    "body": "off wei locu boss",
+    "quoted": null
+  }
+]

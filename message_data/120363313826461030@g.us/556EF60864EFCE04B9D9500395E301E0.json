@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "556EF60864EFCE04B9D9500395E301E0",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066216,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Mokakda e",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi17/2EARA4GiBzTqeBpdV3KUKyC3DRjxfVRxPvmqbCvXXd4SFfMG8N3iIhBctM47d8yTa0wV2KMpxuIW57DQpsLC3Vjm/RvFZ6p7lw"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "556EF60864EFCE04B9D9500395E301E0",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Mokakda e",
+    "mentionUser": [],
+    "body": "Mokakda e",
+    "quoted": null
+  }
+]

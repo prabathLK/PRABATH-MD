@@ -1,0 +1,21 @@
+{
+  "name": "async.util.keyiterator",
+  "description": "async keyiteratorhelper method as module.",
+  "main": "./index.js",
+  "repository": "async-js/async.util",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "version": "0.5.2",
+  "license": "MIT",
+  "dependencies": {
+    "async.util.isarraylike": "0.5.2",
+    "async.util.keys": "0.5.2"
+  },
+  "keywords": [
+    "async.util",
+    "keyiterator"
+  ]
+}

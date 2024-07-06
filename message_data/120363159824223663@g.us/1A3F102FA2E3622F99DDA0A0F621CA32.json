@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363159824223663@g.us",
+      "fromMe": false,
+      "id": "1A3F102FA2E3622F99DDA0A0F621CA32",
+      "participant": "94704947501@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720072053,
+    "pushName": "Sadeepa malshi",
+    "broadcast": false,
+    "message": {
+      "conversation": "*Bick පුහුණුවීම් හෙට සවස 2.30 න් පසුව සිදුකෙරේ.*"
+    },
+    "id": "1A3F102FA2E3622F99DDA0A0F621CA32",
+    "chat": "120363159824223663@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704947501@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "*Bick පුහුණුවීම් හෙට සවස 2.30 න් පසුව සිදුකෙරේ.*",
+    "mentionUser": [],
+    "body": "*Bick පුහුණුවීම් හෙට සවස 2.30 න් පසුව සිදුකෙරේ.*",
+    "quoted": null
+  }
+]

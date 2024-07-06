@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A8F5C5748030FB54D71"
+    },
+    "messageTimestamp": 1720108064,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "npurui wge hby",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720107720",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A8F5C5748030FB54D71",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "npurui wge hby",
+    "mentionUser": [],
+    "body": "npurui wge hby",
+    "quoted": null
+  }
+]

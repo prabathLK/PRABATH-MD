@@ -1,0 +1,50 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "F331C2400D87BF74D5781D1EE6D0BFC3",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720157308,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/34802701_845539840782145_5033721912390387899_n.enc?ccb=11-4&oh=01_Q5AaIMiGObaSTjmOMXWMOE2ZGtKMHpdJ7vCkHh0SdbNpXrf1&oe=66AEFFA1&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "dLHogLO79VrKmPjUub2KqN1HqFMcfUrNjSFYh9PqsW0=",
+        "fileLength": "6368",
+        "seconds": 2,
+        "ptt": true,
+        "mediaKey": "toE/+YV/l2jpztbF9aoK/yXdVUrynUVW9Rv4RwJG1hk=",
+        "fileEncSha256": "9++fiG07AOUANiH0ItL3G2TxGBmvQ+DVvfHzU/j/KH0=",
+        "directPath": "/v/t62.7117-24/34802701_845539840782145_5033721912390387899_n.enc?ccb=11-4&oh=01_Q5AaIMiGObaSTjmOMXWMOE2ZGtKMHpdJ7vCkHh0SdbNpXrf1&oe=66AEFFA1&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720157305",
+        "waveform": "AAAVJSspJCQuLSsqJh8cCQwbIiIpKyYaFisrCQYUJC0uHhwXDwoKExkXCwAAAA0YFg0JBgAMBwAAAAAAAAAAAA=="
+      }
+    },
+    "id": "F331C2400D87BF74D5781D1EE6D0BFC3",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/34802701_845539840782145_5033721912390387899_n.enc?ccb=11-4&oh=01_Q5AaIMiGObaSTjmOMXWMOE2ZGtKMHpdJ7vCkHh0SdbNpXrf1&oe=66AEFFA1&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "dLHogLO79VrKmPjUub2KqN1HqFMcfUrNjSFYh9PqsW0=",
+      "fileLength": "6368",
+      "seconds": 2,
+      "ptt": true,
+      "mediaKey": "toE/+YV/l2jpztbF9aoK/yXdVUrynUVW9Rv4RwJG1hk=",
+      "fileEncSha256": "9++fiG07AOUANiH0ItL3G2TxGBmvQ+DVvfHzU/j/KH0=",
+      "directPath": "/v/t62.7117-24/34802701_845539840782145_5033721912390387899_n.enc?ccb=11-4&oh=01_Q5AaIMiGObaSTjmOMXWMOE2ZGtKMHpdJ7vCkHh0SdbNpXrf1&oe=66AEFFA1&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720157305",
+      "waveform": "AAAVJSspJCQuLSsqJh8cCQwbIiIpKyYaFisrCQYUJC0uHhwXDwoKExkXCwAAAA0YFg0JBgAMBwAAAAAAAAAAAA=="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "73869D6D3D4368CA8860D36F96C7A176",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090220,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/11834154_484213904017305_6214738854291119991_n.enc?ccb=11-4&oh=01_Q5AaIFEORQNybfVpQvV5Hq-2-uQjLG-7Wn3iQh8YwT7CS1OR&oe=66ADE31D&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "xK90a9wjK1Wwn9GjDzivwtvSVQIltI2rqt3JZdpmg4o=",
+        "fileEncSha256": "UIIBFT01N60Kx5OiWZQ3/P3ZYhlUtkkvfb0zChcsHxU=",
+        "mediaKey": "R/eqn3i/q1Yryu/LPmtapKaSgoU0ZKPFwiM0/cjmSp0=",
+        "mimetype": "image/webp",
+        "height": 512,
+        "width": 512,
+        "directPath": "/v/t62.15575-24/11834154_484213904017305_6214738854291119991_n.enc?ccb=11-4&oh=01_Q5AaIFEORQNybfVpQvV5Hq-2-uQjLG-7Wn3iQh8YwT7CS1OR&oe=66ADE31D&_nc_sid=5e03e0",
+        "fileLength": "7602",
+        "mediaKeyTimestamp": "1720090219",
+        "isAnimated": false,
+        "stickerSentTs": "1720090218938",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "73869D6D3D4368CA8860D36F96C7A176",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/11834154_484213904017305_6214738854291119991_n.enc?ccb=11-4&oh=01_Q5AaIFEORQNybfVpQvV5Hq-2-uQjLG-7Wn3iQh8YwT7CS1OR&oe=66ADE31D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "xK90a9wjK1Wwn9GjDzivwtvSVQIltI2rqt3JZdpmg4o=",
+      "fileEncSha256": "UIIBFT01N60Kx5OiWZQ3/P3ZYhlUtkkvfb0zChcsHxU=",
+      "mediaKey": "R/eqn3i/q1Yryu/LPmtapKaSgoU0ZKPFwiM0/cjmSp0=",
+      "mimetype": "image/webp",
+      "height": 512,
+      "width": 512,
+      "directPath": "/v/t62.15575-24/11834154_484213904017305_6214738854291119991_n.enc?ccb=11-4&oh=01_Q5AaIFEORQNybfVpQvV5Hq-2-uQjLG-7Wn3iQh8YwT7CS1OR&oe=66ADE31D&_nc_sid=5e03e0",
+      "fileLength": "7602",
+      "mediaKeyTimestamp": "1720090219",
+      "isAnimated": false,
+      "stickerSentTs": "1720090218938",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

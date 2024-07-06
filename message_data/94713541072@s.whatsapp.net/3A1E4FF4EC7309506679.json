@@ -1,0 +1,62 @@
+[
+  {
+    "key": {
+      "remoteJid": "94713541072@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A1E4FF4EC7309506679"
+    },
+    "messageTimestamp": 1720058658,
+    "pushName": "Mr_ViKi  ",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ammata hri hri aiya balala wistharayak kiyannako mn anytime okay",
+        "contextInfo": {
+          "stanzaId": "D0226E1BDC3D5F141D0DC3CADCCE17B8",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Seen gihin thiyenne cuddh podfk idhn ah"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720048648",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mr_ViKi  ",
+    "id": "3A1E4FF4EC7309506679",
+    "chat": "94713541072@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94713541072@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ammata hri hri aiya balala wistharayak kiyannako mn anytime okay",
+      "contextInfo": {
+        "stanzaId": "D0226E1BDC3D5F141D0DC3CADCCE17B8",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Seen gihin thiyenne cuddh podfk idhn ah"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ammata hri hri aiya balala wistharayak kiyannako mn anytime okay",
+    "quoted": {
+      "conversation": "Seen gihin thiyenne cuddh podfk idhn ah"
+    }
+  }
+]

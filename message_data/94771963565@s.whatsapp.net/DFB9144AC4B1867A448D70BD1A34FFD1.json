@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94771963565@s.whatsapp.net",
+      "fromMe": false,
+      "id": "DFB9144AC4B1867A448D70BD1A34FFD1"
+    },
+    "messageTimestamp": 1720070909,
+    "pushName": "Satheeshan Satheesh",
+    "broadcast": false,
+    "message": {
+      "conversation": "Elama oi",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "DFB9144AC4B1867A448D70BD1A34FFD1",
+    "chat": "94771963565@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94771963565@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Elama oi",
+    "mentionUser": [],
+    "body": "Elama oi",
+    "quoted": null
+  }
+]

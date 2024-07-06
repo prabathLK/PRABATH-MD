@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94769643954@s.whatsapp.net",
+      "fromMe": false,
+      "id": "70C2DD796D20FDBF168D490E8247552D"
+    },
+    "messageTimestamp": 1720160382,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Adoo",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "70C2DD796D20FDBF168D490E8247552D",
+    "chat": "94769643954@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Adoo",
+    "mentionUser": [],
+    "body": "Adoo",
+    "quoted": null
+  }
+]

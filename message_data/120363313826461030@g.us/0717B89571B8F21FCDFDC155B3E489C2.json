@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "0717B89571B8F21FCDFDC155B3E489C2",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066985,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අයින් උනාම ආයේ ගන්න ඉතින්",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "34EE435D287739D6E90E302C08BADC60",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "සැරෙන් සැරේ ඌ අයින් වෙනවා හුත්තො 😒 ඒක කිවුවේ"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "0717B89571B8F21FCDFDC155B3E489C2",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අයින් උනාම ආයේ ගන්න ඉතින්",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "34EE435D287739D6E90E302C08BADC60",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "සැරෙන් සැරේ ඌ අයින් වෙනවා හුත්තො 😒 ඒක කිවුවේ"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "අයින් උනාම ආයේ ගන්න ඉතින්",
+    "quoted": {
+      "conversation": "සැරෙන් සැරේ ඌ අයින් වෙනවා හුත්තො 😒 ඒක කිවුවේ"
+    }
+  }
+]

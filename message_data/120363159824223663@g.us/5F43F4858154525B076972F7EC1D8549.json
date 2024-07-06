@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363159824223663@g.us",
+      "fromMe": false,
+      "id": "5F43F4858154525B076972F7EC1D8549",
+      "participant": "94704947501@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720072011,
+    "pushName": "Sadeepa malshi",
+    "broadcast": false,
+    "message": {
+      "conversation": "*හෙට දින van,T-wheel පුහුණුවීම් වලට උදේ 9.30 වන විට පැමිණෙන්න.ඉසුරුමුණිය ට්‍රයල් පෙන්වන තැනට යාමට හැකි අය එතැනට යන්න.නොහැකි අය නිවත්තකචේතිය පාසල ඉදිරිපිට ඇති අපගේ කාර්යාලයට පැමිණෙන්න.*",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363159824223663@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjlnKDEBxAAGiAaJyAMwadoSIHetHnNcL+GHO0WvvqDJamn7YFk7TRkjiIhBSgzvI3E65D5WVo+4wmbXLFtHj4O0umvdJTeskp8G4hZ"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "5F43F4858154525B076972F7EC1D8549",
+    "chat": "120363159824223663@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704947501@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "*හෙට දින van,T-wheel පුහුණුවීම් වලට උදේ 9.30 වන විට පැමිණෙන්න.ඉසුරුමුණිය ට්‍රයල් පෙන්වන තැනට යාමට හැකි අය එතැනට යන්න.නොහැකි අය නිවත්තකචේතිය පාසල ඉදිරිපිට ඇති අපගේ කාර්යාලයට පැමිණෙන්න.*",
+    "mentionUser": [],
+    "body": "*හෙට දින van,T-wheel පුහුණුවීම් වලට උදේ 9.30 වන විට පැමිණෙන්න.ඉසුරුමුණිය ට්‍රයල් පෙන්වන තැනට යාමට හැකි අය එතැනට යන්න.නොහැකි අය නිවත්තකචේතිය පාසල ඉදිරිපිට ඇති අපගේ කාර්යාලයට පැමිණෙන්න.*",
+    "quoted": null
+  }
+]

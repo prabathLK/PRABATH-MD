@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "5701F77B2A9B38F06B8F70DB24E549EF",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090302,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "Monawadha bn penna yanne 😁"
+    },
+    "id": "5701F77B2A9B38F06B8F70DB24E549EF",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Monawadha bn penna yanne 😁",
+    "mentionUser": [],
+    "body": "Monawadha bn penna yanne 😁",
+    "quoted": null
+  }
+]

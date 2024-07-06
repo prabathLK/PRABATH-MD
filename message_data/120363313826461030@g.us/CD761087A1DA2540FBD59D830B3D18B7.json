@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "CD761087A1DA2540FBD59D830B3D18B7",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066991,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "ඒ වෙලෙම"
+    },
+    "id": "CD761087A1DA2540FBD59D830B3D18B7",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ඒ වෙලෙම",
+    "mentionUser": [],
+    "body": "ඒ වෙලෙම",
+    "quoted": null
+  }
+]

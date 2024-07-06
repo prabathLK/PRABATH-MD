@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A5286B6B8891C1D0215"
+    },
+    "messageTimestamp": 1720113453,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ntwnn ynwt hoda wde",
+        "contextInfo": {
+          "stanzaId": "1D852E76526205CA8F3669F3D8359D03",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "😒 kolla ledin iddi hurathal krhn apathay wage hod wade kynne nthuw"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A5286B6B8891C1D0215",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ntwnn ynwt hoda wde",
+      "contextInfo": {
+        "stanzaId": "1D852E76526205CA8F3669F3D8359D03",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "😒 kolla ledin iddi hurathal krhn apathay wage hod wade kynne nthuw"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ntwnn ynwt hoda wde",
+    "quoted": {
+      "conversation": "😒 kolla ledin iddi hurathal krhn apathay wage hod wade kynne nthuw"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A2FD88099AC70B42E9D"
+    },
+    "messageTimestamp": 1720182157,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "oy end ekk denwd?",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720182130",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A2FD88099AC70B42E9D",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "oy end ekk denwd?",
+    "mentionUser": [],
+    "body": "oy end ekk denwd?",
+    "quoted": null
+  }
+]

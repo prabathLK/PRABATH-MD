@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "71D7C285AA8845A744B1741AA3FD0B50"
+    },
+    "messageTimestamp": 1720102625,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "ආදරේ තමා උතුම් කියලා කවුරු හරි කිවුවොත් බිජ්ජ කපපන්😒👍",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "71D7C285AA8845A744B1741AA3FD0B50",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ආදරේ තමා උතුම් කියලා කවුරු හරි කිවුවොත් බිජ්ජ කපපන්😒👍",
+    "mentionUser": [],
+    "body": "ආදරේ තමා උතුම් කියලා කවුරු හරි කිවුවොත් බිජ්ජ කපපන්😒👍",
+    "quoted": null
+  }
+]

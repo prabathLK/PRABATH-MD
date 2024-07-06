@@ -1,0 +1,67 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701669543@s.whatsapp.net",
+      "fromMe": false,
+      "id": "39AB1BF47730F9038F170498AB13EA21"
+    },
+    "messageTimestamp": 1720034316,
+    "pushName": "DHANUKA",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": ".apk coc",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "1716812943",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "UNKNOWN",
+            "initiatedByMe": false
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "QdmZY09IuNo+WQ==",
+          "senderTimestamp": "1719981536",
+          "recipientKeyHash": "+34nwW8gH/a3tg==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "DHANUKA",
+    "id": "39AB1BF47730F9038F170498AB13EA21",
+    "chat": "94701669543@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701669543@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": ".apk coc",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1716812943",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "UNKNOWN",
+          "initiatedByMe": false
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": ".apk coc",
+    "quoted": null
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "name": "tx2",
+  "version": "1.0.5",
+  "description": "Metrics, Issues, Actions, Events reporting library",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test/*.mocha.js",
+    "doc": "npx jsdoc2md src/* > API.md"
+  },
+  "author": "PM2",
+  "license": "MIT",
+  "dependencies": {
+    "json-stringify-safe": "^5.0.1"
+  },
+  "devDependencies": {
+    "jsdoc-to-markdown": "^6.0.1",
+    "mocha": "8",
+    "should": "13"
+  }
+}

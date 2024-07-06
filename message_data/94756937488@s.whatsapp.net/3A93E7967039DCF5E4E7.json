@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A93E7967039DCF5E4E7"
+    },
+    "messageTimestamp": 1720104201,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ane me 😒",
+        "contextInfo": {
+          "stanzaId": "6DE3B4591EBA7339E08B81C8754E8D56",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Mt mawila penawa kota wage uda pana pana ghnawa 😂"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720103839",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A93E7967039DCF5E4E7",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ane me 😒",
+      "contextInfo": {
+        "stanzaId": "6DE3B4591EBA7339E08B81C8754E8D56",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Mt mawila penawa kota wage uda pana pana ghnawa 😂"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ane me 😒",
+    "quoted": {
+      "conversation": "Mt mawila penawa kota wage uda pana pana ghnawa 😂"
+    }
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "D4B2219D7837ED238823A3BCCBF528B7",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720103571,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjXp++DBxA+GiAY6B1XNjPKX0buHFJ9AFNbTPf08kn4NPZzAOhkZAWiriIhBQnEAG8vLVUcWw3PTej7CbBx23lhr+uxFlYjodrOIXcd"
+      },
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/21427846_862899992366758_1302145916756158915_n.enc?ccb=11-4&oh=01_Q5AaIGFOS0h4MeGgCcsUr6g-vqUdRFBId85eVwU0Tse0vrK1&oe=66AE0B0E&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "5GEk+EgmqiLtlOQulYWO/qDFx4RSTqwr9CGIkrrQNUk=",
+        "fileLength": "44738",
+        "seconds": 19,
+        "ptt": true,
+        "mediaKey": "NTorcNJl2daOsz5skfllIINyDu9FkUlIOfN5Q4FTLLo=",
+        "fileEncSha256": "y0/EPf6MUONudYsP5pBkdCHN6eqNrgUlucAbn2dqsKQ=",
+        "directPath": "/v/t62.7117-24/21427846_862899992366758_1302145916756158915_n.enc?ccb=11-4&oh=01_Q5AaIGFOS0h4MeGgCcsUr6g-vqUdRFBId85eVwU0Tse0vrK1&oe=66AE0B0E&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720103552"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "D4B2219D7837ED238823A3BCCBF528B7",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/21427846_862899992366758_1302145916756158915_n.enc?ccb=11-4&oh=01_Q5AaIGFOS0h4MeGgCcsUr6g-vqUdRFBId85eVwU0Tse0vrK1&oe=66AE0B0E&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "5GEk+EgmqiLtlOQulYWO/qDFx4RSTqwr9CGIkrrQNUk=",
+      "fileLength": "44738",
+      "seconds": 19,
+      "ptt": true,
+      "mediaKey": "NTorcNJl2daOsz5skfllIINyDu9FkUlIOfN5Q4FTLLo=",
+      "fileEncSha256": "y0/EPf6MUONudYsP5pBkdCHN6eqNrgUlucAbn2dqsKQ=",
+      "directPath": "/v/t62.7117-24/21427846_862899992366758_1302145916756158915_n.enc?ccb=11-4&oh=01_Q5AaIGFOS0h4MeGgCcsUr6g-vqUdRFBId85eVwU0Tse0vrK1&oe=66AE0B0E&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720103552"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

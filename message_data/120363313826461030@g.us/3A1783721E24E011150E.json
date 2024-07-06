@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A1783721E24E011150E",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077309,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/33406177_402649009459020_8881860716241296723_n.enc?ccb=11-4&oh=01_Q5AaIJ1jce1YilqPcrWoVByRCasa04DsByTnn1kmOesWQi6x&oe=66ADC6E6&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "63VtX8UPJBpoWzkftu/gblo2bVFnoGx+z5s9BrqHzFc=",
+        "fileEncSha256": "8X+v2UWW2v4OxthejAk62W/J5qIG60V8x2mucZhSwCg=",
+        "mediaKey": "xmvvtEziP3v5IT/hykFH2R5nj47gZq65UY0zqiDQGeA=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/33406177_402649009459020_8881860716241296723_n.enc?ccb=11-4&oh=01_Q5AaIJ1jce1YilqPcrWoVByRCasa04DsByTnn1kmOesWQi6x&oe=66ADC6E6&_nc_sid=5e03e0",
+        "fileLength": "912302",
+        "mediaKeyTimestamp": "1720077306",
+        "firstFrameLength": 42692,
+        "firstFrameSidecar": "SZCuodtb3ahZgw==",
+        "isAnimated": true,
+        "stickerSentTs": "1720077306777",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3A1783721E24E011150E",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/33406177_402649009459020_8881860716241296723_n.enc?ccb=11-4&oh=01_Q5AaIJ1jce1YilqPcrWoVByRCasa04DsByTnn1kmOesWQi6x&oe=66ADC6E6&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "63VtX8UPJBpoWzkftu/gblo2bVFnoGx+z5s9BrqHzFc=",
+      "fileEncSha256": "8X+v2UWW2v4OxthejAk62W/J5qIG60V8x2mucZhSwCg=",
+      "mediaKey": "xmvvtEziP3v5IT/hykFH2R5nj47gZq65UY0zqiDQGeA=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/33406177_402649009459020_8881860716241296723_n.enc?ccb=11-4&oh=01_Q5AaIJ1jce1YilqPcrWoVByRCasa04DsByTnn1kmOesWQi6x&oe=66ADC6E6&_nc_sid=5e03e0",
+      "fileLength": "912302",
+      "mediaKeyTimestamp": "1720077306",
+      "firstFrameLength": 42692,
+      "firstFrameSidecar": "SZCuodtb3ahZgw==",
+      "isAnimated": true,
+      "stickerSentTs": "1720077306777",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

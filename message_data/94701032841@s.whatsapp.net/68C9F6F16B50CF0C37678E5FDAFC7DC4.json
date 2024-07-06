@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "68C9F6F16B50CF0C37678E5FDAFC7DC4"
+    },
+    "messageTimestamp": 1720194047,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "conversation": "Ubt seen ekak dmmd",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "68C9F6F16B50CF0C37678E5FDAFC7DC4",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Ubt seen ekak dmmd",
+    "mentionUser": [],
+    "body": "Ubt seen ekak dmmd",
+    "quoted": null
+  }
+]

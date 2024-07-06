@@ -1,0 +1,72 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "4A871E41C13FB7F13C0927F2BF0B885A",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091532,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/26761047_2197098653986878_5088789158423045303_n.enc?ccb=11-4&oh=01_Q5AaIAQQfCfeX2Tb_lcbD9AVrEntRiScmyUaiIARLi4GRena&oe=66AE0BAA&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "LqCGQEPE5gBI2jXpdUIVHeFpfmNV18XKEaoUelhfK1Y=",
+        "fileLength": "31988",
+        "seconds": 14,
+        "ptt": true,
+        "mediaKey": "H8DRKWCnAkB/kKLLafldWeWQ0hdaqy1YMW4z/FX8gsc=",
+        "fileEncSha256": "2W81p3i1piCEGsHLOQD+78TKw0v32JIeFoxY4QXqm3I=",
+        "directPath": "/v/t62.7117-24/26761047_2197098653986878_5088789158423045303_n.enc?ccb=11-4&oh=01_Q5AaIAQQfCfeX2Tb_lcbD9AVrEntRiScmyUaiIARLi4GRena&oe=66AE0BAA&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720091518",
+        "contextInfo": {
+          "stanzaId": "7019C6A1C8496C71D367E0473DC9543F",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "කොහොමත් දැන් ඔය හිල ලොකුයිනේ"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "4A871E41C13FB7F13C0927F2BF0B885A",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/26761047_2197098653986878_5088789158423045303_n.enc?ccb=11-4&oh=01_Q5AaIAQQfCfeX2Tb_lcbD9AVrEntRiScmyUaiIARLi4GRena&oe=66AE0BAA&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "LqCGQEPE5gBI2jXpdUIVHeFpfmNV18XKEaoUelhfK1Y=",
+      "fileLength": "31988",
+      "seconds": 14,
+      "ptt": true,
+      "mediaKey": "H8DRKWCnAkB/kKLLafldWeWQ0hdaqy1YMW4z/FX8gsc=",
+      "fileEncSha256": "2W81p3i1piCEGsHLOQD+78TKw0v32JIeFoxY4QXqm3I=",
+      "directPath": "/v/t62.7117-24/26761047_2197098653986878_5088789158423045303_n.enc?ccb=11-4&oh=01_Q5AaIAQQfCfeX2Tb_lcbD9AVrEntRiScmyUaiIARLi4GRena&oe=66AE0BAA&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720091518",
+      "contextInfo": {
+        "stanzaId": "7019C6A1C8496C71D367E0473DC9543F",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "කොහොමත් දැන් ඔය හිල ලොකුයිනේ"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "කොහොමත් දැන් ඔය හිල ලොකුයිනේ"
+    }
+  }
+]

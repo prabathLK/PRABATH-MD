@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "DBD178A939097257F0892B5BBFCC4BC9",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720092517,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "😁"
+    },
+    "id": "DBD178A939097257F0892B5BBFCC4BC9",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "😁",
+    "mentionUser": [],
+    "body": "😁",
+    "quoted": null
+  }
+]

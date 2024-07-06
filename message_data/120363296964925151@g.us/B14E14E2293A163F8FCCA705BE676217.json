@@ -1,0 +1,44 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "B14E14E2293A163F8FCCA705BE676217",
+      "participant": "94768621631@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720180664,
+    "pushName": "Rueani",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "2483EE7033DAA45AAD86934C2B5E6116",
+          "participant": "966588806987@s.whatsapp.net"
+        },
+        "text": "🔥",
+        "senderTimestampMs": "1720180662908"
+      }
+    },
+    "id": "B14E14E2293A163F8FCCA705BE676217",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94768621631@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "2483EE7033DAA45AAD86934C2B5E6116",
+        "participant": "966588806987@s.whatsapp.net"
+      },
+      "text": "🔥",
+      "senderTimestampMs": "1720180662908"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

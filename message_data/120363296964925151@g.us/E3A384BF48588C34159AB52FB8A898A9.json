@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "E3A384BF48588C34159AB52FB8A898A9",
+      "participant": "94768621631@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720208755,
+    "pushName": "Ruwani",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiGv/ccEAAaIOYNJd3dl8rmHbWstEEXDh7C6VNQ4p9CMAZ/0D5XnMsLIiEF77lN8P9Rzkags3S/w6Jr7P/3zNzB+D+YqFjzQyh8ynk="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "F93031341798B5A426B3DB613A811847",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "🖤",
+        "senderTimestampMs": "1720208751323"
+      }
+    },
+    "id": "E3A384BF48588C34159AB52FB8A898A9",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94768621631@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "F93031341798B5A426B3DB613A811847",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "🖤",
+      "senderTimestampMs": "1720208751323"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "4F27DD8D057382BF52BF7E3A85B279E7",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720093097,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ane 😂",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "54D4ABA3EDDB1EFF44B24A2D7F4F7959",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000&mms3=true",
+              "fileSha256": "otXontHkJNPoAUMnH8VL5iRFiD1Gmub2uUuGrvjBoVE=",
+              "fileEncSha256": "yE7kUMkC9HUiGIPJZrzcBS9CvdE3OkPONKxNqqOz6xo=",
+              "mediaKey": "Pnz6P+ABpZ1Lq9nqQTgkVZQ3H0tZvv8lbApFthfBG2k=",
+              "mimetype": "image/webp",
+              "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000",
+              "fileLength": "9454",
+              "mediaKeyTimestamp": "1720089357",
+              "isAnimated": false,
+              "stickerSentTs": "1720090023000",
+              "isAvatar": false,
+              "isAiSticker": false,
+              "isLottie": false
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "4F27DD8D057382BF52BF7E3A85B279E7",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ane 😂",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "54D4ABA3EDDB1EFF44B24A2D7F4F7959",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000&mms3=true",
+            "fileSha256": "otXontHkJNPoAUMnH8VL5iRFiD1Gmub2uUuGrvjBoVE=",
+            "fileEncSha256": "yE7kUMkC9HUiGIPJZrzcBS9CvdE3OkPONKxNqqOz6xo=",
+            "mediaKey": "Pnz6P+ABpZ1Lq9nqQTgkVZQ3H0tZvv8lbApFthfBG2k=",
+            "mimetype": "image/webp",
+            "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000",
+            "fileLength": "9454",
+            "mediaKeyTimestamp": "1720089357",
+            "isAnimated": false,
+            "stickerSentTs": "1720090023000",
+            "isAvatar": false,
+            "isAiSticker": false,
+            "isLottie": false
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ane 😂",
+    "quoted": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000&mms3=true",
+        "fileSha256": "otXontHkJNPoAUMnH8VL5iRFiD1Gmub2uUuGrvjBoVE=",
+        "fileEncSha256": "yE7kUMkC9HUiGIPJZrzcBS9CvdE3OkPONKxNqqOz6xo=",
+        "mediaKey": "Pnz6P+ABpZ1Lq9nqQTgkVZQ3H0tZvv8lbApFthfBG2k=",
+        "mimetype": "image/webp",
+        "directPath": "/o1/v/t62.7118-24/f1/m234/up-oil-image-0477075b-36e9-4011-868d-976060712186?ccb=9-4&oh=01_Q5AaIB7KLOd8KxAHN7RGbWhVPVumvkPnQM09DhawZQEzMCst&oe=66AE0036&_nc_sid=000000",
+        "fileLength": "9454",
+        "mediaKeyTimestamp": "1720089357",
+        "isAnimated": false,
+        "stickerSentTs": "1720090023000",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    }
+  }
+]

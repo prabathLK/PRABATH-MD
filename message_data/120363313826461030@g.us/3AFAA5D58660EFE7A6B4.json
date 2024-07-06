@@ -1,0 +1,82 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AFAA5D58660EFE7A6B4",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720055792,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19381178_909630674261834_6666515278464991308_n.enc?ccb=11-4&oh=01_Q5AaIGL_zJxFSClsu3_rpWQYPE1t6r1SpLgahAcIMVr_b8eU&oe=66AD6131&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "iuj5uJEzi71W8TpmtaolbzbQ/xbDaCapgbSpWq9BcyE=",
+        "fileEncSha256": "12HIFr47XQzijSJL2zkjjDPNm1SR6keReJeIacn/RKs=",
+        "mediaKey": "YjHfTn1LxkwXlxM14+VQvOrR1hT16hciuYT6VtKL/EU=",
+        "mimetype": "image/webp",
+        "height": 512,
+        "width": 512,
+        "directPath": "/v/t62.15575-24/19381178_909630674261834_6666515278464991308_n.enc?ccb=11-4&oh=01_Q5AaIGL_zJxFSClsu3_rpWQYPE1t6r1SpLgahAcIMVr_b8eU&oe=66AD6131&_nc_sid=5e03e0",
+        "fileLength": "147460",
+        "mediaKeyTimestamp": "1720014080",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "3A6CBF97E779688C29C8",
+          "participant": "94787196575@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ek tmy saba adre hmbuna kynne"
+          },
+          "mentionedJid": [
+            "94787196575@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720055791649",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3AFAA5D58660EFE7A6B4",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19381178_909630674261834_6666515278464991308_n.enc?ccb=11-4&oh=01_Q5AaIGL_zJxFSClsu3_rpWQYPE1t6r1SpLgahAcIMVr_b8eU&oe=66AD6131&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "iuj5uJEzi71W8TpmtaolbzbQ/xbDaCapgbSpWq9BcyE=",
+      "fileEncSha256": "12HIFr47XQzijSJL2zkjjDPNm1SR6keReJeIacn/RKs=",
+      "mediaKey": "YjHfTn1LxkwXlxM14+VQvOrR1hT16hciuYT6VtKL/EU=",
+      "mimetype": "image/webp",
+      "height": 512,
+      "width": 512,
+      "directPath": "/v/t62.15575-24/19381178_909630674261834_6666515278464991308_n.enc?ccb=11-4&oh=01_Q5AaIGL_zJxFSClsu3_rpWQYPE1t6r1SpLgahAcIMVr_b8eU&oe=66AD6131&_nc_sid=5e03e0",
+      "fileLength": "147460",
+      "mediaKeyTimestamp": "1720014080",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "3A6CBF97E779688C29C8",
+        "participant": "94787196575@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ek tmy saba adre hmbuna kynne"
+        },
+        "mentionedJid": [
+          "94787196575@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720055791649",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94787196575@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Ek tmy saba adre hmbuna kynne"
+    }
+  }
+]

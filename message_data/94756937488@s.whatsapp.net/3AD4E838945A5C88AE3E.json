@@ -1,0 +1,85 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AD4E838945A5C88AE3E"
+    },
+    "messageTimestamp": 1720103012,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaICtEnTbig91CGl5G2yfW3OUB9VGij00BQ8vsrqb3Mnqa&oe=66AE3AAD&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+        "fileEncSha256": "4uQ1US3yxpzQ+hklirdGiN2KhRjxcXZNL95PfSc+Y3A=",
+        "mediaKey": "UrmaUxtD5mXrjvKmALHu5sd9Gj1AbuGxVuBkMfcK1so=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaICtEnTbig91CGl5G2yfW3OUB9VGij00BQ8vsrqb3Mnqa&oe=66AE3AAD&_nc_sid=5e03e0",
+        "fileLength": "41106",
+        "mediaKeyTimestamp": "1719946272",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "7EDF67C02ED69AF7727D9F72932CADDC",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "E unt adanakotath lccanai 🌚"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720103009762",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102642",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AD4E838945A5C88AE3E",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaICtEnTbig91CGl5G2yfW3OUB9VGij00BQ8vsrqb3Mnqa&oe=66AE3AAD&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+      "fileEncSha256": "4uQ1US3yxpzQ+hklirdGiN2KhRjxcXZNL95PfSc+Y3A=",
+      "mediaKey": "UrmaUxtD5mXrjvKmALHu5sd9Gj1AbuGxVuBkMfcK1so=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaICtEnTbig91CGl5G2yfW3OUB9VGij00BQ8vsrqb3Mnqa&oe=66AE3AAD&_nc_sid=5e03e0",
+      "fileLength": "41106",
+      "mediaKeyTimestamp": "1719946272",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "7EDF67C02ED69AF7727D9F72932CADDC",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "E unt adanakotath lccanai 🌚"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720103009762",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "E unt adanakotath lccanai 🌚"
+    }
+  }
+]

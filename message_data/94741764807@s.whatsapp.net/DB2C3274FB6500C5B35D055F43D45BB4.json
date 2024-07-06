@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94741764807@s.whatsapp.net",
+      "fromMe": false,
+      "id": "DB2C3274FB6500C5B35D055F43D45BB4"
+    },
+    "messageTimestamp": 1720182681,
+    "pushName": "Hansani 😽💗👉🏻👈🏻",
+    "broadcast": false,
+    "message": {
+      "conversation": "Cl ekk gannam poddk kt krnn plwnd",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "DB2C3274FB6500C5B35D055F43D45BB4",
+    "chat": "94741764807@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94741764807@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Cl ekk gannam poddk kt krnn plwnd",
+    "mentionUser": [],
+    "body": "Cl ekk gannam poddk kt krnn plwnd",
+    "quoted": null
+  }
+]

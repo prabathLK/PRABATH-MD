@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF96A9FF785B2C8508B"
+    },
+    "messageTimestamp": 1720061844,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "ehma kohewth yna kellek nisa ohoma wenn hoda na",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720022210",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AF96A9FF785B2C8508B",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ehma kohewth yna kellek nisa ohoma wenn hoda na",
+    "mentionUser": [],
+    "body": "ehma kohewth yna kellek nisa ohoma wenn hoda na",
+    "quoted": null
+  }
+]

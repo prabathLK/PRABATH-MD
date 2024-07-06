@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94787196575@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A3E6E0655CE991E8CA6"
+    },
+    "messageTimestamp": 1720186859,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Hri htto eki aulka inne.issll ek ahpn",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720186712",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A3E6E0655CE991E8CA6",
+    "chat": "94787196575@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Hri htto eki aulka inne.issll ek ahpn",
+    "mentionUser": [],
+    "body": "Hri htto eki aulka inne.issll ek ahpn",
+    "quoted": null
+  }
+]

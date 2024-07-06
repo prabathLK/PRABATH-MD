@@ -1,0 +1,68 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "1F7C6AA056625585F0606B533B821E7C",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066236,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/30978256_7838103612948812_3814589250396559509_n.enc?ccb=11-4&oh=01_Q5AaINbyHJgEi1p0KUlNy22ZIGFWfhnNl-mrBkKHyBGm9SSX&oe=66AD9835&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": ".sticker",
+        "fileSha256": "vsEtts2pIrsEAKieyZF5xK1dDshAl6xEPsi62O1e0DU=",
+        "fileLength": "83835",
+        "height": 1599,
+        "width": 899,
+        "mediaKey": "wqcezoyUCif9kR1gnWYkNteEmxOxT5AtoCBZR8qJAH4=",
+        "fileEncSha256": "zAgcj90HYU3tLfCl5ea8g9xOie5mlmorljCr5bRLtqI=",
+        "directPath": "/v/t62.7118-24/30978256_7838103612948812_3814589250396559509_n.enc?ccb=11-4&oh=01_Q5AaINbyHJgEi1p0KUlNy22ZIGFWfhnNl-mrBkKHyBGm9SSX&oe=66AD9835&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720055481",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEAAAAAAAAAAAAAAAAAAwIEBQEBAAMBAQAAAAAAAAAAAAAAAAABAwIE/9oADAMBAAIQAxAAAADQZkF4bc8KSe8YACYJsgtgsbBRTFG0lnN0X5pgEC2bzTc5UK8616KJeNL/xAAiEAACAgEEAgMBAAAAAAAAAAAAAQIRAwQSE1EhQSIxUkL/2gAIAQEAAT8AjrI+4i1mPpi1WLsWoxP+jmx/pFjkkrbIzUlaZuNw2ZIylD6MMWoXRuNxyG+Npp+h5IVSdMfhllmjmo5VZq4xjkjkSJSx54nFPo2mniueBlnc6ZiVOVdnnscDBjW5y6Q4vc2OUkvETmf4YopszXBfF0Y1aVlIpH//xAAdEQACAwACAwAAAAAAAAAAAAAAAgEREiFREBNB/9oACAECAQE/AMKYg9cdjsI3zxqzVMW3Ys8l8m5P/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAIBERITIVH/2gAIAQMBAT8AzY2MbJ8EXo69soxorhSklGMH/9k=",
+        "scansSidecar": "Fn+ISIXqcX2CeknKJiBd2UdTp90ApO4YRXKXH4T04rsIopqtZdcbgA==",
+        "scanLengths": [
+          11261,
+          24775,
+          13075,
+          34724
+        ],
+        "midQualityFileSha256": "pZabZVP6PC75iHNbYtrKLIh2t1PRbSsSXQUyLVswMoI="
+      }
+    },
+    "id": "1F7C6AA056625585F0606B533B821E7C",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/30978256_7838103612948812_3814589250396559509_n.enc?ccb=11-4&oh=01_Q5AaINbyHJgEi1p0KUlNy22ZIGFWfhnNl-mrBkKHyBGm9SSX&oe=66AD9835&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": ".sticker",
+      "fileSha256": "vsEtts2pIrsEAKieyZF5xK1dDshAl6xEPsi62O1e0DU=",
+      "fileLength": "83835",
+      "height": 1599,
+      "width": 899,
+      "mediaKey": "wqcezoyUCif9kR1gnWYkNteEmxOxT5AtoCBZR8qJAH4=",
+      "fileEncSha256": "zAgcj90HYU3tLfCl5ea8g9xOie5mlmorljCr5bRLtqI=",
+      "directPath": "/v/t62.7118-24/30978256_7838103612948812_3814589250396559509_n.enc?ccb=11-4&oh=01_Q5AaINbyHJgEi1p0KUlNy22ZIGFWfhnNl-mrBkKHyBGm9SSX&oe=66AD9835&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720055481",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEAAAAAAAAAAAAAAAAAAwIEBQEBAAMBAQAAAAAAAAAAAAAAAAABAwIE/9oADAMBAAIQAxAAAADQZkF4bc8KSe8YACYJsgtgsbBRTFG0lnN0X5pgEC2bzTc5UK8616KJeNL/xAAiEAACAgEEAgMBAAAAAAAAAAAAAQIRAwQSE1EhQSIxUkL/2gAIAQEAAT8AjrI+4i1mPpi1WLsWoxP+jmx/pFjkkrbIzUlaZuNw2ZIylD6MMWoXRuNxyG+Npp+h5IVSdMfhllmjmo5VZq4xjkjkSJSx54nFPo2mniueBlnc6ZiVOVdnnscDBjW5y6Q4vc2OUkvETmf4YopszXBfF0Y1aVlIpH//xAAdEQACAwACAwAAAAAAAAAAAAAAAgEREiFREBNB/9oACAECAQE/AMKYg9cdjsI3zxqzVMW3Ys8l8m5P/8QAGxEAAgIDAQAAAAAAAAAAAAAAAAIBERITIVH/2gAIAQMBAT8AzY2MbJ8EXo69soxorhSklGMH/9k=",
+      "scansSidecar": "Fn+ISIXqcX2CeknKJiBd2UdTp90ApO4YRXKXH4T04rsIopqtZdcbgA==",
+      "scanLengths": [
+        11261,
+        24775,
+        13075,
+        34724
+      ],
+      "midQualityFileSha256": "pZabZVP6PC75iHNbYtrKLIh2t1PRbSsSXQUyLVswMoI="
+    },
+    "mentionUser": [],
+    "body": ".sticker",
+    "quoted": null
+  }
+]

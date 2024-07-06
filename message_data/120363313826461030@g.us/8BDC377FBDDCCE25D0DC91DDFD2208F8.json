@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "8BDC377FBDDCCE25D0DC91DDFD2208F8",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090454,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Hitiya nam null badhinna wena wa 😁",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "98F3B9EAE4BD3D6D6998FDF46C2AF2F4",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "වෙලාවට මුන් ලිස්ට් එකේ හිටියේ නෑ ඒ කාලේ 😂"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "8BDC377FBDDCCE25D0DC91DDFD2208F8",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Hitiya nam null badhinna wena wa 😁",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "98F3B9EAE4BD3D6D6998FDF46C2AF2F4",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "වෙලාවට මුන් ලිස්ට් එකේ හිටියේ නෑ ඒ කාලේ 😂"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Hitiya nam null badhinna wena wa 😁",
+    "quoted": {
+      "conversation": "වෙලාවට මුන් ලිස්ට් එකේ හිටියේ නෑ ඒ කාලේ 😂"
+    }
+  }
+]

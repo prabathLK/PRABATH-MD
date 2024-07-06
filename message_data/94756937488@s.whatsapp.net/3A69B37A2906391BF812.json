@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A69B37A2906391BF812"
+    },
+    "messageTimestamp": 1720112982,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ha ha",
+        "contextInfo": {
+          "stanzaId": "D379D1EC497B50F6F129BF43BE0B4E15",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ou ou wena seen naa ewa upload krna widiya page eke setting hadena widiya ewa thama"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A69B37A2906391BF812",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ha ha",
+      "contextInfo": {
+        "stanzaId": "D379D1EC497B50F6F129BF43BE0B4E15",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ou ou wena seen naa ewa upload krna widiya page eke setting hadena widiya ewa thama"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ha ha",
+    "quoted": {
+      "conversation": "Ou ou wena seen naa ewa upload krna widiya page eke setting hadena widiya ewa thama"
+    }
+  }
+]

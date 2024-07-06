@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764137028@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A2F83CEC9B3F6267181"
+    },
+    "messageTimestamp": 1720114006,
+    "pushName": "Rashmika Shamodh",
+    "broadcast": false,
+    "message": {
+      "conversation": "Passe karanapn love",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720113693",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A2F83CEC9B3F6267181",
+    "chat": "94764137028@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764137028@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Passe karanapn love",
+    "mentionUser": [],
+    "body": "Passe karanapn love",
+    "quoted": null
+  }
+]

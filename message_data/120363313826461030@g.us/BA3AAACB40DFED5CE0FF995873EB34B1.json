@@ -1,0 +1,79 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "BA3AAACB40DFED5CE0FF995873EB34B1",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720101952,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjD/5uwBRCpARogfGigDTO+3Kana8AlR3dSJxyjHIMwOECE3mAKTnXQni0iIQXA1G4P5zOd2FOOnFyB+yOh1x/Nl3+Z6L5oQYfyzrctJw=="
+      },
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-a29ca9f4-fb6b-4701-b888-2a78539eabb9?ccb=9-4&oh=01_Q5AaIE7GVMXwSy5OKPobiFYbz4fcSzgpXVm7b1Wnwn0U63U6&oe=66AE0AE1&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Commenter blhnko 😂",
+        "fileSha256": "rpHWgxWUsfQzQod1liMedzOjvkbBVTw76QHhs2urXlE=",
+        "fileLength": "97240",
+        "height": 1121,
+        "width": 720,
+        "mediaKey": "Fa+HCQd3fRI1671EsApiRGgwYA/jh+zzaTlPH9bJj/0=",
+        "fileEncSha256": "WXz1vdq2mly2izJ4rZ7++ZpFtMSeLbw1+nGw4fMJxgE=",
+        "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-a29ca9f4-fb6b-4701-b888-2a78539eabb9?ccb=9-4&oh=01_Q5AaIE7GVMXwSy5OKPobiFYbz4fcSzgpXVm7b1Wnwn0U63U6&oe=66AE0AE1&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720101950",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEYALQMBIgACEQEDEQH/xAAuAAACAwEBAAAAAAAAAAAAAAACAwAEBgEFAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAPbU6uGpnRdpVs8Gu3z9y3UIIZosjrM3yqOiCzOc0nKzOsSyMqFs5KRW1CBsAKKReckIMh//xAAoEAACAQMCBgICAwAAAAAAAAABAgADBBEFURITFCExQSJhIzQkU2L/2gAIAQEAAT8Ae2t1UkUVgpUcfrrnaChS92ywpTDD+KMQUkLY6VcbzpLb+pZcN4QoSDtF4U7Cm89ZCvE+a54GG4isV+QRojFlBIxmX71lrHDkCJVcHDVnJgru5Kc1hkyvWuKVVkFZpTN5UQuK5mnM7WqFzkzUqf5yxMYsSzA4zKOTXQS+Ga5I9wEgTTP1EmoF+oeO7+Apis6OH4SJXbJ95gKYGQ2ZphzaJGvbE92nXaduJ1um/U6vTfqdXpuwg1GxQYDz5kAEtOE7GFDsZwkbzDfcYEQ3WaYQQMeERmJ8Ti/3C5Hh5UJNNSd5zO2cTn+O0Nfac2c36jVcgCf/xAAaEQADAQADAAAAAAAAAAAAAAAAARECECAy/9oACAECAQE/AOUa9EZWPVdG73//xAAbEQADAAMBAQAAAAAAAAAAAAAAAREQImEhMf/aAAgBAwEBPwDLF8ykJQ24bcK/LCIiIj//2Q==",
+        "scansSidecar": "IPLmHqLGNjAfuoYaL0IF55Ia1lqiXNzFmMQy1nesRJrCJgNZUAsm7w==",
+        "scanLengths": [
+          8334,
+          44929,
+          18107,
+          25870
+        ],
+        "midQualityFileSha256": "lQyaN84fKMhUSseHKfpgMrOdiqWEFhVYTPsZ6gOsw0U="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "BA3AAACB40DFED5CE0FF995873EB34B1",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-a29ca9f4-fb6b-4701-b888-2a78539eabb9?ccb=9-4&oh=01_Q5AaIE7GVMXwSy5OKPobiFYbz4fcSzgpXVm7b1Wnwn0U63U6&oe=66AE0AE1&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Commenter blhnko 😂",
+      "fileSha256": "rpHWgxWUsfQzQod1liMedzOjvkbBVTw76QHhs2urXlE=",
+      "fileLength": "97240",
+      "height": 1121,
+      "width": 720,
+      "mediaKey": "Fa+HCQd3fRI1671EsApiRGgwYA/jh+zzaTlPH9bJj/0=",
+      "fileEncSha256": "WXz1vdq2mly2izJ4rZ7++ZpFtMSeLbw1+nGw4fMJxgE=",
+      "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-a29ca9f4-fb6b-4701-b888-2a78539eabb9?ccb=9-4&oh=01_Q5AaIE7GVMXwSy5OKPobiFYbz4fcSzgpXVm7b1Wnwn0U63U6&oe=66AE0AE1&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720101950",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEYALQMBIgACEQEDEQH/xAAuAAACAwEBAAAAAAAAAAAAAAACAwAEBgEFAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAPbU6uGpnRdpVs8Gu3z9y3UIIZosjrM3yqOiCzOc0nKzOsSyMqFs5KRW1CBsAKKReckIMh//xAAoEAACAQMCBgICAwAAAAAAAAABAgADBBEFURITFCExQSJhIzQkU2L/2gAIAQEAAT8Ae2t1UkUVgpUcfrrnaChS92ywpTDD+KMQUkLY6VcbzpLb+pZcN4QoSDtF4U7Cm89ZCvE+a54GG4isV+QRojFlBIxmX71lrHDkCJVcHDVnJgru5Kc1hkyvWuKVVkFZpTN5UQuK5mnM7WqFzkzUqf5yxMYsSzA4zKOTXQS+Ga5I9wEgTTP1EmoF+oeO7+Apis6OH4SJXbJ95gKYGQ2ZphzaJGvbE92nXaduJ1um/U6vTfqdXpuwg1GxQYDz5kAEtOE7GFDsZwkbzDfcYEQ3WaYQQMeERmJ8Ti/3C5Hh5UJNNSd5zO2cTn+O0Nfac2c36jVcgCf/xAAaEQADAQADAAAAAAAAAAAAAAAAARECECAy/9oACAECAQE/AOUa9EZWPVdG73//xAAbEQADAAMBAQAAAAAAAAAAAAAAAREQImEhMf/aAAgBAwEBPwDLF8ykJQ24bcK/LCIiIj//2Q==",
+      "scansSidecar": "IPLmHqLGNjAfuoYaL0IF55Ia1lqiXNzFmMQy1nesRJrCJgNZUAsm7w==",
+      "scanLengths": [
+        8334,
+        44929,
+        18107,
+        25870
+      ],
+      "midQualityFileSha256": "lQyaN84fKMhUSseHKfpgMrOdiqWEFhVYTPsZ6gOsw0U="
+    },
+    "mentionUser": [],
+    "body": "Commenter blhnko 😂",
+    "quoted": null
+  }
+]

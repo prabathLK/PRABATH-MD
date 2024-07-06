@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94770310903@s.whatsapp.net",
+      "fromMe": false,
+      "id": "EA0FA64BE4AA990FEDBA645C3BF6EA15"
+    },
+    "messageTimestamp": 1720095326,
+    "pushName": "චඳූ 🌼",
+    "broadcast": false,
+    "message": {
+      "conversation": "මට හිතුනා හැබැයි ලවු එකක් ඇති කියල",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "EA0FA64BE4AA990FEDBA645C3BF6EA15",
+    "chat": "94770310903@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94770310903@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "මට හිතුනා හැබැයි ලවු එකක් ඇති කියල",
+    "mentionUser": [],
+    "body": "මට හිතුනා හැබැයි ලවු එකක් ඇති කියල",
+    "quoted": null
+  }
+]

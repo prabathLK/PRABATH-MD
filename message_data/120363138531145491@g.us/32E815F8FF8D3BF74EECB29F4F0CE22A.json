@@ -1,0 +1,65 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363138531145491@g.us",
+      "fromMe": false,
+      "id": "32E815F8FF8D3BF74EECB29F4F0CE22A",
+      "participant": "94771963565@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720035129,
+    "pushName": "Satheeshan Satheesh",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363138531145491@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwifo4y4BhANGiDHOdIl+9E+nLgXhMcL7dY0StmYcMJMSEefpABaPPv2oiIhBQYsvNekrXoTbprzug7W3trZ4O9WCEliBJ54r9JBh71F"
+      },
+      "extendedTextMessage": {
+        "text": "@94768718147,@94787177718,@94702661989, war ghnna",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            "94702661989@s.whatsapp.net",
+            "94768718147@s.whatsapp.net",
+            "94787177718@s.whatsapp.net",
+            ""
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "+34nwW8gH/a3tg==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "32E815F8FF8D3BF74EECB29F4F0CE22A",
+    "chat": "120363138531145491@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94771963565@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "@94768718147,@94787177718,@94702661989, war ghnna",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "94702661989@s.whatsapp.net",
+          "94768718147@s.whatsapp.net",
+          "94787177718@s.whatsapp.net",
+          ""
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94702661989@s.whatsapp.net",
+      "94768718147@s.whatsapp.net",
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "@94768718147,@94787177718,@94702661989, war ghnna",
+    "quoted": null
+  }
+]

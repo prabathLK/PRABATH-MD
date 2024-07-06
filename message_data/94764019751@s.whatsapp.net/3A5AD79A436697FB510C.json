@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764019751@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A5AD79A436697FB510C"
+    },
+    "messageTimestamp": 1720057500,
+    "pushName": "Rashan.D",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/31830815_1247505423324837_268781896332096694_n.enc?ccb=11-4&oh=01_Q5AaILmK14GGL6ykTevVmE5EbLBnaiRg6qKueDfP3SQAhO1J&oe=66AD7D01&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "GzdkDwECRoqN0EXPZIVCPZ0MuFavTYxHqSNj3oj7Uc0=",
+        "fileEncSha256": "GyYuAuI4F0egFzqtRSllCS/0wm19pMyB1GDolTDsYKg=",
+        "mediaKey": "xVxRjZd2vgNLx2L0bQH7RreeB4yXHQ8iw/qZT2yyMtg=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/31830815_1247505423324837_268781896332096694_n.enc?ccb=11-4&oh=01_Q5AaILmK14GGL6ykTevVmE5EbLBnaiRg6qKueDfP3SQAhO1J&oe=66AD7D01&_nc_sid=5e03e0",
+        "fileLength": "32384",
+        "mediaKeyTimestamp": "1719941850",
+        "isAnimated": false,
+        "stickerSentTs": "1720057497493",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720023347",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A5AD79A436697FB510C",
+    "chat": "94764019751@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764019751@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/31830815_1247505423324837_268781896332096694_n.enc?ccb=11-4&oh=01_Q5AaILmK14GGL6ykTevVmE5EbLBnaiRg6qKueDfP3SQAhO1J&oe=66AD7D01&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "GzdkDwECRoqN0EXPZIVCPZ0MuFavTYxHqSNj3oj7Uc0=",
+      "fileEncSha256": "GyYuAuI4F0egFzqtRSllCS/0wm19pMyB1GDolTDsYKg=",
+      "mediaKey": "xVxRjZd2vgNLx2L0bQH7RreeB4yXHQ8iw/qZT2yyMtg=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/31830815_1247505423324837_268781896332096694_n.enc?ccb=11-4&oh=01_Q5AaILmK14GGL6ykTevVmE5EbLBnaiRg6qKueDfP3SQAhO1J&oe=66AD7D01&_nc_sid=5e03e0",
+      "fileLength": "32384",
+      "mediaKeyTimestamp": "1719941850",
+      "isAnimated": false,
+      "stickerSentTs": "1720057497493",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

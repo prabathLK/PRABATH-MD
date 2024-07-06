@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94705346209@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F074EC5FA58ED869014898BC179E4193"
+    },
+    "messageTimestamp": 1720078041,
+    "pushName": "Kavishan C Wijayananda 🦁🍃",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "හොයල දියම්කො 4ටො එකක්",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 7776000,
+          "ephemeralSettingTimestamp": "1711384659",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "BULK_CHANGE",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F074EC5FA58ED869014898BC179E4193",
+    "chat": "94705346209@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94705346209@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "හොයල දියම්කො 4ටො එකක්",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 7776000,
+        "ephemeralSettingTimestamp": "1711384659",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "BULK_CHANGE",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "හොයල දියම්කො 4ටො එකක්",
+    "quoted": null
+  }
+]

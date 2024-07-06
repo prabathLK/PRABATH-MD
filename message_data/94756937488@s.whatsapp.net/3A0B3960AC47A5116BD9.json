@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A0B3960AC47A5116BD9"
+    },
+    "messageTimestamp": 1720061454,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "pissek wenn ep aiye",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720022210",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A0B3960AC47A5116BD9",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "pissek wenn ep aiye",
+    "mentionUser": [],
+    "body": "pissek wenn ep aiye",
+    "quoted": null
+  }
+]

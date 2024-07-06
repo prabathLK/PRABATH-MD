@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "44D5A6CDDCCF8C7E86D7EA34E719B12A"
+    },
+    "messageTimestamp": 1720159170,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "conversation": "Lat ekat ගින්දර dnn wenne halunanm",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "44D5A6CDDCCF8C7E86D7EA34E719B12A",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Lat ekat ගින්දර dnn wenne halunanm",
+    "mentionUser": [],
+    "body": "Lat ekat ගින්දර dnn wenne halunanm",
+    "quoted": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A60F60C008D7C64969F",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158091,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "ko"
+    },
+    "id": "3A60F60C008D7C64969F",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ko",
+    "mentionUser": [],
+    "body": "ko",
+    "quoted": null
+  }
+]

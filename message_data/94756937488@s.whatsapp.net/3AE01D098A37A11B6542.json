@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AE01D098A37A11B6542"
+    },
+    "messageTimestamp": 1720180986,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "Inn",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720180939",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AE01D098A37A11B6542",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Inn",
+    "mentionUser": [],
+    "body": "Inn",
+    "quoted": null
+  },
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AE01D098A37A11B6542"
+    },
+    "messageTimestamp": 1720180987,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "Inn",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720180939",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AE01D098A37A11B6542",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Inn",
+    "mentionUser": [],
+    "body": "Inn",
+    "quoted": null
+  }
+]

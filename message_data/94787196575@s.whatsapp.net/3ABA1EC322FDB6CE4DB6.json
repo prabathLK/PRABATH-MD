@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94787196575@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3ABA1EC322FDB6CE4DB6"
+    },
+    "messageTimestamp": 1720183107,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Het wren ape gdr",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720180210",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3ABA1EC322FDB6CE4DB6",
+    "chat": "94787196575@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Het wren ape gdr",
+    "mentionUser": [],
+    "body": "Het wren ape gdr",
+    "quoted": null
+  }
+]

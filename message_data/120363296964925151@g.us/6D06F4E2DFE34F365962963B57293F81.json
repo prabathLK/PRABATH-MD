@@ -1,0 +1,150 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "6D06F4E2DFE34F365962963B57293F81",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720111579,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/31480359_1047176196777821_6533106888596281934_n.enc?ccb=11-4&oh=01_Q5AaIA7H5vKQmJeR1HfT691K3chKiap6WGB3b7MAeXCl18Lv&oe=66AE3F35&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "`Hidden Figures (2016) Sinhala Subtitles | සැඟවුණු දක්ෂයින්` \n\n\n\n\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*",
+        "fileSha256": "+nC3H4yyPxhtykMi7WRZohfYRYtFjRKNRY6o3AW2jy8=",
+        "fileLength": "154683",
+        "height": 1600,
+        "width": 1080,
+        "mediaKey": "t0cJATzV6BXcrIYNTUaoMk7dx1hgjEod/eMCdlC7/mM=",
+        "fileEncSha256": "lCMOiSqFae5O+bNXNpZG/sNddVe967kp0ofbTLhAllk=",
+        "directPath": "/v/t62.7118-24/31480359_1047176196777821_6533106888596281934_n.enc?ccb=11-4&oh=01_Q5AaIA7H5vKQmJeR1HfT691K3chKiap6WGB3b7MAeXCl18Lv&oe=66AE3F35&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720111508",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAMAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAEBQADBgIBAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAA3PvUk1HS0k0XeM09nmbbJTswMjG7rQD7PQGqbtiwqyvEK7TvM09W3rpQDpRYzOm6MqVyE8kOu5D//xAAhEAACAgIDAQEBAQEAAAAAAAABAgADBBEFEiExExQjUf/aAAgBAQABPwDki94/zfWpVY9N+yPVj5OXlMfTOKvuRmqtM7+62INwdCxDHxjMsD+luvzUwi1SBumwZkG3XfXXXwiY37WObDaVAP2YWWWYVs25lYfUFqwI9Lguz/8AJi39lWvsBMvIAq6b2TMcVnF0wmIqf0poa1OWy7aLBUhi33Wdg3oImDVWfsy1V+qV/Y1d2Oo0Zx2Qhu03rTl0DZUrrUHc/KsnsARKglTDqNxlW8EE6nG4qV2ElfZy+O5sNwPgEXewSfJUgeosIWUE9fsbKdASJxdrW1lpZWtilWmZhIKWKTD3XikOplzogJVT2JgLvVaBWdzhVZcX0Q+QuuvYSrDWocWjZGpRjU0Fio9aDWvIw3DUD9n5EQ1E/Z0MA1P/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREQITFBAhIg/9oACAECAQE/AJuTenV5NiyJ8YGJUvLcmvH/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQEhMEFC/9oACAEDAQE/AFQqEOjklIRG8H//2Q==",
+        "scansSidecar": "+cfxeDSMO7sWcbt0rMwux/e0/Us=",
+        "scanLengths": [
+          19696,
+          134987
+        ]
+      }
+    },
+    "id": "6D06F4E2DFE34F365962963B57293F81",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/31480359_1047176196777821_6533106888596281934_n.enc?ccb=11-4&oh=01_Q5AaIA7H5vKQmJeR1HfT691K3chKiap6WGB3b7MAeXCl18Lv&oe=66AE3F35&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "`Hidden Figures (2016) Sinhala Subtitles | සැඟවුණු දක්ෂයින්` \n\n\n\n\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*",
+      "fileSha256": "+nC3H4yyPxhtykMi7WRZohfYRYtFjRKNRY6o3AW2jy8=",
+      "fileLength": "154683",
+      "height": 1600,
+      "width": 1080,
+      "mediaKey": "t0cJATzV6BXcrIYNTUaoMk7dx1hgjEod/eMCdlC7/mM=",
+      "fileEncSha256": "lCMOiSqFae5O+bNXNpZG/sNddVe967kp0ofbTLhAllk=",
+      "directPath": "/v/t62.7118-24/31480359_1047176196777821_6533106888596281934_n.enc?ccb=11-4&oh=01_Q5AaIA7H5vKQmJeR1HfT691K3chKiap6WGB3b7MAeXCl18Lv&oe=66AE3F35&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720111508",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAMAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAEBQADBgIBAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAAA3PvUk1HS0k0XeM09nmbbJTswMjG7rQD7PQGqbtiwqyvEK7TvM09W3rpQDpRYzOm6MqVyE8kOu5D//xAAhEAACAgIDAQEBAQEAAAAAAAABAgADBBEFEiExExQjUf/aAAgBAQABPwDki94/zfWpVY9N+yPVj5OXlMfTOKvuRmqtM7+62INwdCxDHxjMsD+luvzUwi1SBumwZkG3XfXXXwiY37WObDaVAP2YWWWYVs25lYfUFqwI9Lguz/8AJi39lWvsBMvIAq6b2TMcVnF0wmIqf0poa1OWy7aLBUhi33Wdg3oImDVWfsy1V+qV/Y1d2Oo0Zx2Qhu03rTl0DZUrrUHc/KsnsARKglTDqNxlW8EE6nG4qV2ElfZy+O5sNwPgEXewSfJUgeosIWUE9fsbKdASJxdrW1lpZWtilWmZhIKWKTD3XikOplzogJVT2JgLvVaBWdzhVZcX0Q+QuuvYSrDWocWjZGpRjU0Fio9aDWvIw3DUD9n5EQ1E/Z0MA1P/xAAdEQACAQQDAAAAAAAAAAAAAAAAAREQITFBAhIg/9oACAECAQE/AJuTenV5NiyJ8YGJUvLcmvH/xAAaEQACAgMAAAAAAAAAAAAAAAAAEQEhMEFC/9oACAEDAQE/AFQqEOjklIRG8H//2Q==",
+      "scansSidecar": "+cfxeDSMO7sWcbt0rMwux/e0/Us=",
+      "scanLengths": [
+        19696,
+        134987
+      ]
+    },
+    "mentionUser": [],
+    "body": "`Hidden Figures (2016) Sinhala Subtitles | සැඟවුණු දක්ෂයින්` \n\n\n\n\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*",
+    "quoted": null
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "6D06F4E2DFE34F365962963B57293F81",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720111593,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiwurm4ARBFGiBLRSK+6x6FQVKlVxr6mOm+VBabqWW2lZTXyZbcPbFbPCIhBT3n4qsrGVude3KevOH8WrN1mktN+/Yg0YnXJT7IKi0S"
+      }
+    },
+    "id": "6D06F4E2DFE34F365962963B57293F81",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "6D06F4E2DFE34F365962963B57293F81",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720111610,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiwurm4ARBLGiCodbynVR7DBwnd2E9MK8FujXVCsz5FQvYaIS+eX8C+TiIhBT3n4qsrGVude3KevOH8WrN1mktN+/Yg0YnXJT7IKi0S"
+      }
+    },
+    "id": "6D06F4E2DFE34F365962963B57293F81",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "6D06F4E2DFE34F365962963B57293F81",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720111632,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiwurm4ARBPGiDsliVBojEGqCe9TYCSNBjJ+YPMLRxVLYtgSYvmnUCPjiIhBT3n4qsrGVude3KevOH8WrN1mktN+/Yg0YnXJT7IKi0S"
+      }
+    },
+    "id": "6D06F4E2DFE34F365962963B57293F81",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "6D06F4E2DFE34F365962963B57293F81",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720111661,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiwurm4ARBZGiAFkD2nrfBq7o3TBa1MI5wZ6wyPH+SbGWUTTkyeRTrsQyIhBT3n4qsrGVude3KevOH8WrN1mktN+/Yg0YnXJT7IKi0S"
+      }
+    },
+    "id": "6D06F4E2DFE34F365962963B57293F81",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  }
+]

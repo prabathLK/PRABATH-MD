@@ -1,0 +1,44 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A090C75F3428D5760FA",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077936,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363313826461030@g.us",
+          "fromMe": true,
+          "id": "13E87086E84BCCE5A81AC2FF0C513E78",
+          "participant": "94787177718@s.whatsapp.net"
+        },
+        "text": "😂",
+        "senderTimestampMs": "1720077935124"
+      }
+    },
+    "id": "3A090C75F3428D5760FA",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363313826461030@g.us",
+        "fromMe": true,
+        "id": "13E87086E84BCCE5A81AC2FF0C513E78",
+        "participant": "94787177718@s.whatsapp.net"
+      },
+      "text": "😂",
+      "senderTimestampMs": "1720077935124"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

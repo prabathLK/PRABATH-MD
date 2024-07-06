@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A401A4D6DB31A68D4CB"
+    },
+    "messageTimestamp": 1720155895,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "pain",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720155051",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A401A4D6DB31A68D4CB",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "pain",
+    "mentionUser": [],
+    "body": "pain",
+    "quoted": null
+  }
+]

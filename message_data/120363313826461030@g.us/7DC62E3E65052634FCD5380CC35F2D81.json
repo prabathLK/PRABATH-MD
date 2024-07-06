@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "7DC62E3E65052634FCD5380CC35F2D81",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720157058,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Hri hri report kt"
+    },
+    "id": "7DC62E3E65052634FCD5380CC35F2D81",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Hri hri report kt",
+    "mentionUser": [],
+    "body": "Hri hri report kt",
+    "quoted": null
+  }
+]

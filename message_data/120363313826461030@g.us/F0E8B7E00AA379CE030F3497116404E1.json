@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "F0E8B7E00AA379CE030F3497116404E1",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720059699,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Gummonim"
+    },
+    "id": "F0E8B7E00AA379CE030F3497116404E1",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Gummonim",
+    "mentionUser": [],
+    "body": "Gummonim",
+    "quoted": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "A1307348271DB30D4890331A1BD40487",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720089991,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "Adooo"
+    },
+    "id": "A1307348271DB30D4890331A1BD40487",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Adooo",
+    "mentionUser": [],
+    "body": "Adooo",
+    "quoted": null
+  }
+]

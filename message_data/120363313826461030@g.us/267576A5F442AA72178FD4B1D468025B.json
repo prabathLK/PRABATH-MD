@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "267576A5F442AA72178FD4B1D468025B",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090368,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ha oya eka parak status dhapu eka 😁",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "D808CF70A21C36C2724957681265BDE7",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "අර උබ ආස එක"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "267576A5F442AA72178FD4B1D468025B",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ha oya eka parak status dhapu eka 😁",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "D808CF70A21C36C2724957681265BDE7",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "අර උබ ආස එක"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ha oya eka parak status dhapu eka 😁",
+    "quoted": {
+      "conversation": "අර උබ ආස එක"
+    }
+  }
+]

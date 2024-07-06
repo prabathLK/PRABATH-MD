@@ -1,0 +1,24 @@
+{
+  "name": "@blackamda/telegram-image-url",
+  "version": "1.0.0",
+  "description": "Upload an image and convert into telegram link",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackAmda",
+  "keywords": ["telegram", "direct link", "image uploader", "image to url"],
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.27.2",
+    "form-data": "^4.0.0"
+  },
+  "homepage": "https://github.com/BlackAmda/telegram-image-url#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BlackAmda/telegram-image-url.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BlackAmda/telegram-image-url/issues"
+  }
+}

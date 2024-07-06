@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AF1833BCD2CE88E42BD",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720155989,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Blpn mge acc eke link copy krnn puluwn d kyl",
+        "contextInfo": {
+          "stanzaId": "4821244A26CC26C5D0A859737BAC6898",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Amne 😂"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3AF1833BCD2CE88E42BD",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Blpn mge acc eke link copy krnn puluwn d kyl",
+      "contextInfo": {
+        "stanzaId": "4821244A26CC26C5D0A859737BAC6898",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Amne 😂"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Blpn mge acc eke link copy krnn puluwn d kyl",
+    "quoted": {
+      "conversation": "Amne 😂"
+    }
+  }
+]

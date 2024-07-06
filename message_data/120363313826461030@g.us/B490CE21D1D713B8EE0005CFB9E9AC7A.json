@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "B490CE21D1D713B8EE0005CFB9E9AC7A",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720032476,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Nidagnim",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi17/2EARAvGiA2HEmIzIOmy2RP0013VV5y+VywDR3TYOvaqfJPiAbCEyIhBctM47d8yTa0wV2KMpxuIW57DQpsLC3Vjm/RvFZ6p7lw"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "+34nwW8gH/a3tg==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "B490CE21D1D713B8EE0005CFB9E9AC7A",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Nidagnim",
+    "mentionUser": [],
+    "body": "Nidagnim",
+    "quoted": null
+  }
+]

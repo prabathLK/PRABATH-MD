@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "A7F3B6635D1090454FF1C52074C3E76B",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158594,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "අපෙ ගෙදරත් දේවාලයක් තියෙනව"
+    },
+    "id": "A7F3B6635D1090454FF1C52074C3E76B",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "අපෙ ගෙදරත් දේවාලයක් තියෙනව",
+    "mentionUser": [],
+    "body": "අපෙ ගෙදරත් දේවාලයක් තියෙනව",
+    "quoted": null
+  }
+]

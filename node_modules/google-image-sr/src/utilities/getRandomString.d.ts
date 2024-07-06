@@ -1,0 +1,1 @@
+export declare function generateRandomString(length: number): string;

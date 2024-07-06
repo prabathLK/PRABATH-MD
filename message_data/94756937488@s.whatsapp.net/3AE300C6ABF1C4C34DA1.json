@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AE300C6ABF1C4C34DA1"
+    },
+    "messageTimestamp": 1720068704,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "lawta ekk thiynwa",
+        "contextInfo": {
+          "stanzaId": "D0B13F635951565E7E76A7E1AF43E234",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ethakota ptn gnida kylawth shuwr ndd"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720068689",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AE300C6ABF1C4C34DA1",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "lawta ekk thiynwa",
+      "contextInfo": {
+        "stanzaId": "D0B13F635951565E7E76A7E1AF43E234",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ethakota ptn gnida kylawth shuwr ndd"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "lawta ekk thiynwa",
+    "quoted": {
+      "conversation": "Ethakota ptn gnida kylawth shuwr ndd"
+    }
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94787196575@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AB9D94982CEA396076B"
+    },
+    "messageTimestamp": 1720186808,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "ub aul ghnne ntuw",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720186712",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AB9D94982CEA396076B",
+    "chat": "94787196575@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ub aul ghnne ntuw",
+    "mentionUser": [],
+    "body": "ub aul ghnne ntuw",
+    "quoted": null
+  }
+]

@@ -1,0 +1,70 @@
+{
+  "name": "similarity",
+  "version": "1.2.1",
+  "description": "How similar are these two strings?",
+  "license": "ISC",
+  "keywords": [
+    "string",
+    "text",
+    "similarity",
+    "comparison",
+    "levenshtein",
+    "distance",
+    "spelling"
+  ],
+  "repository": "words/similarity",
+  "bugs": "https://github.com/words/similarity/issues",
+  "author": "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+  "contributors": [
+    "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)",
+    "Titus Wormer <tituswormer@gmail.com> (https://wooorm.com)"
+  ],
+  "main": "index.js",
+  "bin": {
+    "similarity": "cli.js"
+  },
+  "files": [
+    "cli.js",
+    "index.js"
+  ],
+  "dependencies": {
+    "levenshtein-edit-distance": "^2.0.0"
+  },
+  "devDependencies": {
+    "nyc": "^15.0.0",
+    "prettier": "^1.0.0",
+    "remark-cli": "^7.0.0",
+    "remark-preset-wooorm": "^6.0.0",
+    "tape": "^4.0.0",
+    "xo": "^0.26.0"
+  },
+  "scripts": {
+    "format": "remark . -qfo && prettier --write \"**/*.js\" && xo --fix",
+    "test-api": "node test",
+    "test-coverage": "nyc --reporter lcov tape test.js",
+    "test": "npm run format && npm run test-coverage"
+  },
+  "nyc": {
+    "check-coverage": true,
+    "lines": 100,
+    "functions": 100,
+    "branches": 100
+  },
+  "prettier": {
+    "tabWidth": 2,
+    "useTabs": false,
+    "singleQuote": true,
+    "bracketSpacing": false,
+    "semi": false,
+    "trailingComma": "none"
+  },
+  "xo": {
+    "prettier": true,
+    "esnext": false
+  },
+  "remarkConfig": {
+    "plugins": [
+      "preset-wooorm"
+    ]
+  }
+}

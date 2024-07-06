@@ -1,0 +1,101 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AB324B5C32A1E160BBA"
+    },
+    "messageTimestamp": 1720169200,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ගෙදර එවපන් ඔකව",
+        "contextInfo": {
+          "stanzaId": "8B1294FB9F6E62F9FF93FA7E30C07752",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "audioMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "audio/ogg; codecs=opus",
+              "fileSha256": "f2RyXXEeSc0r3qXCAXpCfC08tS228K7pxeaPMCbimy8=",
+              "fileLength": "3928",
+              "seconds": 1,
+              "ptt": true,
+              "mediaKey": "W3xh9osUE3ZsTl1FVpiV03dCheZIZ7APTfdOZ8RCVws=",
+              "fileEncSha256": "b6zMMLaLSYi47vvQBPDaIYSFka88UjSMC41JWGK1NOc=",
+              "directPath": "/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720169176",
+              "streamingSidecar": "",
+              "waveform": "AAAAAAAADzxVWFlYV1dSTElGUVpaWFNRUVBPUFJIOx4AAAQrR0FARklGRUM+ODg4P0Q8Njs9PDgzIwsBAAAAAA=="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AB324B5C32A1E160BBA",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ගෙදර එවපන් ඔකව",
+      "contextInfo": {
+        "stanzaId": "8B1294FB9F6E62F9FF93FA7E30C07752",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "audioMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "audio/ogg; codecs=opus",
+            "fileSha256": "f2RyXXEeSc0r3qXCAXpCfC08tS228K7pxeaPMCbimy8=",
+            "fileLength": "3928",
+            "seconds": 1,
+            "ptt": true,
+            "mediaKey": "W3xh9osUE3ZsTl1FVpiV03dCheZIZ7APTfdOZ8RCVws=",
+            "fileEncSha256": "b6zMMLaLSYi47vvQBPDaIYSFka88UjSMC41JWGK1NOc=",
+            "directPath": "/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720169176",
+            "streamingSidecar": "",
+            "waveform": "AAAAAAAADzxVWFlYV1dSTElGUVpaWFNRUVBPUFJIOx4AAAQrR0FARklGRUM+ODg4P0Q8Njs9PDgzIwsBAAAAAA=="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ගෙදර එවපන් ඔකව",
+    "quoted": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "f2RyXXEeSc0r3qXCAXpCfC08tS228K7pxeaPMCbimy8=",
+        "fileLength": "3928",
+        "seconds": 1,
+        "ptt": true,
+        "mediaKey": "W3xh9osUE3ZsTl1FVpiV03dCheZIZ7APTfdOZ8RCVws=",
+        "fileEncSha256": "b6zMMLaLSYi47vvQBPDaIYSFka88UjSMC41JWGK1NOc=",
+        "directPath": "/v/t62.7117-24/19916297_841423670773976_1713557898249508169_n.enc?ccb=11-4&oh=01_Q5AaIIb6gCT65x-P_ErMDJlKHgGFC22ktRgq9PMvLw-PR_Zc&oe=66AF0EAE&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720169176",
+        "streamingSidecar": "",
+        "waveform": "AAAAAAAADzxVWFlYV1dSTElGUVpaWFNRUVBPUFJIOx4AAAQrR0FARklGRUM+ODg4P0Q8Njs9PDgzIwsBAAAAAA=="
+      }
+    }
+  }
+]

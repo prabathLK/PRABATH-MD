@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A3620FDFEAD7BC5EF32"
+    },
+    "messageTimestamp": 1720102583,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "un denn marry krla inne",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720099749",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A3620FDFEAD7BC5EF32",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "un denn marry krla inne",
+    "mentionUser": [],
+    "body": "un denn marry krla inne",
+    "quoted": null
+  }
+]

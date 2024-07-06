@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "FE82F520EB236E6F0E86D6E395ABCBC8",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720181034,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19244984_1402972270393533_5614299718483974597_n.enc?ccb=11-4&oh=01_Q5AaIMSynLaNGczaviKm9wHoE6z11DT4kO3m_qBgagv96N13&oe=66AF3A42&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "ckRLFLbWwYmHESBpExgMMzfrTIV1FGqoBTLfDSbYv/k=",
+        "fileEncSha256": "yg+61j8TJmR5NaLyA54CICaF4fkczxcrpiuO5k4zAuw=",
+        "mediaKey": "Yx/6dKdCFX/iGkukn3fynTnRFcOBkV9PsPj2JbrfDRI=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/19244984_1402972270393533_5614299718483974597_n.enc?ccb=11-4&oh=01_Q5AaIMSynLaNGczaviKm9wHoE6z11DT4kO3m_qBgagv96N13&oe=66AF3A42&_nc_sid=5e03e0",
+        "fileLength": "14690",
+        "mediaKeyTimestamp": "1720181032",
+        "isAnimated": false,
+        "stickerSentTs": "1720181032416",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "FE82F520EB236E6F0E86D6E395ABCBC8",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19244984_1402972270393533_5614299718483974597_n.enc?ccb=11-4&oh=01_Q5AaIMSynLaNGczaviKm9wHoE6z11DT4kO3m_qBgagv96N13&oe=66AF3A42&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "ckRLFLbWwYmHESBpExgMMzfrTIV1FGqoBTLfDSbYv/k=",
+      "fileEncSha256": "yg+61j8TJmR5NaLyA54CICaF4fkczxcrpiuO5k4zAuw=",
+      "mediaKey": "Yx/6dKdCFX/iGkukn3fynTnRFcOBkV9PsPj2JbrfDRI=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/19244984_1402972270393533_5614299718483974597_n.enc?ccb=11-4&oh=01_Q5AaIMSynLaNGczaviKm9wHoE6z11DT4kO3m_qBgagv96N13&oe=66AF3A42&_nc_sid=5e03e0",
+      "fileLength": "14690",
+      "mediaKeyTimestamp": "1720181032",
+      "isAnimated": false,
+      "stickerSentTs": "1720181032416",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

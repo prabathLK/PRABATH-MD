@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A46AFA916989D6CC410"
+    },
+    "messageTimestamp": 1720163116,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "ki denekt mehe yawwd ithn?",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720163027",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A46AFA916989D6CC410",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ki denekt mehe yawwd ithn?",
+    "mentionUser": [],
+    "body": "ki denekt mehe yawwd ithn?",
+    "quoted": null
+  }
+]

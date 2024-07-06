@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "975E85AB91666914629B09F542CF0599"
+    },
+    "messageTimestamp": 1720158700,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "conversation": "Bio eke විතරයි ntte",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "975E85AB91666914629B09F542CF0599",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Bio eke විතරයි ntte",
+    "mentionUser": [],
+    "body": "Bio eke විතරයි ntte",
+    "quoted": null
+  }
+]

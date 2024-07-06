@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AFDD9FD1BE6A1C6548C",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720107153,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "😂😂",
+        "contextInfo": {
+          "stanzaId": "893383749E36610C1C1BADEF619B779D",
+          "participant": "94704985865@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ammo 🤣"
+          },
+          "mentionedJid": [
+            "94704985865@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3AFDD9FD1BE6A1C6548C",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "😂😂",
+      "contextInfo": {
+        "stanzaId": "893383749E36610C1C1BADEF619B779D",
+        "participant": "94704985865@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ammo 🤣"
+        },
+        "mentionedJid": [
+          "94704985865@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94704985865@s.whatsapp.net"
+    ],
+    "body": "😂😂",
+    "quoted": {
+      "conversation": "Ammo 🤣"
+    }
+  }
+]

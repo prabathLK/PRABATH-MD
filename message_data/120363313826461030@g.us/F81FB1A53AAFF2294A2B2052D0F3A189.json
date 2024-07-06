@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "F81FB1A53AAFF2294A2B2052D0F3A189",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090045,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ai  pako gema dha",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "F9A1D93CA74A65CBBBF6A4D2271B6D41",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ai ai hutto ai"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "F81FB1A53AAFF2294A2B2052D0F3A189",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ai  pako gema dha",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "F9A1D93CA74A65CBBBF6A4D2271B6D41",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ai ai hutto ai"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ai  pako gema dha",
+    "quoted": {
+      "conversation": "Ai ai hutto ai"
+    }
+  }
+]

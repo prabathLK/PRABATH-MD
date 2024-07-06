@@ -1,0 +1,59 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A58A97FB75A303C2188"
+    },
+    "messageTimestamp": 1720091319,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-60fd78fb-4db3-40a1-a067-62d05fede09c?ccb=9-4&oh=01_Q5AaIHKiSoTClVi8E2SVZdmZWwyIvemUaSJ34c0OxMOQvqr7&oe=66ADF1C5&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "fileSha256": "RgoEFTciJzCDuMMZ4ek5WtMA5H7587sN7vo42Gc3ZuY=",
+        "fileLength": "240584",
+        "height": 1202,
+        "width": 1600,
+        "mediaKey": "8FZPuOeJw4jNz/UdfbDA4fieOmuCqjdtyHLDDvgWzyA=",
+        "fileEncSha256": "gqEj7+NUl0DAlafD9KzQ1fMuILSRuGPkeNbpRDnSbiA=",
+        "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-60fd78fb-4db3-40a1-a067-62d05fede09c?ccb=9-4&oh=01_Q5AaIHKiSoTClVi8E2SVZdmZWwyIvemUaSJ34c0OxMOQvqr7&oe=66ADF1C5&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720091314",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCAA2AEgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwIB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAC5JflzXmWyqbHjM1VaXVpNYjoLhB5EWOPuA7E2rAnXqjMascPBS8vuglhU72y6cZtDW3N1eyupY8HQzOCPMo5hGyKYa9/fQGrYD5//xAAcEQADAAIDAQAAAAAAAAAAAAAAARECECExQVH/2gAIAQIBAT8Ab0ne9UZ4YfRxlSGN0xXBCHa15qn/xAAdEQADAQADAAMAAAAAAAAAAAAAAQIRAyExEBIT/9oACAEDAQE/AELtlThnwhej1rEieK88HFJnGk2tLv7dIi6hZKP1qnjI5ZSynjJ6ZPqISTY5RfBFU20f/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIAAxEEEiEFQRMiMVEUQmFicYEjMpH/2gAIAQEAAT8A1V/gJkDJM1F72nzN+oAMY3cwszWeEnJPeNpHqQkvnvNPqtrgHkQ6hSuFUfmbrM7B+oEZGAY5B7zqh8iwhefcxgFQ47TSMz3llBmGCk2LwfllwWu3KjAPaUXDgFuJpNjsWbgAYEatLFKn/Z1U+VZhdme81T/wkATptwRyDLaw9fiKx295rmpKZU+aaZuZTqFrGSeJ8ezNitS06seEhpIqFhP4mofggiaTTtdfhSQBNSGp0LDHoMSqg3WAMdq98w17L8VnK+8SgsR3JlVb1Y4UfUzq/wAsdh8CvIzngRabbXwFmi0q0L9x9Zrq3uqFVfqTD0+7zbBuCnEXpdxrNhwCPl7xU0pqHLhvQmapXrbaWJXsfedWzlce0prew4J4EqUIMAT0Ed2N4w21F5Jnj1Ualg5xvGQYjKlm9SGz901dY058ZAprb+ymeEmspatPUcrNbttBY58omktzuH1lfpNXca6iRBY3w1pJz3EN7u2WOTBcwMe92XBYkTp2tXTo25MnsZ///gADAP/Z",
+        "viewOnce": true
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720090083",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A58A97FB75A303C2188",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-60fd78fb-4db3-40a1-a067-62d05fede09c?ccb=9-4&oh=01_Q5AaIHKiSoTClVi8E2SVZdmZWwyIvemUaSJ34c0OxMOQvqr7&oe=66ADF1C5&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "fileSha256": "RgoEFTciJzCDuMMZ4ek5WtMA5H7587sN7vo42Gc3ZuY=",
+      "fileLength": "240584",
+      "height": 1202,
+      "width": 1600,
+      "mediaKey": "8FZPuOeJw4jNz/UdfbDA4fieOmuCqjdtyHLDDvgWzyA=",
+      "fileEncSha256": "gqEj7+NUl0DAlafD9KzQ1fMuILSRuGPkeNbpRDnSbiA=",
+      "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-60fd78fb-4db3-40a1-a067-62d05fede09c?ccb=9-4&oh=01_Q5AaIHKiSoTClVi8E2SVZdmZWwyIvemUaSJ34c0OxMOQvqr7&oe=66ADF1C5&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720091314",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCAA2AEgDASIAAhEBAxEB/8QAGQAAAwEBAQAAAAAAAAAAAAAAAAQFAwIB/8QAGQEAAwEBAQAAAAAAAAAAAAAAAAECAwQF/9oADAMBAAIQAxAAAAC5JflzXmWyqbHjM1VaXVpNYjoLhB5EWOPuA7E2rAnXqjMascPBS8vuglhU72y6cZtDW3N1eyupY8HQzOCPMo5hGyKYa9/fQGrYD5//xAAcEQADAAIDAQAAAAAAAAAAAAAAARECECExQVH/2gAIAQIBAT8Ab0ne9UZ4YfRxlSGN0xXBCHa15qn/xAAdEQADAQADAAMAAAAAAAAAAAAAAQIRAyExEBIT/9oACAEDAQE/AELtlThnwhej1rEieK88HFJnGk2tLv7dIi6hZKP1qnjI5ZSynjJ6ZPqISTY5RfBFU20f/8QAKhAAAgIBAwIEBgMAAAAAAAAAAQIAAxEEEiEFQRMiMVEUQmFicYEjMpH/2gAIAQEAAT8A1V/gJkDJM1F72nzN+oAMY3cwszWeEnJPeNpHqQkvnvNPqtrgHkQ6hSuFUfmbrM7B+oEZGAY5B7zqh8iwhefcxgFQ47TSMz3llBmGCk2LwfllwWu3KjAPaUXDgFuJpNjsWbgAYEatLFKn/Z1U+VZhdme81T/wkATptwRyDLaw9fiKx295rmpKZU+aaZuZTqFrGSeJ8ezNitS06seEhpIqFhP4mofggiaTTtdfhSQBNSGp0LDHoMSqg3WAMdq98w17L8VnK+8SgsR3JlVb1Y4UfUzq/wAsdh8CvIzngRabbXwFmi0q0L9x9Zrq3uqFVfqTD0+7zbBuCnEXpdxrNhwCPl7xU0pqHLhvQmapXrbaWJXsfedWzlce0prew4J4EqUIMAT0Ed2N4w21F5Jnj1Ualg5xvGQYjKlm9SGz901dY058ZAprb+ymeEmspatPUcrNbttBY58omktzuH1lfpNXca6iRBY3w1pJz3EN7u2WOTBcwMe92XBYkTp2tXTo25MnsZ///gADAP/Z",
+      "viewOnce": true
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

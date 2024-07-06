@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "D5D8DEAF89B0BFFC4CE4960E3A40A3FE",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091286,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Me boni loku dha",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "D997E1E8EB9D539BDDB4F59070913152",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "දෝනිට පාඩුවේ ඉන්න දියන්"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "D5D8DEAF89B0BFFC4CE4960E3A40A3FE",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Me boni loku dha",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "D997E1E8EB9D539BDDB4F59070913152",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "දෝනිට පාඩුවේ ඉන්න දියන්"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Me boni loku dha",
+    "quoted": {
+      "conversation": "දෝනිට පාඩුවේ ඉන්න දියන්"
+    }
+  }
+]

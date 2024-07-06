@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764019751@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF149E9C6F3A99EA675"
+    },
+    "messageTimestamp": 1720060363,
+    "pushName": "Rashan.D",
+    "broadcast": false,
+    "message": {
+      "conversation": "පුරෙ ගිහින් එමුද",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720023347",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AF149E9C6F3A99EA675",
+    "chat": "94764019751@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764019751@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "පුරෙ ගිහින් එමුද",
+    "mentionUser": [],
+    "body": "පුරෙ ගිහින් එමුද",
+    "quoted": null
+  }
+]

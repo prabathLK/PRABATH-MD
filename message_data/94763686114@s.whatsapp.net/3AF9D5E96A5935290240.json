@@ -1,0 +1,125 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF9D5E96A5935290240"
+    },
+    "messageTimestamp": 1720168717,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Mt nodi knwt bada plyaaaan",
+        "contextInfo": {
+          "stanzaId": "DF1CAF5B2E5589DFD3C2649B3634EAA2",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Kos knwa kynna kiuwa",
+              "fileSha256": "u26EF5q88vZ0J7SmRkKHwSLzg5IDLj7Z6Z5DKNzy0+s=",
+              "fileLength": "218720",
+              "height": 1599,
+              "width": 899,
+              "mediaKey": "0VPeoL09W3LjzLqoVN8jbWMxE5/S3OFDt8fP5olb400=",
+              "fileEncSha256": "6pCa41Fw9KRhdI0n7lSIan0MfQiOTWLFQkaNXBPBEac=",
+              "directPath": "/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720168569",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAgAD/9oADAMBAAIQAxAAAACCLSeXOIQu0F4iZz0a99cV9G1czNMhuV3xreb02NHpMHqdKhiPOtcseD//xAAlEAACAgEDAwQDAAAAAAAAAAABAgADEQQSIRNRYRAUQVIjMXH/2gAIAQEAAT8AxgZ3cGbS1gr+BCBp2LYO3vHZLPPadPwZZSyV5JzApYggf2X2CwLXyJtFeAJ16fqZnWDjAIzDqb1VvxKOIXBOW5Me2qxVCAhp7dOzwVHM1ld/RYiNuAmkUI6OwM6zfQRbVJwM/qai2ylA6c9wZdqHtfgBcymlgAXE2SohDkAS9viW0UllO3mBiuJvTuZmO4JzmMOQcZ4mCxzibfENKEQ1oGPEFjLYYp9P/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAQETFR/9oACAECAQE/ANSPJj5TmUBG3tf/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREQMRL/2gAIAQMBAT8AjGvKIyHSDFdXM//Z",
+              "scansSidecar": "5yB+4ggi5tIf8LC+YbtLsfGJA4kDITr05raQ7uNKqR/SWEa9/6fPxg==",
+              "scanLengths": [
+                17989,
+                82065,
+                47486,
+                71180
+              ],
+              "midQualityFileSha256": "DMIty1AV3LUYWMWFCvfAZm8Fgs3n6wap+9nvsv8q5ME="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AF9D5E96A5935290240",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Mt nodi knwt bada plyaaaan",
+      "contextInfo": {
+        "stanzaId": "DF1CAF5B2E5589DFD3C2649B3634EAA2",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Kos knwa kynna kiuwa",
+            "fileSha256": "u26EF5q88vZ0J7SmRkKHwSLzg5IDLj7Z6Z5DKNzy0+s=",
+            "fileLength": "218720",
+            "height": 1599,
+            "width": 899,
+            "mediaKey": "0VPeoL09W3LjzLqoVN8jbWMxE5/S3OFDt8fP5olb400=",
+            "fileEncSha256": "6pCa41Fw9KRhdI0n7lSIan0MfQiOTWLFQkaNXBPBEac=",
+            "directPath": "/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720168569",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAgAD/9oADAMBAAIQAxAAAACCLSeXOIQu0F4iZz0a99cV9G1czNMhuV3xreb02NHpMHqdKhiPOtcseD//xAAlEAACAgEDAwQDAAAAAAAAAAABAgADEQQSIRNRYRAUQVIjMXH/2gAIAQEAAT8AxgZ3cGbS1gr+BCBp2LYO3vHZLPPadPwZZSyV5JzApYggf2X2CwLXyJtFeAJ16fqZnWDjAIzDqb1VvxKOIXBOW5Me2qxVCAhp7dOzwVHM1ld/RYiNuAmkUI6OwM6zfQRbVJwM/qai2ylA6c9wZdqHtfgBcymlgAXE2SohDkAS9viW0UllO3mBiuJvTuZmO4JzmMOQcZ4mCxzibfENKEQ1oGPEFjLYYp9P/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAQETFR/9oACAECAQE/ANSPJj5TmUBG3tf/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREQMRL/2gAIAQMBAT8AjGvKIyHSDFdXM//Z",
+            "scansSidecar": "5yB+4ggi5tIf8LC+YbtLsfGJA4kDITr05raQ7uNKqR/SWEa9/6fPxg==",
+            "scanLengths": [
+              17989,
+              82065,
+              47486,
+              71180
+            ],
+            "midQualityFileSha256": "DMIty1AV3LUYWMWFCvfAZm8Fgs3n6wap+9nvsv8q5ME="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Mt nodi knwt bada plyaaaan",
+    "quoted": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Kos knwa kynna kiuwa",
+        "fileSha256": "u26EF5q88vZ0J7SmRkKHwSLzg5IDLj7Z6Z5DKNzy0+s=",
+        "fileLength": "218720",
+        "height": 1599,
+        "width": 899,
+        "mediaKey": "0VPeoL09W3LjzLqoVN8jbWMxE5/S3OFDt8fP5olb400=",
+        "fileEncSha256": "6pCa41Fw9KRhdI0n7lSIan0MfQiOTWLFQkaNXBPBEac=",
+        "directPath": "/v/t62.7118-24/13796426_8426011617413620_1352077076699551228_n.enc?ccb=11-4&oh=01_Q5AaIC7zUkIea45bd4TOSTB3C9H153s1zm4-urVv9WPPNr58&oe=66AF30E8&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720168569",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAgAD/9oADAMBAAIQAxAAAACCLSeXOIQu0F4iZz0a99cV9G1czNMhuV3xreb02NHpMHqdKhiPOtcseD//xAAlEAACAgEDAwQDAAAAAAAAAAABAgADEQQSIRNRYRAUQVIjMXH/2gAIAQEAAT8AxgZ3cGbS1gr+BCBp2LYO3vHZLPPadPwZZSyV5JzApYggf2X2CwLXyJtFeAJ16fqZnWDjAIzDqb1VvxKOIXBOW5Me2qxVCAhp7dOzwVHM1ld/RYiNuAmkUI6OwM6zfQRbVJwM/qai2ylA6c9wZdqHtfgBcymlgAXE2SohDkAS9viW0UllO3mBiuJvTuZmO4JzmMOQcZ4mCxzibfENKEQ1oGPEFjLYYp9P/8QAGREBAAMBAQAAAAAAAAAAAAAAAQAQETFR/9oACAECAQE/ANSPJj5TmUBG3tf/xAAZEQADAQEBAAAAAAAAAAAAAAAAAREQMRL/2gAIAQMBAT8AjGvKIyHSDFdXM//Z",
+        "scansSidecar": "5yB+4ggi5tIf8LC+YbtLsfGJA4kDITr05raQ7uNKqR/SWEa9/6fPxg==",
+        "scanLengths": [
+          17989,
+          82065,
+          47486,
+          71180
+        ],
+        "midQualityFileSha256": "DMIty1AV3LUYWMWFCvfAZm8Fgs3n6wap+9nvsv8q5ME="
+      }
+    }
+  }
+]

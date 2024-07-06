@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A2E2454BF654FFD5FE8"
+    },
+    "messageTimestamp": 1720113950,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ehma kiwwe 4 prk wge awa",
+        "contextInfo": {
+          "stanzaId": "BD58C99EA466579757C047FCF5855349",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Meh oy kollo hmbenna gihin na kiuw ned ethakota kiri maila hambuneth ndd"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A2E2454BF654FFD5FE8",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ehma kiwwe 4 prk wge awa",
+      "contextInfo": {
+        "stanzaId": "BD58C99EA466579757C047FCF5855349",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Meh oy kollo hmbenna gihin na kiuw ned ethakota kiri maila hambuneth ndd"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ehma kiwwe 4 prk wge awa",
+    "quoted": {
+      "conversation": "Meh oy kollo hmbenna gihin na kiuw ned ethakota kiri maila hambuneth ndd"
+    }
+  }
+]

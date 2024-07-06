@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A973728C6D6BE9D9030"
+    },
+    "messageTimestamp": 1720155653,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "hira wela inn oy newei kwruth kmthi na ne ithn",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720155051",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A973728C6D6BE9D9030",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "hira wela inn oy newei kwruth kmthi na ne ithn",
+    "mentionUser": [],
+    "body": "hira wela inn oy newei kwruth kmthi na ne ithn",
+    "quoted": null
+  }
+]

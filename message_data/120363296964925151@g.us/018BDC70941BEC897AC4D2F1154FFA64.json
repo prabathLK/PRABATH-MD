@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "018BDC70941BEC897AC4D2F1154FFA64",
+      "participant": "94765879701@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720110017,
+    "pushName": "𝑫𝒆𝒏𝒖𝒘𝒂𝒏”💸💞🦈",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwj5w4u+ARAAGiBtVQasHJH0G2A004QsmWWH4ie+ntHYhrvC79qQaDrRESIhBRac/2w2I2E6zCuxK5lMyWtnuF7oTkXQlLf1Wh2B57hb"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "BF944B68DBA671204F7ADE877818B5D1",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "🥹",
+        "senderTimestampMs": "1720110013516"
+      }
+    },
+    "id": "018BDC70941BEC897AC4D2F1154FFA64",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94765879701@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "BF944B68DBA671204F7ADE877818B5D1",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "🥹",
+      "senderTimestampMs": "1720110013516"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

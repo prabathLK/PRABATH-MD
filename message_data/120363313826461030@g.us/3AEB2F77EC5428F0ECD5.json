@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AEB2F77EC5428F0ECD5",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720157010,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Others denn"
+    },
+    "id": "3AEB2F77EC5428F0ECD5",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Others denn",
+    "mentionUser": [],
+    "body": "Others denn",
+    "quoted": null
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A8B9CC7CD043658F03D"
+    },
+    "messageTimestamp": 1720168584,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "Luth dala",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720168215",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A8B9CC7CD043658F03D",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Luth dala",
+    "mentionUser": [],
+    "body": "Luth dala",
+    "quoted": null
+  }
+]

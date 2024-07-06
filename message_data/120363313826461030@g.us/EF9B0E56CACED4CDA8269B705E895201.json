@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "EF9B0E56CACED4CDA8269B705E895201",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077326,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "D6muiTeENCuJ6jAqlYfeYsLCFSExbW+pIE5SLZBP968=",
+        "fileEncSha256": "LGwuDDwEjNwY0RF2XH+ajdk058yTsWhTBHY5+ARdviI=",
+        "mediaKey": "dEPHpjF7G/vhvlMXnLepRAM8MbQ01VqpprYfY5Asaec=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0",
+        "fileLength": "748612",
+        "mediaKeyTimestamp": "1720077324",
+        "firstFrameLength": 13432,
+        "firstFrameSidecar": "1yqUm1ZHgaoX0A==",
+        "isAnimated": true,
+        "stickerSentTs": "1720077324605",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "EF9B0E56CACED4CDA8269B705E895201",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "D6muiTeENCuJ6jAqlYfeYsLCFSExbW+pIE5SLZBP968=",
+      "fileEncSha256": "LGwuDDwEjNwY0RF2XH+ajdk058yTsWhTBHY5+ARdviI=",
+      "mediaKey": "dEPHpjF7G/vhvlMXnLepRAM8MbQ01VqpprYfY5Asaec=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0",
+      "fileLength": "748612",
+      "mediaKeyTimestamp": "1720077324",
+      "firstFrameLength": 13432,
+      "firstFrameSidecar": "1yqUm1ZHgaoX0A==",
+      "isAnimated": true,
+      "stickerSentTs": "1720077324605",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AC29363CD7DE5D831D2"
+    },
+    "messageTimestamp": 1720105880,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Mek quwoth mrnw thow mn mt ahnn 🥲",
+        "contextInfo": {
+          "stanzaId": "E4EE5A6E60D04AE1EEB1EE6DCF6E21D5",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Pca pyy"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AC29363CD7DE5D831D2",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Mek quwoth mrnw thow mn mt ahnn 🥲",
+      "contextInfo": {
+        "stanzaId": "E4EE5A6E60D04AE1EEB1EE6DCF6E21D5",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Pca pyy"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Mek quwoth mrnw thow mn mt ahnn 🥲",
+    "quoted": {
+      "conversation": "Pca pyy"
+    }
+  }
+]

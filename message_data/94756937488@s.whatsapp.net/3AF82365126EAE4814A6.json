@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF82365126EAE4814A6"
+    },
+    "messageTimestamp": 1720114479,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "ape loku athth sinduwk kiyn video ekk ewl",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AF82365126EAE4814A6",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ape loku athth sinduwk kiyn video ekk ewl",
+    "mentionUser": [],
+    "body": "ape loku athth sinduwk kiyn video ekk ewl",
+    "quoted": null
+  }
+]

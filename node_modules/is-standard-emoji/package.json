@@ -1,0 +1,41 @@
+{
+  "name": "is-standard-emoji",
+  "description": "Simply way to check if a emoji is a standard emoji.",
+  "homepage": "https://github.com/Kikobeats/is-standard-emoji",
+  "version": "1.0.0",
+  "main": "./index.js",
+  "author": {
+    "name": "Kiko Beats",
+    "email": "josefrancisco.verdu@gmail.com",
+    "url": "https://github.com/Kikobeats"
+  },
+  "repository": "Kikobeats/is-standard-emoji",
+  "bugs": {
+    "url": "https://github.com/Kikobeats/is-standard-emoji/issues"
+  },
+  "keywords": ["emoji", "standard"],
+  "dependencies": {
+    "emojis-list": "~1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "coffee-script": "*",
+    "coffeeify": "*",
+    "gulp": "*",
+    "gulp-header": "*",
+    "gulp-uglify": "*",
+    "gulp-util": "*",
+    "mocha": "*",
+    "should": "*",
+    "vinyl-buffer": "*",
+    "vinyl-source-stream": "*"
+  },
+  "engines": {
+    "node": ">= 0.10.0",
+    "npm": ">= 1.4.0"
+  },
+  "scripts": {
+    "test": "sh test/test.sh"
+  },
+  "license": "MIT"
+}

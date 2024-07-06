@@ -1,0 +1,23 @@
+{
+  "name": "pm2-sysmonit",
+  "version": "1.2.8",
+  "description": "PM2.io System Monitoring",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "license": "Apache",
+  "apps": [
+    {
+      "name": "pm2-sysmonit",
+      "script": "./index.js",
+      "max_memory_restart": "150M"
+    }
+  ],
+  "dependencies": {
+    "async": "^3.2.0",
+    "debug": "^4.3.1",
+    "pidusage": "^2.0.21",
+    "systeminformation": "^5.7",
+    "tx2": "~1.0.4"
+  }
+}

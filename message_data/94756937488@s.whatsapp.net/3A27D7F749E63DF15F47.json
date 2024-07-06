@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A27D7F749E63DF15F47"
+    },
+    "messageTimestamp": 1720071178,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "wda tika iwri d",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720069698",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A27D7F749E63DF15F47",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "wda tika iwri d",
+    "mentionUser": [],
+    "body": "wda tika iwri d",
+    "quoted": null
+  }
+]

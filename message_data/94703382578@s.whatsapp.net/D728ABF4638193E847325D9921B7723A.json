@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "D728ABF4638193E847325D9921B7723A"
+    },
+    "messageTimestamp": 1720102073,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "ලස්සනයි බන්ග් 👍",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "D728ABF4638193E847325D9921B7723A",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ලස්සනයි බන්ග් 👍",
+    "mentionUser": [],
+    "body": "ලස්සනයි බන්ග් 👍",
+    "quoted": null
+  }
+]

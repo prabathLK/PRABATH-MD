@@ -1,0 +1,200 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720155636,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjPgonQBhAdGiD1d7OPFdVSxsRvbjoX64apM8LvNQSEEV66ayrnGkz2UiIhBWx3L8CWWB00PgIGDXTIW4SyZU6BWhpeptfBhIXtNtIk"
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720155651,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjPgonQBhAhGiCPVDr74N29qhKKlzd9iiq71nTsqey71ij5uqFx+4vmRSIhBWx3L8CWWB00PgIGDXTIW4SyZU6BWhpeptfBhIXtNtIk"
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720155673,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjPgonQBhAlGiCCWV0GW2y2NS1hyPTja9zZTkNlRG0x2qp8ScROySvaOiIhBWx3L8CWWB00PgIGDXTIW4SyZU6BWhpeptfBhIXtNtIk"
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162083,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZEAMaIHP8VvkeFnwJ1ZZlGqOEeOaggtJRmzWkHiCdQrDke8LKIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162119,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZEBUaICjHYiO5g6U4wjRb3ZX7Cg/dUIonlWt/U5Gl1l1hiyWHIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162134,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZECcaIIarMFri9IH1tLi+d+pTrcA+Jq2n/rFMm2l1BhT3MHBFIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162151,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZED8aIFnN9d0/fcgWzil1crqDLhcTElbCJxbH4BVAAJwSdFKQIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162169,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZEFcaIADYgrhxv8p1zaMirX0Ay+oNTs/eeyGAlTISuMZ8xZWZIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C9552AEA6E639635560BC6AD0D267A91",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720162187,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5prZZEG8aIMf/FYTM/8vztmIsqyHHDAcqbz6rPlqxo9VfVFRIGlUiIiEFMffeYZvYAjJPhMhsRCl4PPGjyDt0VW3EQFM1UhlnXSU="
+      }
+    },
+    "id": "C9552AEA6E639635560BC6AD0D267A91",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  }
+]

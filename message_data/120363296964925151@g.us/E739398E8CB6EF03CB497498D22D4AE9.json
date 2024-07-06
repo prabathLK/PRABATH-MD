@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "E739398E8CB6EF03CB497498D22D4AE9",
+      "participant": "94750175302@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720109537,
+    "pushName": "Mihiranga McShane",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwjm1vejARAAGiDWyQfXSQzuZ3PSWUsGOGUEw/oySp3xQCUS93Yuwqq50iIhBaBFTZowV8NrZksOX/z+H0KBufxMOlADynUgPgnclTkq"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "BF944B68DBA671204F7ADE877818B5D1",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "❤‍🩹",
+        "senderTimestampMs": "1720109529035"
+      }
+    },
+    "id": "E739398E8CB6EF03CB497498D22D4AE9",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94750175302@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "BF944B68DBA671204F7ADE877818B5D1",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "❤‍🩹",
+      "senderTimestampMs": "1720109529035"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

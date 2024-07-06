@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "65E2F393711C9DFDA2CA556A402398E1",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720089372,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "😂",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "BF5A6F06333C8BF4E780649C8F7ABAF6",
+          "participant": "94769643954@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Who is this"
+          },
+          "mentionedJid": [
+            "94769643954@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "65E2F393711C9DFDA2CA556A402398E1",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "😂",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "BF5A6F06333C8BF4E780649C8F7ABAF6",
+        "participant": "94769643954@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Who is this"
+        },
+        "mentionedJid": [
+          "94769643954@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94769643954@s.whatsapp.net"
+    ],
+    "body": "😂",
+    "quoted": {
+      "conversation": "Who is this"
+    }
+  }
+]

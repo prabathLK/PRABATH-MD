@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A1AB42C5844357DA4F2"
+    },
+    "messageTimestamp": 1720067863,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "yasai",
+        "contextInfo": {
+          "stanzaId": "503538FE12F747D43BCABC287BFE211F",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Mn kynw mn oyt adarei eth mn dmma marage life ekk gna ahanna nemei awe mn awe mn relationship ekk ptn gnnwa kyl kynna kyl mn kynw 😒"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720064537",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A1AB42C5844357DA4F2",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "yasai",
+      "contextInfo": {
+        "stanzaId": "503538FE12F747D43BCABC287BFE211F",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Mn kynw mn oyt adarei eth mn dmma marage life ekk gna ahanna nemei awe mn awe mn relationship ekk ptn gnnwa kyl kynna kyl mn kynw 😒"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "yasai",
+    "quoted": {
+      "conversation": "Mn kynw mn oyt adarei eth mn dmma marage life ekk gna ahanna nemei awe mn awe mn relationship ekk ptn gnnwa kyl kynna kyl mn kynw 😒"
+    }
+  }
+]

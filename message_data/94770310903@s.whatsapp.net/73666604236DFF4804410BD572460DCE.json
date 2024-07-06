@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94770310903@s.whatsapp.net",
+      "fromMe": false,
+      "id": "73666604236DFF4804410BD572460DCE"
+    },
+    "messageTimestamp": 1720095016,
+    "pushName": "චඳූ 🌼",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ndd",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "6A0DBA23420D04AC349900E2567C179C",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Na na 🥲"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "73666604236DFF4804410BD572460DCE",
+    "chat": "94770310903@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94770310903@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ndd",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "6A0DBA23420D04AC349900E2567C179C",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Na na 🥲"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ndd",
+    "quoted": {
+      "conversation": "Na na 🥲"
+    }
+  }
+]

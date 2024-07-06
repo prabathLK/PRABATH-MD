@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "83D03F90819D4B400481DDD9F38B1C62",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158604,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "තුනක් තියෙනව"
+    },
+    "id": "83D03F90819D4B400481DDD9F38B1C62",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "තුනක් තියෙනව",
+    "mentionUser": [],
+    "body": "තුනක් තියෙනව",
+    "quoted": null
+  }
+]

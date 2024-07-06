@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A0632AB3EE8DDE2127E"
+    },
+    "messageTimestamp": 1720181967,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "aththta kiyla una deyk na",
+        "contextInfo": {
+          "stanzaId": "DD334D9E58CDCDC73EC199B16D4A1D16",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Aththata una de mkdd kyl meka nawaththanna"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720181295",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A0632AB3EE8DDE2127E",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "aththta kiyla una deyk na",
+      "contextInfo": {
+        "stanzaId": "DD334D9E58CDCDC73EC199B16D4A1D16",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Aththata una de mkdd kyl meka nawaththanna"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "aththta kiyla una deyk na",
+    "quoted": {
+      "conversation": "Aththata una de mkdd kyl meka nawaththanna"
+    }
+  }
+]

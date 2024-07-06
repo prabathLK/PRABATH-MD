@@ -1,0 +1,124 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A723686590EE7B2A261"
+    },
+    "messageTimestamp": 1720063281,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "yasai 😹",
+        "contextInfo": {
+          "stanzaId": "00A4AC72CA98A9475DDC6FFDF2D95B31",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Me okkoma IT walata hambuna ewa ,Graduation eka dawase sir kiuwa me ugannapu dewal oyala use karana widiyata oyalata hodak hari narakak hari wei kiyala",
+              "fileSha256": "eAxVmrQW2AHfRj5yECZ7tNLbtCCCfxcfML+tWwGZI/g=",
+              "fileLength": "789831",
+              "height": 3114,
+              "width": 4160,
+              "mediaKey": "IMB/FBbs6wtrnJSYsUkqGASKzIXrzpqxmuaIc/UighU=",
+              "fileEncSha256": "lETetDt8G99T4u+aZC3TznAGTOsAEdaOgDdWe8jyPk0=",
+              "directPath": "/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720063104",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADUASAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwECBAUGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADzUWutXLaOpovOnOT0UNZDQMTs6LWM+i9gi0i8XWRXDOmSwzNVNjMrBwqNTr4lZlcZSVCg53FIaN0AuPYFxAEv/8QAJhAAAgICAgEEAQUAAAAAAAAAAQIAAwQREjEhECJBQjITFBVxkf/aAAgBAQABPwAn0byAZXkGsqddRs1m/FNRCW2xA3G59lYfQAncWpmgUbKluotLMQAv+xcHiu2efx7sgIeNVfR2uxGZG7UCNUNbBlWPax8LEwT92lWJWv0n6Kcw8KgjqAeNQj4l2JXYPA4mHBflot4iqi/EAO4P7hIA8wEEbi6Y+Ia4yGMO/EDjxCyoNkxSr9GExxzUiU1cVGjO13LrEQ6JhII3KGDLsiZVL3BeLTGrFKcSZ7eRPOGxflxFyVQ/mJ+9EykN3vSUh0rIac+C9SzJcLDkWv8AbUVXb7mDHZu3MTADfcywvjuVDbmNku3tj5bhipE//8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACESAhMUEQEiJx/9oACAECAQE/AMyqmQm58jPe2ATaCaMaKgsvmvXh5CO3EGWXEevyf//EACARAQADAAEDBQAAAAAAAAAAAAEAAhExAxAhEhMgMpH/2gAIAQMBAT8AljZVPtee3Sztb/sencePhs1e9nCdL0XfNsJYBQdhxDzzEIBsJ//Z",
+              "scansSidecar": "DyIMRC4208tuZmr6HQuqerUw2UYKq7aIq3RFJEjhRqKCAeZW4eiLWQ==",
+              "scanLengths": [
+                87421,
+                149896,
+                287561,
+                264953
+              ],
+              "midQualityFileSha256": "7iU5wQMsqndlgigiWRJWaExYptSykgjkmY7z7jtYd8Y="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720022210",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A723686590EE7B2A261",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "yasai 😹",
+      "contextInfo": {
+        "stanzaId": "00A4AC72CA98A9475DDC6FFDF2D95B31",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Me okkoma IT walata hambuna ewa ,Graduation eka dawase sir kiuwa me ugannapu dewal oyala use karana widiyata oyalata hodak hari narakak hari wei kiyala",
+            "fileSha256": "eAxVmrQW2AHfRj5yECZ7tNLbtCCCfxcfML+tWwGZI/g=",
+            "fileLength": "789831",
+            "height": 3114,
+            "width": 4160,
+            "mediaKey": "IMB/FBbs6wtrnJSYsUkqGASKzIXrzpqxmuaIc/UighU=",
+            "fileEncSha256": "lETetDt8G99T4u+aZC3TznAGTOsAEdaOgDdWe8jyPk0=",
+            "directPath": "/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720063104",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADUASAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwECBAUGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADzUWutXLaOpovOnOT0UNZDQMTs6LWM+i9gi0i8XWRXDOmSwzNVNjMrBwqNTr4lZlcZSVCg53FIaN0AuPYFxAEv/8QAJhAAAgICAgEEAQUAAAAAAAAAAQIAAwQREjEhECJBQjITFBVxkf/aAAgBAQABPwAn0byAZXkGsqddRs1m/FNRCW2xA3G59lYfQAncWpmgUbKluotLMQAv+xcHiu2efx7sgIeNVfR2uxGZG7UCNUNbBlWPax8LEwT92lWJWv0n6Kcw8KgjqAeNQj4l2JXYPA4mHBflot4iqi/EAO4P7hIA8wEEbi6Y+Ia4yGMO/EDjxCyoNkxSr9GExxzUiU1cVGjO13LrEQ6JhII3KGDLsiZVL3BeLTGrFKcSZ7eRPOGxflxFyVQ/mJ+9EykN3vSUh0rIac+C9SzJcLDkWv8AbUVXb7mDHZu3MTADfcywvjuVDbmNku3tj5bhipE//8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACESAhMUEQEiJx/9oACAECAQE/AMyqmQm58jPe2ATaCaMaKgsvmvXh5CO3EGWXEevyf//EACARAQADAAEDBQAAAAAAAAAAAAEAAhExAxAhEhMgMpH/2gAIAQMBAT8AljZVPtee3Sztb/sencePhs1e9nCdL0XfNsJYBQdhxDzzEIBsJ//Z",
+            "scansSidecar": "DyIMRC4208tuZmr6HQuqerUw2UYKq7aIq3RFJEjhRqKCAeZW4eiLWQ==",
+            "scanLengths": [
+              87421,
+              149896,
+              287561,
+              264953
+            ],
+            "midQualityFileSha256": "7iU5wQMsqndlgigiWRJWaExYptSykgjkmY7z7jtYd8Y="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "yasai 😹",
+    "quoted": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Me okkoma IT walata hambuna ewa ,Graduation eka dawase sir kiuwa me ugannapu dewal oyala use karana widiyata oyalata hodak hari narakak hari wei kiyala",
+        "fileSha256": "eAxVmrQW2AHfRj5yECZ7tNLbtCCCfxcfML+tWwGZI/g=",
+        "fileLength": "789831",
+        "height": 3114,
+        "width": 4160,
+        "mediaKey": "IMB/FBbs6wtrnJSYsUkqGASKzIXrzpqxmuaIc/UighU=",
+        "fileEncSha256": "lETetDt8G99T4u+aZC3TznAGTOsAEdaOgDdWe8jyPk0=",
+        "directPath": "/v/t62.7118-24/32989107_756310939769538_3995910086250703529_n.enc?ccb=11-4&oh=01_Q5AaINSGy3gSMuqgvwj4MGPL6Y9fmSwxdr6p86lRyr_Nfxir&oe=66AD7136&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720063104",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADUASAMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwECBAUGAQEBAQEAAAAAAAAAAAAAAAAAAQID/9oADAMBAAIQAxAAAADzUWutXLaOpovOnOT0UNZDQMTs6LWM+i9gi0i8XWRXDOmSwzNVNjMrBwqNTr4lZlcZSVCg53FIaN0AuPYFxAEv/8QAJhAAAgICAgEEAQUAAAAAAAAAAQIAAwQREjEhECJBQjITFBVxkf/aAAgBAQABPwAn0byAZXkGsqddRs1m/FNRCW2xA3G59lYfQAncWpmgUbKluotLMQAv+xcHiu2efx7sgIeNVfR2uxGZG7UCNUNbBlWPax8LEwT92lWJWv0n6Kcw8KgjqAeNQj4l2JXYPA4mHBflot4iqi/EAO4P7hIA8wEEbi6Y+Ia4yGMO/EDjxCyoNkxSr9GExxzUiU1cVGjO13LrEQ6JhII3KGDLsiZVL3BeLTGrFKcSZ7eRPOGxflxFyVQ/mJ+9EykN3vSUh0rIac+C9SzJcLDkWv8AbUVXb7mDHZu3MTADfcywvjuVDbmNku3tj5bhipE//8QAHxEBAAIBBAMBAAAAAAAAAAAAAQACESAhMUEQEiJx/9oACAECAQE/AMyqmQm58jPe2ATaCaMaKgsvmvXh5CO3EGWXEevyf//EACARAQADAAEDBQAAAAAAAAAAAAEAAhExAxAhEhMgMpH/2gAIAQMBAT8AljZVPtee3Sztb/sencePhs1e9nCdL0XfNsJYBQdhxDzzEIBsJ//Z",
+        "scansSidecar": "DyIMRC4208tuZmr6HQuqerUw2UYKq7aIq3RFJEjhRqKCAeZW4eiLWQ==",
+        "scanLengths": [
+          87421,
+          149896,
+          287561,
+          264953
+        ],
+        "midQualityFileSha256": "7iU5wQMsqndlgigiWRJWaExYptSykgjkmY7z7jtYd8Y="
+      }
+    }
+  }
+]

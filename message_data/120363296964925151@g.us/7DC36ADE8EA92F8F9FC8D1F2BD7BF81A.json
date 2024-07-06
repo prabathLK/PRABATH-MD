@@ -1,0 +1,106 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "7DC36ADE8EA92F8F9FC8D1F2BD7BF81A",
+      "participant": "94701669543@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720209634,
+    "pushName": "DHANUKA",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "සිංහල සබ් එක ඇඩ් කරලම තියෙන්නෙ කලින් දාපු එකේ ඇඩ් කරගන්න දන්නෙ නැති අය මේක බලන්න❤️‍🔥",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "6E1F08EC0DF33D6F5E54766C0725C741",
+          "participant": "966588806987@s.whatsapp.net",
+          "quotedMessage": {
+            "documentWithCaptionMessage": {
+              "message": {
+                "documentMessage": {
+                  "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0&mms3=true",
+                  "mimetype": "video/mp4",
+                  "fileSha256": "dWvlFPYplKJbrakFkhykVXWJQ4XheV5h+71iMaTE+bM=",
+                  "fileLength": "1826876660",
+                  "pageCount": 0,
+                  "mediaKey": "cfC96dpEITMqH4U+248hiADtEEnFDvAcQyhgx3imqps=",
+                  "fileName": "Rasavathi [DHANUWA] (2024).mp4",
+                  "fileEncSha256": "UeS+M8i/uh9yk1mqVsru9ub1iD++8T1tWtCErYKcK64=",
+                  "directPath": "/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0",
+                  "mediaKeyTimestamp": "1720209491",
+                  "caption": "`720p`\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+                }
+              }
+            }
+          },
+          "mentionedJid": [
+            "966588806987@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "7DC36ADE8EA92F8F9FC8D1F2BD7BF81A",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94701669543@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "සිංහල සබ් එක ඇඩ් කරලම තියෙන්නෙ කලින් දාපු එකේ ඇඩ් කරගන්න දන්නෙ නැති අය මේක බලන්න❤️‍🔥",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "6E1F08EC0DF33D6F5E54766C0725C741",
+        "participant": "966588806987@s.whatsapp.net",
+        "quotedMessage": {
+          "documentWithCaptionMessage": {
+            "message": {
+              "documentMessage": {
+                "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0&mms3=true",
+                "mimetype": "video/mp4",
+                "fileSha256": "dWvlFPYplKJbrakFkhykVXWJQ4XheV5h+71iMaTE+bM=",
+                "fileLength": "1826876660",
+                "pageCount": 0,
+                "mediaKey": "cfC96dpEITMqH4U+248hiADtEEnFDvAcQyhgx3imqps=",
+                "fileName": "Rasavathi [DHANUWA] (2024).mp4",
+                "fileEncSha256": "UeS+M8i/uh9yk1mqVsru9ub1iD++8T1tWtCErYKcK64=",
+                "directPath": "/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0",
+                "mediaKeyTimestamp": "1720209491",
+                "caption": "`720p`\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+              }
+            }
+          }
+        },
+        "mentionedJid": [
+          "966588806987@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "966588806987@s.whatsapp.net"
+    ],
+    "body": "සිංහල සබ් එක ඇඩ් කරලම තියෙන්නෙ කලින් දාපු එකේ ඇඩ් කරගන්න දන්නෙ නැති අය මේක බලන්න❤️‍🔥",
+    "quoted": {
+      "documentWithCaptionMessage": {
+        "message": {
+          "documentMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "dWvlFPYplKJbrakFkhykVXWJQ4XheV5h+71iMaTE+bM=",
+            "fileLength": "1826876660",
+            "pageCount": 0,
+            "mediaKey": "cfC96dpEITMqH4U+248hiADtEEnFDvAcQyhgx3imqps=",
+            "fileName": "Rasavathi [DHANUWA] (2024).mp4",
+            "fileEncSha256": "UeS+M8i/uh9yk1mqVsru9ub1iD++8T1tWtCErYKcK64=",
+            "directPath": "/v/t62.43144-24/10000000_852926039543830_335316443003202293_n.enc?ccb=11-4&oh=01_Q5AaIMOCbvCaTqX8TNmOvQxiCidP1eOjcCMuMQzh3bUy2fF5&oe=66AFB34C&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720209491",
+            "caption": "`720p`\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+          }
+        }
+      }
+    }
+  }
+]

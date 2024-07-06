@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "22E6E3CE7250E458B8A08007D6FB5018",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091159,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Mehe nemeyi bn",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "F2C4FF65791E83B9B584094F1E1CB058",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "අනේ කාපන් පොලුපාරක්"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "22E6E3CE7250E458B8A08007D6FB5018",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Mehe nemeyi bn",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "F2C4FF65791E83B9B584094F1E1CB058",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "අනේ කාපන් පොලුපාරක්"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Mehe nemeyi bn",
+    "quoted": {
+      "conversation": "අනේ කාපන් පොලුපාරක්"
+    }
+  }
+]

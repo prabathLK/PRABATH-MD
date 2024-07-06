@@ -1,0 +1,104 @@
+[
+  {
+    "key": {
+      "remoteJid": "94713541072@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3ACB89BC9B2623638A6F"
+    },
+    "messageTimestamp": 1720062572,
+    "pushName": "Mr_ViKi  ",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "na na me kes serama iwara unama nathara karanw",
+        "contextInfo": {
+          "stanzaId": "B65D75ED1104660EC984DAFCBD5636AD",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0&mms3=true",
+              "fileSha256": "iHELTqtvaUBLC3RACZeOhu3rbVrXfeTeuxQIhT8MkPw=",
+              "fileEncSha256": "RWC8qVKAFvulqjndxZujD4eHKTEZ2YY7vzhcJIgqgaY=",
+              "mediaKey": "62WhxX9am7Ke+lGTE0ABVnJVbR8jXHyhaAW7uMeuP9s=",
+              "mimetype": "image/webp",
+              "directPath": "/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0",
+              "fileLength": "90114",
+              "mediaKeyTimestamp": "1719890402",
+              "isAnimated": false,
+              "stickerSentTs": "1720061909495",
+              "isAvatar": false,
+              "isAiSticker": false,
+              "isLottie": false
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720062316",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mr_ViKi  ",
+    "id": "3ACB89BC9B2623638A6F",
+    "chat": "94713541072@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94713541072@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "na na me kes serama iwara unama nathara karanw",
+      "contextInfo": {
+        "stanzaId": "B65D75ED1104660EC984DAFCBD5636AD",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0&mms3=true",
+            "fileSha256": "iHELTqtvaUBLC3RACZeOhu3rbVrXfeTeuxQIhT8MkPw=",
+            "fileEncSha256": "RWC8qVKAFvulqjndxZujD4eHKTEZ2YY7vzhcJIgqgaY=",
+            "mediaKey": "62WhxX9am7Ke+lGTE0ABVnJVbR8jXHyhaAW7uMeuP9s=",
+            "mimetype": "image/webp",
+            "directPath": "/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0",
+            "fileLength": "90114",
+            "mediaKeyTimestamp": "1719890402",
+            "isAnimated": false,
+            "stickerSentTs": "1720061909495",
+            "isAvatar": false,
+            "isAiSticker": false,
+            "isLottie": false
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "na na me kes serama iwara unama nathara karanw",
+    "quoted": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "iHELTqtvaUBLC3RACZeOhu3rbVrXfeTeuxQIhT8MkPw=",
+        "fileEncSha256": "RWC8qVKAFvulqjndxZujD4eHKTEZ2YY7vzhcJIgqgaY=",
+        "mediaKey": "62WhxX9am7Ke+lGTE0ABVnJVbR8jXHyhaAW7uMeuP9s=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/31803851_485383083886632_4314321983477478434_n.enc?ccb=11-4&oh=01_Q5AaIGCzpp4SPMoIhWd_dWG1Dr4Sg2kqFb3qBiwPt6nUFhQa&oe=66AD702E&_nc_sid=5e03e0",
+        "fileLength": "90114",
+        "mediaKeyTimestamp": "1719890402",
+        "isAnimated": false,
+        "stickerSentTs": "1720061909495",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    }
+  }
+]

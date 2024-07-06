@@ -1,0 +1,352 @@
+# Kickstarter Backers
+
+Originally JS-Git started at a [kickstarter project][].  This was to enable me to spend the time required to get the project off the ground.  These are the people who contributed to this fund raiser and wanted to be listed at backers.
+
+## Deep Backer
+
+> You really wish this project existed and probably derive some sort of commercial value out of its existence. If you're within the continental United States. I'll come to your company and spend a day helping you integrate the library into your project. Your name, url, and short blurb will be in the BACKERS.md file for all history to see.
+
+ - Mozilla <https://www.mozilla.org>
+
+## Open Web Warrior
+
+> You believe in enabling the web platform and put your money where your mouth is. To reward your generosity, I'll give personal assistance to you or your company integrating the library into your project. This can be up to an hour of video chat or several email/chat sessions. You will get a sheet of laptop stickers and your name, and optional url will be in the BACKERS.md file for all history to see.
+
+ - Michael Bradley <https://github.com/michaelsbradleyjr>
+ - Scott González <http://scottgonzalez.com>
+ - Paolo Fragomeni <http://github.com/hij1nx>
+ - nearForm <http://www.nearform.com>
+ - Dav Glass <http://github.com/davglass>
+ - For Journalism
+ - Jason Walsh <http://wal.sh/>
+ - Meryn Stol <http://stellarpad.com/>
+ - P77B Inc. <http://p77b.com/>
+ - Boris Bokowski <http://callbyvalue.com/>
+ - ProjectLocker <http://www.projectlocker.com>
+ - Frank Gerhardt <www.gerhardtinformatics.com>
+ - Mathieu Lorber <http://mlorber.net/>
+ - Stefan Poggenpohl <http://www.poggie.de>
+ - Dj Gilcrease http://www.kanbansolutions.com/
+ - John Szwaronek
+ - Pace Willisson
+ - Oni Labs <http://onilabs.com>
+ - O'Reilly Media <http://www.oreilly.com>
+ - Peter Harkins
+ - http://durandaljs.com/
+ - http://www.linkedin.com/pub/iain-cooke/5/226/64a/
+ - Reuben Katz
+
+## Code Backer
+
+> Chris decided to back with code and had been immensely helpful in getting this project started.  I sent him a pack of stickers as reward.
+
+ - Chris Dickinson <https://github.com/chrisdickinson/>
+
+## Believer
+
+> You believe this project is important and want to enable me to create it. I'll send you a vinyl laptop sticker with the awesome JSGit logo on it so you can show off your support. Your name will be in the BACKERS.md file for all history to see.
+
+ - Luke Arduini
+ - garza
+ - Maciej Małecki
+ - LJHarb (Jordan Harband)
+ - Joel Hillacre
+ - Sean Dunn
+ - Anthony Blardo
+ - Luke Karrys
+ - Jonathan Lonowski
+ - Joey Schluchter
+ - Henry Allen-Tilford
+ - Brett Stimmerman
+ - natevw
+ - Norman Jaffe
+ - Zannalov
+ - Brian Ford
+ - Tom Wilson
+ - Jonas S Almeida
+ - Geir Gåsodden
+ - Breck Yunits
+ - Dmitrii Soltys
+ - Greg Price
+ - C. Scott Ananian
+ - Donovan Sandey
+ - John Frizelle
+ - Sureshot Saddletrousers
+ - Karl Tiedt
+ - Matthew Robb
+ - Kristofor Carle
+ - Stubbornella
+ - Dan Herbert
+ - Chris Jaure (@chrisjaure)
+ - Ben Adida
+ - Jon Buckley
+ - roxstyle
+ - Endre Stølsvik
+ - Irakli Gozalishvili
+ - Matt Weagle
+ - Lon Ingram
+ - Mitch Skinner
+ - Thomas Holloway
+ - Peter Tillemans
+ - John Waterson
+ - Maksim Lin
+ - Tom de Grunt
+ - Timon Reinhard
+ - Kevin Swiber
+ - C J Silverio
+ - Ken Heutmaker (bgok)
+ - Joe McCann
+ - Peter deHaan
+ - Alex Lusco
+ - Andreas Wenk (@awenkhh)
+ - Todd Wolfson
+ - Cristián Romo
+ - Lyle Garza
+ - Eric Laberge
+ - David Thomas
+ - Paul C. Cook
+ - Craig "The Coder" Dunn
+ - Ray Daly
+ - Josh Marinacci
+ - fauno
+ - Jeff Burtoft
+ - Patrick Roberts
+ - Matthew Mirande
+ - Matt Field
+ - Dion Almaer
+ - Murvin Lai
+ - David E Levin
+ - Monsur Hossain
+ - Jesse Harlin
+ - Mike Cooper - @mythmon
+ - heikki
+ - Zef Hemel
+ - Vince Allen
+ - Biko Tushinde
+ - Nick Crohn
+ - Justin Tucker @certainstrings
+ - Kimberly Munoz
+ - Nikolaj Ivancic
+ - Paul Redman
+ - Glenn Block
+ - Owen Smith
+ - Eugene Lazutkin
+ - letterj - Jay Payne
+ - Jason Campbell (@jxson)
+ - noah peters
+ - Pelle Wessman, @VoxPelli
+ - Claes Magnusson, Malmö Yrkeshögskola
+ - Yuuki Kunitake
+ - Ady Ngom
+ - Glenn Scott (@glennsc)
+ - Corey Innis
+ - Dmitry Pashkevich
+ - Jay Pozo
+ - Brian Gershon
+ - Joe Feser
+ - Tyler Breisacher
+ - Nick Cooley @nickcooley
+ - Hugh Kennedy
+ - Jakub Korál
+ - Manuel Alejandro de Brito Fontes
+
+## Supporter
+
+> You really support this idea and want to do your part to help see it happen. Your name will be in the BACKERS.md file for all history to see.
+
+ - Eric Knudtson
+ - Damien Klinnert
+ - Tom Fairfield
+ - Jon Galloway
+ - Ryan Joy (@atxryan)
+ - Eran Hammer
+ - Michael Matuzak
+ - Joshua Barratt
+ - Mathieu D'Amours
+ - Duncan Kolba
+ - Josh Roesslein
+ - getify
+ - Jonathan 'Wolf' Rentzsch
+ - Zach Geis
+ - Mirco Zeiss
+ - Lapo Luchini - lapo@lapo.it
+ - Jeremy Morrell
+ - Michael Chui
+ - Benaiah Mischenko
+ - Aki Mimoto
+ - rictic
+ - Karolina Szczur
+ - Sunil kumar Pissaye
+ - Ben Vanik
+ - Michael Henretty
+ - TehShrike
+ - Scott Shillcock
+ - Doug Orleans
+ - Nick Nisi
+ - jostylr
+ - Lukas Olson
+ - Adam Blackburn
+ - Michael Canfield
+ - Azer Koçulu @4zjs
+ - Neil Kandalgaonkar
+ - Rob O'Dwyer
+ - jamie brim
+ - Michael Hausenblas
+ - Don McCurdy
+ - Scott MacFarlane
+ - Alex Cox
+ - kastner
+ - David Robit Chenosaurus
+ - Marko Bregant
+ - Mariz Melo
+ - Evan Solomon
+ - Andrew Petersen
+ - Ferdinand Salis-Samaden
+ - danielkbx
+ - Chris Alfano
+ - Jason Demeuse
+ - Tom Townsend
+ - ShihChi Huang
+ - Zellyn Hunter
+ - ~
+ - Lynn Wallenstein
+ - Sindre Sorhus
+ - Yuriy Nemtsov
+ - Dan Kohn
+ - Patrick Mueller
+ - David Leston
+ - Larry Battle
+ - Kevin Barry
+ - Tomomi Imura
+ - Kevin Vlahos
+ - Gokce Mutlu
+ - Niclas Hoyer
+ - Jamie Oliver
+ - Makis Tracend
+ - Troy Forster
+ - Filip Körling
+ - Randy Sargent
+ - Dr Mícheál Ó Foghlú, FeedHenry
+ - Chris Christensen
+ - Mike Preisinger
+ - Neutron Drive
+ - Kaleb Murphy
+ - Kevin O'Hara
+ - Ian Kennington Walter
+ - John-Philip Johansson
+ - Jan-Christoph Borchardt
+ - Genshin Souzou K.K. [Phantom Creation Inc.]
+ - Michael Dandy
+ - Neil de Carteret
+ - Dennis Reed
+ - Jacob Lowe
+ - Rob Tsuk
+ - Aaron Hans
+ - Dilys Sun
+ - JP Sugarbroad
+ - Austin Appleby
+ - vicapow
+ - Scott Elcomb
+ - Soldair (Ryan Day)
+ - Nick Young
+ - Kalvir Sandhu - @kalv
+ - Flynn Joffray
+ - Stijn van Schooten
+ - Jared Barboza (@codeimpossible)
+ - Jörn Zaefferer
+ - Miroslav Magda
+ - Adam Argyle
+ - Alexandru Vladutu
+ - Dinis Cruz , OWASP O2 Platform
+ - Elliott B. Edwards (automatonic)
+ - Philippe Lachaise
+ - Per Thulin
+ - Matt Donnelly
+ - kewah
+ - Greg McCarvell
+ - Pedro Teixeira (@pgte)
+ - Marco Rogers (@polotek)
+ - Jacques Crocker
+ - Matthew Podwysocki
+ - Frantz Gauthier
+ - Gerry Cardinal III
+ - Hansemann
+ - Ben "unwiredben" Combee
+ - Geoff Bentley, NZ
+ - David Granado
+ - Assaf Arkin
+ - Trevor Baker
+ - Elliot Glaysher
+ - Wil Moore III
+ - Jason Persampieri
+ - Dennis G Daniels
+ - Mike de Boer
+ - Jeroen Janssen
+ - Daniel Aleksandersen
+ - Raphael Schweikert
+ - Nikolay Bachiyski
+ - Dima Samodurov
+ - tmartineau
+ - Daniel Flower
+ - Kevin Garnett
+ - Jae Hess
+ - Matt Reynolds
+ - LSD25
+ - Nima Gardideh (nemo)
+ - Patrick Collins (pat@burned.com)
+ - Michael J. Ryan ([@tracker1](https://github.com/tracker1))
+ - technoweenie
+ - David Hayes
+ - Meyer SciTech Solutions, LLC
+ - Srdjan
+ - Joseph Werle
+ - Sebastian Mikkel Wilson (@codebudo)
+ - Brent Knight
+ - Nikolay Kolev
+ - Michael Alyn Miller
+ - Leon Noel
+ - Dave LeCompte
+ - Bermi Ferrer
+ - Bernard Chen
+ - Jyri Tuulos
+ - fMads
+ - Matt Kowalski
+ - Ishan Anand
+ - Frederick Ostrander
+ - Ryan Riley
+ - Dominik Wagenknecht
+ - Yves Ineichen
+ - Raphael Salomon
+ - John Wu
+ - Gergő Tisza
+ - Chris Bearcroft (@DJCMBear)
+ - Eric Allam
+ - David Souther
+ - Rob van den Bogaard-Braaf
+ - Anthony Scotti
+ - de.henne (Henning Leutz)
+ - Scott Sauyet
+ - Trae Robbins
+ - Jason Sallis
+ - Andrew Maxwell
+ - Sembiance
+ - Christian Sullivan (@euforic)
+ - Alan Effrig
+ - Rob Quick
+ - Will Blasko
+ - ikeyasu@gmail.com
+ - Ben Sheldon
+ - Federico Weber
+ - Ken Chen
+ - Maxime Quandalle
+ - Darwiin (Christophe R.)
+ - Fabrizio Codello
+ - John Pywtorak
+ - Danny Coates
+ - Desmond Morris
+ - Will Dent
+ - Antoine Brault
+ - Bruno Vieira, @bmpvieira
+ - Charles Moncrief
+
+[kickstarter project]: http://www.kickstarter.com/projects/creationix/js-git

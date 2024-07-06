@@ -1,0 +1,89 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A7ED27C256D48D69E1D"
+    },
+    "messageTimestamp": 1720111783,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/26000626_855007809825772_5544788735977963997_n.enc?ccb=11-4&oh=01_Q5AaIB2Rwf6PAyr8upPowtHBe21ucJmcQnKGOl0q7RKrgYmJ&oe=66AE541C&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "3AAY0MB3NhFQLIW+IhSqO/u/Y612A3rLAoMPGamckoY=",
+        "fileEncSha256": "gsN/+7AiKZoDstkeWprvIWnRW3CV6u2pB6Z9PBqC8h0=",
+        "mediaKey": "YPfwqNReqCZ3Px+F8B0oceadlMObR1wOyczpiM58MOw=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/26000626_855007809825772_5544788735977963997_n.enc?ccb=11-4&oh=01_Q5AaIB2Rwf6PAyr8upPowtHBe21ucJmcQnKGOl0q7RKrgYmJ&oe=66AE541C&_nc_sid=5e03e0",
+        "fileLength": "21784",
+        "mediaKeyTimestamp": "1720093031",
+        "firstFrameLength": 10714,
+        "firstFrameSidecar": "0TuiENKwDY0iEQ==",
+        "isAnimated": true,
+        "contextInfo": {
+          "stanzaId": "9F933258100CBE8819CE5FBE7E712E60",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Oy inne dikkaragena 😅"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720111781636",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720107720",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A7ED27C256D48D69E1D",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/26000626_855007809825772_5544788735977963997_n.enc?ccb=11-4&oh=01_Q5AaIB2Rwf6PAyr8upPowtHBe21ucJmcQnKGOl0q7RKrgYmJ&oe=66AE541C&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "3AAY0MB3NhFQLIW+IhSqO/u/Y612A3rLAoMPGamckoY=",
+      "fileEncSha256": "gsN/+7AiKZoDstkeWprvIWnRW3CV6u2pB6Z9PBqC8h0=",
+      "mediaKey": "YPfwqNReqCZ3Px+F8B0oceadlMObR1wOyczpiM58MOw=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/26000626_855007809825772_5544788735977963997_n.enc?ccb=11-4&oh=01_Q5AaIB2Rwf6PAyr8upPowtHBe21ucJmcQnKGOl0q7RKrgYmJ&oe=66AE541C&_nc_sid=5e03e0",
+      "fileLength": "21784",
+      "mediaKeyTimestamp": "1720093031",
+      "firstFrameLength": 10714,
+      "firstFrameSidecar": "0TuiENKwDY0iEQ==",
+      "isAnimated": true,
+      "contextInfo": {
+        "stanzaId": "9F933258100CBE8819CE5FBE7E712E60",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Oy inne dikkaragena 😅"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720111781636",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Oy inne dikkaragena 😅"
+    }
+  }
+]

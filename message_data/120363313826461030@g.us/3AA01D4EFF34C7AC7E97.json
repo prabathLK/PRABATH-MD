@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AA01D4EFF34C7AC7E97",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077279,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/20048406_961837895724022_3271313670279301034_n.enc?ccb=11-4&oh=01_Q5AaIB4JYAOnaL_5j_UpACbffTqG2ojPtPYqcXTKDzGKqVqJ&oe=66ADA6BD&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "BD5eBJi2diQGvkRa1hsfDNTQbAPn+JO3wmxg6ZZrBmg=",
+        "fileEncSha256": "WPn3WL3PzoEbBWwjxjUgBlrzZHvqXxXqG+j1JjynjpI=",
+        "mediaKey": "sp2/LTcuuwI5H8//AJOU6hbYotJ9Dpz3z0bf2NZMq0M=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/20048406_961837895724022_3271313670279301034_n.enc?ccb=11-4&oh=01_Q5AaIB4JYAOnaL_5j_UpACbffTqG2ojPtPYqcXTKDzGKqVqJ&oe=66ADA6BD&_nc_sid=5e03e0",
+        "fileLength": "246372",
+        "mediaKeyTimestamp": "1719940492",
+        "firstFrameLength": 13860,
+        "firstFrameSidecar": "WVMe9whN6YrUxA==",
+        "isAnimated": true,
+        "stickerSentTs": "1720077278275",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3AA01D4EFF34C7AC7E97",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/20048406_961837895724022_3271313670279301034_n.enc?ccb=11-4&oh=01_Q5AaIB4JYAOnaL_5j_UpACbffTqG2ojPtPYqcXTKDzGKqVqJ&oe=66ADA6BD&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "BD5eBJi2diQGvkRa1hsfDNTQbAPn+JO3wmxg6ZZrBmg=",
+      "fileEncSha256": "WPn3WL3PzoEbBWwjxjUgBlrzZHvqXxXqG+j1JjynjpI=",
+      "mediaKey": "sp2/LTcuuwI5H8//AJOU6hbYotJ9Dpz3z0bf2NZMq0M=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/20048406_961837895724022_3271313670279301034_n.enc?ccb=11-4&oh=01_Q5AaIB4JYAOnaL_5j_UpACbffTqG2ojPtPYqcXTKDzGKqVqJ&oe=66ADA6BD&_nc_sid=5e03e0",
+      "fileLength": "246372",
+      "mediaKeyTimestamp": "1719940492",
+      "firstFrameLength": 13860,
+      "firstFrameSidecar": "WVMe9whN6YrUxA==",
+      "isAnimated": true,
+      "stickerSentTs": "1720077278275",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]
