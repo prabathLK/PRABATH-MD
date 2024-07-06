@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A25C07F0DA823FC05EB"
+    },
+    "messageTimestamp": 1720092081,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "උනු වතුර ටිකක් බොන්න දැම්ම ගිහින්",
+        "contextInfo": {
+          "stanzaId": "E6E9D49AE32E36021091206DC7E66C92",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ඊයේ නාලා කෙලවගත්තා 🥲"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720090083",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A25C07F0DA823FC05EB",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "උනු වතුර ටිකක් බොන්න දැම්ම ගිහින්",
+      "contextInfo": {
+        "stanzaId": "E6E9D49AE32E36021091206DC7E66C92",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ඊයේ නාලා කෙලවගත්තා 🥲"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "උනු වතුර ටිකක් බොන්න දැම්ම ගිහින්",
+    "quoted": {
+      "conversation": "ඊයේ නාලා කෙලවගත්තා 🥲"
+    }
+  }
+]

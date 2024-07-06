@@ -1,0 +1,72 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363312720587251@g.us",
+      "fromMe": false,
+      "id": "3A295F357490FA1A597C",
+      "participant": "94716627781@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720112678,
+    "pushName": "Sandu Deini",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/25473648_499332902504503_1732370108823816583_n.enc?ccb=11-4&oh=01_Q5AaIB0Gq2-9ExDrkmv66erJywnRWkhHZxTAkZbJfIKzBf43&oe=66AE40F8&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Rs 2200.00",
+        "fileSha256": "4NgXQ3+WBoff80P40sho72VmoeWtrT+lOtNvyOPPTc4=",
+        "fileLength": "102652",
+        "height": 904,
+        "width": 1280,
+        "mediaKey": "nn0xizS0gsyh2EIYxnbmDM+rUlEmuVu9Y4kp4LSo1JE=",
+        "fileEncSha256": "EKD73dRpQZ1xPIat1NV4L8exRqZliv63+BQpZZA9qy0=",
+        "directPath": "/v/t62.7118-24/25473648_499332902504503_1732370108823816583_n.enc?ccb=11-4&oh=01_Q5AaIB0Gq2-9ExDrkmv66erJywnRWkhHZxTAkZbJfIKzBf43&oe=66AE40F8&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720112522",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCAAzAEgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAA9N27OmajZYzzp6+lErOlSTKjqyatim/Np2YSjIhKPSoT1joz6NinTnu2edj053grcT1rCgAAAP/EABgRAAMBAQAAAAAAAAAAAAAAAAABESAQ/9oACAECAQE/ACEJxYYsPX//xAAaEQACAwEBAAAAAAAAAAAAAAAAMQECEiAR/9oACAEDAQE/AJnyTZo0Qiz4qiz4quv/xAAsEAABAwQBAgQGAwEAAAAAAAABAAIDESExQRIzUQQTImEQIzJxgZEwobHR/9oACAEBAAE/AGWDqAE6qn0rr8fCRzmO+uxTnuABD/6URc6/Oo+EdOWvyn3aKgA+yipz9QqKKWEFtWgNpdRFlg5lSdowtc5w4Nx3UUIDy1wDqd06EGL0hradlHGDHyIBqdp8fGVpoOJ0p2hslAALaUd3UrSydZhxhR5b9WdoU8w/ThRmsr7/ALwh0jhMNYRg32pa8mUtfS8R1dY0mZP2Ubi6K9rdk22t90D6zfXZRWlegflH/iZ0Rq6nPqZ914jq/hR5NTpRWhz+sJouLtyh1Dd2FGPmvP8AiHSN3JloQLi+ApalzaXvteJ6uTjajIDjUjG1E9ojo54HsFWhtxzZNlZzJMulHIwSPPLjXfdCRnlkeZX2TZGCIDnxvhSyMLm+rl79l4hwdJUO5W/i//4AAwD/2Q==",
+        "firstScanSidecar": "HeMLuU93NxClug==",
+        "firstScanLength": 8829,
+        "scansSidecar": "HeMLuU93NxClug7JSjOM/TObxaaIzydFJCibDLTmD+R9HSm2tweI5w==",
+        "scanLengths": [
+          8829,
+          50333,
+          17617,
+          25871
+        ],
+        "midQualityFileSha256": "QTLAjDFXEUNYOYmhZiVKAr9WdMMQGSrTMO3yrXiLUxM="
+      }
+    },
+    "id": "3A295F357490FA1A597C",
+    "chat": "120363312720587251@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94716627781@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/25473648_499332902504503_1732370108823816583_n.enc?ccb=11-4&oh=01_Q5AaIB0Gq2-9ExDrkmv66erJywnRWkhHZxTAkZbJfIKzBf43&oe=66AE40F8&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "Rs 2200.00",
+      "fileSha256": "4NgXQ3+WBoff80P40sho72VmoeWtrT+lOtNvyOPPTc4=",
+      "fileLength": "102652",
+      "height": 904,
+      "width": 1280,
+      "mediaKey": "nn0xizS0gsyh2EIYxnbmDM+rUlEmuVu9Y4kp4LSo1JE=",
+      "fileEncSha256": "EKD73dRpQZ1xPIat1NV4L8exRqZliv63+BQpZZA9qy0=",
+      "directPath": "/v/t62.7118-24/25473648_499332902504503_1732370108823816583_n.enc?ccb=11-4&oh=01_Q5AaIB0Gq2-9ExDrkmv66erJywnRWkhHZxTAkZbJfIKzBf43&oe=66AE40F8&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720112522",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCAAzAEgDASIAAhEBAxEB/8QAGQABAAMBAQAAAAAAAAAAAAAAAAIDBAEF/8QAFwEBAQEBAAAAAAAAAAAAAAAAAAIBA//aAAwDAQACEAMQAAAA9N27OmajZYzzp6+lErOlSTKjqyatim/Np2YSjIhKPSoT1joz6NinTnu2edj053grcT1rCgAAAP/EABgRAAMBAQAAAAAAAAAAAAAAAAABESAQ/9oACAECAQE/ACEJxYYsPX//xAAaEQACAwEBAAAAAAAAAAAAAAAAMQECEiAR/9oACAEDAQE/AJnyTZo0Qiz4qiz4quv/xAAsEAABAwQBAgQGAwEAAAAAAAABAAIDESExQRIzUQQTImEQIzJxgZEwobHR/9oACAEBAAE/AGWDqAE6qn0rr8fCRzmO+uxTnuABD/6URc6/Oo+EdOWvyn3aKgA+yipz9QqKKWEFtWgNpdRFlg5lSdowtc5w4Nx3UUIDy1wDqd06EGL0hradlHGDHyIBqdp8fGVpoOJ0p2hslAALaUd3UrSydZhxhR5b9WdoU8w/ThRmsr7/ALwh0jhMNYRg32pa8mUtfS8R1dY0mZP2Ubi6K9rdk22t90D6zfXZRWlegflH/iZ0Rq6nPqZ914jq/hR5NTpRWhz+sJouLtyh1Dd2FGPmvP8AiHSN3JloQLi+ApalzaXvteJ6uTjajIDjUjG1E9ojo54HsFWhtxzZNlZzJMulHIwSPPLjXfdCRnlkeZX2TZGCIDnxvhSyMLm+rl79l4hwdJUO5W/i//4AAwD/2Q==",
+      "firstScanSidecar": "HeMLuU93NxClug==",
+      "firstScanLength": 8829,
+      "scansSidecar": "HeMLuU93NxClug7JSjOM/TObxaaIzydFJCibDLTmD+R9HSm2tweI5w==",
+      "scanLengths": [
+        8829,
+        50333,
+        17617,
+        25871
+      ],
+      "midQualityFileSha256": "QTLAjDFXEUNYOYmhZiVKAr9WdMMQGSrTMO3yrXiLUxM="
+    },
+    "mentionUser": [],
+    "body": "Rs 2200.00",
+    "quoted": null
+  }
+]

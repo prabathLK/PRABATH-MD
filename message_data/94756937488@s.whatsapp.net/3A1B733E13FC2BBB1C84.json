@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A1B733E13FC2BBB1C84"
+    },
+    "messageTimestamp": 1720069472,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "mn oyge lga innw aiye",
+        "contextInfo": {
+          "stanzaId": "D5A0321F0ACDB86EAB67BA4D21D26FB9",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Mt oygen ath wenna ba mt oy one"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720068689",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A1B733E13FC2BBB1C84",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "mn oyge lga innw aiye",
+      "contextInfo": {
+        "stanzaId": "D5A0321F0ACDB86EAB67BA4D21D26FB9",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Mt oygen ath wenna ba mt oy one"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "mn oyge lga innw aiye",
+    "quoted": {
+      "conversation": "Mt oygen ath wenna ba mt oy one"
+    }
+  }
+]

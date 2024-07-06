@@ -1,0 +1,107 @@
+[
+  {
+    "key": {
+      "remoteJid": "94741017800@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AC87FA0DEDF4541D61A"
+    },
+    "messageTimestamp": 1720102322,
+    "pushName": "Wasthu 🤍👩‍🎓",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අඩෝහ්",
+        "contextInfo": {
+          "stanzaId": "5C704F7FF24A0B0F79601A04A75569D4",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "Ha 😌",
+              "contextInfo": {
+                "mentionedJid": [
+                  ""
+                ],
+                "expiration": 0,
+                "ephemeralSettingTimestamp": "1697807289",
+                "disappearingMode": {
+                  "initiator": "CHANGED_IN_CHAT"
+                }
+              }
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "1697807289",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT"
+          }
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102234",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AC87FA0DEDF4541D61A",
+    "chat": "94741017800@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94741017800@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අඩෝහ්",
+      "contextInfo": {
+        "stanzaId": "5C704F7FF24A0B0F79601A04A75569D4",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "Ha 😌",
+            "contextInfo": {
+              "mentionedJid": [
+                ""
+              ],
+              "expiration": 0,
+              "ephemeralSettingTimestamp": "1697807289",
+              "disappearingMode": {
+                "initiator": "CHANGED_IN_CHAT"
+              }
+            }
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ],
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1697807289",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT"
+        }
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "අඩෝහ්",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "Ha 😌",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "1697807289",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT"
+          }
+        }
+      }
+    }
+  }
+]

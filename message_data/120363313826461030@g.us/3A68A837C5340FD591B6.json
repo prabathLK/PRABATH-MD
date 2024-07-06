@@ -1,0 +1,86 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A68A837C5340FD591B6",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720055657,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/30136318_994658192065442_7086775599301664614_n.enc?ccb=11-4&oh=01_Q5AaIPewChYu9m-KyVcpFKF9yQQl2fnYOB8wyeT3wSda4dpk&oe=66AD7D4D&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "@94775996551  apith sthutin",
+        "fileSha256": "QNjVjii8MZpKrh4dT8Eh/A0nYVvLXshemx3IW0lwyWQ=",
+        "fileLength": "85815",
+        "height": 1600,
+        "width": 740,
+        "mediaKey": "woRX/QNJkiNtqg+m7BphPtQFHts1IFovqTp5vKPNy1E=",
+        "fileEncSha256": "FXMDiy0lxOxDVBuqKIuLkXVmdFn7ev5SB4DpLh6EqcM=",
+        "directPath": "/v/t62.7118-24/30136318_994658192065442_7086775599301664614_n.enc?ccb=11-4&oh=01_Q5AaIPewChYu9m-KyVcpFKF9yQQl2fnYOB8wyeT3wSda4dpk&oe=66AD7D4D&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720055652",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACEDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAEFAgMEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAC/h7Tnn1i+M9ofOKPzLe4HSW4RSzPDuwTzGxBlWXUV2VLILIl5BT2AwD//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/AH//xAAVEQEBAAAAAAAAAAAAAAAAAAARMP/aAAgBAwEBPwAv/8QALRAAAQQAAwUGBwAAAAAAAAAAAQACAxESITEEBhAWURMiQUNTgRQyM1JUYZH/2gAIAQEAAT8AczFLiDzXS1JPtDXkRwhw8DabPtOG3bPR6Ap0u0jMQ3+rXxG2fjD+psQjJHU3qmmjkAhpnx5gku+yCfvK9msITN5pHixEEN4pT5QXMMvpDhK4XRUbcNnqm6cCaCPffoq7tJunAIRtxh2L2TiPA2m8Ah8xtXnQ90MuDd35nZdoAju7MR9VqG7sw81q5envOVq5dm9Rqtw0C7VrSceSbJG92RNoga2rH3L//gADAP/Z",
+        "contextInfo": {
+          "mentionedJid": [
+            "94775996551@s.whatsapp.net",
+            ""
+          ]
+        },
+        "firstScanSidecar": "PVDugYEdMdXIFw==",
+        "firstScanLength": 8376,
+        "scansSidecar": "PVDugYEdMdXIF1fieb3okpJycDhornatBaM83HU/Ebs3f3QWFSQiiA==",
+        "scanLengths": [
+          8376,
+          34654,
+          15768,
+          27015
+        ],
+        "midQualityFileSha256": "54Va5fdkIRQxyRd9Usqrg4ZksveLUmEhZVGga5EdSMc="
+      }
+    },
+    "id": "3A68A837C5340FD591B6",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/30136318_994658192065442_7086775599301664614_n.enc?ccb=11-4&oh=01_Q5AaIPewChYu9m-KyVcpFKF9yQQl2fnYOB8wyeT3wSda4dpk&oe=66AD7D4D&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "@94775996551  apith sthutin",
+      "fileSha256": "QNjVjii8MZpKrh4dT8Eh/A0nYVvLXshemx3IW0lwyWQ=",
+      "fileLength": "85815",
+      "height": 1600,
+      "width": 740,
+      "mediaKey": "woRX/QNJkiNtqg+m7BphPtQFHts1IFovqTp5vKPNy1E=",
+      "fileEncSha256": "FXMDiy0lxOxDVBuqKIuLkXVmdFn7ev5SB4DpLh6EqcM=",
+      "directPath": "/v/t62.7118-24/30136318_994658192065442_7086775599301664614_n.enc?ccb=11-4&oh=01_Q5AaIPewChYu9m-KyVcpFKF9yQQl2fnYOB8wyeT3wSda4dpk&oe=66AD7D4D&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720055652",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDABsSFBcUERsXFhceHBsgKEIrKCUlKFE6PTBCYFVlZF9VXVtqeJmBanGQc1tdhbWGkJ6jq62rZ4C8ybqmx5moq6T/2wBDARweHigjKE4rK06kbl1upKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKSkpKT/wgARCABIACEDASIAAhEBAxEB/8QAGgAAAwEBAQEAAAAAAAAAAAAAAAEFAgMEBv/EABUBAQEAAAAAAAAAAAAAAAAAAAAB/9oADAMBAAIQAxAAAAC/h7Tnn1i+M9ofOKPzLe4HSW4RSzPDuwTzGxBlWXUV2VLILIl5BT2AwD//xAAUEQEAAAAAAAAAAAAAAAAAAAAw/9oACAECAQE/AH//xAAVEQEBAAAAAAAAAAAAAAAAAAARMP/aAAgBAwEBPwAv/8QALRAAAQQAAwUGBwAAAAAAAAAAAQACAxESITEEBhAWURMiQUNTgRQyM1JUYZH/2gAIAQEAAT8AczFLiDzXS1JPtDXkRwhw8DabPtOG3bPR6Ap0u0jMQ3+rXxG2fjD+psQjJHU3qmmjkAhpnx5gku+yCfvK9msITN5pHixEEN4pT5QXMMvpDhK4XRUbcNnqm6cCaCPffoq7tJunAIRtxh2L2TiPA2m8Ah8xtXnQ90MuDd35nZdoAju7MR9VqG7sw81q5envOVq5dm9Rqtw0C7VrSceSbJG92RNoga2rH3L//gADAP/Z",
+      "contextInfo": {
+        "mentionedJid": [
+          "94775996551@s.whatsapp.net",
+          ""
+        ]
+      },
+      "firstScanSidecar": "PVDugYEdMdXIFw==",
+      "firstScanLength": 8376,
+      "scansSidecar": "PVDugYEdMdXIF1fieb3okpJycDhornatBaM83HU/Ebs3f3QWFSQiiA==",
+      "scanLengths": [
+        8376,
+        34654,
+        15768,
+        27015
+      ],
+      "midQualityFileSha256": "54Va5fdkIRQxyRd9Usqrg4ZksveLUmEhZVGga5EdSMc="
+    },
+    "mentionUser": [
+      "94775996551@s.whatsapp.net"
+    ],
+    "body": "@94775996551  apith sthutin",
+    "quoted": null
+  }
+]

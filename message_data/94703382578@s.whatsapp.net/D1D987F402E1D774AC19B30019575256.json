@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "D1D987F402E1D774AC19B30019575256"
+    },
+    "messageTimestamp": 1720101918,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "උබනේ හුත්ටෝ බූට් තියන්නේ😅",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "ABDEC10832F1B7CF2CE9C4AD14563204",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Aye bootak knna weid dnna hutto"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "D1D987F402E1D774AC19B30019575256",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "උබනේ හුත්ටෝ බූට් තියන්නේ😅",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "ABDEC10832F1B7CF2CE9C4AD14563204",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Aye bootak knna weid dnna hutto"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "උබනේ හුත්ටෝ බූට් තියන්නේ😅",
+    "quoted": {
+      "conversation": "Aye bootak knna weid dnna hutto"
+    }
+  }
+]

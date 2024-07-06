@@ -1,0 +1,44 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "AF8EF355323F9D7A7EDF0EEEA69F4771",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090077,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363313826461030@g.us",
+          "fromMe": true,
+          "id": "54D4ABA3EDDB1EFF44B24A2D7F4F7959",
+          "participant": "94787177718@s.whatsapp.net"
+        },
+        "text": "😂",
+        "senderTimestampMs": "1720090077074"
+      }
+    },
+    "id": "AF8EF355323F9D7A7EDF0EEEA69F4771",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363313826461030@g.us",
+        "fromMe": true,
+        "id": "54D4ABA3EDDB1EFF44B24A2D7F4F7959",
+        "participant": "94787177718@s.whatsapp.net"
+      },
+      "text": "😂",
+      "senderTimestampMs": "1720090077074"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

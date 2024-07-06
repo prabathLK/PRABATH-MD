@@ -1,0 +1,36 @@
+{
+  "name": "emoji-api",
+  "version": "3.0.1",
+  "description": "Simple Emoji API",
+  "main": "build/index.js",
+  "module": "build/index.mjs",
+  "types": "build/index.d.ts",
+  "files": [
+    "build"
+  ],
+  "scripts": {
+    "build": "tsup",
+    "test": "npm run build && cd test && node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Archaeopteryx1/emoji-api.git"
+  },
+  "keywords": [
+    "emoji",
+    "emoji-api",
+    "parser",
+    "emoji-parser"
+  ],
+  "author": "Archaeopteryx1",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Archaeopteryx1/emoji-api/issues"
+  },
+  "homepage": "https://github.com/Archaeopteryx1/emoji-api#readme",
+  "devDependencies": {
+    "@types/node": "^18.7.23",
+    "tsup": "^6.2.3",
+    "typescript": "^4.4.3"
+  }
+}

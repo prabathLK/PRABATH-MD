@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "A92C87B700B21A843F45BF67CC440924",
+      "participant": "94741106071@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720156968,
+    "pushName": "༒ʜᴀꜱʜɪɴᴛʜᴀ ꜱᴀɴᴅᴇꜱʜ༒˟˟˯˰̊",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwjkgb9vEAAaIFsB4NphhwZv1+aXDQFtJot9ZcYNGapan3TkmKc2Eaf+IiEFP/ahUkgMnD/aLRzrnBzrichNwx+3Aa3a0K6ItYXa7y8="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "F93031341798B5A426B3DB613A811847",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "❤️",
+        "senderTimestampMs": "1720156959831"
+      }
+    },
+    "id": "A92C87B700B21A843F45BF67CC440924",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94741106071@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "F93031341798B5A426B3DB613A811847",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1720156959831"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

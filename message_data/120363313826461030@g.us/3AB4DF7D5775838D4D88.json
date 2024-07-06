@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AB4DF7D5775838D4D88",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090578,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/29632366_849946286981590_8393881887223161701_n.enc?ccb=11-4&oh=01_Q5AaINr6F4sCtIob9tzEk3vO9pGL0zI62-RRMkEN6efccXmL&oe=66AE0543&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "ymucZI7ZYB0cNyJHzBd1ccPb0nrIWkhTTjfmfx4SccI=",
+        "fileEncSha256": "ERLJ0FI2OH0llT+aboQI7bCP0nLVrJcQTQuHG+Xfwxw=",
+        "mediaKey": "9SAidFoD1kE0vcFp56WwQt3vvNQlBimpst6A4b/DTB8=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/29632366_849946286981590_8393881887223161701_n.enc?ccb=11-4&oh=01_Q5AaINr6F4sCtIob9tzEk3vO9pGL0zI62-RRMkEN6efccXmL&oe=66AE0543&_nc_sid=5e03e0",
+        "fileLength": "313464",
+        "mediaKeyTimestamp": "1719968004",
+        "firstFrameLength": 6782,
+        "firstFrameSidecar": "P4X1HfKkNXwPOg==",
+        "isAnimated": true,
+        "stickerSentTs": "1720090577285",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3AB4DF7D5775838D4D88",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/29632366_849946286981590_8393881887223161701_n.enc?ccb=11-4&oh=01_Q5AaINr6F4sCtIob9tzEk3vO9pGL0zI62-RRMkEN6efccXmL&oe=66AE0543&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "ymucZI7ZYB0cNyJHzBd1ccPb0nrIWkhTTjfmfx4SccI=",
+      "fileEncSha256": "ERLJ0FI2OH0llT+aboQI7bCP0nLVrJcQTQuHG+Xfwxw=",
+      "mediaKey": "9SAidFoD1kE0vcFp56WwQt3vvNQlBimpst6A4b/DTB8=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/29632366_849946286981590_8393881887223161701_n.enc?ccb=11-4&oh=01_Q5AaINr6F4sCtIob9tzEk3vO9pGL0zI62-RRMkEN6efccXmL&oe=66AE0543&_nc_sid=5e03e0",
+      "fileLength": "313464",
+      "mediaKeyTimestamp": "1719968004",
+      "firstFrameLength": 6782,
+      "firstFrameSidecar": "P4X1HfKkNXwPOg==",
+      "isAnimated": true,
+      "stickerSentTs": "1720090577285",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "797EEBED883A2122FF8EEF015652D632",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720089481,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Kwda",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "D547749CB3B47FB1C52BCA32E9858912",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ah ub gna kollek ahuw"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "797EEBED883A2122FF8EEF015652D632",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Kwda",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "D547749CB3B47FB1C52BCA32E9858912",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ah ub gna kollek ahuw"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Kwda",
+    "quoted": {
+      "conversation": "Ah ub gna kollek ahuw"
+    }
+  }
+]

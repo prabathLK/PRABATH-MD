@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A6CBF97E779688C29C8",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720055780,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Ek tmy saba adre hmbuna kynne"
+    },
+    "id": "3A6CBF97E779688C29C8",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Ek tmy saba adre hmbuna kynne",
+    "mentionUser": [],
+    "body": "Ek tmy saba adre hmbuna kynne",
+    "quoted": null
+  }
+]

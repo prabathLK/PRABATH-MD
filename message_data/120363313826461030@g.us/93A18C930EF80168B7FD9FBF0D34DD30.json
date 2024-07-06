@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "93A18C930EF80168B7FD9FBF0D34DD30",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090188,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Oow ai balan one dha",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "56865DB08C9E4B1EBC6BCADDCA233FEA",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ආහ් දැන් එහෙනම් හිල ලොකු ඇති නේද 🌚"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "93A18C930EF80168B7FD9FBF0D34DD30",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Oow ai balan one dha",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "56865DB08C9E4B1EBC6BCADDCA233FEA",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ආහ් දැන් එහෙනම් හිල ලොකු ඇති නේද 🌚"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Oow ai balan one dha",
+    "quoted": {
+      "conversation": "ආහ් දැන් එහෙනම් හිල ලොකු ඇති නේද 🌚"
+    }
+  }
+]

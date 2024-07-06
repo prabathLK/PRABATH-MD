@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3ACE252F85EAAA25652A"
+    },
+    "messageTimestamp": 1720106968,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "denne",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720106867",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3ACE252F85EAAA25652A",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "denne",
+    "mentionUser": [],
+    "body": "denne",
+    "quoted": null
+  }
+]

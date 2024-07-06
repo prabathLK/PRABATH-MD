@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "56A9CBD531C28CAC5B662318D0A6B7B2",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090252,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ahnnko",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3AF1D277B59C5D4F1F8E",
+          "participant": "94775996551@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Blnna nd ane meyala"
+          },
+          "mentionedJid": [
+            "94775996551@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "56A9CBD531C28CAC5B662318D0A6B7B2",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ahnnko",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3AF1D277B59C5D4F1F8E",
+        "participant": "94775996551@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Blnna nd ane meyala"
+        },
+        "mentionedJid": [
+          "94775996551@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94775996551@s.whatsapp.net"
+    ],
+    "body": "Ahnnko",
+    "quoted": {
+      "conversation": "Blnna nd ane meyala"
+    }
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94770310903@s.whatsapp.net",
+      "fromMe": false,
+      "id": "A8936C9FFDC071C327D083FC4DB4D374"
+    },
+    "messageTimestamp": 1720094831,
+    "pushName": "චඳූ 🌼",
+    "broadcast": false,
+    "message": {
+      "conversation": "Ooo",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "A8936C9FFDC071C327D083FC4DB4D374",
+    "chat": "94770310903@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94770310903@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Ooo",
+    "mentionUser": [],
+    "body": "Ooo",
+    "quoted": null
+  }
+]

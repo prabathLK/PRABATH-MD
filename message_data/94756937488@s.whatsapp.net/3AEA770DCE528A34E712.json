@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AEA770DCE528A34E712"
+    },
+    "messageTimestamp": 1720069782,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ehma deyk wei d kiylai thiyn prshne",
+        "contextInfo": {
+          "stanzaId": "5E56454B4E04DC07200C4562BDE34FC8",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Wena relation ekkata yanawanm eka mata kelinma kiyanna harida please 🥺"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720069698",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AEA770DCE528A34E712",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ehma deyk wei d kiylai thiyn prshne",
+      "contextInfo": {
+        "stanzaId": "5E56454B4E04DC07200C4562BDE34FC8",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Wena relation ekkata yanawanm eka mata kelinma kiyanna harida please 🥺"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ehma deyk wei d kiylai thiyn prshne",
+    "quoted": {
+      "conversation": "Wena relation ekkata yanawanm eka mata kelinma kiyanna harida please 🥺"
+    }
+  }
+]

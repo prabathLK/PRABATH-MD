@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A770391E7455D06DB10"
+    },
+    "messageTimestamp": 1720105802,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "conversation": ".tnq bot",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A770391E7455D06DB10",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".tnq bot",
+    "mentionUser": [],
+    "body": ".tnq bot",
+    "quoted": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "1C8508C4A5BEB2580C756D0BDFD46CD5",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090619,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "Me waliyak yanna hadhane"
+    },
+    "id": "1C8508C4A5BEB2580C756D0BDFD46CD5",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Me waliyak yanna hadhane",
+    "mentionUser": [],
+    "body": "Me waliyak yanna hadhane",
+    "quoted": null
+  }
+]

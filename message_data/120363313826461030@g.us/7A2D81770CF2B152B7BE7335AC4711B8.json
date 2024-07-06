@@ -1,0 +1,48 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "7A2D81770CF2B152B7BE7335AC4711B8",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090127,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "@94775996551 meee",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            "94775996551@s.whatsapp.net",
+            ""
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "7A2D81770CF2B152B7BE7335AC4711B8",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "@94775996551 meee",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          "94775996551@s.whatsapp.net",
+          ""
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94775996551@s.whatsapp.net"
+    ],
+    "body": "@94775996551 meee",
+    "quoted": null
+  }
+]

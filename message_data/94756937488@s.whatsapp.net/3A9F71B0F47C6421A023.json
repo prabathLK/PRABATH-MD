@@ -1,0 +1,124 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A9F71B0F47C6421A023"
+    },
+    "messageTimestamp": 1720110026,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "hoda wde 😼😹",
+        "contextInfo": {
+          "stanzaId": "473C31EBF5EB644A2EF2E5CD8CF3DD83",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Labbak hadala dunna bonna kyl 😒",
+              "fileSha256": "Nv/ND+BFpjb6KZZpFX3UYixbqKycNBsO7j2asRXBMgk=",
+              "fileLength": "89451",
+              "height": 1599,
+              "width": 899,
+              "mediaKey": "r4AtRjJ7EkGIJS0c+j5CgziR3r+kwNqYba7v+NKmjeg=",
+              "fileEncSha256": "LzcTXAQa7F3THwSnrNZMzP6nveWnUDE+lCH/YkSiqUE=",
+              "directPath": "/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720110002",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAABQEDBAYCAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAABh5pXsbi3WLQVDFdbLHGvljjGtZlKT3pegpDm5ZKc70kC27OZKRdqouy5Khb//xAAjEAACAgIBBAIDAAAAAAAAAAABAgADBBEhEBIxQRMUMlFS/9oACAEBAAE/ACwE7twtqb6ZFyVDkbMOZb6leWWOnm2GjPkmXs3GKghrHqUgtSJ2GZNIY78GCpx6gULy5AEfJKnQ4An21/ZlylqyF8xsgqSCCDCWtaK/OietlFNn5JMupKuwVjUPF3Rsqn04n3KP7Eyra7U70blY+xYrTYh6Y3N6D0TM1BVaEHibM//EABsRAAIDAAMAAAAAAAAAAAAAAAERAAIQEiAh/9oACAECAQE/AGI8vyEoSveqiz//xAAbEQACAwADAAAAAAAAAAAAAAAAAQIQESExUf/aAAgBAwEBPwDHcMaJLwx0urT4NP/Z",
+              "scansSidecar": "kiOuRVx2c2lh84TtJv92wuMTbQWZIzOMWAvr9VDLwpY0VYdSnRd3OQ==",
+              "scanLengths": [
+                11720,
+                21341,
+                12341,
+                44049
+              ],
+              "midQualityFileSha256": "Pt1zXqKXUfH+HBa++PVvjtGNc668qyHOjKJJ2+XCaKE="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720107720",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A9F71B0F47C6421A023",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "hoda wde 😼😹",
+      "contextInfo": {
+        "stanzaId": "473C31EBF5EB644A2EF2E5CD8CF3DD83",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Labbak hadala dunna bonna kyl 😒",
+            "fileSha256": "Nv/ND+BFpjb6KZZpFX3UYixbqKycNBsO7j2asRXBMgk=",
+            "fileLength": "89451",
+            "height": 1599,
+            "width": 899,
+            "mediaKey": "r4AtRjJ7EkGIJS0c+j5CgziR3r+kwNqYba7v+NKmjeg=",
+            "fileEncSha256": "LzcTXAQa7F3THwSnrNZMzP6nveWnUDE+lCH/YkSiqUE=",
+            "directPath": "/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720110002",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAABQEDBAYCAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAABh5pXsbi3WLQVDFdbLHGvljjGtZlKT3pegpDm5ZKc70kC27OZKRdqouy5Khb//xAAjEAACAgIBBAIDAAAAAAAAAAABAgADBBEhEBIxQRMUMlFS/9oACAEBAAE/ACwE7twtqb6ZFyVDkbMOZb6leWWOnm2GjPkmXs3GKghrHqUgtSJ2GZNIY78GCpx6gULy5AEfJKnQ4An21/ZlylqyF8xsgqSCCDCWtaK/OietlFNn5JMupKuwVjUPF3Rsqn04n3KP7Eyra7U70blY+xYrTYh6Y3N6D0TM1BVaEHibM//EABsRAAIDAAMAAAAAAAAAAAAAAAERAAIQEiAh/9oACAECAQE/AGI8vyEoSveqiz//xAAbEQACAwADAAAAAAAAAAAAAAAAAQIQESExUf/aAAgBAwEBPwDHcMaJLwx0urT4NP/Z",
+            "scansSidecar": "kiOuRVx2c2lh84TtJv92wuMTbQWZIzOMWAvr9VDLwpY0VYdSnRd3OQ==",
+            "scanLengths": [
+              11720,
+              21341,
+              12341,
+              44049
+            ],
+            "midQualityFileSha256": "Pt1zXqKXUfH+HBa++PVvjtGNc668qyHOjKJJ2+XCaKE="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "hoda wde 😼😹",
+    "quoted": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Labbak hadala dunna bonna kyl 😒",
+        "fileSha256": "Nv/ND+BFpjb6KZZpFX3UYixbqKycNBsO7j2asRXBMgk=",
+        "fileLength": "89451",
+        "height": 1599,
+        "width": 899,
+        "mediaKey": "r4AtRjJ7EkGIJS0c+j5CgziR3r+kwNqYba7v+NKmjeg=",
+        "fileEncSha256": "LzcTXAQa7F3THwSnrNZMzP6nveWnUDE+lCH/YkSiqUE=",
+        "directPath": "/v/t62.7118-24/30598779_1021503442979050_7709397020548903621_n.enc?ccb=11-4&oh=01_Q5AaIMKNhAM2eM4G4sdEAVzQPzcU1MWUeQrMuRgSUz5x3pdo&oe=66AE54D5&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720110002",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIADwAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAABQEDBAYCAQADAQAAAAAAAAAAAAAAAAAAAQMC/9oADAMBAAIQAxAAAABh5pXsbi3WLQVDFdbLHGvljjGtZlKT3pegpDm5ZKc70kC27OZKRdqouy5Khb//xAAjEAACAgIBBAIDAAAAAAAAAAABAgADBBEhEBIxQRMUMlFS/9oACAEBAAE/ACwE7twtqb6ZFyVDkbMOZb6leWWOnm2GjPkmXs3GKghrHqUgtSJ2GZNIY78GCpx6gULy5AEfJKnQ4An21/ZlylqyF8xsgqSCCDCWtaK/OietlFNn5JMupKuwVjUPF3Rsqn04n3KP7Eyra7U70blY+xYrTYh6Y3N6D0TM1BVaEHibM//EABsRAAIDAAMAAAAAAAAAAAAAAAERAAIQEiAh/9oACAECAQE/AGI8vyEoSveqiz//xAAbEQACAwADAAAAAAAAAAAAAAAAAQIQESExUf/aAAgBAwEBPwDHcMaJLwx0urT4NP/Z",
+        "scansSidecar": "kiOuRVx2c2lh84TtJv92wuMTbQWZIzOMWAvr9VDLwpY0VYdSnRd3OQ==",
+        "scanLengths": [
+          11720,
+          21341,
+          12341,
+          44049
+        ],
+        "midQualityFileSha256": "Pt1zXqKXUfH+HBa++PVvjtGNc668qyHOjKJJ2+XCaKE="
+      }
+    }
+  }
+]

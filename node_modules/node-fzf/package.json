@@ -1,0 +1,48 @@
+{
+  "name": "node-fzf",
+  "version": "0.5.3",
+  "description": "fzf ( junegunn/fzf ) inspired cli utility for node",
+  "main": "src/main.js",
+  "bin": {
+    "nfzf": "bin/cli.js"
+  },
+  "files": [
+    "bin/cli.js",
+    "src/main.js",
+    "usage.txt"
+  ],
+  "scripts": {
+    "test": "tape test/test.js"
+  },
+  "keywords": [
+    "node-fzf",
+    "fzf",
+    "fuzzy",
+    "list",
+    "search",
+    "cli"
+  ],
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/node-fzf"
+  },
+  "bugs": {
+    "url": "https://github.com/talmobi/node-fzf/issues",
+    "email": "talmo.christian@gmail.com"
+  },
+  "dependencies": {
+    "cli-color": "~1.2.0",
+    "keypress": "~0.2.1",
+    "minimist": "~1.2.0",
+    "redstar": "0.0.2",
+    "string-width": "~2.1.1",
+    "ttys": "0.0.3"
+  },
+  "devDependencies": {
+    "mock-stdin": "~1.0.0",
+    "tape": "~4.13.0"
+  }
+}

@@ -1,0 +1,85 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A046035EC100F1E4E1E"
+    },
+    "messageTimestamp": 1720155856,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/25483346_409900411369648_8413620686576298408_n.enc?ccb=11-4&oh=01_Q5AaIAczsOACXZ9NG6KycDIHy6j1aMIxP0vmu-12PxJOlqyk&oe=66AED65B&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+        "fileEncSha256": "L/HfqvvEbXlzZHGPwldi24dG9ReKwknxdKqpapcSO60=",
+        "mediaKey": "nAohVp4NsrovCR5j+EQZHSzzGqxjlF2SwwZ4ZhAhWmI=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/25483346_409900411369648_8413620686576298408_n.enc?ccb=11-4&oh=01_Q5AaIAczsOACXZ9NG6KycDIHy6j1aMIxP0vmu-12PxJOlqyk&oe=66AED65B&_nc_sid=5e03e0",
+        "fileLength": "41106",
+        "mediaKeyTimestamp": "1720150485",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "050C99DC25C9C6FA849F8D467CC46FB3",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ah krnwko blnna"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720155855144",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720155051",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A046035EC100F1E4E1E",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/25483346_409900411369648_8413620686576298408_n.enc?ccb=11-4&oh=01_Q5AaIAczsOACXZ9NG6KycDIHy6j1aMIxP0vmu-12PxJOlqyk&oe=66AED65B&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+      "fileEncSha256": "L/HfqvvEbXlzZHGPwldi24dG9ReKwknxdKqpapcSO60=",
+      "mediaKey": "nAohVp4NsrovCR5j+EQZHSzzGqxjlF2SwwZ4ZhAhWmI=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/25483346_409900411369648_8413620686576298408_n.enc?ccb=11-4&oh=01_Q5AaIAczsOACXZ9NG6KycDIHy6j1aMIxP0vmu-12PxJOlqyk&oe=66AED65B&_nc_sid=5e03e0",
+      "fileLength": "41106",
+      "mediaKeyTimestamp": "1720150485",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "050C99DC25C9C6FA849F8D467CC46FB3",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ah krnwko blnna"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720155855144",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Ah krnwko blnna"
+    }
+  }
+]

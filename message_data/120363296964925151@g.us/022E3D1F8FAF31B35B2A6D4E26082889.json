@@ -1,0 +1,48 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "022E3D1F8FAF31B35B2A6D4E26082889",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720105327,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "conversation": "අඩු GB ගානක ෆයිල් එකෙන් ඉල්ලපු අයට ඔන්න ආපහු දැම්මා🤭"
+    },
+    "id": "022E3D1F8FAF31B35B2A6D4E26082889",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "අඩු GB ගානක ෆයිල් එකෙන් ඉල්ලපු අයට ඔන්න ආපහු දැම්මා🤭",
+    "mentionUser": [],
+    "body": "අඩු GB ගානක ෆයිල් එකෙන් ඉල්ලපු අයට ඔන්න ආපහු දැම්මා🤭",
+    "quoted": null
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "022E3D1F8FAF31B35B2A6D4E26082889",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720105361,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwiwurm4ARARGiCkXUwVUMv4yUMWa9K7wASpM2J3eQjqYB4BYqPzbIwuvCIhBT3n4qsrGVude3KevOH8WrN1mktN+/Yg0YnXJT7IKi0S"
+      }
+    },
+    "id": "022E3D1F8FAF31B35B2A6D4E26082889",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "E85186505EB1FC9A5E83EF2D257E29DF",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090255,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Oyge gewl kohed"
+    },
+    "id": "E85186505EB1FC9A5E83EF2D257E29DF",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Oyge gewl kohed",
+    "mentionUser": [],
+    "body": "Oyge gewl kohed",
+    "quoted": null
+  }
+]

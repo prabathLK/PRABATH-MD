@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "0E954F5B3144E45DD2611F6FD2ABBC82"
+    },
+    "messageTimestamp": 1720101955,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "අනේ 😓",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "5AE686D6F583C55DC70F9143ED0C6B30",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "He he ehema kiyanna epa 🥲"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "0E954F5B3144E45DD2611F6FD2ABBC82",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "අනේ 😓",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "5AE686D6F583C55DC70F9143ED0C6B30",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "He he ehema kiyanna epa 🥲"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "අනේ 😓",
+    "quoted": {
+      "conversation": "He he ehema kiyanna epa 🥲"
+    }
+  }
+]

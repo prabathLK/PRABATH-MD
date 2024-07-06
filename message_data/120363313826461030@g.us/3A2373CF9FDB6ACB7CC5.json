@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A2373CF9FDB6ACB7CC5",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720103719,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "muuna"
+    },
+    "id": "3A2373CF9FDB6ACB7CC5",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "muuna",
+    "mentionUser": [],
+    "body": "muuna",
+    "quoted": null
+  }
+]

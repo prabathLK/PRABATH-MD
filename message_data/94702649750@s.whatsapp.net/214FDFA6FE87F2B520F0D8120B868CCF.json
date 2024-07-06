@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94702649750@s.whatsapp.net",
+      "fromMe": false,
+      "id": "214FDFA6FE87F2B520F0D8120B868CCF"
+    },
+    "messageTimestamp": 1720104882,
+    "pushName": "❤️🌼",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song kameeliya mal suwandata",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1718679404",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "214FDFA6FE87F2B520F0D8120B868CCF",
+    "chat": "94702649750@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94702649750@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song kameeliya mal suwandata",
+    "mentionUser": [],
+    "body": ".song kameeliya mal suwandata",
+    "quoted": null
+  }
+]

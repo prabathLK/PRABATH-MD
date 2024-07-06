@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6B9FB615C48279952362552FB278720E"
+    },
+    "messageTimestamp": 1720102310,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "බඩු බඩුමයි කියන්නේ ඕක තමා බන්ග්",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "6B9FB615C48279952362552FB278720E",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "බඩු බඩුමයි කියන්නේ ඕක තමා බන්ග්",
+    "mentionUser": [],
+    "body": "බඩු බඩුමයි කියන්නේ ඕක තමා බන්ග්",
+    "quoted": null
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "97AA0EF32A2A5B0F6BF1D5DE2CDACAF1",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091499,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "😂"
+    },
+    "id": "97AA0EF32A2A5B0F6BF1D5DE2CDACAF1",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "😂",
+    "mentionUser": [],
+    "body": "😂",
+    "quoted": null
+  }
+]

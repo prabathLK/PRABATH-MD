@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "C29453B864EC207BB9BCDBD4C4B7A7E1",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720156998,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Kr pc pyy eth wennh"
+    },
+    "id": "C29453B864EC207BB9BCDBD4C4B7A7E1",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Kr pc pyy eth wennh",
+    "mentionUser": [],
+    "body": "Kr pc pyy eth wennh",
+    "quoted": null
+  }
+]

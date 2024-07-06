@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94702649750@s.whatsapp.net",
+      "fromMe": false,
+      "id": "73A1B112C60CCD727B6F58BD454DE18A"
+    },
+    "messageTimestamp": 1720185299,
+    "pushName": "❤️🌼",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song dinaka mage diwi gamane",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1718679404",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "73A1B112C60CCD727B6F58BD454DE18A",
+    "chat": "94702649750@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94702649750@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song dinaka mage diwi gamane",
+    "mentionUser": [],
+    "body": ".song dinaka mage diwi gamane",
+    "quoted": null
+  }
+]

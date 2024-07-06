@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "F0433893BECE1B596F6B3717AED9F574"
+    },
+    "messageTimestamp": 1720101981,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "එකිනම් කැතයි බන්",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "D13F241DB65B71C25964149BA3CCE802",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Oy video eke inna kella yko 😒"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "F0433893BECE1B596F6B3717AED9F574",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "එකිනම් කැතයි බන්",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "D13F241DB65B71C25964149BA3CCE802",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Oy video eke inna kella yko 😒"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "එකිනම් කැතයි බන්",
+    "quoted": {
+      "conversation": "Oy video eke inna kella yko 😒"
+    }
+  }
+]

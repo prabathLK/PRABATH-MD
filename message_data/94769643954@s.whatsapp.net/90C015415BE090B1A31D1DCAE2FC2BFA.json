@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "94769643954@s.whatsapp.net",
+      "fromMe": false,
+      "id": "90C015415BE090B1A31D1DCAE2FC2BFA"
+    },
+    "messageTimestamp": 1720089703,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/40723339_786172393692064_6903076741535875638_n.enc?ccb=11-4&oh=01_Q5AaIFJqjZYIkYBV6bz1rjf12PYZkeR8NPu6FSbDp2c4FQRz&oe=66ADD822&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": ".sticker",
+        "fileSha256": "jvWdAiGb/Xy1cjx8Ebc4y3J2QeVMX6cA2fgRIpdicOg=",
+        "fileLength": "129900",
+        "height": 1080,
+        "width": 1080,
+        "mediaKey": "1lRmVWT+kQcTkALcXBBwdgs6c0hMpY0d/LZssS79vf0=",
+        "fileEncSha256": "hu/RIpYb580TLhURpaHKwLst96wJjiJ/gS4LmQBCxD4=",
+        "directPath": "/v/t62.7118-24/40723339_786172393692064_6903076741535875638_n.enc?ccb=11-4&oh=01_Q5AaIFJqjZYIkYBV6bz1rjf12PYZkeR8NPu6FSbDp2c4FQRz&oe=66ADD822&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720088272",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEMAQwMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAABd2ne50YtSTRC6ah9aKZM1lrqdpbGn5zcVubo08qV2l4c4ujI6iWsMGUFt2czZzsZ0x04cKz5odvlKL246ZWwljTjyAgsRTAFkwnvAgWDIAr//xAAnEAACAgECBQQDAQAAAAAAAAABAgADERIhBBAiMUEFExRRICNSYf/aAAgBAQABPwCuxi+47z2mmnaWWNWuSDKb0urOmMjMYV0R2yMxnOTFH79Xie8mwEORL2fp01looakYCYBiXWNYfqWsscFl2jUPmPeFJAEoYvuVjuxOAYmNAEfBGkwKuWx4mJYTgz5DCPUjPgkxSFTAMayzX0icLvUDLl2zNj4hTHaGvPefHT+YnYgxgG2lWynJ7mN6i/DtoUZEHqVtx0lRiCzqg1N3mBy6jg9sRFsaCozja9JVpwSg3Ef5FrUfgK95qx5gLNLqTZUw8z05OtzyzCZme45MRYo++SUJTnS2dXMmZP3FA0KcSsZzDtjkJ5EMMZQTP//EABoRAAIDAQEAAAAAAAAAAAAAAAABAhAhETD/2gAIAQIBAT8ANviGLCddpPSb22zuktfh/8QAHBEAAQUAAwAAAAAAAAAAAAAAAQACEBESICEw/9oACAEDAQE/AEOQqMGWtsKgIDFkUm9Dw//Z"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "90C015415BE090B1A31D1DCAE2FC2BFA",
+    "chat": "94769643954@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7118-24/40723339_786172393692064_6903076741535875638_n.enc?ccb=11-4&oh=01_Q5AaIFJqjZYIkYBV6bz1rjf12PYZkeR8NPu6FSbDp2c4FQRz&oe=66ADD822&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": ".sticker",
+      "fileSha256": "jvWdAiGb/Xy1cjx8Ebc4y3J2QeVMX6cA2fgRIpdicOg=",
+      "fileLength": "129900",
+      "height": 1080,
+      "width": 1080,
+      "mediaKey": "1lRmVWT+kQcTkALcXBBwdgs6c0hMpY0d/LZssS79vf0=",
+      "fileEncSha256": "hu/RIpYb580TLhURpaHKwLst96wJjiJ/gS4LmQBCxD4=",
+      "directPath": "/v/t62.7118-24/40723339_786172393692064_6903076741535875638_n.enc?ccb=11-4&oh=01_Q5AaIFJqjZYIkYBV6bz1rjf12PYZkeR8NPu6FSbDp2c4FQRz&oe=66ADD822&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720088272",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEMAQwMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAAID/9oADAMBAAIQAxAAAABd2ne50YtSTRC6ah9aKZM1lrqdpbGn5zcVubo08qV2l4c4ujI6iWsMGUFt2czZzsZ0x04cKz5odvlKL246ZWwljTjyAgsRTAFkwnvAgWDIAr//xAAnEAACAgECBQQDAQAAAAAAAAABAgADERIhBBAiMUEFExRRICNSYf/aAAgBAQABPwCuxi+47z2mmnaWWNWuSDKb0urOmMjMYV0R2yMxnOTFH79Xie8mwEORL2fp01looakYCYBiXWNYfqWsscFl2jUPmPeFJAEoYvuVjuxOAYmNAEfBGkwKuWx4mJYTgz5DCPUjPgkxSFTAMayzX0icLvUDLl2zNj4hTHaGvPefHT+YnYgxgG2lWynJ7mN6i/DtoUZEHqVtx0lRiCzqg1N3mBy6jg9sRFsaCozja9JVpwSg3Ef5FrUfgK95qx5gLNLqTZUw8z05OtzyzCZme45MRYo++SUJTnS2dXMmZP3FA0KcSsZzDtjkJ5EMMZQTP//EABoRAAIDAQEAAAAAAAAAAAAAAAABAhAhETD/2gAIAQIBAT8ANviGLCddpPSb22zuktfh/8QAHBEAAQUAAwAAAAAAAAAAAAAAAQACEBESICEw/9oACAEDAQE/AEOQqMGWtsKgIDFkUm9Dw//Z"
+    },
+    "mentionUser": [],
+    "body": ".sticker",
+    "quoted": null
+  }
+]

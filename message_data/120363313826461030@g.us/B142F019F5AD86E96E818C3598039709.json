@@ -1,0 +1,50 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "B142F019F5AD86E96E818C3598039709",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720157302,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/30988313_848493106632187_6091702870547221709_n.enc?ccb=11-4&oh=01_Q5AaIERdOFpyzOuyo3KPBjeUIv_aZ3uT8-rqltdgLKsVQ80e&oe=66AEDB88&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "Cf9ExHwoyEyofaSOfxC9RCNZorW+CbsomEnUDAud8Uw=",
+        "fileLength": "15215",
+        "seconds": 6,
+        "ptt": true,
+        "mediaKey": "SuHMgyOkX6TSVHUiPIWMmgV8qUgtmzz4iRD+PddlQp8=",
+        "fileEncSha256": "93iWPLSfd19O9kfwaMrVAeaMGFuvGyLplnBYqgcYWG8=",
+        "directPath": "/v/t62.7117-24/30988313_848493106632187_6091702870547221709_n.enc?ccb=11-4&oh=01_Q5AaIERdOFpyzOuyo3KPBjeUIv_aZ3uT8-rqltdgLKsVQ80e&oe=66AEDB88&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720157296",
+        "waveform": "AAAAACEsISouLBIWKykLLSgjGycgER0pISMeGAkVBCstKycCICYgIB4kJBYnGgAAABojIxUHFiUhISIZAwgaFA=="
+      }
+    },
+    "id": "B142F019F5AD86E96E818C3598039709",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/30988313_848493106632187_6091702870547221709_n.enc?ccb=11-4&oh=01_Q5AaIERdOFpyzOuyo3KPBjeUIv_aZ3uT8-rqltdgLKsVQ80e&oe=66AEDB88&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "Cf9ExHwoyEyofaSOfxC9RCNZorW+CbsomEnUDAud8Uw=",
+      "fileLength": "15215",
+      "seconds": 6,
+      "ptt": true,
+      "mediaKey": "SuHMgyOkX6TSVHUiPIWMmgV8qUgtmzz4iRD+PddlQp8=",
+      "fileEncSha256": "93iWPLSfd19O9kfwaMrVAeaMGFuvGyLplnBYqgcYWG8=",
+      "directPath": "/v/t62.7117-24/30988313_848493106632187_6091702870547221709_n.enc?ccb=11-4&oh=01_Q5AaIERdOFpyzOuyo3KPBjeUIv_aZ3uT8-rqltdgLKsVQ80e&oe=66AEDB88&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720157296",
+      "waveform": "AAAAACEsISouLBIWKykLLSgjGycgER0pISMeGAkVBCstKycCICYgIB4kJBYnGgAAABojIxUHFiUhISIZAwgaFA=="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

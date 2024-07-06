@@ -1,0 +1,56 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "E885A8ED0A97AEC07C82079C1EC68812",
+      "participant": "94712207105@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720112370,
+    "pushName": "🇧 🇭 🇦 🇳 🇺 ",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjPz+QcEAEaIKR5+eL8C012I7KkOPkJzc4SMRxX3WZegDt59X62I4o3IiEFeAxUlRKDlYf8kN9k70kDZgRofJjrEkhfHB8VkmlLIw4="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1719571097",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "BF944B68DBA671204F7ADE877818B5D1",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "❤️",
+        "senderTimestampMs": "1720112364364"
+      }
+    },
+    "id": "E885A8ED0A97AEC07C82079C1EC68812",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94712207105@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "BF944B68DBA671204F7ADE877818B5D1",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "❤️",
+      "senderTimestampMs": "1720112364364"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

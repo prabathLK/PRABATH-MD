@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AA83E2300B4CB83D185"
+    },
+    "messageTimestamp": 1720181854,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "krna kiyna dewl ekk mta thw kenkw wishwas krnn ba",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720181295",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AA83E2300B4CB83D185",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "krna kiyna dewl ekk mta thw kenkw wishwas krnn ba",
+    "mentionUser": [],
+    "body": "krna kiyna dewl ekk mta thw kenkw wishwas krnn ba",
+    "quoted": null
+  }
+]

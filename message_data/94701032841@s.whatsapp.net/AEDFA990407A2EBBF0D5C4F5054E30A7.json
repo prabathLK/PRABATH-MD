@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "AEDFA990407A2EBBF0D5C4F5054E30A7"
+    },
+    "messageTimestamp": 1720203109,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "conversation": "🥲",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "AEDFA990407A2EBBF0D5C4F5054E30A7",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "🥲",
+    "mentionUser": [],
+    "body": "🥲",
+    "quoted": null
+  }
+]

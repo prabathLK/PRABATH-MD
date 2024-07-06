@@ -1,0 +1,48 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "161FBEC9E9918D402882118649CBFEF4",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077175,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/11860262_3144457455689555_4813751863071677142_n.enc?ccb=11-4&oh=01_Q5AaIFyhRYsTSXhj4iLssgetUz6Rf3Q0_qE_EN6Mvvf-FtYF&oe=66ADC06E&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "UHt89T5C8zvQ2iz8HQqVnEzN48Q2ZBLVfcfEJdXWzg8=",
+        "fileLength": "7318",
+        "seconds": 3,
+        "ptt": true,
+        "mediaKey": "7E2ZS5Si7u2g1RU8kuomROwSpce15Zhhh79HmdusFXM=",
+        "fileEncSha256": "uGFFQoF9QL90p3YliBhaNqJOlioV8mMmtA7sgRoKPlE=",
+        "directPath": "/v/t62.7117-24/11860262_3144457455689555_4813751863071677142_n.enc?ccb=11-4&oh=01_Q5AaIFyhRYsTSXhj4iLssgetUz6Rf3Q0_qE_EN6Mvvf-FtYF&oe=66ADC06E&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720077174"
+      }
+    },
+    "id": "161FBEC9E9918D402882118649CBFEF4",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/11860262_3144457455689555_4813751863071677142_n.enc?ccb=11-4&oh=01_Q5AaIFyhRYsTSXhj4iLssgetUz6Rf3Q0_qE_EN6Mvvf-FtYF&oe=66ADC06E&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "UHt89T5C8zvQ2iz8HQqVnEzN48Q2ZBLVfcfEJdXWzg8=",
+      "fileLength": "7318",
+      "seconds": 3,
+      "ptt": true,
+      "mediaKey": "7E2ZS5Si7u2g1RU8kuomROwSpce15Zhhh79HmdusFXM=",
+      "fileEncSha256": "uGFFQoF9QL90p3YliBhaNqJOlioV8mMmtA7sgRoKPlE=",
+      "directPath": "/v/t62.7117-24/11860262_3144457455689555_4813751863071677142_n.enc?ccb=11-4&oh=01_Q5AaIFyhRYsTSXhj4iLssgetUz6Rf3Q0_qE_EN6Mvvf-FtYF&oe=66ADC06E&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720077174"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

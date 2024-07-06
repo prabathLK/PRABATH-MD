@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A3E3D8D0EEFF88F70D2",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720103717,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Kukku newe htto"
+    },
+    "id": "3A3E3D8D0EEFF88F70D2",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Kukku newe htto",
+    "mentionUser": [],
+    "body": "Kukku newe htto",
+    "quoted": null
+  }
+]

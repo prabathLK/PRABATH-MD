@@ -1,0 +1,52 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A442D0512EDC212CE2F",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720076960,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/11875903_1466630380880445_2916580423858990768_n.enc?ccb=11-4&oh=01_Q5AaIG2KPsyy-S9zI7uxuL9WyPHqU3RClPU7zP0-ehxOxj5L&oe=66ADCCD5&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "dUqyeHEwyfuAMhhtJ3SoGK6ZWlxN2/jCvgqbMB71MPQ=",
+        "fileLength": "16441",
+        "seconds": 6,
+        "ptt": true,
+        "mediaKey": "lf0H5Ya/pggyONI9knEsBXk0tDlvusp52JRe/B5tmdk=",
+        "fileEncSha256": "nVDbkGvgg8ejJ559IZ2pE+DT2CmZWQ0MTc6lK4YiZnU=",
+        "directPath": "/v/t62.7117-24/11875903_1466630380880445_2916580423858990768_n.enc?ccb=11-4&oh=01_Q5AaIG2KPsyy-S9zI7uxuL9WyPHqU3RClPU7zP0-ehxOxj5L&oe=66ADCCD5&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720076951",
+        "streamingSidecar": "eyJmAXAhK+nC4w==",
+        "waveform": "AQICAgQRIDEmIy1UUEhIPD0/KzVGV1tOOC4yQ2RZQSQVERATLD9KPENRZFJOVFpST1thXVNPTEc9OC4oRUU4Ig=="
+      }
+    },
+    "id": "3A442D0512EDC212CE2F",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/11875903_1466630380880445_2916580423858990768_n.enc?ccb=11-4&oh=01_Q5AaIG2KPsyy-S9zI7uxuL9WyPHqU3RClPU7zP0-ehxOxj5L&oe=66ADCCD5&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "dUqyeHEwyfuAMhhtJ3SoGK6ZWlxN2/jCvgqbMB71MPQ=",
+      "fileLength": "16441",
+      "seconds": 6,
+      "ptt": true,
+      "mediaKey": "lf0H5Ya/pggyONI9knEsBXk0tDlvusp52JRe/B5tmdk=",
+      "fileEncSha256": "nVDbkGvgg8ejJ559IZ2pE+DT2CmZWQ0MTc6lK4YiZnU=",
+      "directPath": "/v/t62.7117-24/11875903_1466630380880445_2916580423858990768_n.enc?ccb=11-4&oh=01_Q5AaIG2KPsyy-S9zI7uxuL9WyPHqU3RClPU7zP0-ehxOxj5L&oe=66ADCCD5&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720076951",
+      "streamingSidecar": "eyJmAXAhK+nC4w==",
+      "waveform": "AQICAgQRIDEmIy1UUEhIPD0/KzVGV1tOOC4yQ2RZQSQVERATLD9KPENRZFJOVFpST1thXVNPTEc9OC4oRUU4Ig=="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

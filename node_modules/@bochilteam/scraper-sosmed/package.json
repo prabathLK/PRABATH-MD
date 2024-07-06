@@ -1,0 +1,55 @@
+{
+  "name": "@bochilteam/scraper-sosmed",
+  "version": "1.0.5",
+  "description": "Social media scraper module",
+  "main": "lib/cjs/index.js",
+  "module": "lib/esm/index.js",
+  "types": "lib/@types/index.d.ts",
+  "exports": {
+    ".": {
+      "import": "./lib/esm/index.js",
+      "require": "./lib/cjs/index.js",
+      "types": "./lib/@types/index.d.ts"
+    }
+  },
+  "scripts": {
+    "test": "npm run test:cjs & npm run test:esm",
+    "test:cjs": "mocha ./lib/cjs/test/*.js",
+    "test:esm": "mocha ./lib/esm/test/*.js",
+    "build": "npm run build:cjs && npm run build:esm && npm run build:types",
+    "build:cjs": "tsc -p tsconfig.cjs.json",
+    "build:esm": "tsc -p tsconfig.esm.json",
+    "build:types": "tsc -p tsconfig.types.json",
+    "compile": "node ../../scripts/compile-typescript.js && npm run write:package",
+    "write:package": "node ../../scripts/write-package.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BochilTeam/scraper.git"
+  },
+  "author": "BochilTeam",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/BochilTeam/scraper/issues"
+  },
+  "homepage": "https://github.com/BochilTeam/scraper/tree/master/packages/scraper-sosmed#readme",
+  "files": [
+    "lib/**/*.js",
+    "lib/**/**.d.ts",
+    "lib/**/package.json"
+  ],
+  "dependencies": {
+    "form-data": "^4.0.0",
+    "got": "^11.8.6",
+    "human-readable": "^0.2.1",
+    "zod": "^3.20.2"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.1",
+    "@types/node": "^18.11.17",
+    "mocha": "^10.2.0"
+  },
+  "peerDependencies": {
+    "ws": "^8.13.0"
+  }
+}

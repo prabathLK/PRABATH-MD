@@ -1,0 +1,124 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A9B81350FB4B23A740D"
+    },
+    "messageTimestamp": 1720111658,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "mge ktha 😹",
+        "contextInfo": {
+          "stanzaId": "D9AF2CA7F111D74318D72EA26B7F3851",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Kusal mendis mokada me konde wawagena 😒",
+              "fileSha256": "1e7UQqooFgi1h0YfEKv027vdJwcyI+0RBFUH8lj7uvU=",
+              "fileLength": "108214",
+              "height": 1560,
+              "width": 720,
+              "mediaKey": "MetyAWgSyfdYNBCOzK676qL7GGnWrZq/n++5fRSy884=",
+              "fileEncSha256": "g8KDYp6r5tJO+jeiyffaZmJNnONUbZpelr6B4tki/uE=",
+              "directPath": "/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720110696",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAAMC/9oADAMBAAIQAxAAAADJbpzM8eG1CsY2AGLmvrdtrL7ya5RCKPOreQ2pHBQrbN8z7RFgXCYPmZhvlxQQoCv/xAAoEAACAQMDAgUFAAAAAAAAAAABAgADERITIVIUMQQFIkFRIyRCU2H/2gAIAQEAAT8A6J+UXyx2Fw8Pl7Id2nRtynRNyhS0RmUR7vuZgJivwZUUVq7Jliqx6LIfTV9B94hQELnkDEpC/qYTTHJZ4mm+RdPyG8WnemQW7TAoQy9llJnLsXvaYUP2meIrWbTED1DdU7meGy6dnaK+rleYGVHOsSZSbF2IHtAft8IifUK3I2hMrI2qZSQKIpsO0SnetkPjeaFLjMaB3LCEUV7MJkLdxFYX2YTNeQhqFUU3veK92QZ7tKzFXKB7/wBlOu9PIqfaaj8jP//EAB0RAAMAAQUBAAAAAAAAAAAAAAABESECEBIgQVH/2gAIAQIBAT8ATXo9SLs0RfCmGcTInCvp/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAESAhARAxMxQVJhkf/aAAgBAwEBPwBaiZuU+ydPk/loprggjoTwSszCM3//2Q==",
+              "scansSidecar": "GE3HpfBCNTd5BUkawAbOiMGAYQ67jwha46YHZ0VtHYR60FL2ukfR8Q==",
+              "scanLengths": [
+                12329,
+                47331,
+                19917,
+                28637
+              ],
+              "midQualityFileSha256": "p2bMqd3GjcZbjYDvCdAu6fpXZ/eRb2BM2D227gNCNDw="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720107720",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A9B81350FB4B23A740D",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "mge ktha 😹",
+      "contextInfo": {
+        "stanzaId": "D9AF2CA7F111D74318D72EA26B7F3851",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Kusal mendis mokada me konde wawagena 😒",
+            "fileSha256": "1e7UQqooFgi1h0YfEKv027vdJwcyI+0RBFUH8lj7uvU=",
+            "fileLength": "108214",
+            "height": 1560,
+            "width": 720,
+            "mediaKey": "MetyAWgSyfdYNBCOzK676qL7GGnWrZq/n++5fRSy884=",
+            "fileEncSha256": "g8KDYp6r5tJO+jeiyffaZmJNnONUbZpelr6B4tki/uE=",
+            "directPath": "/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720110696",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAAMC/9oADAMBAAIQAxAAAADJbpzM8eG1CsY2AGLmvrdtrL7ya5RCKPOreQ2pHBQrbN8z7RFgXCYPmZhvlxQQoCv/xAAoEAACAQMDAgUFAAAAAAAAAAABAgADERITIVIUMQQFIkFRIyRCU2H/2gAIAQEAAT8A6J+UXyx2Fw8Pl7Id2nRtynRNyhS0RmUR7vuZgJivwZUUVq7Jliqx6LIfTV9B94hQELnkDEpC/qYTTHJZ4mm+RdPyG8WnemQW7TAoQy9llJnLsXvaYUP2meIrWbTED1DdU7meGy6dnaK+rleYGVHOsSZSbF2IHtAft8IifUK3I2hMrI2qZSQKIpsO0SnetkPjeaFLjMaB3LCEUV7MJkLdxFYX2YTNeQhqFUU3veK92QZ7tKzFXKB7/wBlOu9PIqfaaj8jP//EAB0RAAMAAQUBAAAAAAAAAAAAAAABESECEBIgQVH/2gAIAQIBAT8ATXo9SLs0RfCmGcTInCvp/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAESAhARAxMxQVJhkf/aAAgBAwEBPwBaiZuU+ydPk/loprggjoTwSszCM3//2Q==",
+            "scansSidecar": "GE3HpfBCNTd5BUkawAbOiMGAYQ67jwha46YHZ0VtHYR60FL2ukfR8Q==",
+            "scanLengths": [
+              12329,
+              47331,
+              19917,
+              28637
+            ],
+            "midQualityFileSha256": "p2bMqd3GjcZbjYDvCdAu6fpXZ/eRb2BM2D227gNCNDw="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "mge ktha 😹",
+    "quoted": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Kusal mendis mokada me konde wawagena 😒",
+        "fileSha256": "1e7UQqooFgi1h0YfEKv027vdJwcyI+0RBFUH8lj7uvU=",
+        "fileLength": "108214",
+        "height": 1560,
+        "width": 720,
+        "mediaKey": "MetyAWgSyfdYNBCOzK676qL7GGnWrZq/n++5fRSy884=",
+        "fileEncSha256": "g8KDYp6r5tJO+jeiyffaZmJNnONUbZpelr6B4tki/uE=",
+        "directPath": "/v/t62.7118-24/56273760_499721516059175_4689848103579178942_n.enc?ccb=11-4&oh=01_Q5AaIOsHHQaWESzym_DOc_KqMx8vHGXZzRmTPA25joJ0Ozbd&oe=66AE35A5&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720110696",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAIQMBIgACEQEDEQH/xAAvAAACAwEBAAAAAAAAAAAAAAAAAwIEBQEGAQEBAQEAAAAAAAAAAAAAAAABAAMC/9oADAMBAAIQAxAAAADJbpzM8eG1CsY2AGLmvrdtrL7ya5RCKPOreQ2pHBQrbN8z7RFgXCYPmZhvlxQQoCv/xAAoEAACAQMDAgUFAAAAAAAAAAABAgADERITIVIUMQQFIkFRIyRCU2H/2gAIAQEAAT8A6J+UXyx2Fw8Pl7Id2nRtynRNyhS0RmUR7vuZgJivwZUUVq7Jliqx6LIfTV9B94hQELnkDEpC/qYTTHJZ4mm+RdPyG8WnemQW7TAoQy9llJnLsXvaYUP2meIrWbTED1DdU7meGy6dnaK+rleYGVHOsSZSbF2IHtAft8IifUK3I2hMrI2qZSQKIpsO0SnetkPjeaFLjMaB3LCEUV7MJkLdxFYX2YTNeQhqFUU3veK92QZ7tKzFXKB7/wBlOu9PIqfaaj8jP//EAB0RAAMAAQUBAAAAAAAAAAAAAAABESECEBIgQVH/2gAIAQIBAT8ATXo9SLs0RfCmGcTInCvp/8QAIBEAAgEDBAMAAAAAAAAAAAAAAAESAhARAxMxQVJhkf/aAAgBAwEBPwBaiZuU+ydPk/loprggjoTwSszCM3//2Q==",
+        "scansSidecar": "GE3HpfBCNTd5BUkawAbOiMGAYQ67jwha46YHZ0VtHYR60FL2ukfR8Q==",
+        "scanLengths": [
+          12329,
+          47331,
+          19917,
+          28637
+        ],
+        "midQualityFileSha256": "p2bMqd3GjcZbjYDvCdAu6fpXZ/eRb2BM2D227gNCNDw="
+      }
+    }
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "DC45386680D13CBF5B1DCD306124FF13",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158662,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "conversation": "Menusha parisan weyan kokatath 😁"
+    },
+    "id": "DC45386680D13CBF5B1DCD306124FF13",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Menusha parisan weyan kokatath 😁",
+    "mentionUser": [],
+    "body": "Menusha parisan weyan kokatath 😁",
+    "quoted": null
+  }
+]

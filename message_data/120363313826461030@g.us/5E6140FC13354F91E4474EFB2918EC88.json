@@ -1,0 +1,48 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "5E6140FC13354F91E4474EFB2918EC88",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158838,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/30909995_857329362974403_3593276893405376300_n.enc?ccb=11-4&oh=01_Q5AaIBSAaVoXPeXnA2U9r3SGfOVJq7wzu9tON9w4ge4z3XOk&oe=66AF1026&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "I0woIvqmP/Vl0w1VtboE239CQaKlgsFbN3NXw30Ebpw=",
+        "fileLength": "11209",
+        "seconds": 5,
+        "ptt": true,
+        "mediaKey": "feabXXm5RRW/dCLpzLlOgVtlRCD3DWqblJOr6h6Q4fY=",
+        "fileEncSha256": "bzy3mUQ4klJG8mRbN28nBmGrRYLd4cVHbpxYDY5WMRQ=",
+        "directPath": "/v/t62.7117-24/30909995_857329362974403_3593276893405376300_n.enc?ccb=11-4&oh=01_Q5AaIBSAaVoXPeXnA2U9r3SGfOVJq7wzu9tON9w4ge4z3XOk&oe=66AF1026&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720158833"
+      }
+    },
+    "id": "5E6140FC13354F91E4474EFB2918EC88",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/30909995_857329362974403_3593276893405376300_n.enc?ccb=11-4&oh=01_Q5AaIBSAaVoXPeXnA2U9r3SGfOVJq7wzu9tON9w4ge4z3XOk&oe=66AF1026&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "I0woIvqmP/Vl0w1VtboE239CQaKlgsFbN3NXw30Ebpw=",
+      "fileLength": "11209",
+      "seconds": 5,
+      "ptt": true,
+      "mediaKey": "feabXXm5RRW/dCLpzLlOgVtlRCD3DWqblJOr6h6Q4fY=",
+      "fileEncSha256": "bzy3mUQ4klJG8mRbN28nBmGrRYLd4cVHbpxYDY5WMRQ=",
+      "directPath": "/v/t62.7117-24/30909995_857329362974403_3593276893405376300_n.enc?ccb=11-4&oh=01_Q5AaIBSAaVoXPeXnA2U9r3SGfOVJq7wzu9tON9w4ge4z3XOk&oe=66AF1026&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720158833"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

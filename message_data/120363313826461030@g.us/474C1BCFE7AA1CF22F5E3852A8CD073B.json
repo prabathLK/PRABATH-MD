@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "474C1BCFE7AA1CF22F5E3852A8CD073B",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077241,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Pc pyu"
+    },
+    "id": "474C1BCFE7AA1CF22F5E3852A8CD073B",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Pc pyu",
+    "mentionUser": [],
+    "body": "Pc pyu",
+    "quoted": null
+  }
+]

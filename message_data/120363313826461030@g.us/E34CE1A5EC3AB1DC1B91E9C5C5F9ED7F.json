@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "E34CE1A5EC3AB1DC1B91E9C5C5F9ED7F",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090563,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "🤣",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "BDE1DC9F76636A93CB9347980762C1C2",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "හේ හේ තරුසි අනේ 🌚"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "E34CE1A5EC3AB1DC1B91E9C5C5F9ED7F",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "🤣",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "BDE1DC9F76636A93CB9347980762C1C2",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "හේ හේ තරුසි අනේ 🌚"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "🤣",
+    "quoted": {
+      "conversation": "හේ හේ තරුසි අනේ 🌚"
+    }
+  }
+]

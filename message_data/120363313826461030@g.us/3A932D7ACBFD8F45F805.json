@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A932D7ACBFD8F45F805",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720052375,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "සුබ උදෑසනක් පැන්චෝ 🥹",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwj5sO/zARAAGiAKb3pA2thczCqzv+cTrrPUjZ+wd5f5tkB1MAYAn9pcqSIhBTspVPRWKzmaylDOvP0ijAR7iw/F6RVkg97aFaU5FBUm"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720016653",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A932D7ACBFD8F45F805",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "සුබ උදෑසනක් පැන්චෝ 🥹",
+    "mentionUser": [],
+    "body": "සුබ උදෑසනක් පැන්චෝ 🥹",
+    "quoted": null
+  }
+]

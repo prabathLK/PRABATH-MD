@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A379CB4802C0407EF71"
+    },
+    "messageTimestamp": 1720069476,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "bya wenn ep",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720068689",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A379CB4802C0407EF71",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "bya wenn ep",
+    "mentionUser": [],
+    "body": "bya wenn ep",
+    "quoted": null
+  }
+]

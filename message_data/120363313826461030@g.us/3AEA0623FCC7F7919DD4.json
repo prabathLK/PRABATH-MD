@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AEA0623FCC7F7919DD4",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066938,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/25532869_501255995673987_7344245799790723471_n.enc?ccb=11-4&oh=01_Q5AaIFVhLwLCyMrFH4djMMG_lrZjgpddsjLqHVxGVIXCcf8f&oe=66AD9980&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "DguogUTvyGnbIW8KRx8tN3eRiCUa8o3suZ/DTsaficM=",
+        "fileEncSha256": "UTmr/uEvmEHPvA/fdpWuhHTLh5Lx8BUx3KPo+WOS8Bc=",
+        "mediaKey": "diK254wCG0EFLws4VBUrW9hpWGxu7x3ohbdsDi/mAF4=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/25532869_501255995673987_7344245799790723471_n.enc?ccb=11-4&oh=01_Q5AaIFVhLwLCyMrFH4djMMG_lrZjgpddsjLqHVxGVIXCcf8f&oe=66AD9980&_nc_sid=5e03e0",
+        "fileLength": "19606",
+        "mediaKeyTimestamp": "1720013033",
+        "firstFrameLength": 9622,
+        "firstFrameSidecar": "gRD4DpeRd8rpMQ==",
+        "isAnimated": true,
+        "stickerSentTs": "1720066938028",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3AEA0623FCC7F7919DD4",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/25532869_501255995673987_7344245799790723471_n.enc?ccb=11-4&oh=01_Q5AaIFVhLwLCyMrFH4djMMG_lrZjgpddsjLqHVxGVIXCcf8f&oe=66AD9980&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "DguogUTvyGnbIW8KRx8tN3eRiCUa8o3suZ/DTsaficM=",
+      "fileEncSha256": "UTmr/uEvmEHPvA/fdpWuhHTLh5Lx8BUx3KPo+WOS8Bc=",
+      "mediaKey": "diK254wCG0EFLws4VBUrW9hpWGxu7x3ohbdsDi/mAF4=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/25532869_501255995673987_7344245799790723471_n.enc?ccb=11-4&oh=01_Q5AaIFVhLwLCyMrFH4djMMG_lrZjgpddsjLqHVxGVIXCcf8f&oe=66AD9980&_nc_sid=5e03e0",
+      "fileLength": "19606",
+      "mediaKeyTimestamp": "1720013033",
+      "firstFrameLength": 9622,
+      "firstFrameSidecar": "gRD4DpeRd8rpMQ==",
+      "isAnimated": true,
+      "stickerSentTs": "1720066938028",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "key": {
+      "remoteJid": "94741017800@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AA406E226094C3556C5"
+    },
+    "messageTimestamp": 1720102336,
+    "pushName": "Wasthu 🤍👩‍🎓",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "හිටපන් 😌",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "1697807289",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT"
+          }
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102234",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AA406E226094C3556C5",
+    "chat": "94741017800@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94741017800@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "හිටපන් 😌",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "1697807289",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT"
+        }
+      }
+    },
+    "mentionUser": [],
+    "body": "හිටපන් 😌",
+    "quoted": null
+  }
+]

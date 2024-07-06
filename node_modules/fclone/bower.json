@@ -1,0 +1,30 @@
+{
+  "name": "fclone",
+  "description": "Fastest JSON cloning module that handles circular references",
+  "main": "dist/fclone.js",
+  "authors": [
+    "soyuka"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "clone",
+    "deep",
+    "circular",
+    "json",
+    "stringify",
+    "fast"
+  ],
+  "homepage": "https://github.com/soyuka/fclone",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test.js",
+    "!dist/dpicker.js",
+    "!dist/dpicker.min.js",
+    "screen.png",
+    "gulpfile.js",
+    "demo",
+    "bump.sh"
+  ]
+}

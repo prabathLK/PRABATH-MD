@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3ADC6DED1AAD3F13053D",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090576,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Ewwww"
+    },
+    "id": "3ADC6DED1AAD3F13053D",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Ewwww",
+    "mentionUser": [],
+    "body": "Ewwww",
+    "quoted": null
+  }
+]

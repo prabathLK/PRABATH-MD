@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AE382CB715C5F58DAAC"
+    },
+    "messageTimestamp": 1720077812,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "wash dala",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720077422",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AE382CB715C5F58DAAC",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "wash dala",
+    "mentionUser": [],
+    "body": "wash dala",
+    "quoted": null
+  }
+]

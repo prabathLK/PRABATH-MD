@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363312720587251@g.us",
+      "fromMe": false,
+      "id": "3A742728955B648D2A71",
+      "participant": "94716627781@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720112699,
+    "pushName": "Sandu Deini",
+    "broadcast": false,
+    "message": {
+      "conversation": "One kattiya mata inbox msg ekak danna"
+    },
+    "id": "3A742728955B648D2A71",
+    "chat": "120363312720587251@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94716627781@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "One kattiya mata inbox msg ekak danna",
+    "mentionUser": [],
+    "body": "One kattiya mata inbox msg ekak danna",
+    "quoted": null
+  }
+]

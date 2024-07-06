@@ -1,0 +1,130 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A8C7CC75F9EAA4BEC96",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077344,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19432509_1396601017647962_6399531612945670070_n.enc?ccb=11-4&oh=01_Q5AaIAGF_S0blU_Gy0ztqst6pph1jUlCFufGM2bsExj6Kipo&oe=66ADCFF7&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "rbeHTQVE5Oi66iCmg3/wx+xb27rhaYFiHiRmsiWK/rk=",
+        "fileEncSha256": "Et1lUdQS4tL5Ac5ibuBQKl2BL3z7Eix6GNUnDh5e848=",
+        "mediaKey": "iXdClNGHwn+3bZqOFgL39ho9XH2l8wxvBD0BetVqYEE=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/19432509_1396601017647962_6399531612945670070_n.enc?ccb=11-4&oh=01_Q5AaIAGF_S0blU_Gy0ztqst6pph1jUlCFufGM2bsExj6Kipo&oe=66ADCFF7&_nc_sid=5e03e0",
+        "fileLength": "78564",
+        "mediaKeyTimestamp": "1720077342",
+        "firstFrameLength": 6964,
+        "firstFrameSidecar": "jaEWelhsfbWQqw==",
+        "isAnimated": true,
+        "contextInfo": {
+          "stanzaId": "EF9B0E56CACED4CDA8269B705E895201",
+          "participant": "94769643954@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0&mms3=true",
+              "fileSha256": "D6muiTeENCuJ6jAqlYfeYsLCFSExbW+pIE5SLZBP968=",
+              "fileEncSha256": "LGwuDDwEjNwY0RF2XH+ajdk058yTsWhTBHY5+ARdviI=",
+              "mediaKey": "dEPHpjF7G/vhvlMXnLepRAM8MbQ01VqpprYfY5Asaec=",
+              "mimetype": "image/webp",
+              "directPath": "/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0",
+              "fileLength": "748612",
+              "mediaKeyTimestamp": "1720077324",
+              "firstFrameLength": 13432,
+              "firstFrameSidecar": "1yqUm1ZHgaoX0A==",
+              "isAnimated": true,
+              "stickerSentTs": "1720077324605",
+              "isAvatar": false,
+              "isAiSticker": false,
+              "isLottie": false
+            }
+          },
+          "mentionedJid": [
+            "94769643954@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720077342110",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3A8C7CC75F9EAA4BEC96",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19432509_1396601017647962_6399531612945670070_n.enc?ccb=11-4&oh=01_Q5AaIAGF_S0blU_Gy0ztqst6pph1jUlCFufGM2bsExj6Kipo&oe=66ADCFF7&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "rbeHTQVE5Oi66iCmg3/wx+xb27rhaYFiHiRmsiWK/rk=",
+      "fileEncSha256": "Et1lUdQS4tL5Ac5ibuBQKl2BL3z7Eix6GNUnDh5e848=",
+      "mediaKey": "iXdClNGHwn+3bZqOFgL39ho9XH2l8wxvBD0BetVqYEE=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/19432509_1396601017647962_6399531612945670070_n.enc?ccb=11-4&oh=01_Q5AaIAGF_S0blU_Gy0ztqst6pph1jUlCFufGM2bsExj6Kipo&oe=66ADCFF7&_nc_sid=5e03e0",
+      "fileLength": "78564",
+      "mediaKeyTimestamp": "1720077342",
+      "firstFrameLength": 6964,
+      "firstFrameSidecar": "jaEWelhsfbWQqw==",
+      "isAnimated": true,
+      "contextInfo": {
+        "stanzaId": "EF9B0E56CACED4CDA8269B705E895201",
+        "participant": "94769643954@s.whatsapp.net",
+        "quotedMessage": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0&mms3=true",
+            "fileSha256": "D6muiTeENCuJ6jAqlYfeYsLCFSExbW+pIE5SLZBP968=",
+            "fileEncSha256": "LGwuDDwEjNwY0RF2XH+ajdk058yTsWhTBHY5+ARdviI=",
+            "mediaKey": "dEPHpjF7G/vhvlMXnLepRAM8MbQ01VqpprYfY5Asaec=",
+            "mimetype": "image/webp",
+            "directPath": "/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0",
+            "fileLength": "748612",
+            "mediaKeyTimestamp": "1720077324",
+            "firstFrameLength": 13432,
+            "firstFrameSidecar": "1yqUm1ZHgaoX0A==",
+            "isAnimated": true,
+            "stickerSentTs": "1720077324605",
+            "isAvatar": false,
+            "isAiSticker": false,
+            "isLottie": false
+          }
+        },
+        "mentionedJid": [
+          "94769643954@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720077342110",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94769643954@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "D6muiTeENCuJ6jAqlYfeYsLCFSExbW+pIE5SLZBP968=",
+        "fileEncSha256": "LGwuDDwEjNwY0RF2XH+ajdk058yTsWhTBHY5+ARdviI=",
+        "mediaKey": "dEPHpjF7G/vhvlMXnLepRAM8MbQ01VqpprYfY5Asaec=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/21434693_892480849385085_6493266619748412857_n.enc?ccb=11-4&oh=01_Q5AaIBJKrM8GV-C7TNNdYGMewMjKhK7QIC2J6XKC2FYoOJ5R&oe=66ADCF44&_nc_sid=5e03e0",
+        "fileLength": "748612",
+        "mediaKeyTimestamp": "1720077324",
+        "firstFrameLength": 13432,
+        "firstFrameSidecar": "1yqUm1ZHgaoX0A==",
+        "isAnimated": true,
+        "stickerSentTs": "1720077324605",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    }
+  }
+]

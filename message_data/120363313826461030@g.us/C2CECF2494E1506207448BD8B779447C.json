@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "C2CECF2494E1506207448BD8B779447C",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720066914,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Atta  😂",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3AFFD806C8121548832B",
+          "participant": "94787196575@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Mt terennha ouwa"
+          },
+          "mentionedJid": [
+            "94787196575@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "C2CECF2494E1506207448BD8B779447C",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Atta  😂",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3AFFD806C8121548832B",
+        "participant": "94787196575@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Mt terennha ouwa"
+        },
+        "mentionedJid": [
+          "94787196575@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787196575@s.whatsapp.net"
+    ],
+    "body": "Atta  😂",
+    "quoted": {
+      "conversation": "Mt terennha ouwa"
+    }
+  }
+]

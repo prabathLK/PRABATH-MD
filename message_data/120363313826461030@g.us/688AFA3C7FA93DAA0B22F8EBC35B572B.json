@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "688AFA3C7FA93DAA0B22F8EBC35B572B",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720104368,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Mkdd",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "78BCC039F87C3A4E15693BB2BBAD41AC",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Imashita hamannana hithenne mewa dkiddi 😒👍"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "688AFA3C7FA93DAA0B22F8EBC35B572B",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Mkdd",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "78BCC039F87C3A4E15693BB2BBAD41AC",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Imashita hamannana hithenne mewa dkiddi 😒👍"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Mkdd",
+    "quoted": {
+      "conversation": "Imashita hamannana hithenne mewa dkiddi 😒👍"
+    }
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AF1D277B59C5D4F1F8E",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090232,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Blnna nd ane meyala",
+        "contextInfo": {
+          "stanzaId": "7A2D81770CF2B152B7BE7335AC4711B8",
+          "participant": "94769643954@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "@94775996551 meee",
+              "contextInfo": {
+                "mentionedJid": [
+                  "94775996551@s.whatsapp.net",
+                  ""
+                ]
+              }
+            }
+          },
+          "mentionedJid": [
+            "94769643954@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3AF1D277B59C5D4F1F8E",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Blnna nd ane meyala",
+      "contextInfo": {
+        "stanzaId": "7A2D81770CF2B152B7BE7335AC4711B8",
+        "participant": "94769643954@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "@94775996551 meee",
+            "contextInfo": {
+              "mentionedJid": [
+                "94775996551@s.whatsapp.net",
+                ""
+              ]
+            }
+          }
+        },
+        "mentionedJid": [
+          "94769643954@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94769643954@s.whatsapp.net"
+    ],
+    "body": "Blnna nd ane meyala",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "@94775996551 meee",
+        "contextInfo": {
+          "mentionedJid": [
+            "94775996551@s.whatsapp.net",
+            ""
+          ]
+        }
+      }
+    }
+  }
+]

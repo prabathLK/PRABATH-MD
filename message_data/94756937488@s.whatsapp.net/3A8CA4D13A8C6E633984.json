@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A8CA4D13A8C6E633984"
+    },
+    "messageTimestamp": 1720102947,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "mta adnnth ba lokuwt 😹",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102642",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A8CA4D13A8C6E633984",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "mta adnnth ba lokuwt 😹",
+    "mentionUser": [],
+    "body": "mta adnnth ba lokuwt 😹",
+    "quoted": null
+  }
+]

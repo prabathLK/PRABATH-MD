@@ -1,0 +1,9 @@
+language: node_js
+node_js:
+  - iojs
+before_install:
+  - npm install -g grunt-cli
+notifications:
+  email:
+    - andris@kreata.ee
+

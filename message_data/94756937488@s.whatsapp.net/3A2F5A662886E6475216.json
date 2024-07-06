@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A2F5A662886E6475216"
+    },
+    "messageTimestamp": 1720155794,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "kwru hri ep kiwwoth krna ek mge podi ledk hode",
+        "contextInfo": {
+          "stanzaId": "CE5FDA911DD5CE610D6DB1203136EE9F",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "E unt ara mn ewpu dance ba 😌👍"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720155051",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A2F5A662886E6475216",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "kwru hri ep kiwwoth krna ek mge podi ledk hode",
+      "contextInfo": {
+        "stanzaId": "CE5FDA911DD5CE610D6DB1203136EE9F",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "E unt ara mn ewpu dance ba 😌👍"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "kwru hri ep kiwwoth krna ek mge podi ledk hode",
+    "quoted": {
+      "conversation": "E unt ara mn ewpu dance ba 😌👍"
+    }
+  }
+]

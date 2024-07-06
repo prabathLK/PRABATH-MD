@@ -1,0 +1,41 @@
+{
+  "name": "@pm2/agent",
+  "version": "2.0.4",
+  "description": "PM2.io Agent Daemon",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/units/*.mocha.js"
+  },
+  "keywords": [
+    "keymetrics",
+    "agent",
+    "daemon",
+    "pm2"
+  ],
+  "dependencies": {
+    "async": "~3.2.0",
+    "chalk": "~3.0.0",
+    "dayjs": "~1.8.24",
+    "debug": "~4.3.1",
+    "eventemitter2": "~5.0.1",
+    "fast-json-patch": "^3.0.0-1",
+    "fclone": "~1.0.11",
+    "nssocket": "0.6.0",
+    "pm2-axon": "~4.0.1",
+    "pm2-axon-rpc": "~0.7.0",
+    "proxy-agent": "~6.3.0",
+    "semver": "~7.5.0",
+    "ws": "~7.5.10"
+  },
+  "devDependencies": {
+    "clone": "^2.1.1",
+    "mocha": "^7.1",
+    "nock": "^13.0.11",
+    "simple-socks": "^2.0.2"
+  },
+  "author": "Keymetrics Team",
+  "license": "AGPL-3.0"
+}

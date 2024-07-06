@@ -1,0 +1,62 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A56D89A669D50F45F18"
+    },
+    "messageTimestamp": 1720114740,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ai e",
+        "contextInfo": {
+          "stanzaId": "4DF5136EC6E7E1DEA357D3C7B90DC74F",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "giyt kmnna msg ekk dnw 😌😂"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720112038",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "status": 4,
+    "id": "3A56D89A669D50F45F18",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ai e",
+      "contextInfo": {
+        "stanzaId": "4DF5136EC6E7E1DEA357D3C7B90DC74F",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "giyt kmnna msg ekk dnw 😌😂"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ai e",
+    "quoted": {
+      "conversation": "giyt kmnna msg ekk dnw 😌😂"
+    }
+  }
+]

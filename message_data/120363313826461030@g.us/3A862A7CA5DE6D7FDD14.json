@@ -1,0 +1,66 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A862A7CA5DE6D7FDD14",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720043397,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwj0yZX8AxAAGiCFDLBdRSI9UDbBb7qaOID0hgqyJXwU4gQySOwAp0a0gSIhBUZQyoOBIuk0NXV9dv6vonAG4n2BGoGQso3WI/Q3bmx+"
+      },
+      "extendedTextMessage": {
+        "text": "මොකක් මොකක්",
+        "contextInfo": {
+          "stanzaId": "A7EF5889558B4C2A36C6E3910A608EF0",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Guna busa ublta"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720040402",
+          "recipientKeyHash": "+34nwW8gH/a3tg==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A862A7CA5DE6D7FDD14",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "මොකක් මොකක්",
+      "contextInfo": {
+        "stanzaId": "A7EF5889558B4C2A36C6E3910A608EF0",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Guna busa ublta"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "මොකක් මොකක්",
+    "quoted": {
+      "conversation": "Guna busa ublta"
+    }
+  }
+]

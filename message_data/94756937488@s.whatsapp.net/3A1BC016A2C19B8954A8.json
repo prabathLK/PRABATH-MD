@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A1BC016A2C19B8954A8"
+    },
+    "messageTimestamp": 1720181826,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "conversation": "mt aye affair ekk ptn gnn ba aiye",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720181295",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A1BC016A2C19B8954A8",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "mt aye affair ekk ptn gnn ba aiye",
+    "mentionUser": [],
+    "body": "mt aye affair ekk ptn gnn ba aiye",
+    "quoted": null
+  }
+]

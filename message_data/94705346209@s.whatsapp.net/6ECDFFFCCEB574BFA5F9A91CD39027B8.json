@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94705346209@s.whatsapp.net",
+      "fromMe": false,
+      "id": "6ECDFFFCCEB574BFA5F9A91CD39027B8"
+    },
+    "messageTimestamp": 1720077926,
+    "pushName": "Kavishan C Wijayananda 🦁🍃",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "එයාගෙ 4ටෝ නැද්ද",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 7776000,
+          "ephemeralSettingTimestamp": "1711384659",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT",
+            "trigger": "BULK_CHANGE",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "6ECDFFFCCEB574BFA5F9A91CD39027B8",
+    "chat": "94705346209@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94705346209@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "එයාගෙ 4ටෝ නැද්ද",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 7776000,
+        "ephemeralSettingTimestamp": "1711384659",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT",
+          "trigger": "BULK_CHANGE",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "එයාගෙ 4ටෝ නැද්ද",
+    "quoted": null
+  }
+]

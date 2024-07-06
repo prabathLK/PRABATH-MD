@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "94763686114@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A23B5F96A662EB4499D"
+    },
+    "messageTimestamp": 1720169206,
+    "pushName": "Mashi",
+    "broadcast": false,
+    "message": {
+      "conversation": "මට පාලුයි පකෝ",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "B6wRddiC+4OGQQ==",
+          "senderTimestamp": "1719806881",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A23B5F96A662EB4499D",
+    "chat": "94763686114@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94763686114@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "මට පාලුයි පකෝ",
+    "mentionUser": [],
+    "body": "මට පාලුයි පකෝ",
+    "quoted": null
+  }
+]

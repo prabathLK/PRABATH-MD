@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94770310903@s.whatsapp.net",
+      "fromMe": false,
+      "id": "E66CB677F2B5632442DB741438EEE727"
+    },
+    "messageTimestamp": 1720094934,
+    "pushName": "චඳූ 🌼",
+    "broadcast": false,
+    "message": {
+      "conversation": "Hmm karana ekk serious krnn ithin ☺️",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "E66CB677F2B5632442DB741438EEE727",
+    "chat": "94770310903@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94770310903@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Hmm karana ekk serious krnn ithin ☺️",
+    "mentionUser": [],
+    "body": "Hmm karana ekk serious krnn ithin ☺️",
+    "quoted": null
+  }
+]

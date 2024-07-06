@@ -1,0 +1,94 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C971345F1FC641BBE6DA481D25E6E808",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720208800,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "documentMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_463166549796387_4334470480801339087_n.enc?ccb=11-4&oh=01_Q5AaIFIQkDTn-Cyg7QfAuCNf9_dfDwB4GTSbEbxHTu99gFjI&oe=66AFC249&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "video/mp4",
+        "fileSha256": "HBidMRgVdKSoi/axsZbLTAACMox1vdSRbntX7wHHQbs=",
+        "fileLength": "1655452369",
+        "pageCount": 0,
+        "mediaKey": "R9AwuWtxf7SrjSODDMXfagFNcv2pufhtgnLP9Fja0BI=",
+        "fileName": "Garudan (2024).mp4",
+        "fileEncSha256": "+dnxrOCy78yNJZ0TsV9JDMkMc8rtA+2eF2q0NPfcAl8=",
+        "directPath": "/v/t62.43144-24/10000000_463166549796387_4334470480801339087_n.enc?ccb=11-4&oh=01_Q5AaIFIQkDTn-Cyg7QfAuCNf9_dfDwB4GTSbEbxHTu99gFjI&oe=66AFC249&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720207243",
+        "caption": "`720p`\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+      }
+    },
+    "id": "C971345F1FC641BBE6DA481D25E6E808",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net",
+    "type": "documentMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_463166549796387_4334470480801339087_n.enc?ccb=11-4&oh=01_Q5AaIFIQkDTn-Cyg7QfAuCNf9_dfDwB4GTSbEbxHTu99gFjI&oe=66AFC249&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "video/mp4",
+      "fileSha256": "HBidMRgVdKSoi/axsZbLTAACMox1vdSRbntX7wHHQbs=",
+      "fileLength": "1655452369",
+      "pageCount": 0,
+      "mediaKey": "R9AwuWtxf7SrjSODDMXfagFNcv2pufhtgnLP9Fja0BI=",
+      "fileName": "Garudan (2024).mp4",
+      "fileEncSha256": "+dnxrOCy78yNJZ0TsV9JDMkMc8rtA+2eF2q0NPfcAl8=",
+      "directPath": "/v/t62.43144-24/10000000_463166549796387_4334470480801339087_n.enc?ccb=11-4&oh=01_Q5AaIFIQkDTn-Cyg7QfAuCNf9_dfDwB4GTSbEbxHTu99gFjI&oe=66AFC249&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720207243",
+      "caption": "`720p`\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C971345F1FC641BBE6DA481D25E6E808",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720208842,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiJv7rbAhCxAhogyHk6wjq87Sfmjwb2tEb4z7pEQHfv9RG9fJhGj6Y+SuIiIQWCTeBgYCbe52jJ8zEylKlHqTCMNQDWPj//5x84GZnWDg=="
+      }
+    },
+    "id": "C971345F1FC641BBE6DA481D25E6E808",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "C971345F1FC641BBE6DA481D25E6E808",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720208858,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiJv7rbAhC5AhoggSrJbpk/vMoBQCUn7Fo2OKkXQ53hE7jmTFHSL154lSsiIQWCTeBgYCbe52jJ8zEylKlHqTCMNQDWPj//5x84GZnWDg=="
+      }
+    },
+    "id": "C971345F1FC641BBE6DA481D25E6E808",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net"
+  }
+]

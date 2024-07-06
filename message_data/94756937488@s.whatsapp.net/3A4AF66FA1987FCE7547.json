@@ -1,0 +1,85 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A4AF66FA1987FCE7547"
+    },
+    "messageTimestamp": 1720091418,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaIIrL669fwJbIvp08HQP0ulV8JkUkiCbCptRy0AZvjbv0&oe=66AE026D&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+        "fileEncSha256": "4uQ1US3yxpzQ+hklirdGiN2KhRjxcXZNL95PfSc+Y3A=",
+        "mediaKey": "UrmaUxtD5mXrjvKmALHu5sd9Gj1AbuGxVuBkMfcK1so=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaIIrL669fwJbIvp08HQP0ulV8JkUkiCbCptRy0AZvjbv0&oe=66AE026D&_nc_sid=5e03e0",
+        "fileLength": "41106",
+        "mediaKeyTimestamp": "1719946272",
+        "isAnimated": false,
+        "contextInfo": {
+          "stanzaId": "EC7BB981D59AAE3A90195AD74133E8DC",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Blnwako lccana 🥰 mirikanna hithenawa 😘"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "stickerSentTs": "1720091416354",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720090083",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A4AF66FA1987FCE7547",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaIIrL669fwJbIvp08HQP0ulV8JkUkiCbCptRy0AZvjbv0&oe=66AE026D&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "9QMwCL5GaP1cH1ZNXwU+yWFlHnACkUPQnFNw5LDURNc=",
+      "fileEncSha256": "4uQ1US3yxpzQ+hklirdGiN2KhRjxcXZNL95PfSc+Y3A=",
+      "mediaKey": "UrmaUxtD5mXrjvKmALHu5sd9Gj1AbuGxVuBkMfcK1so=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/19006686_3890512467887257_154046145353470477_n.enc?ccb=11-4&oh=01_Q5AaIIrL669fwJbIvp08HQP0ulV8JkUkiCbCptRy0AZvjbv0&oe=66AE026D&_nc_sid=5e03e0",
+      "fileLength": "41106",
+      "mediaKeyTimestamp": "1719946272",
+      "isAnimated": false,
+      "contextInfo": {
+        "stanzaId": "EC7BB981D59AAE3A90195AD74133E8DC",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Blnwako lccana 🥰 mirikanna hithenawa 😘"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "stickerSentTs": "1720091416354",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "Blnwako lccana 🥰 mirikanna hithenawa 😘"
+    }
+  }
+]

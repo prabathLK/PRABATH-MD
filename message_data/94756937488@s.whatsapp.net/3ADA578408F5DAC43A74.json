@@ -1,0 +1,106 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3ADA578408F5DAC43A74"
+    },
+    "messageTimestamp": 1720090057,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "🥺",
+        "contextInfo": {
+          "stanzaId": "1D78E7C3098AC291F59A251CD9C99E18",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "videoMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "video/mp4",
+              "fileSha256": "QitQL27DDI4KY+UK52pKp0JqzxG+w7wx3J3nPhJm69g=",
+              "fileLength": "390580",
+              "seconds": 17,
+              "mediaKey": "HFkTvYUitGo8Emu2+yev7q+hve7jEMC/fmf+TYII0sk=",
+              "caption": "🥺",
+              "height": 1024,
+              "width": 576,
+              "fileEncSha256": "YYPHjRouda/OI0bIxBq7A+Uxntt6suLgfg1U8JvkA+A=",
+              "directPath": "/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720089411",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKQMBIgACEQEDEQH/xAAtAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+ZaGWoRR0rpN5bbzwmpi3vjcvJ3mp55Eac5Zq4qEAHTmAH//xAAiEAACAgAGAgMAAAAAAAAAAAABAgARAxASICEiBDEwQWH/2gAIAQEAAT8A3VKlZ1FFmcXUCqY6gDMcGV6M66pi1wBsFBe33FrVHJvmXlhLrb8nUv2PWacCrVuQZ5Cp7RuM1YgGEjTAahbO/gASvZvZ/8QAGBEAAwEBAAAAAAAAAAAAAAAAARARADD/2gAIAQIBAT8AYxkU4//EABoRAAICAwAAAAAAAAAAAAAAAAABEBECMEL/2gAIAQMBAT8AnkxcXSFo/9k=",
+              "streamingSidecar": "mgxUp9DHv+eNKQPzh4/pa22UPGh8dP3frLMUUANEJpYj2yWAoQbv4sY8u36GuVhmIL0w3TQ0rHJppGxd"
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720085169",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3ADA578408F5DAC43A74",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "🥺",
+      "contextInfo": {
+        "stanzaId": "1D78E7C3098AC291F59A251CD9C99E18",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "videoMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "video/mp4",
+            "fileSha256": "QitQL27DDI4KY+UK52pKp0JqzxG+w7wx3J3nPhJm69g=",
+            "fileLength": "390580",
+            "seconds": 17,
+            "mediaKey": "HFkTvYUitGo8Emu2+yev7q+hve7jEMC/fmf+TYII0sk=",
+            "caption": "🥺",
+            "height": 1024,
+            "width": 576,
+            "fileEncSha256": "YYPHjRouda/OI0bIxBq7A+Uxntt6suLgfg1U8JvkA+A=",
+            "directPath": "/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720089411",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKQMBIgACEQEDEQH/xAAtAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+ZaGWoRR0rpN5bbzwmpi3vjcvJ3mp55Eac5Zq4qEAHTmAH//xAAiEAACAgAGAgMAAAAAAAAAAAABAgARAxASICEiBDEwQWH/2gAIAQEAAT8A3VKlZ1FFmcXUCqY6gDMcGV6M66pi1wBsFBe33FrVHJvmXlhLrb8nUv2PWacCrVuQZ5Cp7RuM1YgGEjTAahbO/gASvZvZ/8QAGBEAAwEBAAAAAAAAAAAAAAAAARARADD/2gAIAQIBAT8AYxkU4//EABoRAAICAwAAAAAAAAAAAAAAAAABEBECMEL/2gAIAQMBAT8AnkxcXSFo/9k=",
+            "streamingSidecar": "mgxUp9DHv+eNKQPzh4/pa22UPGh8dP3frLMUUANEJpYj2yWAoQbv4sY8u36GuVhmIL0w3TQ0rHJppGxd"
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "🥺",
+    "quoted": {
+      "videoMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "video/mp4",
+        "fileSha256": "QitQL27DDI4KY+UK52pKp0JqzxG+w7wx3J3nPhJm69g=",
+        "fileLength": "390580",
+        "seconds": 17,
+        "mediaKey": "HFkTvYUitGo8Emu2+yev7q+hve7jEMC/fmf+TYII0sk=",
+        "caption": "🥺",
+        "height": 1024,
+        "width": 576,
+        "fileEncSha256": "YYPHjRouda/OI0bIxBq7A+Uxntt6suLgfg1U8JvkA+A=",
+        "directPath": "/v/t62.7161-24/11295227_1157844658807276_6500250439088808760_n.enc?ccb=11-4&oh=01_Q5AaIHYoh2asdAj3sFhPFbu4qQDigcXcy98kqyEK0p-xBs9j&oe=66ADF4B3&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720089411",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAEgAKQMBIgACEQEDEQH/xAAtAAEBAQEBAQAAAAAAAAAAAAAAAQIDBAYBAQEBAAAAAAAAAAAAAAAAAAABAv/aAAwDAQACEAMQAAAA+ZaGWoRR0rpN5bbzwmpi3vjcvJ3mp55Eac5Zq4qEAHTmAH//xAAiEAACAgAGAgMAAAAAAAAAAAABAgARAxASICEiBDEwQWH/2gAIAQEAAT8A3VKlZ1FFmcXUCqY6gDMcGV6M66pi1wBsFBe33FrVHJvmXlhLrb8nUv2PWacCrVuQZ5Cp7RuM1YgGEjTAahbO/gASvZvZ/8QAGBEAAwEBAAAAAAAAAAAAAAAAARARADD/2gAIAQIBAT8AYxkU4//EABoRAAICAwAAAAAAAAAAAAAAAAABEBECMEL/2gAIAQMBAT8AnkxcXSFo/9k=",
+        "streamingSidecar": "mgxUp9DHv+eNKQPzh4/pa22UPGh8dP3frLMUUANEJpYj2yWAoQbv4sY8u36GuVhmIL0w3TQ0rHJppGxd"
+      }
+    }
+  }
+]

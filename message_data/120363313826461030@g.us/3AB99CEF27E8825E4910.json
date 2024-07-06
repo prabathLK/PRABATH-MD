@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3AB99CEF27E8825E4910",
+      "participant": "94775996551@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720055701,
+    "pushName": "Kavindya Sandeepani ❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Whtto mth sathutin 😂❤️"
+    },
+    "id": "3AB99CEF27E8825E4910",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94775996551@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Whtto mth sathutin 😂❤️",
+    "mentionUser": [],
+    "body": "Whtto mth sathutin 😂❤️",
+    "quoted": null
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "46C3D8B4C52D4385077FBBAC264CB520",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720033252,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "Dn nidgnna"
+    },
+    "id": "46C3D8B4C52D4385077FBBAC264CB520",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Dn nidgnna",
+    "mentionUser": [],
+    "body": "Dn nidgnna",
+    "quoted": null,
+    "userReceipt": [
+      {
+        "userJid": "94787177718@s.whatsapp.net",
+        "readTimestamp": 1720033252
+      }
+    ]
+  }
+]

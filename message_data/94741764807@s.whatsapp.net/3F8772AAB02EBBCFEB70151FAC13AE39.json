@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94741764807@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3F8772AAB02EBBCFEB70151FAC13AE39"
+    },
+    "messageTimestamp": 1720051828,
+    "pushName": "Hansani 😽💗👉🏻👈🏻",
+    "broadcast": false,
+    "message": {
+      "conversation": "Awa",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3F8772AAB02EBBCFEB70151FAC13AE39",
+    "chat": "94741764807@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94741764807@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Awa",
+    "mentionUser": [],
+    "body": "Awa",
+    "quoted": null
+  }
+]

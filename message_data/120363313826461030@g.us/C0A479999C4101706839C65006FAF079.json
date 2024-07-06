@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "C0A479999C4101706839C65006FAF079",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090281,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "🤣🤣",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3BD0F33E2DF91FA4820B72D85D4C210C",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Waren pennanna"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "C0A479999C4101706839C65006FAF079",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "🤣🤣",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3BD0F33E2DF91FA4820B72D85D4C210C",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Waren pennanna"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "🤣🤣",
+    "quoted": {
+      "conversation": "Waren pennanna"
+    }
+  }
+]

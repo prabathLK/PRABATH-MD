@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A97062AD988684F4B6B",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720055029,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "conversation": "Gdmng pcyone",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363313826461030@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiyuJiNBBAAGiAmZvC30Xlz+jPMBsf3LgeGJ5bPikglL1uICCFloajh9yIhBe2QVkP7eJyoX3kHtYfEfvC69IvkWhAbsWIXylc6CRFh"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720045776",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A97062AD988684F4B6B",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Gdmng pcyone",
+    "mentionUser": [],
+    "body": "Gdmng pcyone",
+    "quoted": null
+  }
+]

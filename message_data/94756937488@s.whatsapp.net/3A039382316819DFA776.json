@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A039382316819DFA776"
+    },
+    "messageTimestamp": 1720077284,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "ahh ha ha",
+        "contextInfo": {
+          "stanzaId": "9626FB1DB7D39C0BEDE13C9A1A61D0A4",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ammage yaluwek innawa eya bite company ekk karanwa ape game ,samahara dawas walata amma ethana wadata ynawa eke wada wadi unama ehema"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720071682",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A039382316819DFA776",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "ahh ha ha",
+      "contextInfo": {
+        "stanzaId": "9626FB1DB7D39C0BEDE13C9A1A61D0A4",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ammage yaluwek innawa eya bite company ekk karanwa ape game ,samahara dawas walata amma ethana wadata ynawa eke wada wadi unama ehema"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "ahh ha ha",
+    "quoted": {
+      "conversation": "Ammage yaluwek innawa eya bite company ekk karanwa ape game ,samahara dawas walata amma ethana wadata ynawa eke wada wadi unama ehema"
+    }
+  }
+]

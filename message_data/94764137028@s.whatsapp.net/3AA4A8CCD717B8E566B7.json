@@ -1,0 +1,59 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764137028@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AA4A8CCD717B8E566B7"
+    },
+    "messageTimestamp": 1720114230,
+    "pushName": "Rashmika Shamodh",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/32056125_3332619007047764_3360501539935038713_n.enc?ccb=11-4&oh=01_Q5AaICYVMnEc_VYfEQQsAIJv2DqTPcsHAoMNgiPg9H22O02z&oe=66AE4B37&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "dJiPnI/Vy6TDXTVdOBUKD5lzYJX5v66eegcWDOb1QYg=",
+        "fileLength": "12369",
+        "seconds": 5,
+        "ptt": true,
+        "mediaKey": "JAq2zDNRt7d5vLvgEJws9LAEHRAul/48zYtdTnCTssI=",
+        "fileEncSha256": "8WG4Yw4SD6YNXwD1D3pNBlS7oE2wlWBMjfPZ4aBxDaA=",
+        "directPath": "/v/t62.7117-24/32056125_3332619007047764_3360501539935038713_n.enc?ccb=11-4&oh=01_Q5AaICYVMnEc_VYfEQQsAIJv2DqTPcsHAoMNgiPg9H22O02z&oe=66AE4B37&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720114222",
+        "streamingSidecar": "GaIXIIdg7DFVhA==",
+        "waveform": "AAkUNVBQSzk3TFJERE1VXU43JxoSDAoMM1VdYl5aVlddYWNdVFJSSDw/REpPSkdLTEI/R1FeW0tCPj9CREU4Kw=="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720113693",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AA4A8CCD717B8E566B7",
+    "chat": "94764137028@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764137028@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/32056125_3332619007047764_3360501539935038713_n.enc?ccb=11-4&oh=01_Q5AaICYVMnEc_VYfEQQsAIJv2DqTPcsHAoMNgiPg9H22O02z&oe=66AE4B37&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "dJiPnI/Vy6TDXTVdOBUKD5lzYJX5v66eegcWDOb1QYg=",
+      "fileLength": "12369",
+      "seconds": 5,
+      "ptt": true,
+      "mediaKey": "JAq2zDNRt7d5vLvgEJws9LAEHRAul/48zYtdTnCTssI=",
+      "fileEncSha256": "8WG4Yw4SD6YNXwD1D3pNBlS7oE2wlWBMjfPZ4aBxDaA=",
+      "directPath": "/v/t62.7117-24/32056125_3332619007047764_3360501539935038713_n.enc?ccb=11-4&oh=01_Q5AaICYVMnEc_VYfEQQsAIJv2DqTPcsHAoMNgiPg9H22O02z&oe=66AE4B37&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720114222",
+      "streamingSidecar": "GaIXIIdg7DFVhA==",
+      "waveform": "AAkUNVBQSzk3TFJERE1VXU43JxoSDAoMM1VdYl5aVlddYWNdVFJSSDw/REpPSkdLTEI/R1FeW0tCPj9CREU4Kw=="
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

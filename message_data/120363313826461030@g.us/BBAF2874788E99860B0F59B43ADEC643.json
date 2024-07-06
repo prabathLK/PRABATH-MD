@@ -1,0 +1,72 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "BBAF2874788E99860B0F59B43ADEC643",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720091707,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7117-24/12148277_337094389438032_5346358982440066505_n.enc?ccb=11-4&oh=01_Q5AaINa_d11saGDKwr2CoJf5OfjJkV1rTXoZEfIQ9SMcn7Iy&oe=66ADDB8F&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/ogg; codecs=opus",
+        "fileSha256": "i8rYhMyr7zatypKXOWCE0JsgUeId05mkuWhDnoSDhUo=",
+        "fileLength": "13541",
+        "seconds": 6,
+        "ptt": true,
+        "mediaKey": "qH97RlM+AC7cc5t/UnhawQDJb3V9wBHnXfu/jceUPMs=",
+        "fileEncSha256": "1zd9MraTQuowRsQ1tj6Eb4S65BrG0NzIUHe6PwQ0UiM=",
+        "directPath": "/v/t62.7117-24/12148277_337094389438032_5346358982440066505_n.enc?ccb=11-4&oh=01_Q5AaINa_d11saGDKwr2CoJf5OfjJkV1rTXoZEfIQ9SMcn7Iy&oe=66ADDB8F&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720091700",
+        "contextInfo": {
+          "stanzaId": "A317F8C325AA594A444D6383387ACC6A",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "මේ කුරිරු සමාජෙන් මිදිලා මං යනවා මගේ ආදරේ ගාවට"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "BBAF2874788E99860B0F59B43ADEC643",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7117-24/12148277_337094389438032_5346358982440066505_n.enc?ccb=11-4&oh=01_Q5AaINa_d11saGDKwr2CoJf5OfjJkV1rTXoZEfIQ9SMcn7Iy&oe=66ADDB8F&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/ogg; codecs=opus",
+      "fileSha256": "i8rYhMyr7zatypKXOWCE0JsgUeId05mkuWhDnoSDhUo=",
+      "fileLength": "13541",
+      "seconds": 6,
+      "ptt": true,
+      "mediaKey": "qH97RlM+AC7cc5t/UnhawQDJb3V9wBHnXfu/jceUPMs=",
+      "fileEncSha256": "1zd9MraTQuowRsQ1tj6Eb4S65BrG0NzIUHe6PwQ0UiM=",
+      "directPath": "/v/t62.7117-24/12148277_337094389438032_5346358982440066505_n.enc?ccb=11-4&oh=01_Q5AaINa_d11saGDKwr2CoJf5OfjJkV1rTXoZEfIQ9SMcn7Iy&oe=66ADDB8F&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720091700",
+      "contextInfo": {
+        "stanzaId": "A317F8C325AA594A444D6383387ACC6A",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "මේ කුරිරු සමාජෙන් මිදිලා මං යනවා මගේ ආදරේ ගාවට"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "conversation": "මේ කුරිරු සමාජෙන් මිදිලා මං යනවා මගේ ආදරේ ගාවට"
+    }
+  }
+]

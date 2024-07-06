@@ -1,0 +1,96 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A889A5C97F2CFE8D413",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720180673,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Hutt",
+        "contextInfo": {
+          "stanzaId": "8EF5DC57808475FD046E09B4306F8D5B",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "stickerMessage": {
+              "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000&mms3=true",
+              "fileSha256": "SCUo9hyVpv3Pl7a1grgx5+qR8KNOQhMYuM0Gz1saSf0=",
+              "fileEncSha256": "0pdPVoNCI+zVrtEVE8VSAmqGeSXapztLCNODIK+AmBY=",
+              "mediaKey": "YdfdRwPMsrBbrGEw4aP3ctiOsQZL4f/Dh3OUHJFPVU4=",
+              "mimetype": "image/webp",
+              "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000",
+              "fileLength": "37078",
+              "mediaKeyTimestamp": "1720179854",
+              "isAnimated": false,
+              "stickerSentTs": "1720179867209",
+              "isAvatar": false,
+              "isAiSticker": false,
+              "isLottie": false
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3A889A5C97F2CFE8D413",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Hutt",
+      "contextInfo": {
+        "stanzaId": "8EF5DC57808475FD046E09B4306F8D5B",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "stickerMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000&mms3=true",
+            "fileSha256": "SCUo9hyVpv3Pl7a1grgx5+qR8KNOQhMYuM0Gz1saSf0=",
+            "fileEncSha256": "0pdPVoNCI+zVrtEVE8VSAmqGeSXapztLCNODIK+AmBY=",
+            "mediaKey": "YdfdRwPMsrBbrGEw4aP3ctiOsQZL4f/Dh3OUHJFPVU4=",
+            "mimetype": "image/webp",
+            "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000",
+            "fileLength": "37078",
+            "mediaKeyTimestamp": "1720179854",
+            "isAnimated": false,
+            "stickerSentTs": "1720179867209",
+            "isAvatar": false,
+            "isAiSticker": false,
+            "isLottie": false
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Hutt",
+    "quoted": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000&mms3=true",
+        "fileSha256": "SCUo9hyVpv3Pl7a1grgx5+qR8KNOQhMYuM0Gz1saSf0=",
+        "fileEncSha256": "0pdPVoNCI+zVrtEVE8VSAmqGeSXapztLCNODIK+AmBY=",
+        "mediaKey": "YdfdRwPMsrBbrGEw4aP3ctiOsQZL4f/Dh3OUHJFPVU4=",
+        "mimetype": "image/webp",
+        "directPath": "/o1/v/t62.7118-24/f1/m239/up-oil-image-a2440066-8a63-4a67-9390-0d98f131d725?ccb=9-4&oh=01_Q5AaIGBsDJ2ufMqVH8EPddXnyaIPnkb3v9No4Z34YfqJXkZF&oe=66AF441F&_nc_sid=000000",
+        "fileLength": "37078",
+        "mediaKeyTimestamp": "1720179854",
+        "isAnimated": false,
+        "stickerSentTs": "1720179867209",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    }
+  }
+]

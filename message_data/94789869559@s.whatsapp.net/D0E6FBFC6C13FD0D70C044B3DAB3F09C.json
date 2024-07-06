@@ -1,0 +1,64 @@
+[
+  {
+    "key": {
+      "remoteJid": "94789869559@s.whatsapp.net",
+      "fromMe": false,
+      "id": "D0E6FBFC6C13FD0D70C044B3DAB3F09C"
+    },
+    "messageTimestamp": 1720111659,
+    "pushName": "Heshan",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "E wge",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 86400,
+          "ephemeralSettingTimestamp": "1719055749",
+          "disappearingMode": {
+            "initiator": "INITIATED_BY_ME",
+            "trigger": "ACCOUNT_SETTING",
+            "initiatedByMe": true
+          }
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "D0E6FBFC6C13FD0D70C044B3DAB3F09C",
+    "chat": "94789869559@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94789869559@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "E wge",
+      "previewType": "NONE",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 86400,
+        "ephemeralSettingTimestamp": "1719055749",
+        "disappearingMode": {
+          "initiator": "INITIATED_BY_ME",
+          "trigger": "ACCOUNT_SETTING",
+          "initiatedByMe": true
+        }
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [],
+    "body": "E wge",
+    "quoted": null
+  }
+]

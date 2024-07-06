@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3A7FD293AD1792792F65",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077198,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Idkin 🤣🤣",
+        "contextInfo": {
+          "stanzaId": "DE8B80874F20084D66564E8FC579AFCD",
+          "participant": "94769643954@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+          },
+          "mentionedJid": [
+            "94769643954@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3A7FD293AD1792792F65",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Idkin 🤣🤣",
+      "contextInfo": {
+        "stanzaId": "DE8B80874F20084D66564E8FC579AFCD",
+        "participant": "94769643954@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+        },
+        "mentionedJid": [
+          "94769643954@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94769643954@s.whatsapp.net"
+    ],
+    "body": "Idkin 🤣🤣",
+    "quoted": {
+      "conversation": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln"
+    }
+  }
+]

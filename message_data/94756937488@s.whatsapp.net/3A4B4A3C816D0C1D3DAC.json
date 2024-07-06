@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A4B4A3C816D0C1D3DAC"
+    },
+    "messageTimestamp": 1720103942,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "hoda wde😂",
+        "contextInfo": {
+          "stanzaId": "D519D08E8979924A05989CE01C7CCFFF",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "😅 balanwako ආරම්බෙම කදුලක් උනා 😒"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720103839",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A4B4A3C816D0C1D3DAC",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "hoda wde😂",
+      "contextInfo": {
+        "stanzaId": "D519D08E8979924A05989CE01C7CCFFF",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "😅 balanwako ආරම්බෙම කදුලක් උනා 😒"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "hoda wde😂",
+    "quoted": {
+      "conversation": "😅 balanwako ආරම්බෙම කදුලක් උනා 😒"
+    }
+  }
+]

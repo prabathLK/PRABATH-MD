@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764019751@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A4BAB0703E404F32023"
+    },
+    "messageTimestamp": 1720061476,
+    "pushName": "Rashan.D",
+    "broadcast": false,
+    "message": {
+      "conversation": "ලැස්ති වෙයන්",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720023347",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1719422535"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A4BAB0703E404F32023",
+    "chat": "94764019751@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764019751@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ලැස්ති වෙයන්",
+    "mentionUser": [],
+    "body": "ලැස්ති වෙයන්",
+    "quoted": null
+  }
+]

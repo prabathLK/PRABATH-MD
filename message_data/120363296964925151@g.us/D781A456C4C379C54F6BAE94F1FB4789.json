@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "D781A456C4C379C54F6BAE94F1FB4789",
+      "participant": "94771419821@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720109540,
+    "pushName": "Sanjeewa Sanjeewa",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiY07H5BxAAGiDemZBY3eLrsa7Ko1QeEAR9ktnVGCeTyGWWicbOVVFQ1iIhBRaDeFru1ZeLquBnpyXrKWjnawjl9BjDkJjlAl8si2Q5"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "BF944B68DBA671204F7ADE877818B5D1",
+          "participant": "94701669543@s.whatsapp.net"
+        },
+        "text": "👍",
+        "senderTimestampMs": "1720109537366"
+      }
+    },
+    "id": "D781A456C4C379C54F6BAE94F1FB4789",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94771419821@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "BF944B68DBA671204F7ADE877818B5D1",
+        "participant": "94701669543@s.whatsapp.net"
+      },
+      "text": "👍",
+      "senderTimestampMs": "1720109537366"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

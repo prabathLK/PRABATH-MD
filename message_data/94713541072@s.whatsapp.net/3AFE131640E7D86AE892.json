@@ -1,0 +1,62 @@
+[
+  {
+    "key": {
+      "remoteJid": "94713541072@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AFE131640E7D86AE892"
+    },
+    "messageTimestamp": 1720061736,
+    "pushName": "Mr_ViKi  ",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "hri hri ithin anith ek witharai🥲",
+        "contextInfo": {
+          "stanzaId": "50B8D2884591B6E6CB25C1A5FD9859E9",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Owa ep kriyo"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720060305",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mr_ViKi  ",
+    "id": "3AFE131640E7D86AE892",
+    "chat": "94713541072@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94713541072@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "hri hri ithin anith ek witharai🥲",
+      "contextInfo": {
+        "stanzaId": "50B8D2884591B6E6CB25C1A5FD9859E9",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Owa ep kriyo"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "hri hri ithin anith ek witharai🥲",
+    "quoted": {
+      "conversation": "Owa ep kriyo"
+    }
+  }
+]

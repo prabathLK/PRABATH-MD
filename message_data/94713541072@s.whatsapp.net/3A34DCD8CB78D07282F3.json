@@ -1,0 +1,62 @@
+[
+  {
+    "key": {
+      "remoteJid": "94713541072@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A34DCD8CB78D07282F3"
+    },
+    "messageTimestamp": 1720062576,
+    "pushName": "Mr_ViKi  ",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "adarei aiyee",
+        "contextInfo": {
+          "stanzaId": "E79219A2CB774B6BA08084B0FD68D3FE",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Hari hari mn kynne na"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720062316",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mr_ViKi  ",
+    "id": "3A34DCD8CB78D07282F3",
+    "chat": "94713541072@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94713541072@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "adarei aiyee",
+      "contextInfo": {
+        "stanzaId": "E79219A2CB774B6BA08084B0FD68D3FE",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Hari hari mn kynne na"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "adarei aiyee",
+    "quoted": {
+      "conversation": "Hari hari mn kynne na"
+    }
+  }
+]

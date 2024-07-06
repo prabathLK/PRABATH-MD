@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3ADCB9035833DFF5866D"
+    },
+    "messageTimestamp": 1720093130,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "hoda wde 😼",
+        "contextInfo": {
+          "stanzaId": "3A91E15030B4C8411B65F26DD111D074",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "තව බැහැපන් වැව් වලයි ඇලවල් වලයි කිවුවා 🥲"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720090083",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3ADCB9035833DFF5866D",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "hoda wde 😼",
+      "contextInfo": {
+        "stanzaId": "3A91E15030B4C8411B65F26DD111D074",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "තව බැහැපන් වැව් වලයි ඇලවල් වලයි කිවුවා 🥲"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "hoda wde 😼",
+    "quoted": {
+      "conversation": "තව බැහැපන් වැව් වලයි ඇලවල් වලයි කිවුවා 🥲"
+    }
+  }
+]

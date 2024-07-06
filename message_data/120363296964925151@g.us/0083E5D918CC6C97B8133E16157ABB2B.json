@@ -1,0 +1,55 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "0083E5D918CC6C97B8133E16157ABB2B",
+      "participant": "94702305906@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720183606,
+    "pushName": "C⨳ｈａｍａｔｈ     P⨳ａｔｈｕｍｉｋａ",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363296964925151@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjZ2rCWBBAAGiAA4m7AEWVAUR+k4MRDU8N8LFtGzEoX+iF+z40x17cYdiIhBbwtjLFHFouMFX7tceBy/88QP1KH7IHdViQSXHB+mz8C"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      },
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363296964925151@g.us",
+          "fromMe": false,
+          "id": "3418B52E2B8CF1D8CD340923BB2AACB4",
+          "participant": "966588806987@s.whatsapp.net"
+        },
+        "text": "👍",
+        "senderTimestampMs": "1720183599168"
+      }
+    },
+    "id": "0083E5D918CC6C97B8133E16157ABB2B",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94702305906@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363296964925151@g.us",
+        "fromMe": false,
+        "id": "3418B52E2B8CF1D8CD340923BB2AACB4",
+        "participant": "966588806987@s.whatsapp.net"
+      },
+      "text": "👍",
+      "senderTimestampMs": "1720183599168"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

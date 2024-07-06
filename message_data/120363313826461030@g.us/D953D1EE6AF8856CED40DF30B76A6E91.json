@@ -1,0 +1,94 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "D953D1EE6AF8856CED40DF30B76A6E91",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720033160,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": ".tts මෙනුස පිස්සා",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "FF13E6A286029BFB37547E1400E8010D",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "@94787196575 @94769643954 @94764092845 bota aye innawa",
+              "previewType": "NONE",
+              "contextInfo": {
+                "mentionedJid": [
+                  "94764092845@s.whatsapp.net",
+                  "94769643954@s.whatsapp.net",
+                  "94787196575@s.whatsapp.net",
+                  ""
+                ]
+              },
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "D953D1EE6AF8856CED40DF30B76A6E91",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": ".tts මෙනුස පිස්සා",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "FF13E6A286029BFB37547E1400E8010D",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "@94787196575 @94769643954 @94764092845 bota aye innawa",
+            "previewType": "NONE",
+            "contextInfo": {
+              "mentionedJid": [
+                "94764092845@s.whatsapp.net",
+                "94769643954@s.whatsapp.net",
+                "94787196575@s.whatsapp.net",
+                ""
+              ]
+            },
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": ".tts මෙනුස පිස්සා",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "@94787196575 @94769643954 @94764092845 bota aye innawa",
+        "previewType": "NONE",
+        "contextInfo": {
+          "mentionedJid": [
+            "94764092845@s.whatsapp.net",
+            "94769643954@s.whatsapp.net",
+            "94787196575@s.whatsapp.net",
+            ""
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "8A8B5EEEC1FB2DB696C7268110F7B838",
+      "participant": "94704985865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720090532,
+    "pushName": "Dinu",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ammta siri Lalithayadh nathma  tharushidha  bn",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "2DA8E7259A48FF84D5E871CF7492850E",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "ඔව් ලාලිත්‍යා ඇටේ අතගානවා"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "8A8B5EEEC1FB2DB696C7268110F7B838",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704985865@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ammta siri Lalithayadh nathma  tharushidha  bn",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "2DA8E7259A48FF84D5E871CF7492850E",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "ඔව් ලාලිත්‍යා ඇටේ අතගානවා"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ammta siri Lalithayadh nathma  tharushidha  bn",
+    "quoted": {
+      "conversation": "ඔව් ලාලිත්‍යා ඇටේ අතගානවා"
+    }
+  }
+]

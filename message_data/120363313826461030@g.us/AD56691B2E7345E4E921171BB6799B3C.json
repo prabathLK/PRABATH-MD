@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "AD56691B2E7345E4E921171BB6799B3C",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077338,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-7dd53b26-1a64-4119-9e9f-98191bcdcf45?ccb=9-4&oh=01_Q5AaIJY_yORB_Amq6R302mYGr_lyJV8HzvYGj-j4hQVe4H-C&oe=66ADAB33&_nc_sid=000000&mms3=true",
+        "fileSha256": "eFzGBDtUw2FbsiTELgMnDXKVTlq28IImzY+0/bpgr3w=",
+        "fileEncSha256": "ZS/YOj7w0V+oI5yR8QX1wb8ovUCNL2nxrpxT69y2n7k=",
+        "mediaKey": "viintGeyeBFVdixjyX3Fh/x+J4abvFjyxbr4Wqho2gw=",
+        "mimetype": "image/webp",
+        "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-7dd53b26-1a64-4119-9e9f-98191bcdcf45?ccb=9-4&oh=01_Q5AaIJY_yORB_Amq6R302mYGr_lyJV8HzvYGj-j4hQVe4H-C&oe=66ADAB33&_nc_sid=000000",
+        "fileLength": "8196",
+        "mediaKeyTimestamp": "1720066173",
+        "isAnimated": false,
+        "stickerSentTs": "1720077337531",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "AD56691B2E7345E4E921171BB6799B3C",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m238/up-oil-image-7dd53b26-1a64-4119-9e9f-98191bcdcf45?ccb=9-4&oh=01_Q5AaIJY_yORB_Amq6R302mYGr_lyJV8HzvYGj-j4hQVe4H-C&oe=66ADAB33&_nc_sid=000000&mms3=true",
+      "fileSha256": "eFzGBDtUw2FbsiTELgMnDXKVTlq28IImzY+0/bpgr3w=",
+      "fileEncSha256": "ZS/YOj7w0V+oI5yR8QX1wb8ovUCNL2nxrpxT69y2n7k=",
+      "mediaKey": "viintGeyeBFVdixjyX3Fh/x+J4abvFjyxbr4Wqho2gw=",
+      "mimetype": "image/webp",
+      "directPath": "/o1/v/t62.7118-24/f1/m238/up-oil-image-7dd53b26-1a64-4119-9e9f-98191bcdcf45?ccb=9-4&oh=01_Q5AaIJY_yORB_Amq6R302mYGr_lyJV8HzvYGj-j4hQVe4H-C&oe=66ADAB33&_nc_sid=000000",
+      "fileLength": "8196",
+      "mediaKeyTimestamp": "1720066173",
+      "isAnimated": false,
+      "stickerSentTs": "1720077337531",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

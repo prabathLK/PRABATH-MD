@@ -1,0 +1,139 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "DE8B80874F20084D66564E8FC579AFCD",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720077139,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "66BEE4BB3F8C4960A77A6200683E721E",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "imageMessage": {
+              "url": "https://mmg.whatsapp.net/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0&mms3=true",
+              "mimetype": "image/jpeg",
+              "caption": "Dunhill witharai use krnne @94787196575",
+              "fileSha256": "YAKGqe0nYPpKr/rL02OHW6n4goCSl9v0+MbfNRqcuYE=",
+              "fileLength": "682294",
+              "height": 4000,
+              "width": 3000,
+              "mediaKey": "FO1W9sveeQl++wt3Z4TWa09FZbyh+3RVFUd+pwD1eLE=",
+              "fileEncSha256": "NQTyg0ermPARqH5PFodBoUPgaoA4KVih/EDLDGJRAuA=",
+              "directPath": "/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0",
+              "mediaKeyTimestamp": "1720076930",
+              "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD4ALgMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAADBAUCAAEBAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAMAwEAAhADEAAAACcHzhl9yKZamJJCSaSNuw6JhUuaFlAfOnq5qRzURGfySR7w7S4/sEpzyF//xAAkEAACAwACAgEEAwAAAAAAAAABAgADERIhBDETFDJBgUJRYf/aAAgBAQABPwAcWIHeRrVRsAi3hBEu4Vgz6n+xDdy9GG7i4GaAZdcHOhciXKR3CSay6sejDc+AHuB+I3YjsPU2l1B9ER1xwQOiZ5BFXjog/l2Yiuo5j7Yz73AvRIMRSE0DuUVs9ygzy/jscjfUoCugrY5LqfhOexOszJUxAzOpUy16/wChFtp5dpGRbHxB3DVjkO0SrTHbh6jeWxCJx9RLybDsosR+mH7i0eNYNM/z1G0gn8RgDpiLo7lDdkTx7lXQwj9wEhYaxoaPgEqQBOUB2f/EABkRAQEBAAMAAAAAAAAAAAAAAAEAERAgMf/aAAgBAgEBPwAGJ2y8Njh6N//EABkRAAMBAQEAAAAAAAAAAAAAAAABERACEv/aAAgBAwEBPwAuRnkXLIKDyZ//2Q==",
+              "contextInfo": {
+                "mentionedJid": [
+                  "94787196575@s.whatsapp.net",
+                  ""
+                ]
+              },
+              "scansSidecar": "3boFOnTfHNLqOTRbheSp0SupA5xKJkjk7vfh6HYRBJzBFq1o4QcxXw==",
+              "scanLengths": [
+                93708,
+                83068,
+                197749,
+                307769
+              ],
+              "midQualityFileSha256": "SnuDkXnphYVY9iAIVV5yhpG2boqqQpDHr57SvuW0pLw="
+            }
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    },
+    "id": "DE8B80874F20084D66564E8FC579AFCD",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "66BEE4BB3F8C4960A77A6200683E721E",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0&mms3=true",
+            "mimetype": "image/jpeg",
+            "caption": "Dunhill witharai use krnne @94787196575",
+            "fileSha256": "YAKGqe0nYPpKr/rL02OHW6n4goCSl9v0+MbfNRqcuYE=",
+            "fileLength": "682294",
+            "height": 4000,
+            "width": 3000,
+            "mediaKey": "FO1W9sveeQl++wt3Z4TWa09FZbyh+3RVFUd+pwD1eLE=",
+            "fileEncSha256": "NQTyg0ermPARqH5PFodBoUPgaoA4KVih/EDLDGJRAuA=",
+            "directPath": "/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0",
+            "mediaKeyTimestamp": "1720076930",
+            "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD4ALgMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAADBAUCAAEBAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAMAwEAAhADEAAAACcHzhl9yKZamJJCSaSNuw6JhUuaFlAfOnq5qRzURGfySR7w7S4/sEpzyF//xAAkEAACAwACAgEEAwAAAAAAAAABAgADERIhBDETFDJBgUJRYf/aAAgBAQABPwAcWIHeRrVRsAi3hBEu4Vgz6n+xDdy9GG7i4GaAZdcHOhciXKR3CSay6sejDc+AHuB+I3YjsPU2l1B9ER1xwQOiZ5BFXjog/l2Yiuo5j7Yz73AvRIMRSE0DuUVs9ygzy/jscjfUoCugrY5LqfhOexOszJUxAzOpUy16/wChFtp5dpGRbHxB3DVjkO0SrTHbh6jeWxCJx9RLybDsosR+mH7i0eNYNM/z1G0gn8RgDpiLo7lDdkTx7lXQwj9wEhYaxoaPgEqQBOUB2f/EABkRAQEBAAMAAAAAAAAAAAAAAAEAERAgMf/aAAgBAgEBPwAGJ2y8Njh6N//EABkRAAMBAQEAAAAAAAAAAAAAAAABERACEv/aAAgBAwEBPwAuRnkXLIKDyZ//2Q==",
+            "contextInfo": {
+              "mentionedJid": [
+                "94787196575@s.whatsapp.net",
+                ""
+              ]
+            },
+            "scansSidecar": "3boFOnTfHNLqOTRbheSp0SupA5xKJkjk7vfh6HYRBJzBFq1o4QcxXw==",
+            "scanLengths": [
+              93708,
+              83068,
+              197749,
+              307769
+            ],
+            "midQualityFileSha256": "SnuDkXnphYVY9iAIVV5yhpG2boqqQpDHr57SvuW0pLw="
+          }
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "Ape gdrth ekk thibb bn thaththahe ekk 🙂 mn ude eka diha balala kela gilala awa ahaka bln",
+    "quoted": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "Dunhill witharai use krnne @94787196575",
+        "fileSha256": "YAKGqe0nYPpKr/rL02OHW6n4goCSl9v0+MbfNRqcuYE=",
+        "fileLength": "682294",
+        "height": 4000,
+        "width": 3000,
+        "mediaKey": "FO1W9sveeQl++wt3Z4TWa09FZbyh+3RVFUd+pwD1eLE=",
+        "fileEncSha256": "NQTyg0ermPARqH5PFodBoUPgaoA4KVih/EDLDGJRAuA=",
+        "directPath": "/v/t62.7118-24/32275383_1005974197630372_8526034461844531340_n.enc?ccb=11-4&oh=01_Q5AaIDDDX4YtO2tY_UpGDanj5T9OWhP1uxV0Lv5u9hRDnObL&oe=66ADB197&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720076930",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEABsbGxscGx4hIR4qLSgtKj04MzM4PV1CR0JHQl2NWGdYWGdYjX2Xe3N7l33gsJycsOD/2c7Z//////////////8BGxsbGxwbHiEhHiotKC0qPTgzMzg9XUJHQkdCXY1YZ1hYZ1iNfZd7c3uXfeCwnJyw4P/Zztn////////////////CABEIAD4ALgMBIgACEQEDEQH/xAAuAAADAQEBAAAAAAAAAAAAAAADBAUCAAEBAQEBAQAAAAAAAAAAAAAAAAEAAgP/2gAMAwEAAhADEAAAACcHzhl9yKZamJJCSaSNuw6JhUuaFlAfOnq5qRzURGfySR7w7S4/sEpzyF//xAAkEAACAwACAgEEAwAAAAAAAAABAgADERIhBDETFDJBgUJRYf/aAAgBAQABPwAcWIHeRrVRsAi3hBEu4Vgz6n+xDdy9GG7i4GaAZdcHOhciXKR3CSay6sejDc+AHuB+I3YjsPU2l1B9ER1xwQOiZ5BFXjog/l2Yiuo5j7Yz73AvRIMRSE0DuUVs9ygzy/jscjfUoCugrY5LqfhOexOszJUxAzOpUy16/wChFtp5dpGRbHxB3DVjkO0SrTHbh6jeWxCJx9RLybDsosR+mH7i0eNYNM/z1G0gn8RgDpiLo7lDdkTx7lXQwj9wEhYaxoaPgEqQBOUB2f/EABkRAQEBAAMAAAAAAAAAAAAAAAEAERAgMf/aAAgBAgEBPwAGJ2y8Njh6N//EABkRAAMBAQEAAAAAAAAAAAAAAAABERACEv/aAAgBAwEBPwAuRnkXLIKDyZ//2Q==",
+        "contextInfo": {
+          "mentionedJid": [
+            "94787196575@s.whatsapp.net",
+            ""
+          ]
+        },
+        "scansSidecar": "3boFOnTfHNLqOTRbheSp0SupA5xKJkjk7vfh6HYRBJzBFq1o4QcxXw==",
+        "scanLengths": [
+          93708,
+          83068,
+          197749,
+          307769
+        ],
+        "midQualityFileSha256": "SnuDkXnphYVY9iAIVV5yhpG2boqqQpDHr57SvuW0pLw="
+      }
+    }
+  }
+]

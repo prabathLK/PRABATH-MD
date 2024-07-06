@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "21AB32B6D91CC2495490BB2B3ED78672",
+      "participant": "94769643954@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720158599,
+    "pushName": "_L a l i  🌈️✨️",
+    "broadcast": false,
+    "message": {
+      "conversation": "අපෙ ආච්චි කරෙ"
+    },
+    "id": "21AB32B6D91CC2495490BB2B3ED78672",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94769643954@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "අපෙ ආච්චි කරෙ",
+    "mentionUser": [],
+    "body": "අපෙ ආච්චි කරෙ",
+    "quoted": null
+  }
+]

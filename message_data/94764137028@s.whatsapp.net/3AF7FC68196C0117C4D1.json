@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94764137028@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AF7FC68196C0117C4D1"
+    },
+    "messageTimestamp": 1720114054,
+    "pushName": "Rashmika Shamodh",
+    "broadcast": false,
+    "message": {
+      "conversation": "Ubata badhinna kellek nane bn 😒",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720113693",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AF7FC68196C0117C4D1",
+    "chat": "94764137028@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94764137028@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Ubata badhinna kellek nane bn 😒",
+    "mentionUser": [],
+    "body": "Ubata badhinna kellek nane bn 😒",
+    "quoted": null
+  }
+]

@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94701032841@s.whatsapp.net",
+      "fromMe": false,
+      "id": "2E140A501714F114A9ADB8CC7ECF8F8E"
+    },
+    "messageTimestamp": 1720203017,
+    "pushName": "Kalana Parami",
+    "broadcast": false,
+    "message": {
+      "conversation": "Arkiw block krd",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720017153",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "2E140A501714F114A9ADB8CC7ECF8F8E",
+    "chat": "94701032841@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94701032841@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Arkiw block krd",
+    "mentionUser": [],
+    "body": "Arkiw block krd",
+    "quoted": null
+  }
+]

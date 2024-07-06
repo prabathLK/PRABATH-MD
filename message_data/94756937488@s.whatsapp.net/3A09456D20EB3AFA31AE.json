@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A09456D20EB3AFA31AE"
+    },
+    "messageTimestamp": 1720102643,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "class ek uge shop ek uda kalle krnn inne",
+        "contextInfo": {
+          "stanzaId": "7FABE6735EC2DC9681CC674FCB971289",
+          "participant": "94787177718@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Ithin uge nb ek mktd"
+          },
+          "mentionedJid": [
+            "94787177718@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720102642",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A09456D20EB3AFA31AE",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "class ek uge shop ek uda kalle krnn inne",
+      "contextInfo": {
+        "stanzaId": "7FABE6735EC2DC9681CC674FCB971289",
+        "participant": "94787177718@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Ithin uge nb ek mktd"
+        },
+        "mentionedJid": [
+          "94787177718@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94787177718@s.whatsapp.net"
+    ],
+    "body": "class ek uge shop ek uda kalle krnn inne",
+    "quoted": {
+      "conversation": "Ithin uge nb ek mktd"
+    }
+  }
+]

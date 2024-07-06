@@ -1,0 +1,29 @@
+{
+  "name": "sinhala-unicode",
+  "version": "2.0.0",
+  "description": "sinhala-unicode",
+  "main": "./index.js",
+  "keywords": [
+    "sinhala-unicode",
+    "sinhala",
+    "unicode",
+    "converter"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ravindu01manoj/Sinhala-Unicode/issues"
+  },
+  "homepage": "https://github.com/ravindu01manoj/Sinhala-Unicode#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "axios": "^0.26.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ravindu01manoj/Sinhala-Unicode.git"
+  }
+}

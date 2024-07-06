@@ -1,0 +1,65 @@
+[
+  {
+    "key": {
+      "remoteJid": "94714559000@s.whatsapp.net",
+      "fromMe": false,
+      "id": "FEF940E120CD1BB445"
+    },
+    "messageTimestamp": 1720110947,
+    "pushName": "Siyeraa Studio",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "https://drive.google.com/drive/folders/1gV-_c6aCj7ynuClHQ62OuLEOn6N87bd_?usp=drive_link",
+        "matchedText": "https://drive.google.com/drive/folders/1gV-_c6aCj7ynuClHQ62OuLEOn6N87bd_?usp=drive_link",
+        "title": "24031592 - Google Drive",
+        "jpegThumbnail": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAgACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9Uq+PPjt+2L4w8LeLLvSfhvbaRNpemyG2muLq3aVppRwzKQwAQNlRgHOM5wcD2b9pb4rL8NvActrp1xs1vXA9rZbWw0SY/ezf8BBABH8TKexr4l+Hfw9vvil4tsvBtkGRb9itxMq/8e8A5kk9PlXJHTJwOprxsxxk41I0KL16/oj4bijOsRSrQy/AN87te2+u0fnu/kfS/wCzt+0l498dXAuPiJb6TDpt9MLeyktbdomDDIMhJcgoW+XoOhbOK+oa+PfEHg3/AIV/qbeFYoRHbWAWO1wOGhA+Qj6jGffIr6J+EvjQeLPDaQ3Uu7UNPxDcZPLr/A/4gYPupPevzngbjvEZpnOKybNFyzUpOmnuuXSUH3atzf8AgXRI/YMfwv8A2VlOHxFKbqWiueW929eb0u7LsuXzPiv9r7xP4ih+NGpWPiK0mWC3hhGmjcNhtCuVZeectvz/ALW4dq0P2e/jd4Z+E2n3upXng+5vtW1MhfPF0sfl24wQgG09W+Y884Tjjn6e/aG/Z80v44abp0i3ken6xpMhMFw8ZZZYW+9C+OcZAYHnHzcfMa8Z/wCGI/GH/Q3aP/3zN/8AEV/UOS5fwRWw1PEYyHJiPtXlU37rVrXfy2Pw/E5LmmEzWpjMMua7bi9Hv69tl5Gf8Tv2mvDfja3t7iLwReQXtrlRIt4rF4+TtI2DvkjnuRjnix+zf8VNQ8Q/E6x0bQtAvAk8UjXjtMhRLcLlnbHOAduMfxFR3qdv2IfF7DH/AAl+kD6LMCPodvFe2/AL4D2HwY0u9aa8iv8AWNTdTcXEcZVI416RRg87dxLds/KP4Qa/MuOfD3hWvnuGz/I376a57SmneOsZavW692XotHdn7LwbxXWo5Fi8szyi5VLfupdPe0lF2dvd+OPe7XRH/9k=",
+        "contextInfo": {
+          "mentionedJid": [
+            ""
+          ],
+          "expiration": 0,
+          "ephemeralSettingTimestamp": "0",
+          "disappearingMode": {
+            "initiator": "CHANGED_IN_CHAT"
+          }
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "CvWKk92NuNbHGw==",
+          "senderTimestamp": "1719911474",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Siyeraa Studio",
+    "id": "FEF940E120CD1BB445",
+    "chat": "94714559000@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94714559000@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "https://drive.google.com/drive/folders/1gV-_c6aCj7ynuClHQ62OuLEOn6N87bd_?usp=drive_link",
+      "matchedText": "https://drive.google.com/drive/folders/1gV-_c6aCj7ynuClHQ62OuLEOn6N87bd_?usp=drive_link",
+      "title": "24031592 - Google Drive",
+      "jpegThumbnail": "/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAMCAgICAgMCAgIDAwMDBAYEBAQEBAgGBgUGCQgKCgkICQkKDA8MCgsOCwkJDRENDg8QEBEQCgwSExIQEw8QEBD/2wBDAQMDAwQDBAgEBAgQCwkLEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBAQEBD/wAARCAAgACADASIAAhEBAxEB/8QAHwAAAQUBAQEBAQEAAAAAAAAAAAECAwQFBgcICQoL/8QAtRAAAgEDAwIEAwUFBAQAAAF9AQIDAAQRBRIhMUEGE1FhByJxFDKBkaEII0KxwRVS0fAkM2JyggkKFhcYGRolJicoKSo0NTY3ODk6Q0RFRkdISUpTVFVWV1hZWmNkZWZnaGlqc3R1dnd4eXqDhIWGh4iJipKTlJWWl5iZmqKjpKWmp6ipqrKztLW2t7i5usLDxMXGx8jJytLT1NXW19jZ2uHi4+Tl5ufo6erx8vP09fb3+Pn6/8QAHwEAAwEBAQEBAQEBAQAAAAAAAAECAwQFBgcICQoL/8QAtREAAgECBAQDBAcFBAQAAQJ3AAECAxEEBSExBhJBUQdhcRMiMoEIFEKRobHBCSMzUvAVYnLRChYkNOEl8RcYGRomJygpKjU2Nzg5OkNERUZHSElKU1RVVldYWVpjZGVmZ2hpanN0dXZ3eHl6goOEhYaHiImKkpOUlZaXmJmaoqOkpaanqKmqsrO0tba3uLm6wsPExcbHyMnK0tPU1dbX2Nna4uPk5ebn6Onq8vP09fb3+Pn6/9oADAMBAAIRAxEAPwD9Uq+PPjt+2L4w8LeLLvSfhvbaRNpemyG2muLq3aVppRwzKQwAQNlRgHOM5wcD2b9pb4rL8NvActrp1xs1vXA9rZbWw0SY/ezf8BBABH8TKexr4l+Hfw9vvil4tsvBtkGRb9itxMq/8e8A5kk9PlXJHTJwOprxsxxk41I0KL16/oj4bijOsRSrQy/AN87te2+u0fnu/kfS/wCzt+0l498dXAuPiJb6TDpt9MLeyktbdomDDIMhJcgoW+XoOhbOK+oa+PfEHg3/AIV/qbeFYoRHbWAWO1wOGhA+Qj6jGffIr6J+EvjQeLPDaQ3Uu7UNPxDcZPLr/A/4gYPupPevzngbjvEZpnOKybNFyzUpOmnuuXSUH3atzf8AgXRI/YMfwv8A2VlOHxFKbqWiueW929eb0u7LsuXzPiv9r7xP4ih+NGpWPiK0mWC3hhGmjcNhtCuVZeectvz/ALW4dq0P2e/jd4Z+E2n3upXng+5vtW1MhfPF0sfl24wQgG09W+Y884Tjjn6e/aG/Z80v44abp0i3ken6xpMhMFw8ZZZYW+9C+OcZAYHnHzcfMa8Z/wCGI/GH/Q3aP/3zN/8AEV/UOS5fwRWw1PEYyHJiPtXlU37rVrXfy2Pw/E5LmmEzWpjMMua7bi9Hv69tl5Gf8Tv2mvDfja3t7iLwReQXtrlRIt4rF4+TtI2DvkjnuRjnix+zf8VNQ8Q/E6x0bQtAvAk8UjXjtMhRLcLlnbHOAduMfxFR3qdv2IfF7DH/AAl+kD6LMCPodvFe2/AL4D2HwY0u9aa8iv8AWNTdTcXEcZVI416RRg87dxLds/KP4Qa/MuOfD3hWvnuGz/I376a57SmneOsZavW692XotHdn7LwbxXWo5Fi8szyi5VLfupdPe0lF2dvd+OPe7XRH/9k=",
+      "contextInfo": {
+        "mentionedJid": [
+          ""
+        ],
+        "expiration": 0,
+        "ephemeralSettingTimestamp": "0",
+        "disappearingMode": {
+          "initiator": "CHANGED_IN_CHAT"
+        }
+      }
+    },
+    "mentionUser": [],
+    "body": "https://drive.google.com/drive/folders/1gV-_c6aCj7ynuClHQ62OuLEOn6N87bd_?usp=drive_link",
+    "quoted": null
+  }
+]

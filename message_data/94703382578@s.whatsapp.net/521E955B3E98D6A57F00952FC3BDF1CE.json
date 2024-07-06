@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "94703382578@s.whatsapp.net",
+      "fromMe": false,
+      "id": "521E955B3E98D6A57F00952FC3BDF1CE"
+    },
+    "messageTimestamp": 1720102992,
+    "pushName": "Akalanka Nirmal",
+    "broadcast": false,
+    "message": {
+      "conversation": "ආස නෑ හුත්තෝ",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "521E955B3E98D6A57F00952FC3BDF1CE",
+    "chat": "94703382578@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94703382578@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ආස නෑ හුත්තෝ",
+    "mentionUser": [],
+    "body": "ආස නෑ හුත්තෝ",
+    "quoted": null
+  }
+]

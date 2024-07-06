@@ -1,0 +1,50 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363296964925151@g.us",
+      "fromMe": false,
+      "id": "3A56984C13D23E3B3F912B2204C7F206",
+      "participant": "966588806987@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720109809,
+    "pushName": "𓄂𝐎ᴡͥɳͣᴇͫᴙ《 𝐃𝚮𝚫𝚴𝐔𝐖𝚫 》",
+    "broadcast": false,
+    "message": {
+      "documentMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_379183585181073_8287202449351539717_n.enc?ccb=11-4&oh=01_Q5AaIL38ur3-f4JsL_q55m-VKhfFJvkEck1RxQviZReCpmaF&oe=66AE3FBD&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "video/mp4",
+        "fileSha256": "no3V5LmIkEAP3QKzFHSFkrFQU2Jqu90e9hBF5dqZm+c=",
+        "fileLength": "863230312",
+        "pageCount": 0,
+        "mediaKey": "PruWmPyTSIx+PShxd+vWGCRrMnnV2yvf+TS9uT5gl6I=",
+        "fileName": "ANTIM THE FINAL TRUTH❤️‍🩹.mp4",
+        "fileEncSha256": "6HIXMNWiUlcOytvH5VdPUy/XbqpEyzMRPkmCtenk7Bg=",
+        "directPath": "/v/t62.43144-24/10000000_379183585181073_8287202449351539717_n.enc?ccb=11-4&oh=01_Q5AaIL38ur3-f4JsL_q55m-VKhfFJvkEck1RxQviZReCpmaF&oe=66AE3FBD&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720108485",
+        "caption": "*480p*\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+      }
+    },
+    "id": "3A56984C13D23E3B3F912B2204C7F206",
+    "chat": "120363296964925151@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "966588806987@s.whatsapp.net",
+    "type": "documentMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.43144-24/10000000_379183585181073_8287202449351539717_n.enc?ccb=11-4&oh=01_Q5AaIL38ur3-f4JsL_q55m-VKhfFJvkEck1RxQviZReCpmaF&oe=66AE3FBD&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "video/mp4",
+      "fileSha256": "no3V5LmIkEAP3QKzFHSFkrFQU2Jqu90e9hBF5dqZm+c=",
+      "fileLength": "863230312",
+      "pageCount": 0,
+      "mediaKey": "PruWmPyTSIx+PShxd+vWGCRrMnnV2yvf+TS9uT5gl6I=",
+      "fileName": "ANTIM THE FINAL TRUTH❤️‍🩹.mp4",
+      "fileEncSha256": "6HIXMNWiUlcOytvH5VdPUy/XbqpEyzMRPkmCtenk7Bg=",
+      "directPath": "/v/t62.43144-24/10000000_379183585181073_8287202449351539717_n.enc?ccb=11-4&oh=01_Q5AaIL38ur3-f4JsL_q55m-VKhfFJvkEck1RxQviZReCpmaF&oe=66AE3FBD&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720108485",
+      "caption": "*480p*\n*⏤͟͟͞͞★❮POWERED BY 〽️ANOJ MULTI DEVICE WA-BOT❯⏤͟͟͞͞★*"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

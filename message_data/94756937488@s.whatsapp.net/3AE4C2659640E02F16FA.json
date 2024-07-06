@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94756937488@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AE4C2659640E02F16FA"
+    },
+    "messageTimestamp": 1720104080,
+    "pushName": "Anjali Henriyat",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "kollekt ghla ndu thma godkm ynne😂🥲",
+        "contextInfo": {
+          "stanzaId": "3A8E1220FA1A7BD62B09",
+          "participant": "94756937488@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "amm hmadama office eke 🥲"
+          },
+          "mentionedJid": [
+            "94756937488@s.whatsapp.net"
+          ]
+        }
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720103839",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720100385"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3AE4C2659640E02F16FA",
+    "chat": "94756937488@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94756937488@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "kollekt ghla ndu thma godkm ynne😂🥲",
+      "contextInfo": {
+        "stanzaId": "3A8E1220FA1A7BD62B09",
+        "participant": "94756937488@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "amm hmadama office eke 🥲"
+        },
+        "mentionedJid": [
+          "94756937488@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94756937488@s.whatsapp.net"
+    ],
+    "body": "kollekt ghla ndu thma godkm ynne😂🥲",
+    "quoted": {
+      "conversation": "amm hmadama office eke 🥲"
+    }
+  }
+]

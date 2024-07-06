@@ -1,0 +1,34 @@
+[
+  {
+    "key": {
+      "remoteJid": "94713541072@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3AFB107FECAA7744F1E1"
+    },
+    "messageTimestamp": 1720058658,
+    "pushName": "Mr_ViKi  ",
+    "broadcast": false,
+    "message": {
+      "conversation": "mee aiye dhanuka aiyata nam 🧊 seen ek kiyanna epa ah pawule kawuruthma danne na",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720048648",
+          "recipientKeyHash": "1Z6UwqJXYLnK+g==",
+          "recipientTimestamp": "1720032203"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mr_ViKi  ",
+    "id": "3AFB107FECAA7744F1E1",
+    "chat": "94713541072@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94713541072@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "mee aiye dhanuka aiyata nam 🧊 seen ek kiyanna epa ah pawule kawuruthma danne na",
+    "mentionUser": [],
+    "body": "mee aiye dhanuka aiyata nam 🧊 seen ek kiyanna epa ah pawule kawuruthma danne na",
+    "quoted": null
+  }
+]

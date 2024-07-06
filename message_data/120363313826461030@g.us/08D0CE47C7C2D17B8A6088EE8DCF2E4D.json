@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "08D0CE47C7C2D17B8A6088EE8DCF2E4D",
+      "participant": "94764092845@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720032506,
+    "pushName": "Chaami🤗❤️",
+    "broadcast": false,
+    "message": {
+      "conversation": "E moke"
+    },
+    "id": "08D0CE47C7C2D17B8A6088EE8DCF2E4D",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764092845@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "E moke",
+    "mentionUser": [],
+    "body": "E moke",
+    "quoted": null
+  }
+]

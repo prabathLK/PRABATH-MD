@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94716627781@s.whatsapp.net",
+      "fromMe": false,
+      "id": "3A15DC95A1A8629A1898"
+    },
+    "messageTimestamp": 1720113166,
+    "pushName": "Sandu Deini",
+    "broadcast": false,
+    "message": {
+      "conversation": "dpnko",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderTimestamp": "1720111905",
+          "recipientKeyHash": "evpW2Z/kP9RDzA==",
+          "recipientTimestamp": "1720051325"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "3A15DC95A1A8629A1898",
+    "chat": "94716627781@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94716627781@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "dpnko",
+    "mentionUser": [],
+    "body": "dpnko",
+    "quoted": null
+  }
+]

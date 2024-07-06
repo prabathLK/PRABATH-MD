@@ -1,0 +1,54 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363313826461030@g.us",
+      "fromMe": false,
+      "id": "3ACF5BE7666FCC6E90F3",
+      "participant": "94787196575@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720107158,
+    "pushName": "𝐓𝐇𝐀𝐑𝐔𝐒𝐇𝐈 𝐔𝐏𝐄𝐊𝐒𝐇𝐀 ♡︎",
+    "broadcast": false,
+    "message": {
+      "stickerMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.15575-24/20098691_2420394934836698_6420805711463713670_n.enc?ccb=11-4&oh=01_Q5AaIKD2B6sugQgNer_VIkylQfnX4-WLDJax_jFTj69hdp3H&oe=66AE2B89&_nc_sid=5e03e0&mms3=true",
+        "fileSha256": "eiC4/OqKR4IyS0T6Wctaw05NW5IYlEDytSOW//YovVA=",
+        "fileEncSha256": "+koaAiDU1y0MnShKQq2dzRwW0caPr1TnMEOVOAhjDbw=",
+        "mediaKey": "ifAt51Co3IbSD/Lx6yDoleoNGOq4E8PCTvsZR6AfXHM=",
+        "mimetype": "image/webp",
+        "directPath": "/v/t62.15575-24/20098691_2420394934836698_6420805711463713670_n.enc?ccb=11-4&oh=01_Q5AaIKD2B6sugQgNer_VIkylQfnX4-WLDJax_jFTj69hdp3H&oe=66AE2B89&_nc_sid=5e03e0",
+        "fileLength": "6896",
+        "mediaKeyTimestamp": "1720107156",
+        "isAnimated": false,
+        "stickerSentTs": "1720107156745",
+        "isAvatar": false,
+        "isAiSticker": false,
+        "isLottie": false
+      }
+    },
+    "id": "3ACF5BE7666FCC6E90F3",
+    "chat": "120363313826461030@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94787196575@s.whatsapp.net",
+    "type": "stickerMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.15575-24/20098691_2420394934836698_6420805711463713670_n.enc?ccb=11-4&oh=01_Q5AaIKD2B6sugQgNer_VIkylQfnX4-WLDJax_jFTj69hdp3H&oe=66AE2B89&_nc_sid=5e03e0&mms3=true",
+      "fileSha256": "eiC4/OqKR4IyS0T6Wctaw05NW5IYlEDytSOW//YovVA=",
+      "fileEncSha256": "+koaAiDU1y0MnShKQq2dzRwW0caPr1TnMEOVOAhjDbw=",
+      "mediaKey": "ifAt51Co3IbSD/Lx6yDoleoNGOq4E8PCTvsZR6AfXHM=",
+      "mimetype": "image/webp",
+      "directPath": "/v/t62.15575-24/20098691_2420394934836698_6420805711463713670_n.enc?ccb=11-4&oh=01_Q5AaIKD2B6sugQgNer_VIkylQfnX4-WLDJax_jFTj69hdp3H&oe=66AE2B89&_nc_sid=5e03e0",
+      "fileLength": "6896",
+      "mediaKeyTimestamp": "1720107156",
+      "isAnimated": false,
+      "stickerSentTs": "1720107156745",
+      "isAvatar": false,
+      "isAiSticker": false,
+      "isLottie": false
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]
