@@ -1,0 +1,103 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "CEFBC6870711578DA274B788503539CB",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498518,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-99c3e5a4-0a0e-4734-9afe-fb802842ee0e?ccb=9-4&oh=01_Q5AaIHGwbOF2KaNADbHyQu1ZtembVocXYFw-yOHX4OcLY70j&oe=66B41670&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 180.13MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 52 seconds\n*╰──────────●●►*\n│⛵ *SEARCH MENU*\n│   ───────\n│► .findtiktok\n│► .findapk\n│► .sporty\n│► .mobilenews\n│► .unsplash\n│► .ip\n│► .cric\n│► .find\n│► .yts\n│► .npm\n│► .wabeta\n│► .movieinfo\n│► .weather\n│► .lyrics\n│► .cmd\n│► .git\n╰───────────●●►\n",
+        "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+        "fileLength": "24331",
+        "height": 591,
+        "width": 1280,
+        "mediaKey": "+sUxNYppdm0GZiB1JnYOodXLBsZNjTZp67iMh4yxD/U=",
+        "fileEncSha256": "eja/CtdklTQMXKnd7kD4KUroQLnFIb1Q2WNuaeib15E=",
+        "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-99c3e5a4-0a0e-4734-9afe-fb802842ee0e?ccb=9-4&oh=01_Q5AaIHGwbOF2KaNADbHyQu1ZtembVocXYFw-yOHX4OcLY70j&oe=66B41670&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720498517",
+        "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z",
+        "contextInfo": {
+          "stanzaId": "833C9FFFBEC20CE93B731CBAB0C186C1",
+          "participant": "94722058313@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveResponseMessage": {
+              "body": {
+                "text": "SEARCH MENU",
+                "format": "DEFAULT"
+              },
+              "nativeFlowResponseMessage": {
+                "name": "menu_options",
+                "paramsJson": "{\"id\":\".menu SEARCH\",\"description\":\"\"}"
+              }
+            }
+          },
+          "mentionedJid": [
+            "94722058313@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "CEFBC6870711578DA274B788503539CB",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-99c3e5a4-0a0e-4734-9afe-fb802842ee0e?ccb=9-4&oh=01_Q5AaIHGwbOF2KaNADbHyQu1ZtembVocXYFw-yOHX4OcLY70j&oe=66B41670&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 180.13MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 52 seconds\n*╰──────────●●►*\n│⛵ *SEARCH MENU*\n│   ───────\n│► .findtiktok\n│► .findapk\n│► .sporty\n│► .mobilenews\n│► .unsplash\n│► .ip\n│► .cric\n│► .find\n│► .yts\n│► .npm\n│► .wabeta\n│► .movieinfo\n│► .weather\n│► .lyrics\n│► .cmd\n│► .git\n╰───────────●●►\n",
+      "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+      "fileLength": "24331",
+      "height": 591,
+      "width": 1280,
+      "mediaKey": "+sUxNYppdm0GZiB1JnYOodXLBsZNjTZp67iMh4yxD/U=",
+      "fileEncSha256": "eja/CtdklTQMXKnd7kD4KUroQLnFIb1Q2WNuaeib15E=",
+      "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-99c3e5a4-0a0e-4734-9afe-fb802842ee0e?ccb=9-4&oh=01_Q5AaIHGwbOF2KaNADbHyQu1ZtembVocXYFw-yOHX4OcLY70j&oe=66B41670&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720498517",
+      "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z",
+      "contextInfo": {
+        "stanzaId": "833C9FFFBEC20CE93B731CBAB0C186C1",
+        "participant": "94722058313@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveResponseMessage": {
+            "body": {
+              "text": "SEARCH MENU",
+              "format": "DEFAULT"
+            },
+            "nativeFlowResponseMessage": {
+              "name": "menu_options",
+              "paramsJson": "{\"id\":\".menu SEARCH\",\"description\":\"\"}"
+            }
+          }
+        },
+        "mentionedJid": [
+          "94722058313@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94722058313@s.whatsapp.net"
+    ],
+    "body": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 180.13MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 52 seconds\n*╰──────────●●►*\n│⛵ *SEARCH MENU*\n│   ───────\n│► .findtiktok\n│► .findapk\n│► .sporty\n│► .mobilenews\n│► .unsplash\n│► .ip\n│► .cric\n│► .find\n│► .yts\n│► .npm\n│► .wabeta\n│► .movieinfo\n│► .weather\n│► .lyrics\n│► .cmd\n│► .git\n╰───────────●●►\n",
+    "quoted": {
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "SEARCH MENU",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".menu SEARCH\",\"description\":\"\"}"
+        }
+      }
+    }
+  }
+]

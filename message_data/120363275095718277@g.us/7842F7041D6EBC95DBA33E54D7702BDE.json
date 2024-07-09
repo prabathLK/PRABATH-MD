@@ -1,0 +1,27 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "7842F7041D6EBC95DBA33E54D7702BDE",
+      "participant": "94729116234@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498308,
+    "pushName": "𝐕𝐈𝐏_𝐊𝐈𝐍𝐆_𝐃𝐄𝐖𝐖",
+    "broadcast": false,
+    "verifiedBizName": "𝐕𝐈𝐏_𝐊𝐈𝐍𝐆_𝐃𝐄𝐖𝐖",
+    "message": {
+      "conversation": "ʙᴏʏ\nAutoResponder.ai"
+    },
+    "id": "7842F7041D6EBC95DBA33E54D7702BDE",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94729116234@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ʙᴏʏ\nAutoResponder.ai",
+    "mentionUser": [],
+    "body": "ʙᴏʏ\nAutoResponder.ai",
+    "quoted": null
+  }
+]

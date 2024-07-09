@@ -1,0 +1,39 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "01476236393F44967238AD540460148A",
+      "participant": "94729116234@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498285,
+    "pushName": "𝐕𝐈𝐏_𝐊𝐈𝐍𝐆_𝐃𝐄𝐖𝐖",
+    "broadcast": false,
+    "message": {
+      "conversation": "ʜɪ ꜱᴛᴀᴛᴜꜱ ᴠɪᴇᴡꜱ\nAutoResponder.ai",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiH7ImoBxAAGiCObXsXUdpGWSIChfwPFNrbPulnAVg1K7wZT8KF5b6oxiIhBbQJlNkDDK1GREsT/1BdCEfa6jAfm4NThyfDCdODmng2"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "tESLVCA4+uKr5g==",
+          "senderTimestamp": "1719841842",
+          "recipientKeyHash": "wpa7KDdzkhoP5A==",
+          "recipientTimestamp": "1717560629"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "01476236393F44967238AD540460148A",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94729116234@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "ʜɪ ꜱᴛᴀᴛᴜꜱ ᴠɪᴇᴡꜱ\nAutoResponder.ai",
+    "mentionUser": [],
+    "body": "ʜɪ ꜱᴛᴀᴛᴜꜱ ᴠɪᴇᴡꜱ\nAutoResponder.ai",
+    "quoted": null
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "2326235E0DB0AEDEDF600AA80712E4F9",
+      "participant": "94728092943@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498244,
+    "pushName": "Sithum tharusha",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiZw5zoBBAAGiDkdejqj13r1gMEScG3zJmWuoD0UD31kKK+ARtmkEVwtCIhBW/tTBpE1fzVh5z9+u32WBzpoOorpCcdSACKwv6785ZO"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "2326235E0DB0AEDEDF600AA80712E4F9",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94728092943@s.whatsapp.net"
+  }
+]

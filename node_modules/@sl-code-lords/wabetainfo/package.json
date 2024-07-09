@@ -1,0 +1,24 @@
+{
+  "name": "@sl-code-lords/wabetainfo",
+  "version": "1.2.0",
+  "description": "This is an unofficial scrape of wabetainfo.com and all post credit goes to @wabetainfo.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/WABetaInfo.git"
+  },
+  "keywords": [ "WABetaInfo", "whatsapp", "updates", "wa updates", "whatsapp beta" ],
+  "author": "BlackAmda",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/WABetaInfo/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/WABetaInfo#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

@@ -1,0 +1,61 @@
+{
+	"name": "ffmpeg-static",
+	"version": "5.2.0",
+	"description": "ffmpeg binaries for macOS, Linux and Windows",
+	"scripts": {
+		"install": "node install.js",
+		"prepublishOnly": "npm run install"
+	},
+	"ffmpeg-static": {
+		"binary-path-env-var": "FFMPEG_BIN",
+		"binary-release-tag-env-var": "FFMPEG_BINARY_RELEASE",
+		"binary-release-tag": "b6.0",
+		"binaries-url-env-var": "FFMPEG_BINARIES_URL",
+		"executable-base-name": "ffmpeg"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/eugeneware/ffmpeg-static"
+	},
+	"keywords": [
+		"ffmpeg",
+		"static",
+		"binary",
+		"binaries",
+		"mac",
+		"linux",
+		"windows"
+	],
+	"authors": [
+		"Eugene Ware <eugene@noblesamurai.com>",
+		"Jannis R <mail@jannisr.de>"
+	],
+	"contributors": [
+		"Thefrank (https://github.com/Thefrank)",
+		"Emil Sivervik <emil@sivervik.com>"
+	],
+	"license": "GPL-3.0-or-later",
+	"bugs": {
+		"url": "https://github.com/eugeneware/ffmpeg-static/issues"
+	},
+	"engines": {
+		"node": ">=16"
+	},
+	"dependencies": {
+		"@derhuerst/http-basic": "^8.2.0",
+		"env-paths": "^2.2.0",
+		"https-proxy-agent": "^5.0.0",
+		"progress": "^2.0.3"
+	},
+	"devDependencies": {
+		"any-shell-escape": "^0.1.1"
+	},
+	"main": "index.js",
+	"files": [
+		"index.js",
+		"install.js",
+		"example.js",
+		"types"
+	],
+	"types": "types/index.d.ts"
+}

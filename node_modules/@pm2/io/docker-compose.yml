@@ -1,0 +1,27 @@
+version: '2'
+
+services:
+  mongodb:
+    image: mongo:3.4
+    ports:
+      - "27017:27017"
+    environment:
+      AUTH: "no"
+  redis:
+    image: eywek/redis:5
+    ports:
+      - "6379:6379"
+  mysql:
+    image: mysql:5
+    ports:
+      - "3306:3306"
+    environment:
+      MYSQL_DATABASE: 'test'
+      MYSQL_ROOT_PASSWORD: 'password'
+  postgres:
+    image: postgres:11
+    ports:
+      - "5432:5432"
+    environment: 
+      POSTGRES_DB: 'test'
+      POSTGRES_PASSWORD: 'password'

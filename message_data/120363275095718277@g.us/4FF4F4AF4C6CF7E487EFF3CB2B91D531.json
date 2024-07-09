@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "4FF4F4AF4C6CF7E487EFF3CB2B91D531",
+      "participant": "94740959258@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498281,
+    "pushName": "vihaga",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjC4ZypBhAAGiDqqgH/p/+ZrdLMSABtome1012hubuIUYAbTmFl0VLvpiIhBSTmM9hWW4YjaDnhVPAT3r96a4LxwBAoNeLrdERZnNJR"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "vihaga",
+    "id": "4FF4F4AF4C6CF7E487EFF3CB2B91D531",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94740959258@s.whatsapp.net"
+  }
+]

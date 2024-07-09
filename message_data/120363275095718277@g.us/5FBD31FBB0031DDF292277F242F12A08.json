@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "5FBD31FBB0031DDF292277F242F12A08",
+      "participant": "94704515777@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498225,
+    "pushName": "__*Chaminduwa*__",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwixiruNBxAAGiAPbAtsUp11KFD7mMOuirn9JXzxnV3HH11ulDlCn3cdiSIhBR3DWvw24AoaC6HTsHykXLYHejpxaKGy7+1snn1VqwE6"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "__*Chaminduwa*__",
+    "id": "5FBD31FBB0031DDF292277F242F12A08",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94704515777@s.whatsapp.net"
+  }
+]

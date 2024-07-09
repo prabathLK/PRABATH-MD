@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "51F7F895CFB4BAFAE455FE221EBA6E8D",
+      "participant": "94764014030@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498257,
+    "pushName": "©𝙑𝙄𝙋×𝙉𝙚𝙨𝙖",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiirbrKARAAGiCybwviPXulEPJJcYkpW4BeLGfuo+y//wQGfQvrN6CzIyIhBZZHy99Bt2lS6nJDZdRAqSoTTg/vthg9MKv0SMCO6aJN"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "8yt3XH5wi0EBKg==",
+          "senderTimestamp": "1720212334",
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "51F7F895CFB4BAFAE455FE221EBA6E8D",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94764014030@s.whatsapp.net"
+  }
+]

@@ -1,0 +1,43 @@
+export default class Histogram {
+    private _measurement;
+    private _callFn;
+    private _sample;
+    private _min;
+    private _max;
+    private _count;
+    private _sum;
+    private _varianceM;
+    private _varianceS;
+    private _ema;
+    private used;
+    constructor(opts?: any);
+    update(value: number): void;
+    percentiles(percentiles: any): {};
+    val(): any;
+    getMin(): any;
+    getMax(): any;
+    getSum(): number;
+    getCount(): number;
+    getEma(): number;
+    fullResults(): {
+        min: any;
+        max: any;
+        sum: number;
+        variance: number | null;
+        mean: number;
+        count: number;
+        median: any;
+        p75: any;
+        p95: any;
+        p99: any;
+        p999: any;
+        ema: number;
+    };
+    _updateMin(value: any): void;
+    _updateMax(value: any): void;
+    _updateVariance(value: any): any;
+    _updateEma(value: any): number | undefined;
+    _calculateMean(): number;
+    _calculateVariance(): number | null;
+    isUsed(): boolean;
+}

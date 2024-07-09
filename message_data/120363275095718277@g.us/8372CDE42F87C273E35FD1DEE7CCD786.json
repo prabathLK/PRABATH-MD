@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "8372CDE42F87C273E35FD1DEE7CCD786",
+      "participant": "94702307616@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498848,
+    "pushName": "꧁𓊈𒆜ᵀᴵᴷ ᵀᴼᴷ 𝙻𝙾𝙺𝚄 𝙰𝙽𝚄𝚅𝙰𒆜𓊉꧂",
+    "broadcast": false,
+    "message": {
+      "conversation": ".tik tok video"
+    },
+    "id": "8372CDE42F87C273E35FD1DEE7CCD786",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94702307616@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".tik tok video",
+    "mentionUser": [],
+    "body": ".tik tok video",
+    "quoted": null
+  }
+]

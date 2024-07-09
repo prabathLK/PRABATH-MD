@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "C8387E021ED273FBC9C4D892BC16D444",
+      "participant": "94783001133@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498516,
+    "pushName": "| MADu 🤍,",
+    "broadcast": false,
+    "message": {
+      "conversation": ".pinterest app"
+    },
+    "id": "C8387E021ED273FBC9C4D892BC16D444",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94783001133@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".pinterest app",
+    "mentionUser": [],
+    "body": ".pinterest app",
+    "quoted": null
+  }
+]

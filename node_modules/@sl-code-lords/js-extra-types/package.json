@@ -1,0 +1,26 @@
+{
+  "name": "@sl-code-lords/js-extra-types",
+  "version": "0.0.2-dev",
+  "description": "JavaScript extra Types",
+  "main": "index.js",
+  "scripts": {
+    "example": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Js-Extra-Types.git"
+  },
+  "keywords": [
+    "types",
+    "extra"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Js-Extra-Types/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Js-Extra-Types#readme",
+  "dependencies": {
+    "crypto-js": "^4.1.1"
+  }
+}

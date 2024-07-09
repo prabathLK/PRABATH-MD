@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "C9EF0B11613D0CEBC251A0BDD6D63C3E",
+      "participant": "94757565120@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498226,
+    "pushName": "𝐌ʀ 𝐈ɴsᴀᴍ",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjS6tD1AhAAGiAwkgeUfq2W+/x8B8NmTYsPkuzZsQKebBd3vMc7vRtBfiIhBR/oQJ4CIo0z29L3PiRR2KwioudyOc3od2zkwl0dQekh"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "C9EF0B11613D0CEBC251A0BDD6D63C3E",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94757565120@s.whatsapp.net"
+  }
+]

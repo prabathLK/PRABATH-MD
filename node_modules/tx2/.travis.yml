@@ -1,0 +1,13 @@
+language: node_js
+node_js:
+  - "15"
+  - "14"
+  - "12"
+git:
+  depth: 2
+os:
+  - linux
+arch:
+  - amd64
+install:
+  - npm install

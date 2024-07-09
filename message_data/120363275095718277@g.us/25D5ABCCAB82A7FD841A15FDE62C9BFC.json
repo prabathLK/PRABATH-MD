@@ -1,0 +1,165 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "25D5ABCCAB82A7FD841A15FDE62C9BFC",
+      "participant": "94716008661@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498409,
+    "pushName": "╰༼⇀︿⇀༽つỮĐỮŁΔ ĆĦΔΜƗҜΔŘΔ-]═",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwj5r6lDEAAaIArPVjPSfcPnHFIjcQX+5X8auAluuiFCCBHJDOY0wXcPIiEFCSEZ0+UBIFt3K0SACFMk65lDWLBKL7J0DVTO0XESAAs="
+      },
+      "templateButtonReplyMessage": {
+        "selectedId": ".gbwhatsappdown",
+        "selectedDisplayText": "GB-WHATSAPP",
+        "contextInfo": {
+          "stanzaId": "F333AAC75E9F0900C59BF8572C2758E8",
+          "participant": "94753138584@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "body": {
+                "text": "\n 🗃️ *FM_WHATSAPP-DOWNLOADER* 🗃️\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"WHATSAPP\",\"id\":\".whatsappdown\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"GB-WHATSAPP\",\"id\":\".gbwhatsappdown\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"FM-WHATSAPP\",\"id\":\".fmwhatsappdown\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"YO-WHATSAPP\",\"id\":\".yowhatsappdown\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94753138584@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 2
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "25D5ABCCAB82A7FD841A15FDE62C9BFC",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94716008661@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".gbwhatsappdown",
+      "selectedDisplayText": "GB-WHATSAPP",
+      "contextInfo": {
+        "stanzaId": "F333AAC75E9F0900C59BF8572C2758E8",
+        "participant": "94753138584@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "body": {
+              "text": "\n 🗃️ *FM_WHATSAPP-DOWNLOADER* 🗃️\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"WHATSAPP\",\"id\":\".whatsappdown\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"GB-WHATSAPP\",\"id\":\".gbwhatsappdown\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"FM-WHATSAPP\",\"id\":\".fmwhatsappdown\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"YO-WHATSAPP\",\"id\":\".yowhatsappdown\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94753138584@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 2
+    },
+    "mentionUser": [
+      "94753138584@s.whatsapp.net"
+    ],
+    "body": ".gbwhatsappdown",
+    "quoted": {
+      "interactiveMessage": {
+        "body": {
+          "text": "\n 🗃️ *FM_WHATSAPP-DOWNLOADER* 🗃️\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"WHATSAPP\",\"id\":\".whatsappdown\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"GB-WHATSAPP\",\"id\":\".gbwhatsappdown\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"FM-WHATSAPP\",\"id\":\".fmwhatsappdown\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"YO-WHATSAPP\",\"id\":\".yowhatsappdown\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

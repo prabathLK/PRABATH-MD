@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "5BE5C3C727AAE6743A4BD58E76B3626A",
+      "participant": "94702307616@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498390,
+    "pushName": "꧁𓊈𒆜ᵀᴵᴷ ᵀᴼᴷ 𝙻𝙾𝙺𝚄 𝙰𝙽𝚄𝚅𝙰𒆜𓊉꧂",
+    "broadcast": false,
+    "message": {
+      "conversation": ".mod whats app apk",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjZqeH6AhAAGiBzg379+eMA/vUfTaaB0ftJHMNYUQegGHA6NdlUPSgliSIhBbU4nfXfw+S9HpRHoDk9lkL8dmAkvub/ZjBZ4whNWktP"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "꧁𓊈𒆜ᵀᴵᴷ ᵀᴼᴷ 𝙻𝙾𝙺𝚄 𝙰𝙽𝚄𝚅𝙰𒆜𓊉꧂",
+    "id": "5BE5C3C727AAE6743A4BD58E76B3626A",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94702307616@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".mod whats app apk",
+    "mentionUser": [],
+    "body": ".mod whats app apk",
+    "quoted": null
+  }
+]

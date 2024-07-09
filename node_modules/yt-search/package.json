@@ -1,0 +1,58 @@
+{
+  "name": "yt-search",
+  "version": "2.11.1",
+  "description": "search youtube",
+  "main": "dist/yt-search.js",
+  "bin": {
+    "yt-search": "bin/cli.js",
+    "yt-search-video": "bin/mpv_video.sh",
+    "yt-search-audio": "bin/mpv_audio.sh"
+  },
+  "files": [
+    "bin/**.*",
+    "dist/yt-search.js"
+  ],
+  "scripts": {
+    "debug": "debug=1 node src/index.js --silent",
+    "build": "npm run build:src",
+    "build:src": "browserify --node --no-bundle-external --standalone ytSearch -t [ babelify --presets [ @babel/preset-env ] ] src/index.js -o dist/yt-search.js 2>&1 | wooster",
+    "prepublishOnly": "npm test",
+    "test:production": "node test/test.js | faucet",
+    "test:util": "node test/test-get-scripts.js",
+    "test:dev": "cross-env debug=1 test_yt_search=1 node test/test.js",
+    "test": "npm run test:util && npm run build && npm run test:production"
+  },
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/yt-search"
+  },
+  "bugs": {
+    "url": "https://github.com/talmobi/yt-search/issues",
+    "email": "talmo.christian@gmail.com"
+  },
+  "dependencies": {
+    "async.parallellimit": "~0.5.2",
+    "boolstring": "~1.0.2",
+    "cheerio": "^1.0.0-rc.10",
+    "dasu": "~0.4.3",
+    "human-time": "0.0.2",
+    "jsonpath-plus": "~5.0.2",
+    "minimist": "~1.2.5",
+    "node-fzf": "~0.5.1"
+  },
+  "devDependencies": {
+    "@babel/core": "~7.11.4",
+    "@babel/preset-env": "~7.11.0",
+    "@talmobi/faucet": "0.0.3",
+    "babelify": "~10.0.0",
+    "browserify": "~17.0.0",
+    "cross-env": "~7.0.2",
+    "looks-same-plus": "0.0.2",
+    "spacestandard": "~0.3.0",
+    "tape": "~5.0.1",
+    "wooster": "~0.5.0"
+  }
+}

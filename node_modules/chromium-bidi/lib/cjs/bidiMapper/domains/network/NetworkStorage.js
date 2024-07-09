@@ -1,0 +1,217 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.NetworkStorage = void 0;
+const protocol_js_1 = require("../../../protocol/protocol.js");
+const UrlPattern_js_1 = require("../../../utils/UrlPattern.js");
+const uuid_js_1 = require("../../../utils/uuid.js");
+/** Stores network and intercept maps. */
+class NetworkStorage {
+    /**
+     * A map from network request ID to Network Request objects.
+     * Needed as long as information about requests comes from different events.
+     */
+    #requestMap = new Map();
+    /** A map from intercept ID to track active network intercepts. */
+    #interceptMap = new Map();
+    /** A map from network request ID to track actively blocked requests. */
+    #blockedRequestMap = new Map();
+    disposeRequestMap() {
+        for (const request of this.#requestMap.values()) {
+            request.dispose();
+        }
+        this.#requestMap.clear();
+    }
+    /**
+     * Adds the given entry to the intercept map.
+     * URL patterns are assumed to be parsed.
+     *
+     * @return The intercept ID.
+     */
+    addIntercept(value) {
+        const interceptId = (0, uuid_js_1.uuidv4)();
+        this.#interceptMap.set(interceptId, value);
+        return interceptId;
+    }
+    /**
+     * Removes the given intercept from the intercept map.
+     * Throws NoSuchInterceptException if the intercept does not exist.
+     */
+    removeIntercept(intercept) {
+        if (!this.#interceptMap.has(intercept)) {
+            throw new protocol_js_1.NoSuchInterceptException(`Intercept '${intercept}' does not exist.`);
+        }
+        this.#interceptMap.delete(intercept);
+    }
+    /** Returns true if there's at least one added intercept. */
+    hasIntercepts() {
+        return this.#interceptMap.size > 0;
+    }
+    /** Gets parameters for CDP 'Fetch.enable' command from the intercept map. */
+    getFetchEnableParams() {
+        const patterns = [];
+        for (const value of this.#interceptMap.values()) {
+            for (const phase of value.phases) {
+                const requestStage = NetworkStorage.requestStageFromPhase(phase);
+                if (value.urlPatterns.length === 0) {
+                    patterns.push({
+                        urlPattern: '*',
+                        requestStage,
+                    });
+                    continue;
+                }
+                for (const urlPatternSpec of value.urlPatterns) {
+                    const urlPattern = NetworkStorage.cdpFromSpecUrlPattern(urlPatternSpec);
+                    patterns.push({
+                        urlPattern,
+                        requestStage,
+                    });
+                }
+            }
+        }
+        return {
+            patterns,
+            // If there's at least one intercept that requires auth, enable the
+            // 'Fetch.authRequired' event.
+            handleAuthRequests: [...this.#interceptMap.values()].some((param) => {
+                return param.phases.includes("authRequired" /* Network.InterceptPhase.AuthRequired */);
+            }),
+        };
+    }
+    getRequest(id) {
+        return this.#requestMap.get(id);
+    }
+    addRequest(request) {
+        this.#requestMap.set(request.requestId, request);
+    }
+    deleteRequest(id) {
+        const request = this.#requestMap.get(id);
+        if (request) {
+            request.dispose();
+            this.#requestMap.delete(id);
+        }
+    }
+    /** Returns true if there's at least one network request. */
+    hasNetworkRequests() {
+        return this.#requestMap.size > 0;
+    }
+    /** Returns true if there's at least one blocked network request. */
+    hasBlockedRequests() {
+        return this.#blockedRequestMap.size > 0;
+    }
+    /** Converts a URL pattern from the spec to a CDP URL pattern. */
+    static cdpFromSpecUrlPattern(urlPattern) {
+        switch (urlPattern.type) {
+            case 'string':
+                return urlPattern.pattern;
+            case 'pattern':
+                return NetworkStorage.buildUrlPatternString(urlPattern);
+        }
+    }
+    static buildUrlPatternString({ protocol, hostname, port, pathname, search, }) {
+        if (!protocol && !hostname && !port && !pathname && !search) {
+            return '*';
+        }
+        let url = '';
+        if (protocol) {
+            url += protocol;
+            if (!protocol.endsWith(':')) {
+                url += ':';
+            }
+            if (NetworkStorage.isSpecialScheme(protocol)) {
+                url += '//';
+            }
+        }
+        if (hostname) {
+            url += hostname;
+        }
+        if (port) {
+            url += `:${port}`;
+        }
+        if (pathname) {
+            if (!pathname.startsWith('/')) {
+                url += '/';
+            }
+            url += pathname;
+        }
+        if (search) {
+            if (!search.startsWith('?')) {
+                url += '?';
+            }
+            url += search;
+        }
+        return url;
+    }
+    /**
+     * Maps spec Network.InterceptPhase to CDP Fetch.RequestStage.
+     * AuthRequired has no CDP equivalent..
+     */
+    static requestStageFromPhase(phase) {
+        switch (phase) {
+            case "beforeRequestSent" /* Network.InterceptPhase.BeforeRequestSent */:
+                return 'Request';
+            case "responseStarted" /* Network.InterceptPhase.ResponseStarted */:
+            case "authRequired" /* Network.InterceptPhase.AuthRequired */:
+                return 'Response';
+        }
+    }
+    /**
+     * Returns true if the given protocol is special.
+     * Special protocols are those that have a default port.
+     *
+     * Example inputs: 'http', 'http:'
+     *
+     * @see https://url.spec.whatwg.org/#special-scheme
+     */
+    static isSpecialScheme(protocol) {
+        return ['ftp', 'file', 'http', 'https', 'ws', 'wss'].includes(protocol.replace(/:$/, ''));
+    }
+    addBlockedRequest(requestId, value) {
+        this.#blockedRequestMap.set(requestId, value);
+    }
+    removeBlockedRequest(requestId) {
+        this.#blockedRequestMap.delete(requestId);
+    }
+    /**
+     * Returns the blocked request associated with the given network ID, if any.
+     */
+    getBlockedRequest(networkId) {
+        return this.#blockedRequestMap.get(networkId);
+    }
+    /** #@see https://w3c.github.io/webdriver-bidi/#get-the-network-intercepts */
+    getNetworkIntercepts(requestId, phase) {
+        const request = this.#requestMap.get(requestId);
+        if (!request) {
+            return [];
+        }
+        const interceptIds = [];
+        for (const [interceptId, { phases, urlPatterns },] of this.#interceptMap.entries()) {
+            if (phase && phases.includes(phase)) {
+                if (urlPatterns.length === 0) {
+                    interceptIds.push(interceptId);
+                }
+                else if (urlPatterns.some((urlPattern) => NetworkStorage.matchUrlPattern(urlPattern, request.url))) {
+                    interceptIds.push(interceptId);
+                }
+            }
+        }
+        return interceptIds;
+    }
+    /** Matches the given URLPattern against the given URL. */
+    static matchUrlPattern(urlPattern, url) {
+        switch (urlPattern.type) {
+            case 'string':
+                return urlPattern.pattern === url;
+            case 'pattern': {
+                return (new UrlPattern_js_1.URLPattern({
+                    protocol: urlPattern.protocol,
+                    hostname: urlPattern.hostname,
+                    port: urlPattern.port,
+                    pathname: urlPattern.pathname,
+                    search: urlPattern.search,
+                }).exec(url) !== null);
+            }
+        }
+    }
+}
+exports.NetworkStorage = NetworkStorage;
+//# sourceMappingURL=NetworkStorage.js.map

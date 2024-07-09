@@ -1,0 +1,61 @@
+[
+  {
+    "key": {
+      "remoteJid": "94705209559@s.whatsapp.net",
+      "fromMe": false,
+      "id": "4BFB5DB5E8E4797EF0FFE416866B0D9F"
+    },
+    "messageTimestamp": 1720501227,
+    "pushName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-fb332bef-5f4d-4eaf-b34b-e275fab22045?ccb=9-4&oh=01_Q5AaIP9YzM5C7QEPks_T7VKgHesxalEk0LHlNvvEwVCW4sB9&oe=66B43448&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "\t *Logo by FLASH-MD*",
+        "fileSha256": "6EGe6gPf4xdpWhmvKV6rvLo0qPpeH3kqu/OW8nXCRt0=",
+        "fileLength": "327077",
+        "height": 900,
+        "width": 900,
+        "mediaKey": "sCm69SXISO4GN8fbVngmjQRpgqvLr7TMpBHFhew7Fd4=",
+        "fileEncSha256": "fCJHsxwqTMlwJ2CqQ7nQMOR9O8MLRCyHbxRriaG6KsQ=",
+        "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-fb332bef-5f4d-4eaf-b34b-e275fab22045?ccb=9-4&oh=01_Q5AaIP9YzM5C7QEPks_T7VKgHesxalEk0LHlNvvEwVCW4sB9&oe=66B43448&_nc_sid=000000&_nc_hot=1720501226",
+        "mediaKeyTimestamp": "1720501204",
+        "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACYQAAICAQQBAwUBAAAAAAAAAAECAxEEAAUSITEUUWETQXGBkbH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACBf/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEhMhMf/aAAwDAQACEQMRAD8AwxBJPII4lLufAGnrjZQXkYWC1fIkAf3xqPhSziYHFL/Vo1w8/Ojb/mZMsRxJ5pbSndCegPt1+70w3RlrFs6Og9NlPGrrC5VhYPvoOWHhkMco4sPIu9B2Xd8ubHGHHkSs0YIRAeyvx+NaZhnSU+pV1kIBIcUfHWonYOLV0GwcuXGnWXGZhKLqhZqu9R93yJcncppJ759LVVQAAArSNv3Kbb8pcnHIEiggchY7Faw3TLbNnEzpGrlQp4CrroarPtD0I6yCRMySoyEhgwII99dBnzytOxyAwkNWGWj4rxqBj0JQxo8e6OqOTlZO4TvO4aRzXIqPih/mhDwOSNtH/9k="
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "LSrBn4aaVc7jSg==",
+          "senderTimestamp": "1720405343",
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720414655"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "id": "4BFB5DB5E8E4797EF0FFE416866B0D9F",
+    "chat": "94705209559@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94705209559@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-fb332bef-5f4d-4eaf-b34b-e275fab22045?ccb=9-4&oh=01_Q5AaIP9YzM5C7QEPks_T7VKgHesxalEk0LHlNvvEwVCW4sB9&oe=66B43448&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "\t *Logo by FLASH-MD*",
+      "fileSha256": "6EGe6gPf4xdpWhmvKV6rvLo0qPpeH3kqu/OW8nXCRt0=",
+      "fileLength": "327077",
+      "height": 900,
+      "width": 900,
+      "mediaKey": "sCm69SXISO4GN8fbVngmjQRpgqvLr7TMpBHFhew7Fd4=",
+      "fileEncSha256": "fCJHsxwqTMlwJ2CqQ7nQMOR9O8MLRCyHbxRriaG6KsQ=",
+      "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-fb332bef-5f4d-4eaf-b34b-e275fab22045?ccb=9-4&oh=01_Q5AaIP9YzM5C7QEPks_T7VKgHesxalEk0LHlNvvEwVCW4sB9&oe=66B43448&_nc_sid=000000&_nc_hot=1720501226",
+      "mediaKeyTimestamp": "1720501204",
+      "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAUDBv/EACYQAAICAQQBAwUBAAAAAAAAAAECAxEEAAUSITEUUWETQXGBkbH/xAAYAQACAwAAAAAAAAAAAAAAAAABBAACBf/EABwRAAICAgMAAAAAAAAAAAAAAAABAhEDEhMhMf/aAAwDAQACEQMRAD8AwxBJPII4lLufAGnrjZQXkYWC1fIkAf3xqPhSziYHFL/Vo1w8/Ojb/mZMsRxJ5pbSndCegPt1+70w3RlrFs6Og9NlPGrrC5VhYPvoOWHhkMco4sPIu9B2Xd8ubHGHHkSs0YIRAeyvx+NaZhnSU+pV1kIBIcUfHWonYOLV0GwcuXGnWXGZhKLqhZqu9R93yJcncppJ759LVVQAAArSNv3Kbb8pcnHIEiggchY7Faw3TLbNnEzpGrlQp4CrroarPtD0I6yCRMySoyEhgwII99dBnzytOxyAwkNWGWj4rxqBj0JQxo8e6OqOTlZO4TvO4aRzXIqPih/mhDwOSNtH/9k="
+    },
+    "mentionUser": [],
+    "body": "\t *Logo by FLASH-MD*",
+    "quoted": null
+  }
+]

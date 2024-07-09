@@ -1,0 +1,16 @@
+# Babel ES6 compiles files
+dist
+
+# Lock Files
+# package-lock.json
+
+# dependencies
+/node_modules
+
+# Environments
+.env
+
+# VSCode IDE settings
+.vscode
+.flake8
+.vscode/*

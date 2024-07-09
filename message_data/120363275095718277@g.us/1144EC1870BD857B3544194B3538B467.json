@@ -1,0 +1,97 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "1144EC1870BD857B3544194B3538B467",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720501301,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "audioMessage": {
+        "url": "https://mmg.whatsapp.net/v/t62.7114-24/11260935_2138352483209364_8604863359894391120_n.enc?ccb=11-4&oh=01_Q5AaIPqdGH_mmrSRUKY06eYhoLYplQohx44zBTnUXYTToZy5&oe=66B41ECD&_nc_sid=5e03e0&mms3=true",
+        "mimetype": "audio/mpeg",
+        "fileSha256": "Pa2Picdc0C7k0gg4n9ZRZv8zabR4BOYNtNS9IK6rbRM=",
+        "fileLength": "12290922",
+        "seconds": 768,
+        "mediaKey": "i8eP3rRyna8RKQUNCvo/hXez8FMHoK2B/9t8vVYBBEY=",
+        "fileEncSha256": "wtHD2QSuUr8QejjlMo89A1bD4sek18eeSF/fMnRJwBU=",
+        "directPath": "/v/t62.7114-24/11260935_2138352483209364_8604863359894391120_n.enc?ccb=11-4&oh=01_Q5AaIPqdGH_mmrSRUKY06eYhoLYplQohx44zBTnUXYTToZy5&oe=66B41ECD&_nc_sid=5e03e0",
+        "mediaKeyTimestamp": "1720501301",
+        "contextInfo": {
+          "stanzaId": "ABEE99D8B020912EE0C59428E5943FE6",
+          "participant": "94741363865@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveResponseMessage": {
+              "body": {
+                "text": "Audio Format 🎶",
+                "format": "DEFAULT"
+              },
+              "nativeFlowResponseMessage": {
+                "name": "menu_options",
+                "paramsJson": "{\"id\":\".inbuiltytsdl audfile https:\\/\\/youtube.com\\/watch?v=p4QCcf3hE_E\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\"}"
+              }
+            }
+          },
+          "mentionedJid": [
+            "94741363865@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "1144EC1870BD857B3544194B3538B467",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "audioMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/v/t62.7114-24/11260935_2138352483209364_8604863359894391120_n.enc?ccb=11-4&oh=01_Q5AaIPqdGH_mmrSRUKY06eYhoLYplQohx44zBTnUXYTToZy5&oe=66B41ECD&_nc_sid=5e03e0&mms3=true",
+      "mimetype": "audio/mpeg",
+      "fileSha256": "Pa2Picdc0C7k0gg4n9ZRZv8zabR4BOYNtNS9IK6rbRM=",
+      "fileLength": "12290922",
+      "seconds": 768,
+      "mediaKey": "i8eP3rRyna8RKQUNCvo/hXez8FMHoK2B/9t8vVYBBEY=",
+      "fileEncSha256": "wtHD2QSuUr8QejjlMo89A1bD4sek18eeSF/fMnRJwBU=",
+      "directPath": "/v/t62.7114-24/11260935_2138352483209364_8604863359894391120_n.enc?ccb=11-4&oh=01_Q5AaIPqdGH_mmrSRUKY06eYhoLYplQohx44zBTnUXYTToZy5&oe=66B41ECD&_nc_sid=5e03e0",
+      "mediaKeyTimestamp": "1720501301",
+      "contextInfo": {
+        "stanzaId": "ABEE99D8B020912EE0C59428E5943FE6",
+        "participant": "94741363865@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveResponseMessage": {
+            "body": {
+              "text": "Audio Format 🎶",
+              "format": "DEFAULT"
+            },
+            "nativeFlowResponseMessage": {
+              "name": "menu_options",
+              "paramsJson": "{\"id\":\".inbuiltytsdl audfile https:\\/\\/youtube.com\\/watch?v=p4QCcf3hE_E\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\"}"
+            }
+          }
+        },
+        "mentionedJid": [
+          "94741363865@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94741363865@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "Audio Format 🎶",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".inbuiltytsdl audfile https:\\/\\/youtube.com\\/watch?v=p4QCcf3hE_E\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\"}"
+        }
+      }
+    }
+  }
+]

@@ -1,0 +1,44 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "CF8736264FB886509F1B2BCA69D81ED5",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499744,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "reactionMessage": {
+        "key": {
+          "remoteJid": "120363275095718277@g.us",
+          "fromMe": false,
+          "id": "03FE18D7323EB16EA43F0D601746A3DE",
+          "participant": "94766429754@s.whatsapp.net"
+        },
+        "text": "⬇️",
+        "senderTimestampMs": "1720499744336"
+      }
+    },
+    "id": "CF8736264FB886509F1B2BCA69D81ED5",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "reactionMessage",
+    "msg": {
+      "key": {
+        "remoteJid": "120363275095718277@g.us",
+        "fromMe": false,
+        "id": "03FE18D7323EB16EA43F0D601746A3DE",
+        "participant": "94766429754@s.whatsapp.net"
+      },
+      "text": "⬇️",
+      "senderTimestampMs": "1720499744336"
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

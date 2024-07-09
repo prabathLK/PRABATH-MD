@@ -1,0 +1,176 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "833C9FFFBEC20CE93B731CBAB0C186C1",
+      "participant": "94722058313@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498515,
+    "pushName": "~𝓳𝓸𝓷𝔂~",
+    "broadcast": false,
+    "message": {
+      "interactiveResponseMessage": {
+        "body": {
+          "text": "SEARCH MENU",
+          "format": "DEFAULT"
+        },
+        "nativeFlowResponseMessage": {
+          "name": "menu_options",
+          "paramsJson": "{\"id\":\".menu SEARCH\",\"description\":\"\"}"
+        },
+        "contextInfo": {
+          "stanzaId": "39F56CE5CCE5638E3F7ADE5FBB3C8301",
+          "participant": "94760991025@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+                  "fileLength": "24331",
+                  "height": 591,
+                  "width": 1280,
+                  "mediaKey": "4dMIdfVJya6Z1Y6gA9DOJFQG4am0GoGwU94mrYbb5Uc=",
+                  "fileEncSha256": "62158AY54SWRCbhjEdlAy8/atYSz3kAQuu8mq0HfgCU=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1720498484",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 174.01MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 18 seconds\n*╰──────────●●►*\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                  },
+                  {
+                    "name": "single_select",
+                    "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760991025@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "833C9FFFBEC20CE93B731CBAB0C186C1",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94722058313@s.whatsapp.net",
+    "type": "interactiveResponseMessage",
+    "msg": {
+      "body": {
+        "text": "SEARCH MENU",
+        "format": "DEFAULT"
+      },
+      "nativeFlowResponseMessage": {
+        "name": "menu_options",
+        "paramsJson": "{\"id\":\".menu SEARCH\",\"description\":\"\"}"
+      },
+      "contextInfo": {
+        "stanzaId": "39F56CE5CCE5638E3F7ADE5FBB3C8301",
+        "participant": "94760991025@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+                "fileLength": "24331",
+                "height": 591,
+                "width": 1280,
+                "mediaKey": "4dMIdfVJya6Z1Y6gA9DOJFQG4am0GoGwU94mrYbb5Uc=",
+                "fileEncSha256": "62158AY54SWRCbhjEdlAy8/atYSz3kAQuu8mq0HfgCU=",
+                "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000",
+                "mediaKeyTimestamp": "1720498484",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 174.01MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 18 seconds\n*╰──────────●●►*\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760991025@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94760991025@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+            "fileLength": "24331",
+            "height": 591,
+            "width": 1280,
+            "mediaKey": "4dMIdfVJya6Z1Y6gA9DOJFQG4am0GoGwU94mrYbb5Uc=",
+            "fileEncSha256": "62158AY54SWRCbhjEdlAy8/atYSz3kAQuu8mq0HfgCU=",
+            "directPath": "/o1/v/t62.7118-24/f1/m235/up-oil-image-fd0933e0-a138-44ed-aaf7-b13fae92f842?ccb=9-4&oh=01_Q5AaINNJH1lghPNG42hXfPMODIaN2xsjs8fg1vC2COMtUEMh&oe=66B427D0&_nc_sid=000000",
+            "mediaKeyTimestamp": "1720498484",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "*HELLO ~𝓳𝓸𝓷𝔂~*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 174.01MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 20 minutes, 18 seconds\n*╰──────────●●►*\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+            },
+            {
+              "name": "single_select",
+              "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

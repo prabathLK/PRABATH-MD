@@ -1,0 +1,66 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "03A19814286341A7DE38058CE4AF98C1",
+      "participant": "94705209559@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498434,
+    "pushName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiDyp78AhAAGiB0ZERE8OwgC0ZhQnGZ3HQISM3xe+M7rP1BtP05/V6BziIhBcA7s+6MMKKqLaA35vsGH9O0O0Zf+xvUE8y8v1h3gbc5"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "LSrBn4aaVc7jSg==",
+          "senderTimestamp": "1720405343",
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720414655"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "id": "03A19814286341A7DE38058CE4AF98C1",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94705209559@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "03A19814286341A7DE38058CE4AF98C1",
+      "participant": "94705209559@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498467,
+    "pushName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjTjsDEARAAGiCHhTdPeCwPcryuf4djFiPfGwtgP1ujZ7OYDSRRQmpUSSIhBc96KbSDDR9NN6Uz54XmlHj+UB9NnfzKMJuflCiOXr9I"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "senderKeyHash": "LSrBn4aaVc7jSg==",
+          "senderTimestamp": "1720405343",
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720414655"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "•𝗞𝗶𝗻𝗴__𝗦𝗶𝘁𝗵𝗮𝗿𝗮•",
+    "id": "03A19814286341A7DE38058CE4AF98C1",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94705209559@s.whatsapp.net"
+  }
+]

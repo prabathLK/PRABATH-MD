@@ -1,0 +1,14 @@
+{
+	"name": "rgbcolor",
+	"description": "A module to parse color values",
+	"version": "1.0.1",
+	"author": "Sebastian Vollnhals <sebastian@vollnhals.info>",
+	"main": "./index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/yetzt/node-rgbcolor.git"
+	},
+	"keywords": ["rgb", "color", "rgbcolor"],
+	"license": "MIT OR SEE LICENSE IN FEEL-FREE.md",
+	"engines": { "node": ">= 0.8.15" }
+}

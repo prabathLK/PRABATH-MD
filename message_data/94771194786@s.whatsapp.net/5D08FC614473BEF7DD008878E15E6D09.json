@@ -1,0 +1,88 @@
+[
+  {
+    "key": {
+      "remoteJid": "94771194786@s.whatsapp.net",
+      "fromMe": false,
+      "id": "5D08FC614473BEF7DD008878E15E6D09"
+    },
+    "messageTimestamp": 1720498882,
+    "pushName": "..𝓷..",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "price",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "31A8EA3FEEE6C0F4BABEDD8E74F86575",
+          "participant": "94753138584@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": "*Whatsapp Bot හදලා ඕන අය ඉන්නවනම් Inbox මැසේජ් එකක් දාන්න...😇♥️*\n\n*Deploy = Codespace 💥💀*",
+              "textArgb": 4294967295,
+              "backgroundArgb": 4291207116,
+              "font": "SYSTEM",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "remoteJid": "status@broadcast",
+          "mentionedJid": [
+            "94753138584@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "..𝓷..",
+    "id": "5D08FC614473BEF7DD008878E15E6D09",
+    "chat": "94771194786@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94771194786@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "price",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "31A8EA3FEEE6C0F4BABEDD8E74F86575",
+        "participant": "94753138584@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": "*Whatsapp Bot හදලා ඕන අය ඉන්නවනම් Inbox මැසේජ් එකක් දාන්න...😇♥️*\n\n*Deploy = Codespace 💥💀*",
+            "textArgb": 4294967295,
+            "backgroundArgb": 4291207116,
+            "font": "SYSTEM",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "remoteJid": "status@broadcast",
+        "mentionedJid": [
+          "94753138584@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94753138584@s.whatsapp.net"
+    ],
+    "body": "price",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": "*Whatsapp Bot හදලා ඕන අය ඉන්නවනම් Inbox මැසේජ් එකක් දාන්න...😇♥️*\n\n*Deploy = Codespace 💥💀*",
+        "textArgb": 4294967295,
+        "backgroundArgb": 4291207116,
+        "font": "SYSTEM",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

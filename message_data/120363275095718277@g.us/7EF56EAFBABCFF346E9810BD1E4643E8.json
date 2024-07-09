@@ -1,0 +1,88 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "7EF56EAFBABCFF346E9810BD1E4643E8",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498428,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-b2b60cfb-9cb1-4414-b513-19ecf9c0adb1?ccb=9-4&oh=01_Q5AaIH9EXIOJbuLS_gcrSJCFEnyp75itD49vrm12BvLV4zOw&oe=66B4282F&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "",
+        "fileSha256": "C+sqCbA/SEMypUpUF6a6Ah+oAmA2nprTNpU29dRY4+I=",
+        "fileLength": "17925",
+        "height": 512,
+        "width": 512,
+        "mediaKey": "ypA2cZuTOe2GbzLSWfuQCf/9GHvOLkpMmULWupHESCk=",
+        "fileEncSha256": "0sFBSXB2MCXzS8PoVPuEM+tw+JyeWGVhsx/Rgv7l7io=",
+        "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-b2b60cfb-9cb1-4414-b513-19ecf9c0adb1?ccb=9-4&oh=01_Q5AaIH9EXIOJbuLS_gcrSJCFEnyp75itD49vrm12BvLV4zOw&oe=66B4282F&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720498427",
+        "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAIGBf/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUhMRITIkFRcZEUMqH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQMG/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIRIiMWGB/9oADAMBAAIRAxEAPwAYFUBWgtr7TUs4FkUfkLblOsrsCc7fPH3VQ3GmRmyAlQm32bwPkCu/pvvVH1ac5LhfQrPgVQFaNb/Ti47TrB4IOox5wMnK8c780W4bTzppggky6t3FJU5JJ4J+MfVAj2iMlxNFhCJo80dvfBpigjKkN1Lkcbf3FPjubM2GJTFvG3XF2/NpCeQfQVxwKRbXElt1dARlb9ldQwP3QElaUSxBx5DyuwLrT+7GS8JjDgxgR4Ma43De9A1SS2lkhNoAEEeCMcHJ2NHnmkuJA8mMgYAVQAB7YqAKLpL0hHCGEOtf/9k=",
+        "contextInfo": {
+          "stanzaId": "B346320FE24B7DE788D0018FFCE922BB",
+          "participant": "94783001133@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": ".pinterest app apk",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94783001133@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "7EF56EAFBABCFF346E9810BD1E4643E8",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-b2b60cfb-9cb1-4414-b513-19ecf9c0adb1?ccb=9-4&oh=01_Q5AaIH9EXIOJbuLS_gcrSJCFEnyp75itD49vrm12BvLV4zOw&oe=66B4282F&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "",
+      "fileSha256": "C+sqCbA/SEMypUpUF6a6Ah+oAmA2nprTNpU29dRY4+I=",
+      "fileLength": "17925",
+      "height": 512,
+      "width": 512,
+      "mediaKey": "ypA2cZuTOe2GbzLSWfuQCf/9GHvOLkpMmULWupHESCk=",
+      "fileEncSha256": "0sFBSXB2MCXzS8PoVPuEM+tw+JyeWGVhsx/Rgv7l7io=",
+      "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-b2b60cfb-9cb1-4414-b513-19ecf9c0adb1?ccb=9-4&oh=01_Q5AaIH9EXIOJbuLS_gcrSJCFEnyp75itD49vrm12BvLV4zOw&oe=66B4282F&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720498427",
+      "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAgACADASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAABAIGBf/EACYQAAIBAwMDBAMAAAAAAAAAAAECAwAEEQUhMRITIkFRcZEUMqH/xAAXAQEAAwAAAAAAAAAAAAAAAAACAQMG/8QAHxEAAQQCAgMAAAAAAAAAAAAAAQACAxEEIRIiMWGB/9oADAMBAAIRAxEAPwAYFUBWgtr7TUs4FkUfkLblOsrsCc7fPH3VQ3GmRmyAlQm32bwPkCu/pvvVH1ac5LhfQrPgVQFaNb/Ti47TrB4IOox5wMnK8c780W4bTzppggky6t3FJU5JJ4J+MfVAj2iMlxNFhCJo80dvfBpigjKkN1Lkcbf3FPjubM2GJTFvG3XF2/NpCeQfQVxwKRbXElt1dARlb9ldQwP3QElaUSxBx5DyuwLrT+7GS8JjDgxgR4Ma43De9A1SS2lkhNoAEEeCMcHJ2NHnmkuJA8mMgYAVQAB7YqAKLpL0hHCGEOtf/9k=",
+      "contextInfo": {
+        "stanzaId": "B346320FE24B7DE788D0018FFCE922BB",
+        "participant": "94783001133@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": ".pinterest app apk",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94783001133@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94783001133@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": ".pinterest app apk",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

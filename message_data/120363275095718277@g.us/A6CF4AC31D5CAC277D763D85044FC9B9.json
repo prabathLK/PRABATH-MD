@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "A6CF4AC31D5CAC277D763D85044FC9B9",
+      "participant": "94741363865@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720501265,
+    "pushName": "😀",
+    "broadcast": false,
+    "message": {
+      "conversation": "https://youtu.be/p4QCcf3hE_E?si=52AsLh0lY8ULrxwM",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiUoKydAxABGiBAzzwKrb6mSDqc7ToYxGqQ5K8dk3g6fnLbbKsjum4A4iIhBWn+BfGN3oljn6YI43U4WMf+yhZY4Sz0tLQxJDcRr8Bk"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "A6CF4AC31D5CAC277D763D85044FC9B9",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94741363865@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "https://youtu.be/p4QCcf3hE_E?si=52AsLh0lY8ULrxwM",
+    "mentionUser": [],
+    "body": "https://youtu.be/p4QCcf3hE_E?si=52AsLh0lY8ULrxwM",
+    "quoted": null
+  }
+]

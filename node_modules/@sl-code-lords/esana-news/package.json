@@ -1,0 +1,26 @@
+{
+  "name": "@sl-code-lords/esana-news",
+  "version": "1.0.3",
+  "description": "unofficial scrap for esana",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SL-CODE-LORDS/Esana-News.git"
+  },
+  "keywords": [
+    "esana"
+  ],
+  "author": "Ravindu Manoj",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SL-CODE-LORDS/Esana-News/issues"
+  },
+  "homepage": "https://github.com/SL-CODE-LORDS/Esana-News#readme",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "cheerio": "^1.0.0-rc.12"
+  }
+}

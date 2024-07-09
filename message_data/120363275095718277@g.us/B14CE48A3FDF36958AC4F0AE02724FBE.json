@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "B14CE48A3FDF36958AC4F0AE02724FBE",
+      "participant": "94701729288@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498217,
+    "pushName": "SENU ......*-*-*",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiMnqC3BBAAGiDUVEP9fyISRKL2nyL7neswXPRcHmawaUZDRSjux+l8VyIhBdq+4OWWU/361cBfhEBn+1+Laup6Vuu4Rbgt11FDP2pF"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "B14CE48A3FDF36958AC4F0AE02724FBE",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94701729288@s.whatsapp.net"
+  }
+]

@@ -1,0 +1,65 @@
+[
+  {
+    "key": {
+      "remoteJid": "94775341543@s.whatsapp.net",
+      "fromMe": false,
+      "id": "8CF679A59732D52030845E6536A8011C"
+    },
+    "messageTimestamp": 1720499335,
+    "pushName": "PROGRAMMER\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n 𝚫𝐘𝚵𝐒H",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "තියෙනවද cc add කරන්න පුළුවන් ද උබට්",
+        "previewType": "NONE",
+        "contextInfo": {
+          "stanzaId": "3C954C7872080B100566D0D91AC66F34",
+          "participant": "94753138584@s.whatsapp.net",
+          "quotedMessage": {
+            "conversation": "Heroku thiyeyi  bn"
+          },
+          "mentionedJid": [
+            "94753138584@s.whatsapp.net"
+          ]
+        },
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "PROGRAMMER\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n 𝚫𝐘𝚵𝐒H",
+    "id": "8CF679A59732D52030845E6536A8011C",
+    "chat": "94775341543@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94775341543@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "තියෙනවද cc add කරන්න පුළුවන් ද උබට්",
+      "previewType": "NONE",
+      "contextInfo": {
+        "stanzaId": "3C954C7872080B100566D0D91AC66F34",
+        "participant": "94753138584@s.whatsapp.net",
+        "quotedMessage": {
+          "conversation": "Heroku thiyeyi  bn"
+        },
+        "mentionedJid": [
+          "94753138584@s.whatsapp.net"
+        ]
+      },
+      "inviteLinkGroupTypeV2": "DEFAULT"
+    },
+    "mentionUser": [
+      "94753138584@s.whatsapp.net"
+    ],
+    "body": "තියෙනවද cc add කරන්න පුළුවන් ද උබට්",
+    "quoted": {
+      "conversation": "Heroku thiyeyi  bn"
+    }
+  }
+]

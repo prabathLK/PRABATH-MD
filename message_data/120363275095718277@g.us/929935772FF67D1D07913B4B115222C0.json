@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "929935772FF67D1D07913B4B115222C0",
+      "participant": "94783001133@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498493,
+    "pushName": "| MADu 🤍,",
+    "broadcast": false,
+    "message": {
+      "conversation": ".pinterest",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwidmJnxARAAGiAK8iSF9Dp96b2t9JkLwyrtrACCCakKeCL6vmLXk8rAqiIhBdhsxRSnvi0j1cw41+xE3l8kNV/IVVfYm/rWXngcs6xX"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "929935772FF67D1D07913B4B115222C0",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94783001133@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".pinterest",
+    "mentionUser": [],
+    "body": ".pinterest",
+    "quoted": null
+  }
+]
