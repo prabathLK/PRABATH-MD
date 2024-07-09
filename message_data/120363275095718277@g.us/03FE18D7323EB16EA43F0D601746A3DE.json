@@ -1,0 +1,178 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "03FE18D7323EB16EA43F0D601746A3DE",
+      "participant": "94766429754@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499743,
+    "pushName": "•༆$ KAVI STATUS 🤍 〖ᴷⁱⁿᴳ",
+    "broadcast": false,
+    "message": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=mMlziHrowyA",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "9A7F93CF706D8B673B53583DA613F9F1",
+          "participant": "94760991025@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "XlvOeIp5XsclUU66bp5RcmxiFAbAyZYbFtpmZPa45F8=",
+                  "fileLength": "162246",
+                  "height": 720,
+                  "width": 1280,
+                  "mediaKey": "2tkOZhe5hLAgRT6hWUklvoe55mPxmCD3JOt29VpE/YY=",
+                  "fileEncSha256": "1dLn0s5D4bfUY01hYBrOtgo+bjXGdyKWI6voqeEoBLg=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1720499715",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEAACAQQBBAIDAAAAAAAAAAABAgMABBEhEiIxQVEFE2GB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMhMgQxM4Gx/9oADAMBAAIRAxEAPwDJvFeNY0hhRMjWPPvNElsMFhPYqRvOSSKhtrhI4+qOOTO9nY/FMLNOqlLSIqD3C6Pj3QWZbhGS9jU510gu3McQj5YIAXIBx53VN2iTWIs1PUrL1x444878/wApscco+x1sUyHC5jQ7HqqoroyvHC9jwmkY8S6cV6j3/QrsMQAajGHGjCjLZJHLHLt391hpH31t390UVETiJh2nEkkdvk7nk7HCaye2qZ8a7Nfw8mJwwxk9qKKsDjjjXS+N/fyf/9k="
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Ajith Muthukumarana Live ...\n├ *👤 `Author:`* Naliya Live Beat\n├ *👁️‍🗨️ `Views:`* 110347\n├ *🕘 `Duration:`* 28:55\n├ *📌 `Ago:`* 9 months ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=mMlziHrowyA \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94760991025@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      }
+    },
+    "id": "03FE18D7323EB16EA43F0D601746A3DE",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94766429754@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=mMlziHrowyA",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "9A7F93CF706D8B673B53583DA613F9F1",
+        "participant": "94760991025@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "XlvOeIp5XsclUU66bp5RcmxiFAbAyZYbFtpmZPa45F8=",
+                "fileLength": "162246",
+                "height": 720,
+                "width": 1280,
+                "mediaKey": "2tkOZhe5hLAgRT6hWUklvoe55mPxmCD3JOt29VpE/YY=",
+                "fileEncSha256": "1dLn0s5D4bfUY01hYBrOtgo+bjXGdyKWI6voqeEoBLg=",
+                "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000",
+                "mediaKeyTimestamp": "1720499715",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEAACAQQBBAIDAAAAAAAAAAABAgMABBEhEiIxQVEFE2GB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMhMgQxM4Gx/9oADAMBAAIRAxEAPwDJvFeNY0hhRMjWPPvNElsMFhPYqRvOSSKhtrhI4+qOOTO9nY/FMLNOqlLSIqD3C6Pj3QWZbhGS9jU510gu3McQj5YIAXIBx53VN2iTWIs1PUrL1x444878/wApscco+x1sUyHC5jQ7HqqoroyvHC9jwmkY8S6cV6j3/QrsMQAajGHGjCjLZJHLHLt391hpH31t390UVETiJh2nEkkdvk7nk7HCaye2qZ8a7Nfw8mJwwxk9qKKsDjjjXS+N/fyf/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Ajith Muthukumarana Live ...\n├ *👤 `Author:`* Naliya Live Beat\n├ *👁️‍🗨️ `Views:`* 110347\n├ *🕘 `Duration:`* 28:55\n├ *📌 `Ago:`* 9 months ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=mMlziHrowyA \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94760991025@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94760991025@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=mMlziHrowyA",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "XlvOeIp5XsclUU66bp5RcmxiFAbAyZYbFtpmZPa45F8=",
+            "fileLength": "162246",
+            "height": 720,
+            "width": 1280,
+            "mediaKey": "2tkOZhe5hLAgRT6hWUklvoe55mPxmCD3JOt29VpE/YY=",
+            "fileEncSha256": "1dLn0s5D4bfUY01hYBrOtgo+bjXGdyKWI6voqeEoBLg=",
+            "directPath": "/o1/v/t62.7118-24/f1/m231/up-oil-image-433463a5-a560-4908-91a6-60271890c600?ccb=9-4&oh=01_Q5AaIKm8rYqKgoayhoNfs1mUJb2vAYcKdCeGxFAnz4kDHFFi&oe=66B431BA&_nc_sid=000000",
+            "mediaKeyTimestamp": "1720499715",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAASACADASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAMEAgX/xAAkEAACAQQBBAIDAAAAAAAAAAABAgMABBEhEiIxQVEFE2GB4f/EABgBAAMBAQAAAAAAAAAAAAAAAAMEBQAC/8QAHxEAAgICAQUAAAAAAAAAAAAAAQIAEQMhMgQxM4Gx/9oADAMBAAIRAxEAPwDJvFeNY0hhRMjWPPvNElsMFhPYqRvOSSKhtrhI4+qOOTO9nY/FMLNOqlLSIqD3C6Pj3QWZbhGS9jU510gu3McQj5YIAXIBx53VN2iTWIs1PUrL1x444878/wApscco+x1sUyHC5jQ7HqqoroyvHC9jwmkY8S6cV6j3/QrsMQAajGHGjCjLZJHLHLt391hpH31t390UVETiJh2nEkkdvk7nk7HCaye2qZ8a7Nfw8mJwwxk9qKKsDjjjXS+N/fyf/9k="
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* Ajith Muthukumarana Live ...\n├ *👤 `Author:`* Naliya Live Beat\n├ *👁️‍🗨️ `Views:`* 110347\n├ *🕘 `Duration:`* 28:55\n├ *📌 `Ago:`* 9 months ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=mMlziHrowyA \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=mMlziHrowyA\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

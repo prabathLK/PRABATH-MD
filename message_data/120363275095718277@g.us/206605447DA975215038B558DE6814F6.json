@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "206605447DA975215038B558DE6814F6",
+      "participant": "94784284180@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499412,
+    "pushName": "පැලයා",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song https://youtu.be/-_NeoQjlExk?si=Q1hCEfNREaxqggB4",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjOm7D9AhAAGiBQrqDC0r3KLnKZBCI1V9YDPQ6AnPrUS7eLtDVjirKglyIhBaLB7j2iwFeSQBJDvAmNf6OZfTM7iq6F4avk+SweNF4J"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "පැලයා",
+    "id": "206605447DA975215038B558DE6814F6",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94784284180@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song https://youtu.be/-_NeoQjlExk?si=Q1hCEfNREaxqggB4",
+    "mentionUser": [],
+    "body": ".song https://youtu.be/-_NeoQjlExk?si=Q1hCEfNREaxqggB4",
+    "quoted": null
+  }
+]

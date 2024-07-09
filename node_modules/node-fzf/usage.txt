@@ -1,0 +1,24 @@
+Usage: nfzf [options]
+
+Options:
+  -n, --normal        Use normal text matching instead of fuzzy matching.
+  -h, --help          Display help (this text)
+
+Keyboard:
+  down,<ctrl-j>,<ctrl-n>        scroll down
+  up,<ctrl-k>,<ctrl-p>          scroll up
+  <ctrl-d>                      scroll down by page size
+  <ctrl-u>                      scroll up by page size
+  <ctrl-a>                      jump to start of input
+  <ctrl-e>                      jump to end of input
+  <esc>,<ctrl-q>,<ctrl-c>       cancel
+  <return>,<ctrl-m>             trigger callback/promise with current selection and exit
+  <ctrl-w>                      delte last word from input
+  <ctrl-b>                      jump back a word
+  <ctrl-f>                      jump forward a word
+  <backspace><ctrl-h>           delete last input character
+  <ctrl-s>                      switch between modes (fuzzy, normal)
+
+Examples:
+  find . | nfzf
+  cat log.txt | nfzf -n

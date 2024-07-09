@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "BA541D4BC1EF5B1BB292F3263272FD95",
+      "participant": "94756970480@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498222,
+    "pushName": "R.N. SAHEED AFRIDY... AHM",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiR57G9BhAAGiDGgHENCnmAjjKbDwEoXkh9FGN7KWZMjNMMkA+5WhYBgiIhBWXn0qY6RHNLYObFrW164Tazyc6a03OWbsdpTMVxe8hK"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "R.N. SAHEED AFRIDY... AHM",
+    "id": "BA541D4BC1EF5B1BB292F3263272FD95",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94756970480@s.whatsapp.net"
+  }
+]

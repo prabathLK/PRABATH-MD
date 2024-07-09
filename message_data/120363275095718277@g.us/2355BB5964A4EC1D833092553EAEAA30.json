@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "2355BB5964A4EC1D833092553EAEAA30",
+      "participant": "94771495203@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499193,
+    "pushName": "𝐓𝐡𝐞 𝐒𝐡𝐚𝐫𝐨 𝐐𝐮𝐨𝐭𝐞𝐳 ॐ",
+    "broadcast": false,
+    "message": {
+      "conversation": ".apk igi",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiW++zYBxAAGiAr8DFBrHgLzJxYmnXfPclUFWSWOfpXxveNLoYJE+nqDCIhBZ/Iw2iL0Q2DU1EVualInpS9MLL8DRHm45i1mcjt4npz"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "𝐓𝐡𝐞 𝐒𝐡𝐚𝐫𝐨 𝐐𝐮𝐨𝐭𝐞𝐳 ॐ",
+    "id": "2355BB5964A4EC1D833092553EAEAA30",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94771495203@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".apk igi",
+    "mentionUser": [],
+    "body": ".apk igi",
+    "quoted": null
+  }
+]

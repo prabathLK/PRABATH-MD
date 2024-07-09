@@ -1,0 +1,62 @@
+{
+  "name": "pidusage",
+  "version": "2.0.21",
+  "description": "Cross-platform process cpu % and memory usage of a PID",
+  "license": "MIT",
+  "homepage": "https://github.com/soyuka/pidusage",
+  "repository": "github:soyuka/pidusage",
+  "bugs": {
+    "url": "https://github.com/soyuka/pidusage/issues"
+  },
+  "author": "soyuka",
+  "contributors": [
+    "Simone Primarosa <simonepri@outlook.com> (https://simoneprimarosa.com)"
+  ],
+  "main": "index.js",
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "engines": {
+    "node": ">=8"
+  },
+  "scripts": {
+    "lint": "standard",
+    "test": "nyc ava -m \"!*benchmark*\"",
+    "alpine": "docker run -v $(pwd):/var/pidusage pidusage:latest npm test",
+    "coverage": "codecov",
+    "bench": "ava -m \"*benchmark*\""
+  },
+  "dependencies": {
+    "safe-buffer": "^5.2.1"
+  },
+  "devDependencies": {
+    "ava": "^3.10.1",
+    "codecov": "^3.7.0",
+    "mockdate": "^2.0.5",
+    "mockery": "^2.1.0",
+    "nyc": "^15.1.0",
+    "pify": "^3.0.0",
+    "standard": "^14.3.4",
+    "string-to-stream": "^1.1.1",
+    "through": "^2.3.8",
+    "time-span": "^2.0.0"
+  },
+  "keywords": [
+    "pid",
+    "usage",
+    "ps",
+    "cpu",
+    "memory",
+    "proc"
+  ],
+  "ava": {
+    "verbose": true
+  },
+  "nyc": {
+    "reporter": [
+      "lcovonly",
+      "text"
+    ]
+  }
+}

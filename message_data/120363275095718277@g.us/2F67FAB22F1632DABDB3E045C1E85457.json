@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "2F67FAB22F1632DABDB3E045C1E85457",
+      "participant": "94754688300@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498223,
+    "pushName": "Mohamed Afsah",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiLvIycBhAAGiAH05eoOakr5sWEcs62slJnaWvl8nTTKXqMFaZxjb+ktSIhBRRGQG1/gzUzeavyI/WeSutqo/4nj5PiNEn9qWJNnVZe"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "Mohamed Afsah",
+    "id": "2F67FAB22F1632DABDB3E045C1E85457",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94754688300@s.whatsapp.net"
+  }
+]

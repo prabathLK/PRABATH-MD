@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "2B865DFD4030A5DF33060283D7DEA9E2",
+      "participant": "94762978727@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498224,
+    "pushName": "nirmalsasith092",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi5hMmEAxAAGiBxQxQVkaGDSIfpfbyGGgdv8/P0edEBWvQ+nmV/OMDzqSIhBW6qliMzdn/OmXO0cig53plkzLph8imR0PDymU3KHRVR"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "2B865DFD4030A5DF33060283D7DEA9E2",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94762978727@s.whatsapp.net"
+  }
+]

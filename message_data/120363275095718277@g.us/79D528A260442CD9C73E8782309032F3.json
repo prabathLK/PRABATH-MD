@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "79D528A260442CD9C73E8782309032F3",
+      "participant": "94720572383@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498223,
+    "pushName": "kavinda",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjahpCLBBAAGiDRayERmYu427DYzFKdHg+KNwX6AyVHNuzcVReA+mETjiIhBcC1DV9ZkizlF0m2nrr03aPhCsEQW36Eg5HzqQ2ZInQv"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "kavinda",
+    "id": "79D528A260442CD9C73E8782309032F3",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94720572383@s.whatsapp.net"
+  }
+]

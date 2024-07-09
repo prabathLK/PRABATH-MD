@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "677D56A96E42E574CBF82ABEAEA24722",
+      "participant": "94767161966@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498253,
+    "pushName": "art",
+    "broadcast": false,
+    "message": {
+      "conversation": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi3hPSRBBAAGiCYn+RQxr+OrmS/rbfwVJzlrPkLFb8YKDnWZLzIwam0yCIhBaiVs4af/PlJH7iiBuVIdTh7TJRFxuW11kl41i2t2cNI"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "art",
+    "id": "677D56A96E42E574CBF82ABEAEA24722",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94767161966@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+    "mentionUser": [],
+    "body": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+    "quoted": null
+  }
+]

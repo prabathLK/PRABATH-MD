@@ -1,0 +1,121 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "BA5FC35EFAF5141DDA949ECD05CB5762",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720501269,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi778CBAhD7ARogsNXTh1UQ4vx7VE6ugVxAYFi+lvOcsNIQauEqrRTNgE0iIQW0Yn4bviJJSkBqOM46yUz18R+en3jwSfpex3QTNq4Gbg=="
+      },
+      "viewOnceMessage": {
+        "message": {
+          "messageContextInfo": {
+            "deviceListMetadata": {},
+            "deviceListMetadataVersion": 2
+          },
+          "interactiveMessage": {
+            "header": {
+              "title": "",
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-e5247f28-0771-4bd4-b728-49276aba666c?ccb=9-4&oh=01_Q5AaIFXsRot3I94LAgidRJRClgoTAH1SVMR7BO2q-08rUdHr&oe=66B41955&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "PGKyvF8Gb8QQkMWPel1oZ/9n3QFu+Y1KiL/zFH9IAi4=",
+                "fileLength": "29666",
+                "height": 360,
+                "width": 480,
+                "mediaKey": "c+UMW6U4TkLaYvznLwsv86X/ehUsGC04W23HpRsiZgw=",
+                "fileEncSha256": "JdkYzB0Mdo2aLBfaMEjrxob+EhllUOI76XEw148JX4I=",
+                "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-e5247f28-0771-4bd4-b728-49276aba666c?ccb=9-4&oh=01_Q5AaIFXsRot3I94LAgidRJRClgoTAH1SVMR7BO2q-08rUdHr&oe=66B41955&_nc_sid=000000",
+                "mediaKeyTimestamp": "1720501268",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIEBQEDBv/EACcQAAIBAwQBAgcAAAAAAAAAAAECAwAREgQFIUExE5FhcoGhwdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AORTbo3NgZD8ovTttcaWzMygm3KVtjneMnBrZCx9wfxUyB5tyb0ZJo4kiAYEgcXNrDvurYitba1XhhMG8WK9/wAR70r7fCpIzkuD4IAq11k2p0U76aRomCm4Krx0bjvoVAeUu7OfLG5pIVDXVR85B/oBTJrIo5VkXPJTwbDj70UU1WZNckrZu0jMfNwP3SNqo+Mc/jcCiimj/9k="
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n*PRABATH-MD YT DOWNLOADER*\n\n┌───────────────────\n├ *ℹ️ `Title:`* Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\n├ *👤 `Author:`* DJ YASIRU\n├ *👁️‍🗨️ `Views:`* 1585\n├ *🕘 `Duration:`* 12:49\n├ *🔗 `Url:`* https://youtube.com/watch?v=p4QCcf3hE_E \n└───────────────────\n\n```🔢 Select the file type from below```\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Select Audio Format :) 🎶\",\"sections\":[{\"title\":\"Please select the audio format from below\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"Audio Format 🎶\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl audfile https://youtube.com/watch?v=p4QCcf3hE_E\"},{\"header\":\"\",\"title\":\"Document Format 📂\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl auddoc https://youtube.com/watch?v=p4QCcf3hE_E\"}]}]}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Select Video Format :) 🎥\",\"sections\":[{\"title\":\"Please select the audio format from below\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"Video Format 🎥\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl vidfile https://youtube.com/watch?v=p4QCcf3hE_E\"},{\"header\":\"\",\"title\":\"Document Format 📂\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl viddoc https://youtube.com/watch?v=p4QCcf3hE_E\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        }
+      }
+    },
+    "verifiedBizName": "MR VIHAGA KING",
+    "id": "BA5FC35EFAF5141DDA949ECD05CB5762",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "viewOnceMessage",
+    "msg": {
+      "header": {
+        "title": "",
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-e5247f28-0771-4bd4-b728-49276aba666c?ccb=9-4&oh=01_Q5AaIFXsRot3I94LAgidRJRClgoTAH1SVMR7BO2q-08rUdHr&oe=66B41955&_nc_sid=000000&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "PGKyvF8Gb8QQkMWPel1oZ/9n3QFu+Y1KiL/zFH9IAi4=",
+          "fileLength": "29666",
+          "height": 360,
+          "width": 480,
+          "mediaKey": "c+UMW6U4TkLaYvznLwsv86X/ehUsGC04W23HpRsiZgw=",
+          "fileEncSha256": "JdkYzB0Mdo2aLBfaMEjrxob+EhllUOI76XEw148JX4I=",
+          "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-e5247f28-0771-4bd4-b728-49276aba666c?ccb=9-4&oh=01_Q5AaIFXsRot3I94LAgidRJRClgoTAH1SVMR7BO2q-08rUdHr&oe=66B41955&_nc_sid=000000",
+          "mediaKeyTimestamp": "1720501268",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGgAAAgIDAAAAAAAAAAAAAAAAAAIEBQEDBv/EACcQAAIBAwQBAgcAAAAAAAAAAAECAwAREgQFIUExE5FhcoGhwdHw/8QAFQEBAQAAAAAAAAAAAAAAAAAAAAH/xAAWEQEBAQAAAAAAAAAAAAAAAAAAARH/2gAMAwEAAhEDEQA/AORTbo3NgZD8ovTttcaWzMygm3KVtjneMnBrZCx9wfxUyB5tyb0ZJo4kiAYEgcXNrDvurYitba1XhhMG8WK9/wAR70r7fCpIzkuD4IAq11k2p0U76aRomCm4Krx0bjvoVAeUu7OfLG5pIVDXVR85B/oBTJrIo5VkXPJTwbDj70UU1WZNckrZu0jMfNwP3SNqo+Mc/jcCiimj/9k="
+        },
+        "hasMediaAttachment": true
+      },
+      "body": {
+        "text": "\n*PRABATH-MD YT DOWNLOADER*\n\n┌───────────────────\n├ *ℹ️ `Title:`* Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\n├ *👤 `Author:`* DJ YASIRU\n├ *👁️‍🗨️ `Views:`* 1585\n├ *🕘 `Duration:`* 12:49\n├ *🔗 `Url:`* https://youtube.com/watch?v=p4QCcf3hE_E \n└───────────────────\n\n```🔢 Select the file type from below```\n\n"
+      },
+      "footer": {
+        "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+      },
+      "nativeFlowMessage": {
+        "buttons": [
+          {
+            "name": "cta_url",
+            "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+          },
+          {
+            "name": "single_select",
+            "buttonParamsJson": "{\"title\":\"Select Audio Format :) 🎶\",\"sections\":[{\"title\":\"Please select the audio format from below\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"Audio Format 🎶\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl audfile https://youtube.com/watch?v=p4QCcf3hE_E\"},{\"header\":\"\",\"title\":\"Document Format 📂\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl auddoc https://youtube.com/watch?v=p4QCcf3hE_E\"}]}]}"
+          },
+          {
+            "name": "single_select",
+            "buttonParamsJson": "{\"title\":\"Select Video Format :) 🎥\",\"sections\":[{\"title\":\"Please select the audio format from below\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"Video Format 🎥\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl vidfile https://youtube.com/watch?v=p4QCcf3hE_E\"},{\"header\":\"\",\"title\":\"Document Format 📂\",\"description\":\"Kawadi Punch Album For Sale || 145BPM || No Voice Tags || 20 Tracks || Dj Yasiru ||\",\"id\":\".inbuiltytsdl viddoc https://youtube.com/watch?v=p4QCcf3hE_E\"}]}]}"
+          }
+        ],
+        "messageParamsJson": ""
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

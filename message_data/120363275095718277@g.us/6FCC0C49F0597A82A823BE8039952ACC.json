@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "6FCC0C49F0597A82A823BE8039952ACC",
+      "participant": "94760878536@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498218,
+    "pushName": "Ashinsana Sadaruwan🙃❤️",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi87s7mBxAAGiASyFWa5bGQUmKQMYvU2SZApgImOpVOZh5kK+Izu8XQJyIhBY/sIEvzLZyiduBmsZGqkfqe0TweIkXr7M07Z0X0PNl5"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "6FCC0C49F0597A82A823BE8039952ACC",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760878536@s.whatsapp.net"
+  }
+]

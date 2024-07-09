@@ -1,0 +1,69 @@
+{
+  "name": "eventemitter2",
+  "version": "5.0.1",
+  "description": "A Node.js event emitter implementation with namespaces, wildcards, TTL and browser support.",
+  "keywords": [
+    "event",
+    "events",
+    "emitter",
+    "eventemitter"
+  ],
+  "author": "hij1nx <paolo@async.ly> http://twitter.com/hij1nx",
+  "contributors": [
+    "Eric Elliott",
+    "Charlie Robbins <charlie@nodejitsu.com> http://twitter.com/indexzero",
+    "Jameson Lee <jameson@nodejitsu.com> http://twitter.com/Jamesonjlee",
+    "Jeroen van Duffelen <jvduf@nodejitsu.com> http://www.twitter.com/jvduf",
+    "Fedor Indutny <fedor.indutny@gmail.com> http://www.twitter.com/indutny"
+  ],
+  "license": "MIT",
+  "repository": "git://github.com/hij1nx/EventEmitter2.git",
+  "devDependencies": {
+    "benchmark": ">= 0.2.2",
+    "nodeunit": "*",
+    "nyc": "^11.4.1"
+  },
+  "main": "./lib/eventemitter2.js",
+  "scripts": {
+    "test": "nodeunit test/simple/ test/wildcardEvents/",
+    "coverage": "nyc --check-coverage npm run test",
+    "benchmark": "node --reporter test/perf/benchmark.js"
+  },
+  "files": [
+    "lib/eventemitter2.js",
+    "index.js",
+    "eventemitter2.d.ts"
+  ],
+  "typings": "./eventemitter2.d.ts",
+  "typescript": {
+    "definition": "./eventemitter2.d.ts"
+  },
+  "nyc": {
+    "lines": 83,
+    "functions": 84,
+    "branches": 79,
+    "statements": 83,
+    "watermarks": {
+      "lines": [
+        80,
+        95
+      ],
+      "functions": [
+        80,
+        95
+      ],
+      "branches": [
+        80,
+        95
+      ],
+      "statements": [
+        80,
+        95
+      ]
+    },
+    "reporter": [
+      "lcov",
+      "text-summary"
+    ]
+  }
+}

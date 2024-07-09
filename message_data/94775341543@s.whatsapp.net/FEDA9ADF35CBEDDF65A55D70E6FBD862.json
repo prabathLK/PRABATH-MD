@@ -1,0 +1,33 @@
+[
+  {
+    "key": {
+      "remoteJid": "94775341543@s.whatsapp.net",
+      "fromMe": false,
+      "id": "FEDA9ADF35CBEDDF65A55D70E6FBD862"
+    },
+    "messageTimestamp": 1720499327,
+    "pushName": "PROGRAMMER\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n 𝚫𝐘𝚵𝐒H",
+    "broadcast": false,
+    "message": {
+      "conversation": "එල ✅",
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "PROGRAMMER\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n•\n\n 𝚫𝐘𝚵𝐒H",
+    "id": "FEDA9ADF35CBEDDF65A55D70E6FBD862",
+    "chat": "94775341543@s.whatsapp.net",
+    "fromMe": false,
+    "isGroup": false,
+    "sender": "94775341543@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "එල ✅",
+    "mentionUser": [],
+    "body": "එල ✅",
+    "quoted": null
+  }
+]

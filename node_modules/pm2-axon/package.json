@@ -1,0 +1,46 @@
+{
+  "name": "pm2-axon",
+  "description": "High-level messaging & socket patterns implemented in pure js",
+  "version": "4.0.1",
+  "author": {
+    "name": "TJ Holowaychuk",
+    "email": "tj@vision-media.ca"
+  },
+  "engines": {
+    "node": ">=5"
+  },
+  "dependencies": {
+    "amp": "~0.3.1",
+    "amp-message": "~0.1.1",
+    "debug": "^4.3.1",
+    "escape-string-regexp": "^4.0.0"
+  },
+  "devDependencies": {
+    "better-assert": "*",
+    "commander": "*",
+    "humanize-number": "0.0.2",
+    "mocha": "^8.1",
+    "should": "*"
+  },
+  "keywords": [
+    "zmq",
+    "zeromq",
+    "pubsub",
+    "socket",
+    "emitter",
+    "ipc",
+    "rpc"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Unitech/pm2-axon.git"
+  },
+  "scripts": {
+    "test": "make test"
+  },
+  "license": "MIT",
+  "files": [
+    "lib",
+    "index.js"
+  ]
+}

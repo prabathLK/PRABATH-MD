@@ -1,0 +1,66 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "3EC240981E6012B4BBDC1FCFBADC70B3",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498327,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "⛔ *First, Give Admin To PRABATH-MD BOT In The Group*",
+        "contextInfo": {
+          "stanzaId": "FBF59141FD7E86206BAD46735CA4099A",
+          "participant": "94753138584@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": ".kick",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94753138584@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "3EC240981E6012B4BBDC1FCFBADC70B3",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "⛔ *First, Give Admin To PRABATH-MD BOT In The Group*",
+      "contextInfo": {
+        "stanzaId": "FBF59141FD7E86206BAD46735CA4099A",
+        "participant": "94753138584@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": ".kick",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94753138584@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94753138584@s.whatsapp.net"
+    ],
+    "body": "⛔ *First, Give Admin To PRABATH-MD BOT In The Group*",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": ".kick",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "5B72351423096673B236FAF2B04135E2",
+      "participant": "94773637652@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498224,
+    "pushName": "Samiru 😍🥰",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "Mwi2utDpARAAGiADh49itgRjAKdCzy/C/wGn1us2n70h979FhF5gOuzm3iIhBaFAuq89zRcHhmQadYyxtNUnmmlADClOXRFcN+Qg4Kon"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "5B72351423096673B236FAF2B04135E2",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94773637652@s.whatsapp.net"
+  }
+]

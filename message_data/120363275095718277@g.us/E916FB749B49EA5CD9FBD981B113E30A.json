@@ -1,0 +1,189 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "E916FB749B49EA5CD9FBD981B113E30A",
+      "participant": "94766186438@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499587,
+    "pushName": "𝙉𝘼𝙈𝘼𝘿𝘼 𝘽𝘼𝙇𝙐𝙒𝙀 ( 𝙉𝙊 𝙉𝘼𝙈𝙀 )",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjRxaqvBRAAGiDGz/YCrAsiCTrXO+JP0Ksmb3Ny2vj6Hry17aohI+LWGSIhBVechHJSFoKtK21SfW7OO7ZPd3zDn44lYUxJvdwmK69L"
+      },
+      "templateButtonReplyMessage": {
+        "selectedId": ".audsong https://youtube.com/watch?v=FgkIkpkWf3E",
+        "selectedDisplayText": "Audio File 🎶",
+        "contextInfo": {
+          "stanzaId": "1BBFA89687DCC542DABDAEDAF9D73377",
+          "participant": "94753138584@s.whatsapp.net",
+          "quotedMessage": {
+            "interactiveMessage": {
+              "header": {
+                "imageMessage": {
+                  "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000&mms3=true",
+                  "mimetype": "image/jpeg",
+                  "fileSha256": "4EPlDlE0UhK3yH89n1mMN6NCLkr9Q93ww1YUVwUwbZQ=",
+                  "fileLength": "46355",
+                  "height": 360,
+                  "width": 480,
+                  "mediaKey": "pd2+oc5+zbjcIzZF1xNxwlHJhmgckWuTczzhMTloJfU=",
+                  "fileEncSha256": "+eSYL9+hC6b5nPgG2BXNG8evf5p3rAkLPEoCuZRlNQ8=",
+                  "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000",
+                  "mediaKeyTimestamp": "1720499417",
+                  "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQUG/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIRAAMEBRIhEzEjQVGR8DJCcYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESMQMiQbHw/9oADAMBAAIRAxEAPwDjbGAt1bjNdFsKsjd93IEVVa0nGdlV8hlZgOeIBmPanY67tPDXAirvIJ4mO8/PSnW06onoooYwsdzRtrwJYON/eiN9MxV3Mr32RQCYCzyY+fkUq/g4luwXS9cdiSFECBz5/qr2wC5O2VWB386VewOjj3GZ2i2TECZHrVbrZFLgepGvx8u2i+IjM0/VvI4qlNWCrtIYqe43n37UUUsmDFGW1cMm1jcIIgzcJn+Ui5qd0P4NxwgJhWaYHH+UUVH2VM0YRi7SP//Z"
+                },
+                "hasMediaAttachment": true
+              },
+              "body": {
+                "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* All right with seeduwe br...\n├ *👤 `Author:`* Ranaviruva\n├ *👁️‍🗨️ `Views:`* 5112\n├ *🕘 `Duration:`* 14:25\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=FgkIkpkWf3E \n└───────────────────\n\n"
+              },
+              "footer": {
+                "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+              },
+              "nativeFlowMessage": {
+                "buttons": [
+                  {
+                    "name": "cta_url",
+                    "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+                  },
+                  {
+                    "name": "quick_reply",
+                    "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+                  }
+                ],
+                "messageParamsJson": ""
+              }
+            }
+          },
+          "mentionedJid": [
+            "94753138584@s.whatsapp.net"
+          ]
+        },
+        "selectedIndex": 1
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "E916FB749B49EA5CD9FBD981B113E30A",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94766186438@s.whatsapp.net",
+    "type": "templateButtonReplyMessage",
+    "msg": {
+      "selectedId": ".audsong https://youtube.com/watch?v=FgkIkpkWf3E",
+      "selectedDisplayText": "Audio File 🎶",
+      "contextInfo": {
+        "stanzaId": "1BBFA89687DCC542DABDAEDAF9D73377",
+        "participant": "94753138584@s.whatsapp.net",
+        "quotedMessage": {
+          "interactiveMessage": {
+            "header": {
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "4EPlDlE0UhK3yH89n1mMN6NCLkr9Q93ww1YUVwUwbZQ=",
+                "fileLength": "46355",
+                "height": 360,
+                "width": 480,
+                "mediaKey": "pd2+oc5+zbjcIzZF1xNxwlHJhmgckWuTczzhMTloJfU=",
+                "fileEncSha256": "+eSYL9+hC6b5nPgG2BXNG8evf5p3rAkLPEoCuZRlNQ8=",
+                "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000",
+                "mediaKeyTimestamp": "1720499417",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQUG/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIRAAMEBRIhEzEjQVGR8DJCcYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESMQMiQbHw/9oADAMBAAIRAxEAPwDjbGAt1bjNdFsKsjd93IEVVa0nGdlV8hlZgOeIBmPanY67tPDXAirvIJ4mO8/PSnW06onoooYwsdzRtrwJYON/eiN9MxV3Mr32RQCYCzyY+fkUq/g4luwXS9cdiSFECBz5/qr2wC5O2VWB386VewOjj3GZ2i2TECZHrVbrZFLgepGvx8u2i+IjM0/VvI4qlNWCrtIYqe43n37UUUsmDFGW1cMm1jcIIgzcJn+Ui5qd0P4NxwgJhWaYHH+UUVH2VM0YRi7SP//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* All right with seeduwe br...\n├ *👤 `Author:`* Ranaviruva\n├ *👁️‍🗨️ `Views:`* 5112\n├ *🕘 `Duration:`* 14:25\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=FgkIkpkWf3E \n└───────────────────\n\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+                },
+                {
+                  "name": "quick_reply",
+                  "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        },
+        "mentionedJid": [
+          "94753138584@s.whatsapp.net"
+        ]
+      },
+      "selectedIndex": 1
+    },
+    "mentionUser": [
+      "94753138584@s.whatsapp.net"
+    ],
+    "body": ".audsong https://youtube.com/watch?v=FgkIkpkWf3E",
+    "quoted": {
+      "interactiveMessage": {
+        "header": {
+          "imageMessage": {
+            "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000&mms3=true",
+            "mimetype": "image/jpeg",
+            "fileSha256": "4EPlDlE0UhK3yH89n1mMN6NCLkr9Q93ww1YUVwUwbZQ=",
+            "fileLength": "46355",
+            "height": 360,
+            "width": 480,
+            "mediaKey": "pd2+oc5+zbjcIzZF1xNxwlHJhmgckWuTczzhMTloJfU=",
+            "fileEncSha256": "+eSYL9+hC6b5nPgG2BXNG8evf5p3rAkLPEoCuZRlNQ8=",
+            "directPath": "/o1/v/t62.7118-24/f1/m233/up-oil-image-66035151-aa05-43d9-a68e-b429020d50f5?ccb=9-4&oh=01_Q5AaIFeEpE5ZlrhYJxNyCpIlZRUfpspRtrhYMdS59ThW5gYA&oe=66B414C2&_nc_sid=000000",
+            "mediaKeyTimestamp": "1720499417",
+            "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAYACADASIAAhEBAxEB/8QAGQAAAwADAAAAAAAAAAAAAAAAAAMEAQUG/8QAKRAAAgEDAwIFBQEAAAAAAAAAAQIRAAMEBRIhEzEjQVGR8DJCcYGh0f/EABYBAQEBAAAAAAAAAAAAAAAAAAIBAP/EAB4RAAICAgIDAAAAAAAAAAAAAAABAhESMQMiQbHw/9oADAMBAAIRAxEAPwDjbGAt1bjNdFsKsjd93IEVVa0nGdlV8hlZgOeIBmPanY67tPDXAirvIJ4mO8/PSnW06onoooYwsdzRtrwJYON/eiN9MxV3Mr32RQCYCzyY+fkUq/g4luwXS9cdiSFECBz5/qr2wC5O2VWB386VewOjj3GZ2i2TECZHrVbrZFLgepGvx8u2i+IjM0/VvI4qlNWCrtIYqe43n37UUUsmDFGW1cMm1jcIIgzcJn+Ui5qd0P4NxwgJhWaYHH+UUVH2VM0YRi7SP//Z"
+          },
+          "hasMediaAttachment": true
+        },
+        "body": {
+          "text": "\n🎶 *PRABATH-MD AUDIO-DOWNLOADER* 🎶\n\n┌───────────────────\n├ *ℹ️ `Title:`* All right with seeduwe br...\n├ *👤 `Author:`* Ranaviruva\n├ *👁️‍🗨️ `Views:`* 5112\n├ *🕘 `Duration:`* 14:25\n├ *📌 `Ago:`* 2 years ago\n├ *🔗 `Url:`* https://youtube.com/watch?v=FgkIkpkWf3E \n└───────────────────\n\n"
+        },
+        "footer": {
+          "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+        },
+        "nativeFlowMessage": {
+          "buttons": [
+            {
+              "name": "cta_url",
+              "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Audio File 🎶\",\"id\":\".audsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+            },
+            {
+              "name": "quick_reply",
+              "buttonParamsJson": "{\"display_text\":\"Document File 📂\",\"id\":\".docsong https://youtube.com/watch?v=FgkIkpkWf3E\"}"
+            }
+          ],
+          "messageParamsJson": ""
+        }
+      }
+    }
+  }
+]

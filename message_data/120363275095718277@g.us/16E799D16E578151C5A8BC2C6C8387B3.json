@@ -1,0 +1,26 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "16E799D16E578151C5A8BC2C6C8387B3",
+      "participant": "94784284180@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499711,
+    "pushName": "පැලයා",
+    "broadcast": false,
+    "message": {
+      "conversation": ".song https://youtu.be/mMlziHrowyA?si=I7KcXo-bCT-iMFzQ"
+    },
+    "id": "16E799D16E578151C5A8BC2C6C8387B3",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94784284180@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ".song https://youtu.be/mMlziHrowyA?si=I7KcXo-bCT-iMFzQ",
+    "mentionUser": [],
+    "body": ".song https://youtu.be/mMlziHrowyA?si=I7KcXo-bCT-iMFzQ",
+    "quoted": null
+  }
+]

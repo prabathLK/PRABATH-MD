@@ -1,0 +1,37 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "00D08EC13B3EEDBD7BFBF295D5B313C1",
+      "participant": "94763059128@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720500152,
+    "pushName": "〽️ANU__💗",
+    "broadcast": false,
+    "message": {
+      "conversation": ". tik tok down https://vt.tiktok.com/ZSYVNMwax/",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwiZx+7ZBRAAGiDCB3LVkcS8p7ZZemkLGB1PW3mf6mXGkaPct0qRX7jZkiIhBbOFup0x34B9wkTLbH3Qg2GxC89dKuk7C+8YQOYeQFF9"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "00D08EC13B3EEDBD7BFBF295D5B313C1",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94763059128@s.whatsapp.net",
+    "type": "conversation",
+    "msg": ". tik tok down https://vt.tiktok.com/ZSYVNMwax/",
+    "mentionUser": [],
+    "body": ". tik tok down https://vt.tiktok.com/ZSYVNMwax/",
+    "quoted": null
+  }
+]

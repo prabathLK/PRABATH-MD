@@ -1,0 +1,38 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "DA9380403CD43AC24BE8C417F11813C7",
+      "participant": "94767081569@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498275,
+    "pushName": "`` 𝚜𝚑𝚎𝚑𝚊𝚗 𝚏𝚎𝚛𝚗𝚊𝚗𝚍𝚘 ´´ [ꜱʜᴀɴꪜ ]",
+    "broadcast": false,
+    "message": {
+      "conversation": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjvpYnJAxAAGiDtHAsx3+VugZISmWMxcoX+vuV93VialrfA7V5fMjD/0yIhBTzfP9/klwRgtc+ZE/ES1iUl7Qc/hxBHlgn1kBHa4bsE"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "`` 𝚜𝚑𝚎𝚑𝚊𝚗 𝚏𝚎𝚛𝚗𝚊𝚗𝚍𝚘 ´´ [ꜱʜᴀɴꪜ ]",
+    "id": "DA9380403CD43AC24BE8C417F11813C7",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94767081569@s.whatsapp.net",
+    "type": "conversation",
+    "msg": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+    "mentionUser": [],
+    "body": "Thank you for your message. We're unavailable right now, but will respond as soon as possible.",
+    "quoted": null
+  }
+]

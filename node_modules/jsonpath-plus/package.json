@@ -1,0 +1,151 @@
+{
+  "author": "Stefan Goessner",
+  "name": "jsonpath-plus",
+  "version": "5.0.7",
+  "main": "dist/index-node-cjs.js",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "browser": "./dist/index-browser-esm.js",
+      "umd": "./dist/index-browser-umd.js",
+      "import": "./dist/index-node-esm.mjs",
+      "require": "./dist/index-node-cjs.js",
+      "default": "./dist/index-browser-esm.js"
+    }
+  },
+  "module": "dist/index-node-esm.mjs",
+  "browser": "dist/index-browser-esm.js",
+  "types": "./src/jsonpath.d.ts",
+  "description": "A JS implementation of JSONPath with some additional operators",
+  "contributors": [
+    {
+      "name": "Prof. Gössner",
+      "email": "stefan.goessner@fh-dortmund.de"
+    },
+    {
+      "name": "Subbu Allamaraju",
+      "email": "subbu@subbu.org"
+    },
+    {
+      "name": "Mike Brevoort",
+      "email": "mike@brevoort.com"
+    },
+    {
+      "name": "Robert Krahn",
+      "email": "robert.krahn@gmail.com"
+    },
+    {
+      "name": "Brett Zamir",
+      "email": "brettz9@yahoo.com"
+    },
+    {
+      "name": "Richard Schneider",
+      "email": "makaretu@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/s3u/JSONPath.git"
+  },
+  "bugs": "https://github.com/s3u/JSONPath/issues/",
+  "homepage": "https://github.com/s3u/JSONPath",
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "react-native": {
+    "vm": false
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.13.15",
+    "@babel/preset-env": "^7.13.15",
+    "@brettz9/eslint-plugin": "^1.0.3",
+    "@rollup/plugin-babel": "^5.3.0",
+    "chai": "^4.3.4",
+    "core-js-bundle": "^3.10.1",
+    "coveradge": "^0.6.0",
+    "eslint": "^7.23.0",
+    "eslint-config-ash-nazg": "^29.9.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-array-func": "^3.1.7",
+    "eslint-plugin-chai-expect": "^2.2.0",
+    "eslint-plugin-chai-friendly": "^0.6.0",
+    "eslint-plugin-compat": "^3.9.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.1.2",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsdoc": "^32.3.0",
+    "eslint-plugin-markdown": "^2.0.1",
+    "eslint-plugin-no-unsanitized": "^3.1.4",
+    "eslint-plugin-no-use-extend-native": "^0.5.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-radar": "^0.2.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "eslint-plugin-unicorn": "^29.0.0",
+    "esm": "^3.2.25",
+    "http-server": "^0.12.3",
+    "license-badger": "^0.18.0",
+    "mocha": "^8.3.2",
+    "mocha-badge-generator": "^0.9.0",
+    "mocha-multi-reporters": "^1.5.1",
+    "nyc": "^15.1.0",
+    "open-cli": "^6.0.1",
+    "remark-cli": "^9.0.0",
+    "remark-lint-code-block-style": "^2.0.1",
+    "remark-lint-ordered-list-marker-value": "^2.0.1",
+    "rollup": "2.45.0",
+    "rollup-plugin-terser": "^7.0.2",
+    "typedoc": "^0.20.35",
+    "typescript": "^4.2.4"
+  },
+  "keywords": [
+    "json",
+    "jsonpath"
+  ],
+  "browserslist": [
+    "cover 100%"
+  ],
+  "nyc": {
+    "reporter": [
+      "text",
+      "html",
+      "json-summary"
+    ],
+    "exclude": [
+      ".mocharc.js",
+      ".eslintrc.js",
+      "rollup.config.js",
+      ".idea",
+      "coverage",
+      "dist",
+      "demo",
+      "docs",
+      "ignore",
+      "test",
+      "test-helpers"
+    ]
+  },
+  "scripts": {
+    "prepublishOnly": "pnpm i && echo 'reenable this when may be working for pnpm: npm run license-badges'",
+    "license-badge": "license-badger --corrections --uncategorizedLicenseTemplate \"\\${license} (\\${name} (\\${version}))\" --filteredTypes=nonempty --textTemplate \"License types\n(project, deps, and bundled devDeps)\" --packageJson --production badges/licenses-badge.svg",
+    "license-badge-dev": "license-badger --corrections --filteredTypes=nonempty --textTemplate \"License types\n(all devDeps)\" --allDevelopment badges/licenses-badge-dev.svg",
+    "license-badges": "npm run license-badge && npm run license-badge-dev",
+    "remark": "remark -q -f .",
+    "build-docs": "typedoc --out docs/ts src --excludeExternals --tsconfig src/tsconfig.json",
+    "open-docs": "open-cli http://localhost:8084/docs/ts/ && npm start",
+    "coverage": "open-cli http://localhost:8084/coverage/ && npm start",
+    "coverage-badge": "coveradge badges/coverage-badge.svg",
+    "node-import-test": "node --experimental-modules demo/node-import-test.mjs",
+    "open": "open-cli http://localhost:8084/demo/ && npm start",
+    "start": "http-server -p 8084",
+    "typescript": "tsc -p src",
+    "mocha": "mocha --require esm --require test-helpers/node-env.js --reporter-options configFile=mocha-multi-reporters.json test",
+    "nyc": "rm -Rf ./coverage && rm -Rf ./node_modules/.cache && nyc --all npm run mocha && npm run coverage-badge",
+    "rollup": "rollup -c",
+    "eslint": "eslint --ext js,md,html .",
+    "test": "npm run eslint && npm run rollup && npm run nyc && npm run typescript",
+    "browser-test": "npm run eslint && npm run rollup && open-cli http://localhost:8084/test/ && npm start"
+  }
+}

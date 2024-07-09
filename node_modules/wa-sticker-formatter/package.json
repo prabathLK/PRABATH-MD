@@ -1,0 +1,64 @@
+{
+  "name": "wa-sticker-formatter",
+  "version": "4.4.4",
+  "description": "Sticker Creator for WhatsApp",
+  "main": "dist",
+  "types": "dist",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "prebuild": "rimraf dist",
+    "build": "tsc -p .",
+    "doc": "typedoc",
+    "lint": "eslint \"src/**/*.ts\"",
+    "prepublish": "npm run build",
+    "fmt": "prettier --config .prettierrc \"**/*.{ts,mjs}\" --write",
+    "test": "mocha --timeout 60000 -r ts-node/register \"tests/**/*.test.ts\"",
+    "clean:webp": "find ./ -name '*.webp' -delete",
+    "release": "release-it",
+    "examples": "ts-node ./examples/index.ts"
+  },
+  "keywords": [
+    "whatsapp",
+    "stickers",
+    "whatsapp-stickers",
+    "webp"
+  ],
+  "author": {
+    "name": "Alen Yohannan",
+    "email": "alenyohannan71@gmail.com",
+    "url": "https://github.com/AlenVelocity"
+  },
+  "license": "MIT",
+  "repository": {
+    "url": "https://github.com/AlenVelocity/wa-sticker-formatter"
+  },
+  "issues": "https://github.com/AlenVelocity/wa-sticker-formatter/issues",
+  "devDependencies": {
+    "@types/fluent-ffmpeg": "^2.1.18",
+    "@types/fs-extra": "^9.0.13",
+    "@types/mocha": "^9.0.0",
+    "@types/node": "^16.4.13",
+    "@types/sharp": "^0.28.5",
+    "@typescript-eslint/eslint-plugin": "^4.29.1",
+    "@typescript-eslint/parser": "^4.29.1",
+    "eslint": "^7.32.0",
+    "mocha": "^9.1.1",
+    "prettier": "^2.3.2",
+    "release-it": "^14.11.6",
+    "rimraf": "^3.0.2",
+    "ts-node": "^10.2.1",
+    "typedoc": "^0.21.5",
+    "typescript": "^4.3.5"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "file-type": "^16.5.3",
+    "fluent-ffmpeg": "^2.1.2",
+    "fs-extra": "^10.0.0",
+    "image-size": "^1.0.0",
+    "node-webpmux": "^3.1.0",
+    "sharp": "^0.30.0"
+  }
+}

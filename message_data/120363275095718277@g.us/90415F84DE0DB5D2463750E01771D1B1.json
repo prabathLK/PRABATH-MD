@@ -1,0 +1,108 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "90415F84DE0DB5D2463750E01771D1B1",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498317,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "viewOnceMessage": {
+        "message": {
+          "messageContextInfo": {
+            "deviceListMetadata": {},
+            "deviceListMetadataVersion": 2
+          },
+          "interactiveMessage": {
+            "header": {
+              "title": "",
+              "imageMessage": {
+                "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-9a12cdda-02b4-4dd3-b6c8-463a12cb9f3c?ccb=9-4&oh=01_Q5AaIA9CWX8Qrdjpv81_teR5aeMj4VidcYlNdFKKc2azrDps&oe=66B41439&_nc_sid=000000&mms3=true",
+                "mimetype": "image/jpeg",
+                "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+                "fileLength": "24331",
+                "height": 591,
+                "width": 1280,
+                "mediaKey": "GdABmZUEhSVLebsKHOFJLQmt/M+D9Ymxpjr/2DazYjo=",
+                "fileEncSha256": "T9IOergv3qlOXSeeZyLCe+3H1N6PUh0uA5s1TASJbu0=",
+                "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-9a12cdda-02b4-4dd3-b6c8-463a12cb9f3c?ccb=9-4&oh=01_Q5AaIA9CWX8Qrdjpv81_teR5aeMj4VidcYlNdFKKc2azrDps&oe=66B41439&_nc_sid=000000",
+                "mediaKeyTimestamp": "1720498316",
+                "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+              },
+              "hasMediaAttachment": true
+            },
+            "body": {
+              "text": "*HELLO | MADu 🤍,*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 174.59MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 17 minutes, 31 seconds\n*╰──────────●●►*\n"
+            },
+            "footer": {
+              "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+            },
+            "nativeFlowMessage": {
+              "buttons": [
+                {
+                  "name": "cta_url",
+                  "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+                },
+                {
+                  "name": "single_select",
+                  "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+                }
+              ],
+              "messageParamsJson": ""
+            }
+          }
+        }
+      }
+    },
+    "id": "90415F84DE0DB5D2463750E01771D1B1",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "viewOnceMessage",
+    "msg": {
+      "header": {
+        "title": "",
+        "imageMessage": {
+          "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m269/up-oil-image-9a12cdda-02b4-4dd3-b6c8-463a12cb9f3c?ccb=9-4&oh=01_Q5AaIA9CWX8Qrdjpv81_teR5aeMj4VidcYlNdFKKc2azrDps&oe=66B41439&_nc_sid=000000&mms3=true",
+          "mimetype": "image/jpeg",
+          "fileSha256": "+pztk9hBXsfU8jBVRxi/jRRGq9d4ZP12Mexii61qnRY=",
+          "fileLength": "24331",
+          "height": 591,
+          "width": 1280,
+          "mediaKey": "GdABmZUEhSVLebsKHOFJLQmt/M+D9Ymxpjr/2DazYjo=",
+          "fileEncSha256": "T9IOergv3qlOXSeeZyLCe+3H1N6PUh0uA5s1TASJbu0=",
+          "directPath": "/o1/v/t62.7118-24/f1/m269/up-oil-image-9a12cdda-02b4-4dd3-b6c8-463a12cb9f3c?ccb=9-4&oh=01_Q5AaIA9CWX8Qrdjpv81_teR5aeMj4VidcYlNdFKKc2azrDps&oe=66B41439&_nc_sid=000000",
+          "mediaKeyTimestamp": "1720498316",
+          "jpegThumbnail": "/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wAARCAAPACADASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAgMAAQb/xAAfEAACAgEEAwAAAAAAAAAAAAABAgADEQQSFDFRUoH/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/xAAZEQEAAgMAAAAAAAAAAAAAAAAAARIRIUH/2gAMAwEAAhEDEQA/AMciNY4VRkmM4txdlFbFl7Ai0dq2DKcES2tdiSWOTKxNs6GdJqB3S4+Rdlb1NtsUq3gyb29jBgi3X//Z"
+        },
+        "hasMediaAttachment": true
+      },
+      "body": {
+        "text": "*HELLO | MADu 🤍,*\n\n*╭─「 ᴄᴏᴍᴍᴀɴᴅꜱ ᴘᴀɴᴇʟ」*\n*│◈ 𝚁𝙰𝙼 𝚄𝚂𝙰𝙶𝙴 -* 174.59MB / 63276MB\n*│◈ 𝚁𝚄𝙽𝚃𝙸𝙼𝙴 -* 12 hours, 17 minutes, 31 seconds\n*╰──────────●●►*\n"
+      },
+      "footer": {
+        "text": "ᴾᴼᵂᴱᴿᴱᴰ ᴮʸ ᴾᴿᴬᴮᴬᵀᴴ-ᴹᴰ"
+      },
+      "nativeFlowMessage": {
+        "buttons": [
+          {
+            "name": "cta_url",
+            "buttonParamsJson": "{\"display_text\":\"Url\",\"url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\",\"merchant_url\":\"https://www.youtube.com/watch?v=wocg-TWtFvs\"}"
+          },
+          {
+            "name": "single_select",
+            "buttonParamsJson": "{\"title\":\"Select a Category :)\",\"sections\":[{\"title\":\"Please select a category\",\"highlight_label\":\"PRABATH-MD\",\"rows\":[{\"header\":\"\",\"title\":\"OWNER MENU\",\"description\":\"\",\"id\":\".menu OWNER\"},{\"header\":\"\",\"title\":\"CONVERT MENU\",\"description\":\"\",\"id\":\".menu CONVERT\"},{\"header\":\"\",\"title\":\"AI MENU\",\"description\":\"\",\"id\":\".menu AI\"},{\"header\":\"\",\"title\":\"SEARCH MENU\",\"description\":\"\",\"id\":\".menu SEARCH\"},{\"header\":\"\",\"title\":\"DOWNLOAD MENU\",\"description\":\"\",\"id\":\".menu DOWNLOAD\"},{\"header\":\"\",\"title\":\"MAIN MENU\",\"description\":\"\",\"id\":\".menu MAIN\"},{\"header\":\"\",\"title\":\"MATHTOOL MENU\",\"description\":\"\",\"id\":\".menu MATHTOOL\"},{\"header\":\"\",\"title\":\"GROUP MENU\",\"description\":\"\",\"id\":\".menu GROUP\"},{\"header\":\"\",\"title\":\"STICKER MENU\",\"description\":\"\",\"id\":\".menu STICKER\"},{\"header\":\"\",\"title\":\"GAME MENU\",\"description\":\"\",\"id\":\".menu GAME\"}]}]}"
+          }
+        ],
+        "messageParamsJson": ""
+      }
+    },
+    "mentionUser": [],
+    "body": "",
+    "quoted": null
+  }
+]

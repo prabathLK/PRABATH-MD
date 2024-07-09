@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "5850193ECECCABB82F9F748935FB687D",
+      "participant": "94784284180@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498245,
+    "pushName": "පැලයා",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjK/erTAhAAGiC4UOB3RFcOiMBKtV+mnbIstV2LW/widDGz90hdm/nLliIhBctbBEWtbbQBDzCSHEnvJGcq6lSDVTU0TMSDvUFJV2oP"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "පැලයා",
+    "id": "5850193ECECCABB82F9F748935FB687D",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94784284180@s.whatsapp.net"
+  }
+]

@@ -1,0 +1,54 @@
+{
+  "name": "google-it",
+  "version": "1.6.4",
+  "description": "A CLI and Node.js library to help retrieve, display, and store Google search results",
+  "main": "./lib/main.js",
+  "bin": "./lib/app.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PatNeedham/google-it.git"
+  },
+  "scripts": {
+    "build": "babel src -d lib",
+    "lint": "./node_modules/.bin/eslint 'src/*.js'",
+    "test": "jest",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "google-search",
+    "google-search-to-json"
+  ],
+  "author": "Pat Needham (pat@needham.io)",
+  "license": "ISC",
+  "jest": {
+    "preset": "amex-jest-preset",
+    "collectCoverage": true,
+    "coverageThreshold": {
+      "global": {
+        "branches": 70,
+        "functions": 60,
+        "lines": 60,
+        "statements": 60
+      }
+    }
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.11",
+    "colors": "^1.4.0",
+    "command-line-args": "^5.0.0",
+    "ora": "^4.0.3",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.17.10",
+    "@babel/core": "^7.7.7",
+    "amex-jest-preset": "^6.1.1",
+    "babel-preset-amex": "^3.4.1",
+    "codecov": "^3.6.2",
+    "eslint": "^6.8.0",
+    "eslint-config-amex": "^15.3.0",
+    "jest": "^26.4.2",
+    "mocha": "^10.1.0",
+    "prettier": "2.0.0"
+  }
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "F4ADE5DF5A4C8336DC7E526E2002A441",
+      "participant": "94760530938@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498227,
+    "pushName": "premuditha",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjB+/fBAhAAGiCbp0qLxn/RvZwnnv/tNx9xhFDPXc0HmuXRU+2NHiKQhiIhBaSQY9hVrCpDkTWJ+1X1pJiBLPxSQaBtp4GmkiG5KwJu"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "verifiedBizName": "premuditha",
+    "id": "F4ADE5DF5A4C8336DC7E526E2002A441",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760530938@s.whatsapp.net"
+  }
+]

@@ -1,0 +1,66 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "81B173D265FF12562BEBE0D819DD1E99",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720499201,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "extendedTextMessage": {
+        "text": "❌ *I Couldn't find anything. Please try again later...*",
+        "contextInfo": {
+          "stanzaId": "D5822E0816EDC53EB33EA5A21C5C835F",
+          "participant": "94771495203@s.whatsapp.net",
+          "quotedMessage": {
+            "templateButtonReplyMessage": {
+              "selectedId": ".inapkdl igi",
+              "selectedDisplayText": "📂 Download Apk",
+              "selectedIndex": 1
+            }
+          },
+          "mentionedJid": [
+            "94771495203@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "81B173D265FF12562BEBE0D819DD1E99",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "extendedTextMessage",
+    "msg": {
+      "text": "❌ *I Couldn't find anything. Please try again later...*",
+      "contextInfo": {
+        "stanzaId": "D5822E0816EDC53EB33EA5A21C5C835F",
+        "participant": "94771495203@s.whatsapp.net",
+        "quotedMessage": {
+          "templateButtonReplyMessage": {
+            "selectedId": ".inapkdl igi",
+            "selectedDisplayText": "📂 Download Apk",
+            "selectedIndex": 1
+          }
+        },
+        "mentionedJid": [
+          "94771495203@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94771495203@s.whatsapp.net"
+    ],
+    "body": "❌ *I Couldn't find anything. Please try again later...*",
+    "quoted": {
+      "templateButtonReplyMessage": {
+        "selectedId": ".inapkdl igi",
+        "selectedDisplayText": "📂 Download Apk",
+        "selectedIndex": 1
+      }
+    }
+  }
+]

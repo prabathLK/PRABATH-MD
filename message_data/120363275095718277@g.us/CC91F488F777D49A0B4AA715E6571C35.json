@@ -1,0 +1,89 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "CC91F488F777D49A0B4AA715E6571C35",
+      "participant": "94712448682@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498258,
+    "pushName": "Ll",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjCxOeZAhAAGiByt5eQxW1vu0OmnMDqnFMUYqqO6O8xRoWeuqBKqln/xyIhBYARv+TTMMCDH/XkUqhJCyh8PFQYhNx8LuMZK11juVR+"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "CC91F488F777D49A0B4AA715E6571C35",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94712448682@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "CC91F488F777D49A0B4AA715E6571C35",
+      "participant": "94712448682@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498286,
+    "pushName": "Ll",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjCxOeZAhAAGiByt5eQxW1vu0OmnMDqnFMUYqqO6O8xRoWeuqBKqln/xyIhBYARv+TTMMCDH/XkUqhJCyh8PFQYhNx8LuMZK11juVR+"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "CC91F488F777D49A0B4AA715E6571C35",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94712448682@s.whatsapp.net"
+  },
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "CC91F488F777D49A0B4AA715E6571C35",
+      "participant": "94712448682@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498314,
+    "pushName": "Ll",
+    "broadcast": false,
+    "message": {
+      "senderKeyDistributionMessage": {
+        "groupId": "120363275095718277@g.us",
+        "axolotlSenderKeyDistributionMessage": "MwjCxOeZAhAAGiByt5eQxW1vu0OmnMDqnFMUYqqO6O8xRoWeuqBKqln/xyIhBYARv+TTMMCDH/XkUqhJCyh8PFQYhNx8LuMZK11juVR+"
+      },
+      "messageContextInfo": {
+        "deviceListMetadata": {
+          "recipientKeyHash": "F8nOqZuerHC8mg==",
+          "recipientTimestamp": "1720497761"
+        },
+        "deviceListMetadataVersion": 2
+      }
+    },
+    "id": "CC91F488F777D49A0B4AA715E6571C35",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94712448682@s.whatsapp.net"
+  }
+]

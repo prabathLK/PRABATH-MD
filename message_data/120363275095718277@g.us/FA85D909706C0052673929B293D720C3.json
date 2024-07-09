@@ -1,0 +1,82 @@
+[
+  {
+    "key": {
+      "remoteJid": "120363275095718277@g.us",
+      "fromMe": false,
+      "id": "FA85D909706C0052673929B293D720C3",
+      "participant": "94760991025@s.whatsapp.net"
+    },
+    "messageTimestamp": 1720498428,
+    "pushName": "MR VIHAGA KING",
+    "broadcast": false,
+    "message": {
+      "imageMessage": {
+        "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-29381963-51dc-4c98-81b8-4ed3ec6913be?ccb=9-4&oh=01_Q5AaIIV7_Z6OhwyBXwCLAB8HAv6ZeItKihx2yOUzpn0RKXdM&oe=66B4448D&_nc_sid=000000&mms3=true",
+        "mimetype": "image/jpeg",
+        "caption": "",
+        "fileSha256": "uV/ZXghpNVQ8e5NdXupqpo65Rttc5l1rlMgNeg95qFA=",
+        "fileLength": "8175",
+        "mediaKey": "HToqbrmzfyI9oZVo3MAcLH0vDVvyKDqLLsGl8owDOO4=",
+        "fileEncSha256": "beo9DbXDX2oBgBUMWyc82hhAx5buvtuMaImn/feYTZQ=",
+        "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-29381963-51dc-4c98-81b8-4ed3ec6913be?ccb=9-4&oh=01_Q5AaIIV7_Z6OhwyBXwCLAB8HAv6ZeItKihx2yOUzpn0RKXdM&oe=66B4448D&_nc_sid=000000",
+        "mediaKeyTimestamp": "1720498427",
+        "contextInfo": {
+          "stanzaId": "B346320FE24B7DE788D0018FFCE922BB",
+          "participant": "94783001133@s.whatsapp.net",
+          "quotedMessage": {
+            "extendedTextMessage": {
+              "text": ".pinterest app apk",
+              "previewType": "NONE",
+              "inviteLinkGroupTypeV2": "DEFAULT"
+            }
+          },
+          "mentionedJid": [
+            "94783001133@s.whatsapp.net"
+          ]
+        }
+      }
+    },
+    "id": "FA85D909706C0052673929B293D720C3",
+    "chat": "120363275095718277@g.us",
+    "fromMe": false,
+    "isGroup": true,
+    "sender": "94760991025@s.whatsapp.net",
+    "type": "imageMessage",
+    "msg": {
+      "url": "https://mmg.whatsapp.net/o1/v/t62.7118-24/f1/m232/up-oil-image-29381963-51dc-4c98-81b8-4ed3ec6913be?ccb=9-4&oh=01_Q5AaIIV7_Z6OhwyBXwCLAB8HAv6ZeItKihx2yOUzpn0RKXdM&oe=66B4448D&_nc_sid=000000&mms3=true",
+      "mimetype": "image/jpeg",
+      "caption": "",
+      "fileSha256": "uV/ZXghpNVQ8e5NdXupqpo65Rttc5l1rlMgNeg95qFA=",
+      "fileLength": "8175",
+      "mediaKey": "HToqbrmzfyI9oZVo3MAcLH0vDVvyKDqLLsGl8owDOO4=",
+      "fileEncSha256": "beo9DbXDX2oBgBUMWyc82hhAx5buvtuMaImn/feYTZQ=",
+      "directPath": "/o1/v/t62.7118-24/f1/m232/up-oil-image-29381963-51dc-4c98-81b8-4ed3ec6913be?ccb=9-4&oh=01_Q5AaIIV7_Z6OhwyBXwCLAB8HAv6ZeItKihx2yOUzpn0RKXdM&oe=66B4448D&_nc_sid=000000",
+      "mediaKeyTimestamp": "1720498427",
+      "contextInfo": {
+        "stanzaId": "B346320FE24B7DE788D0018FFCE922BB",
+        "participant": "94783001133@s.whatsapp.net",
+        "quotedMessage": {
+          "extendedTextMessage": {
+            "text": ".pinterest app apk",
+            "previewType": "NONE",
+            "inviteLinkGroupTypeV2": "DEFAULT"
+          }
+        },
+        "mentionedJid": [
+          "94783001133@s.whatsapp.net"
+        ]
+      }
+    },
+    "mentionUser": [
+      "94783001133@s.whatsapp.net"
+    ],
+    "body": "",
+    "quoted": {
+      "extendedTextMessage": {
+        "text": ".pinterest app apk",
+        "previewType": "NONE",
+        "inviteLinkGroupTypeV2": "DEFAULT"
+      }
+    }
+  }
+]
