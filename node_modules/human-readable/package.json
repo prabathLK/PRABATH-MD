@@ -1,0 +1,27 @@
+{
+  "name": "human-readable",
+  "version": "0.2.1",
+  "description": "Presenting values in human-readable form.",
+  "keywords": [
+    "format",
+    "filesize",
+    "iec",
+    "jedec",
+    "readable",
+    "no-dependencies"
+  ],
+  "main": "javascript/readable.js",
+  "types": "javascript/readable.d.ts",
+  "files": [
+    "javascript"
+  ],
+  "repository": "git@github.com:mvasilkov/human-readable.git",
+  "author": "Mark Vasilkov (https://github.com/mvasilkov)",
+  "license": "MIT",
+  "scripts": {
+    "test": "smol test"
+  },
+  "devDependencies": {
+    "smoltest": "*"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "name": "croner",
+  "version": "4.1.97",
+  "description": "Trigger functions and/or evaluate cron expressions in JavaScript. No dependencies. Most features. All environmens.",
+  "author": "Hexagon <github.com/hexagon>",
+  "homepage": "https://hexagon.github.io/croner",
+  "contributors": [
+    {
+      "name": "Pehr Boman",
+      "email": "github.com/unkelpehr"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hexagon/croner"
+  },
+  "bugs": {
+    "url": "https://github.com/hexagon/croner/issues"
+  },
+  "files": [
+    "dist/*",
+    "src/*",
+    "types/*",
+    "SECURITY.md",
+    "croner.png"
+  ],
+  "keywords": [
+    "cron",
+    "parser",
+    "croner",
+    "sheduler",
+    "timer",
+    "isomorphic"
+  ],
+  "scripts": {
+    "test": "uvu test test.croner.js",
+    "test:dist": "uvu test js && npm run test:ts",
+    "test:coverage": "c8 --include=src npm test",
+    "test:lint": "eslint ./**/*.js ./**/*.cjs",
+    "test:lint:fix": "eslint --fix  ./**/*.js ./**/*.cjs",
+    "test:ts": "tsc --noEmit ./test/ts/basics.ts",
+    "build": "npm update && npm run build:precleanup && npm run test:lint && npm run build:typings && npm run build:dist && npm run build:minify && npm run build:cleanup && npm run test:coverage && npm run test:dist",
+    "build:ci": "npm run test:lint && npm run build:typings && npm run build:dist && npm run build:minify && npm run build:cleanup && npm run test:coverage && npm run test:dist",
+    "build:precleanup": "(rm -rf types/* || del /Q types\\*) && (rm -rf dist/* || del /Q dist\\*)",
+    "build:dist": "rollup -c ./rollup.config.js",
+    "build:minify": "uglifyjs dist/croner.cjs --source-map -o dist/croner.min.js && uglifyjs dist/croner.mjs --source-map -o dist/croner.min.mjs",
+    "build:typings": "tsc",
+    "build:cleanup": "(rm dist/croner.mjs || del dist\\croner.mjs)",
+    "build:docs": "(rm -rf docs/* || rd /S /Q docs) && jsdoc -c .jsdoc.json"
+  },
+  "type": "module",
+  "main": "./dist/croner.cjs",
+  "browser": "./dist/croner.min.js",
+  "module": "./src/croner.js",
+  "types": "types/croner.single.d.ts",
+  "exports": {
+    "./package.json": "./package.json",
+    ".": {
+      "import": "./src/croner.js",
+      "require": "./dist/croner.cjs",
+      "browser": "./dist/croner.min.js"
+    },
+    "./minified": {
+      "import": "./dist/croner.min.mjs",
+      "require": "./dist/croner.min.js",
+      "browser": "./dist/croner.min.js"
+    }
+  },
+  "devDependencies": {
+    "c8": "^7.10.0",
+    "eslint": "^8.8.0",
+    "jsdoc": "^3.6.7",
+    "jsdoc-chameleon-template": "^1.0.2",
+    "rollup": "^2.59.0",
+    "typescript": "^4.4.4",
+    "uglify-js": "^3.14.3",
+    "uvu": "^0.5.2"
+  },
+  "license": "MIT"
+}

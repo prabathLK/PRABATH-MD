@@ -1,0 +1,48 @@
+{
+  "name": "@derhuerst/http-basic",
+  "version": "8.2.4",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "files": [
+    "lib"
+  ],
+  "description": "Very low level wrapper arround http.request/https.request",
+  "keywords": [
+    "http",
+    "https",
+    "request",
+    "fetch",
+    "gzip",
+    "deflate",
+    "redirect",
+    "cache",
+    "etag",
+    "cache-control"
+  ],
+  "dependencies": {
+    "caseless": "^0.12.0",
+    "concat-stream": "^2.0.0",
+    "http-response-object": "^3.0.1",
+    "parse-cache-control": "^1.0.1"
+  },
+  "devDependencies": {
+    "@types/concat-stream": "^2.0.0",
+    "@types/node": "^18.0.1",
+    "flowgen2": "^2.2.1",
+    "rimraf": "^3.0.2",
+    "serve-static": "^1.11.1",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "prepublishOnly": "npm run build",
+    "build": "tsc && flowgen lib/**/*",
+    "pretest": "npm run build",
+    "test": "node test/index && node test/cache && node test/cache-invalidation && rimraf lib/cache"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "repository": "https://github.com/derhuerst/http-basic.git",
+  "author": "ForbesLindesay",
+  "license": "MIT"
+}

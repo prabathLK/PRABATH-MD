@@ -1,0 +1,47 @@
+{
+  "name": "translatte",
+  "version": "3.0.1",
+  "description": "A free and unlimited translate for NodeJS",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/extensionsapp/translatte.git"
+  },
+  "keywords": [
+    "translate",
+    "translator",
+    "google",
+    "google translate",
+    "api",
+    "free",
+    "language",
+    "proxy",
+    "translatte",
+    "microsoft",
+    "azure",
+    "microsoft azure",
+    "microsoft translate",
+    "azure translate",
+    "google cloud",
+    "google cloud translate",
+    "yandex",
+    "yandex cloud",
+    "yandex translate",
+    "yandex cloud translate"
+  ],
+  "author": {
+    "name": "ExtensionsApp",
+    "email": "extensionsapp@gmail.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/extensionsapp/translatte/issues"
+  },
+  "homepage": "https://github.com/extensionsapp/translatte#readme",
+  "dependencies": {
+    "tunnel": "0.0.6",
+    "configstore": "4.0.0",
+    "proxy-check": "1.0.8",
+    "got": "9.6.0"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "human-time",
+  "version": "0.0.2",
+  "description": "show seconds in a human-readable form",
+  "main": "human.js",
+  "scripts": {
+    "test": "node tests/javascript.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bahamas10/human.git"
+  },
+  "keywords": [
+    "human",
+    "relative",
+    "date",
+    "ago",
+    "time"
+  ],
+  "author": "Dave Eddy <dave@daveeddy.com> (http://www.daveeddy.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahamas10/human/issues"
+  },
+  "homepage": "https://github.com/bahamas10/human"
+}

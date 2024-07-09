@@ -1,0 +1,25 @@
+{
+  "name": "vm",
+  "version": "0.1.0",
+  "description": "NodeJS Core Module Extended",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DiegoRBaquero/node-vm.git"
+  },
+  "keywords": [
+    "node",
+    "vm",
+    "core",
+    "module"
+  ],
+  "author": "Diego Rodríguez Baquero <diegorbaquero@gmail.com> (https://diegorbaquero.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/DiegoRBaquero/node-vm/issues"
+  },
+  "homepage": "https://github.com/DiegoRBaquero/node-vm#readme"
+}

@@ -1,0 +1,65 @@
+{
+  "name": "jsdon",
+  "version": "0.1.15",
+  "description": "A DOM serializer based on LinkeDOM idea",
+  "main": "./cjs/index.js",
+  "scripts": {
+    "build": "npm run cjs && npm run rollup:es && npm run rollup:babel && npm run min && npm run test",
+    "cjs": "ascjs esm cjs",
+    "rollup:es": "rollup --config rollup/es.config.js && sed -i.bck 's/^var /self./' es.js && rm -rf es.js.bck",
+    "rollup:babel": "rollup --config rollup/babel.config.js && sed -i.bck 's/^var /self./' index.js && rm -rf index.js.bck",
+    "min": "terser index.js --comments='/^!/' -c -m -o min.js",
+    "coveralls": "c8 report --reporter=text-lcov | coveralls",
+    "test": "c8 node test/index.js"
+  },
+  "keywords": [
+    "JSON",
+    "DOM",
+    "serialization",
+    "compact",
+    "fast"
+  ],
+  "author": "Andrea Giammarchi",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/preset-env": "^7.14.7",
+    "@rollup/plugin-babel": "^5.3.0",
+    "@rollup/plugin-node-resolve": "^13.0.0",
+    "ascjs": "^5.0.1",
+    "c8": "^7.7.3",
+    "coveralls": "^3.1.0",
+    "css-select": "^4.1.3",
+    "htmlparser2": "^6.1.0",
+    "linkedom": "^0.9.7",
+    "rollup": "^2.52.3",
+    "rollup-plugin-terser": "^7.0.2",
+    "terser": "^5.7.1"
+  },
+  "module": "./esm/index.js",
+  "type": "module",
+  "exports": {
+    ".": {
+      "import": "./esm/index.js",
+      "default": "./cjs/index.js"
+    },
+    "./tree": {
+      "import": "./esm/as-tree.js",
+      "default": "./cjs/as-tree.js"
+    },
+    "./parse": {
+      "import": "./esm/parse.js",
+      "default": "./cjs/parse.js"
+    },
+    "./package.json": "./package.json"
+  },
+  "unpkg": "min.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WebReflection/jsdon.git"
+  },
+  "bugs": {
+    "url": "https://github.com/WebReflection/jsdon/issues"
+  },
+  "homepage": "https://github.com/WebReflection/jsdon#readme"
+}

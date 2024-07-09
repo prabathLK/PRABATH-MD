@@ -1,0 +1,26 @@
+{
+  "name": "amp-message",
+  "version": "0.1.2",
+  "repository": "visionmedia/node-amp-message",
+  "description": "Higher level Message object for the AMP protocol",
+  "keywords": [
+    "amp",
+    "actor",
+    "message",
+    "messaging",
+    "zmq",
+    "zeromq"
+  ],
+  "dependencies": {
+    "amp": "0.3.1"
+  },
+  "files": [
+    "index.js"
+  ],
+  "devDependencies": {
+    "matcha": "~0.4.0",
+    "mocha": "*",
+    "should": "*"
+  },
+  "license": "MIT"
+}

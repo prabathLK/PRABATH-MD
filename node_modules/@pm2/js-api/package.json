@@ -1,0 +1,77 @@
+{
+  "name": "@pm2/js-api",
+  "version": "0.8.0",
+  "description": "PM2.io API Client for Javascript",
+  "main": "index.js",
+  "unpkg": "dist/keymetrics.es5.min.js",
+  "engines": {
+    "node": ">=4.0"
+  },
+  "scripts": {
+    "test": "mocha test/*",
+    "build": "mkdir -p dist; browserify -s Keymetrics -r ./ > ./dist/keymetrics.es5.js",
+    "dist": "mkdir -p dist; browserify -s Keymetrics -r ./ | uglifyjs -c warnings=false -m > ./dist/keymetrics.es5.min.js",
+    "doc": "jsdoc -r ./src --readme ./README.md -d doc -t ./node_modules/minami",
+    "clean": "rm dist/*",
+    "prepare": "npm run build && npm run dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keymetrics/km.js.git"
+  },
+  "keywords": [
+    "keymetrics",
+    "api",
+    "dashboard",
+    "monitoring",
+    "wrapper"
+  ],
+  "author": "Keymetrics Team",
+  "license": "Apache-2",
+  "bugs": {
+    "url": "https://github.com/keymetrics/km.js/issues"
+  },
+  "homepage": "https://github.com/keymetrics/km.js#readme",
+  "dependencies": {
+    "async": "^2.6.3",
+    "extrareqp2": "^1.0.0",
+    "debug": "~4.3.1",
+    "eventemitter2": "^6.3.1",
+    "ws": "^7.0.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.0.0",
+    "@babel/preset-env": "^7.0.0",
+    "babelify": "10.0.0",
+    "browserify": "^17.0.0",
+    "jsdoc": "^3.4.2",
+    "minami": "^1.1.1",
+    "mocha": "^7.0.0",
+    "should": "*",
+    "uglify-es": "~3.3.9"
+  },
+  "browserify": {
+    "debug": true,
+    "transform": [
+      [
+        "babelify",
+        {
+          "presets": [
+            [
+              "@babel/preset-env",
+              {
+                "debug": false,
+                "forceAllTransforms": true
+              }
+            ]
+          ],
+          "sourceMaps": true
+        }
+      ]
+    ]
+  },
+  "browser": {
+    "./src/auth_strategies/embed_strategy.js": false,
+    "ws": false
+  }
+}

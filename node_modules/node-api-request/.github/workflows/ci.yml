@@ -1,0 +1,38 @@
+name: ci
+
+on: [push]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 18
+
+      - name: Install NPM dependencies 📦
+        run: npm install
+
+      - name: Unit tests 🧪
+        run: npm test -- --coverage
+
+      - name: Get coverage percentage
+        id: coverage
+        run: echo "::set-output name=percentage::$(cat ./coverage/lcov-report/index.json | jq -r '.total.branches.pct')"
+
+      - name: Save coverage reports as artifacts
+        uses: actions/upload-artifact@v2
+        with:
+          name: coverage-reports
+          path: ./coverage
+
+      - name: Update coverage badge in README
+        run: |
+          COVERAGE_PERCENTAGE=${{ steps.coverage.outputs.percentage }}
+          sed -i "s/\(Coverage: \)[0-9]*\.[0-9]*/\1$COVERAGE_PERCENTAGE/" README.md
+        if: always()

@@ -1,0 +1,6 @@
+--timeout 20000
+--reporter spec
+--bail
+--check-leaks
+--require test/support/env
+test/**/*.test.js

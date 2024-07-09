@@ -1,0 +1,127 @@
+"use strict";
+/**
+ * @license
+ * Copyright 2017 Google Inc.
+ * SPDX-License-Identifier: Apache-2.0
+ */
+var __importDefault = (this && this.__importDefault) || function (mod) {
+    return (mod && mod.__esModule) ? mod : { "default": mod };
+};
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.canDownload = exports.getInstalledBrowsers = exports.uninstall = exports.install = void 0;
+const assert_1 = __importDefault(require("assert"));
+const fs_1 = require("fs");
+const promises_1 = require("fs/promises");
+const os_1 = __importDefault(require("os"));
+const path_1 = __importDefault(require("path"));
+const browser_data_js_1 = require("./browser-data/browser-data.js");
+const Cache_js_1 = require("./Cache.js");
+const debug_js_1 = require("./debug.js");
+const detectPlatform_js_1 = require("./detectPlatform.js");
+const fileUtil_js_1 = require("./fileUtil.js");
+const httpUtil_js_1 = require("./httpUtil.js");
+const debugInstall = (0, debug_js_1.debug)('puppeteer:browsers:install');
+const times = new Map();
+function debugTime(label) {
+    times.set(label, process.hrtime());
+}
+function debugTimeEnd(label) {
+    const end = process.hrtime();
+    const start = times.get(label);
+    if (!start) {
+        return;
+    }
+    const duration = end[0] * 1000 + end[1] / 1e6 - (start[0] * 1000 + start[1] / 1e6); // calculate duration in milliseconds
+    debugInstall(`Duration for ${label}: ${duration}ms`);
+}
+async function install(options) {
+    options.platform ??= (0, detectPlatform_js_1.detectBrowserPlatform)();
+    options.unpack ??= true;
+    if (!options.platform) {
+        throw new Error(`Cannot download a binary for the provided platform: ${os_1.default.platform()} (${os_1.default.arch()})`);
+    }
+    const url = getDownloadUrl(options.browser, options.platform, options.buildId, options.baseUrl);
+    const fileName = url.toString().split('/').pop();
+    (0, assert_1.default)(fileName, `A malformed download URL was found: ${url}.`);
+    const cache = new Cache_js_1.Cache(options.cacheDir);
+    const browserRoot = cache.browserRoot(options.browser);
+    const archivePath = path_1.default.join(browserRoot, `${options.buildId}-${fileName}`);
+    if (!(0, fs_1.existsSync)(browserRoot)) {
+        await (0, promises_1.mkdir)(browserRoot, { recursive: true });
+    }
+    if (!options.unpack) {
+        if ((0, fs_1.existsSync)(archivePath)) {
+            return archivePath;
+        }
+        debugInstall(`Downloading binary from ${url}`);
+        debugTime('download');
+        await (0, httpUtil_js_1.downloadFile)(url, archivePath, options.downloadProgressCallback);
+        debugTimeEnd('download');
+        return archivePath;
+    }
+    const outputPath = cache.installationDir(options.browser, options.platform, options.buildId);
+    if ((0, fs_1.existsSync)(outputPath)) {
+        return new Cache_js_1.InstalledBrowser(cache, options.browser, options.buildId, options.platform);
+    }
+    try {
+        debugInstall(`Downloading binary from ${url}`);
+        try {
+            debugTime('download');
+            await (0, httpUtil_js_1.downloadFile)(url, archivePath, options.downloadProgressCallback);
+        }
+        finally {
+            debugTimeEnd('download');
+        }
+        debugInstall(`Installing ${archivePath} to ${outputPath}`);
+        try {
+            debugTime('extract');
+            await (0, fileUtil_js_1.unpackArchive)(archivePath, outputPath);
+        }
+        finally {
+            debugTimeEnd('extract');
+        }
+    }
+    finally {
+        if ((0, fs_1.existsSync)(archivePath)) {
+            await (0, promises_1.unlink)(archivePath);
+        }
+    }
+    return new Cache_js_1.InstalledBrowser(cache, options.browser, options.buildId, options.platform);
+}
+exports.install = install;
+/**
+ *
+ * @public
+ */
+async function uninstall(options) {
+    options.platform ??= (0, detectPlatform_js_1.detectBrowserPlatform)();
+    if (!options.platform) {
+        throw new Error(`Cannot detect the browser platform for: ${os_1.default.platform()} (${os_1.default.arch()})`);
+    }
+    new Cache_js_1.Cache(options.cacheDir).uninstall(options.browser, options.platform, options.buildId);
+}
+exports.uninstall = uninstall;
+/**
+ * Returns metadata about browsers installed in the cache directory.
+ *
+ * @public
+ */
+async function getInstalledBrowsers(options) {
+    return new Cache_js_1.Cache(options.cacheDir).getInstalledBrowsers();
+}
+exports.getInstalledBrowsers = getInstalledBrowsers;
+/**
+ * @public
+ */
+async function canDownload(options) {
+    options.platform ??= (0, detectPlatform_js_1.detectBrowserPlatform)();
+    if (!options.platform) {
+        throw new Error(`Cannot download a binary for the provided platform: ${os_1.default.platform()} (${os_1.default.arch()})`);
+    }
+    return await (0, httpUtil_js_1.headHttpRequest)(getDownloadUrl(options.browser, options.platform, options.buildId, options.baseUrl));
+}
+exports.canDownload = canDownload;
+function getDownloadUrl(browser, platform, buildId, baseUrl) {
+    return new URL(browser_data_js_1.downloadUrls[browser](platform, buildId, baseUrl));
+}
+//# sourceMappingURL=install.js.map

@@ -1,0 +1,20 @@
+{
+  "name": "async.util.isarraylike",
+  "description": "async isarraylikehelper method as module.",
+  "main": "./index.js",
+  "repository": "async-js/async.util",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "version": "0.5.2",
+  "license": "MIT",
+  "dependencies": {
+    "async.util.isarray": "0.5.2"
+  },
+  "keywords": [
+    "async.util",
+    "isarraylike"
+  ]
+}

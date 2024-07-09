@@ -1,0 +1,69 @@
+{
+  "name": "ssl-express-www",
+  "version": "3.2.1",
+  "description": "Redirecting HTTP to HTTPS. It forces SSL (HTTPS) when HTTP is required using Express (Nodejs) and remove www and trailing slash on your domain.",
+  "main": "index.js",
+  "scripts": {
+    "dist": "./node_modules/.bin/browserify source/ForceSSL.js -s sslExpress -t [babelify] -p [bannerify --file .banner] -o dist/index.js",
+    "lib": "./node_modules/.bin/babel source -d lib",
+    "build": "rm -rf lib dist && yarn lib && yarn dist",
+    "lint": "eslint \"**/*.{js,jsx,ts,tsx}\"",
+    "test": "./node_modules/.bin/mocha specs/**/*.spec.js --require babel-register",
+    "test-watch": "yarn test -- --watch || ECHO."
+  },
+  "keywords": [
+    "ssl",
+    "https",
+    "express",
+    "nodejs",
+    "node",
+    "force ssl",
+    "force https",
+    "enforce https",
+    "domain redirect",
+    "remove www",
+    "middleware redirect",
+    "slash redirect",
+    "trailing slash",
+    "remove trailing",
+    "heroku redirect",
+    "heroku ssl",
+    "production ssl redirect"
+  ],
+  "files": [
+    "lib",
+    "index.js"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/brunomacedo/ssl-express-www.git"
+  },
+  "bugs": {
+    "url": "https://github.com/brunomacedo/ssl-express-www/issues"
+  },
+  "author": "Bruno Macedo <contato@brunomacedo.com.br> (https://brunomacedo.com.br/)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-preset-env": "^1.6.1",
+    "babel-register": "^6.26.0",
+    "babelify": "^8.0.0",
+    "bannerify": "^1.0.1",
+    "browserify": "^15.2.0",
+    "chai": "^4.1.2",
+    "eslint": "^4.15.0",
+    "eslint-config-airbnb": "^16.1.0",
+    "eslint-plugin-import": "^2.8.0",
+    "eslint-plugin-jsx-a11y": "^6.0.3",
+    "eslint-plugin-react": "^7.5.1",
+    "mocha": "^10.2.0",
+    "rimraf": "^2.6.2",
+    "sinon": "^11.1.1"
+  },
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}

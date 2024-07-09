@@ -1,0 +1,27 @@
+{
+  "name": "@ffmpeg-installer/linux-x64",
+  "version": "4.1.0",
+  "description": "Linux FFmpeg binary used by ffmpeg-installer",
+  "homepage": "https://www.johnvansickle.com/ffmpeg/",
+  "scripts": {
+    "test": "file ffmpeg | grep -qF \"ELF 64-bit\"",
+    "prepublishOnly": "npm test",
+    "postinstall": "chmod u+x ffmpeg",
+    "upload": "npm --userconfig=../../.npmrc publish --access public"
+  },
+  "keywords": [
+    "ffmpeg",
+    "binary",
+    "linux",
+    "x64"
+  ],
+  "os": [
+    "linux"
+  ],
+  "cpu": [
+    "x64"
+  ],
+  "author": "Kristoffer Lundén <kristoffer.lunden@gmail.com>",
+  "license": "GPLv3",
+  "ffmpeg": "20181210-g0e8eb07980"
+}
