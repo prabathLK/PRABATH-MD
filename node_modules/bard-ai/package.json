@@ -1,0 +1,38 @@
+{
+    "name": "bard-ai",
+    "version": "2.0.3",
+    "description": "A Reverse-Engineered Google Bard, Written in JS",
+    "main": "index.js",
+    "types": "@types/index.d.ts",
+    "scripts": {
+        "format": "pnpx prettier --write .",
+        "check": "pnpx prettier --check .",
+        "test-daily": "vitest run ./tests/daily.test.js",
+        "test-full": "vitest run ./tests/fullCoverage.test.js",
+        "test-parse": "vitest run ./tests/parse.test.js",
+        "test": "vitest run --coverage",
+        "test-ui": "vitest --ui --coverage"
+    },
+    "author": "EvanZhouDev",
+    "license": "GPL-3.0",
+    "type": "module",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/EvanZhouDev/bard-ai.git"
+    },
+    "homepage": "https://github.com/EvanZhouDev/bard-ai",
+    "keywords": [
+        "Google",
+        "Bard",
+        "AI"
+    ],
+    "devDependencies": {
+        "@vitest/coverage-v8": "^0.33.0",
+        "@vitest/ui": "^0.33.0",
+        "dotenv": "^16.3.1",
+        "jest": "^29.6.1",
+        "node-fetch": "^3.3.1",
+        "prettier": "^3.0.0",
+        "vitest": "^0.33.0"
+    }
+}

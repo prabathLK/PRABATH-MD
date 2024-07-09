@@ -1,0 +1,40 @@
+{
+  "name": "dasu",
+  "version": "0.4.3",
+  "description": "Consistent xhr API for both client and server (http.request)",
+  "main": "dist/dasu.min.js",
+  "files": [
+    "dist/dasu.min.js"
+  ],
+  "scripts": {
+    "watch": "miru -f dasu.js -e 'npm run build'",
+    "build": "npm run build:js && npm run build:js:min",
+    "build:js": "rollup -f umd dasu.js > dist/dasu.js",
+    "build:js:min": "uglifyjs dist/dasu.js -cmo dist/dasu.min.js",
+    "prepublish": "npm run lint && npm run build && npm test",
+    "passlint": "passlint dist/dasu.js dist/dasu.min.js",
+    "lint": "spacestandard --fix dasu.js",
+    "test:only": "tape test/*test*.js",
+    "test": "npm run lint && npm run build && tape test/*test*.js | faucet && npm run passlint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/talmobi/dasu"
+  },
+  "author": "talmobi <talmo.christian@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/talmobi/dasu/issues"
+  },
+  "devDependencies": {
+    "body-parser": "~1.19.0",
+    "express": "~4.17.1",
+    "faucet": "0.0.1",
+    "miru": "~0.16.2",
+    "passlint": "0.0.13",
+    "rollup": "~0.33.1",
+    "spacestandard": "~0.2.0",
+    "tape": "~4.6.0",
+    "uglify-js": "~2.7.5"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "files": [
+    "package.json",
+    "bower.json"
+  ],
+  "plugins": []
+}

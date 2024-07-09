@@ -1,0 +1,23 @@
+{
+  "name": "async.util.eachoflimit",
+  "description": "async eachoflimithelper method as module.",
+  "main": "./index.js",
+  "repository": "async-js/async.util",
+  "author": {
+    "email": "josefrancisco.verdu@gmail.com",
+    "name": "Kiko Beats",
+    "url": "https://github.com/Kikobeats"
+  },
+  "version": "0.5.2",
+  "license": "MIT",
+  "dependencies": {
+    "async.util.keyiterator": "0.5.2",
+    "async.util.noop": "0.5.2",
+    "async.util.once": "0.5.2",
+    "async.util.onlyonce": "0.5.2"
+  },
+  "keywords": [
+    "async.util",
+    "eachoflimit"
+  ]
+}

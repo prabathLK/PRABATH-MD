@@ -1,0 +1,71 @@
+{
+  "name": "stackblur-canvas",
+  "version": "2.7.0",
+  "description": "Fast and almost Gaussian blur by Mario Klingemann",
+  "main": "dist/stackblur.js",
+  "module": "dist/stackblur-es.js",
+  "browserslist": {
+    "target": "cover 100%"
+  },
+  "scripts": {
+    "prepublishOnly": "pnpm i",
+    "start": "open-cli http://localhost:8081/demo/ && http-server -p 8081",
+    "eslint": "eslint --ext=js,md,html .",
+    "rollup": "rollup -c",
+    "docs": "rm -rf docs/jsdoc/*;jsdoc --pedantic -c docs/jsdoc-config.json src",
+    "open-docs": "npm run docs && open-cli http://localhost:8081/docs/jsdoc/ && http-server -p 8081",
+    "test": "npm run eslint && npm run rollup && echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flozz/StackBlur.git"
+  },
+  "keywords": [
+    "stackblur",
+    "blur",
+    "canvas",
+    "gaussian"
+  ],
+  "author": "Mario Klingemann",
+  "homepage": "http://www.quasimondo.com/StackBlurForCanvas/StackBlurDemo.html",
+  "contributors": [
+    "Brett Zamir"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flozz/StackBlur/issues"
+  },
+  "engines": {
+    "node": ">=0.1.14"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.12.16",
+    "@babel/preset-env": "^7.12.16",
+    "@brettz9/eslint-plugin": "^1.0.3",
+    "@rollup/plugin-babel": "^5.3.0",
+    "eslint": "^7.20.0",
+    "eslint-config-ash-nazg": "29.0.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-array-func": "^3.1.7",
+    "eslint-plugin-compat": "^3.9.0",
+    "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-html": "^6.1.1",
+    "eslint-plugin-import": "^2.22.1",
+    "eslint-plugin-jsdoc": "^32.0.1",
+    "eslint-plugin-markdown": "^2.0.0",
+    "eslint-plugin-no-unsanitized": "^3.1.4",
+    "eslint-plugin-no-use-extend-native": "^0.5.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.3.1",
+    "eslint-plugin-radar": "^0.2.1",
+    "eslint-plugin-standard": "^4.1.0",
+    "eslint-plugin-unicorn": "^28.0.1",
+    "http-server": "^0.12.3",
+    "jsdoc": "^3.6.5",
+    "open-cli": "^6.0.1",
+    "rollup": "2.39.0",
+    "rollup-plugin-re": "^1.0.7",
+    "rollup-plugin-terser": "^7.0.2"
+  },
+  "dependencies": {}
+}

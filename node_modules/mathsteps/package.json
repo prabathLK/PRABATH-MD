@@ -1,0 +1,42 @@
+{
+  "name": "mathsteps",
+  "version": "0.2.0",
+  "description": "Step by step math solutions",
+  "main": "index.js",
+  "dependencies": {
+    "mathjs": "3.11.2"
+  },
+  "engines": {
+    "node": ">=6.0.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.10.2",
+    "eslint-config-google": "^0.7.0",
+    "eslint-plugin-sort-requires": "^2.1.0",
+    "mocha": "2.4.5"
+  },
+  "scripts": {
+    "lint": "node_modules/.bin/eslint .",
+    "test": "node_modules/.bin/mocha --recursive",
+    "setup-hooks": "ln -s ../../scripts/git-hooks/pre-commit.sh .git/hooks/pre-commit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/socraticorg/mathsteps.git"
+  },
+  "keywords": [
+    "math",
+    "steps",
+    "algebra",
+    "cas",
+    "computer",
+    "algebra",
+    "system"
+  ],
+  "author": "Evy Kassirer",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/socraticorg/mathsteps/issues"
+  },
+  "homepage": "https://github.com/socraticorg/mathsteps#readme"
+}

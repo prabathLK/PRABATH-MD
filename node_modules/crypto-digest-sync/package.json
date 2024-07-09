@@ -1,0 +1,14 @@
+{
+  "name": "crypto-digest-sync",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "LinusU/crypto-digest-sync",
+  "scripts": {
+    "test": "standard && mocha"
+  },
+  "devDependencies": {
+    "array-buffer-to-hex": "^1.0.0",
+    "mocha": "^4.0.1",
+    "standard": "^10.0.3"
+  }
+}

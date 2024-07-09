@@ -1,0 +1,25 @@
+{
+  "name": "culvert",
+  "version": "0.1.2",
+  "description": "Channel for easy streaming of work between complex logics.",
+  "main": "channel.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/culvert.git"
+  },
+  "keywords": [
+    "channel",
+    "stream",
+    "csp",
+    "js-git"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/culvert/issues"
+  },
+  "homepage": "https://github.com/creationix/culvert"
+}

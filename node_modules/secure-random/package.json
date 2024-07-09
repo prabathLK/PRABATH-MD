@@ -1,0 +1,45 @@
+{
+  "name": "secure-random",
+  "version": "1.1.2",
+  "description": "Normalize the creation of cryptographically strong random values.",
+  "main": "./lib/secure-random.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jprichardson/secure-random"
+  },
+  "keywords": [
+    "crypto",
+    "cryptography",
+    "secure",
+    "random",
+    "rand",
+    "generator",
+    "number"
+  ],
+  "author": "JP Richardson",
+  "license": "MIT",
+  "devDependencies": {
+    "mocha": "^1.20.0",
+    "terst": "^0.1.0",
+    "mochify": "^0.9.3"
+  },
+  "dependencies": {},
+  "browser": {
+    "crypto": false
+  },
+  "scripts": {
+    "test": "mocha --ui bdd",
+    "unit": "./node_modules/.bin/mocha"
+  },
+  "testling": {
+    "files": "test/*.js",
+    "browsers": [
+      "firefox/latest",
+      "chrome/latest",
+      "safari/6..latest",
+      "ie/9..latest",
+      "iphone/6.0..latest",
+      "android-browser/4.2..latest"
+    ]
+  }
+}

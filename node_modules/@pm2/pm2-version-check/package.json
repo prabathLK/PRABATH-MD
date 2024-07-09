@@ -1,0 +1,11 @@
+{
+  "name": "@pm2/pm2-version-check",
+  "version": "1.0.4",
+  "description": "Module to check latest PM2 version",
+  "main": "index.js",
+  "author": "Alexandre Strzelewicz",
+  "license": "MIT",
+  "dependencies": {
+    "debug": "^4.3.1"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "name": "@danitech/scraper",
+  "version": "1.0.7",
+  "description": "This module provides a collection of functions for various scraping tasks. You can use these functions to download content from different sources, search for specific information, stalk user profiles, utilize artificial intelligence models, fetch random images, convert text to images or GIFs, and perform various image manipulation tasks. Below is an overview of the available functions.",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js",
+    "test": "nodemon test.js"
+  },
+  "creation_date": "Sep 13, 2023",
+  "update_date": "Sep 16, 2023",
+  "author": "Dani Ramdani",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.5.0",
+    "cheerio": "^1.0.0-rc.12"
+  },
+  "devDependencies": {
+    "nodemon": "~3.0.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danitechid/scraper.git"
+  },
+  "keywords": [
+    "Scraper",
+    "Scrape",
+    "Web scrape",
+    "WhatsApp BOT",
+    "API",
+    "REST API",
+    "RESTful API",
+    "Json API"
+  ],
+  "bugs": {
+    "url": "https://github.com/danitechid/scraper/issues"
+  },
+  "homepage": "https://github.com/danitechid/scraper#readme"
+}

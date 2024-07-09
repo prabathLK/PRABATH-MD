@@ -1,0 +1,2 @@
+require('./match');
+require('./guess');

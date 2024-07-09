@@ -1,0 +1,6 @@
+node_modules
+dist
+docs/ts
+coverage
+ignore
+!*.js

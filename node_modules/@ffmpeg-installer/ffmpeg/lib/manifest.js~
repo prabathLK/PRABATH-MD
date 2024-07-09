@@ -1,0 +1,258 @@
+import * as fs from 'fs';
+import mkdirp from 'mkdirp';
+import * as path from 'path';
+import { jsonc } from 'jsonc';
+import appRoot from 'app-root-path';
+import * as child_process from 'child_process';
+
+/**
+* @typedef {Object} ManifestBinary
+* @property {string} source
+* @property {string} destination
+*/
+
+/**
+ * @typedef {Object} Manifest
+ * @property {string} homepage Page from where the ffmpeg binary is sourced
+ * @property {string} url URL of the archive containing the ffmpeg binary
+ * @property {string?} checksum Checksum of the archive in the format {type}:{hash}
+ * @property {string|ManifestBinary} bin Relative path to the ffmpeg binary inside the archive
+ */
+
+/**
+ * Load a manifest jsonc file from disk
+ *
+ * @param {string} path Path to the manifest.jsonc
+ * @returns {Manifest}
+ */
+export function load(path) {
+    const manifestString = fs.readFileSync(path, 'utf-8');
+
+    return jsonc.parse(manifestString);
+}
+
+/**
+ * @returns {string} Path to the download cache directory
+ */
+function getDownloadCachePath() {
+    return appRoot.resolve('.download-cache');
+}
+
+function ensureDownloadCacheDirectory() {
+    child_process.spawnSync('mkdir', ['-p', getDownloadCachePath()]);
+}
+
+/**
+ * @param {Manifest} manifest
+ * @param {string} platform
+ * @returns {string}
+ */
+function getArchivePath(manifest, platform) {
+    const urlSegments = manifest.url.split('/');
+    const fileName = urlSegments[urlSegments.length - 1];
+
+    return path.join(getDownloadCachePath(), platform, fileName);
+}
+
+async function spawnWithOutput() {
+    return new Promise((resolve, reject) => {
+        const spawnedProcess = child_process.spawn(...arguments);
+
+        spawnedProcess.stdout.on('data', (message) => process.stdout.write(message));
+        spawnedProcess.stderr.on('data', (message) => process.stderr.write(message));
+        spawnedProcess.on('exit', resolve);
+        spawnedProcess.on('error', reject);
+    });
+}
+
+/**
+ * Download the URL listed in the manifest and verify the checksum
+ *
+ * @param {Manifest} manifest
+ * @param {string} platform
+ * @returns {PromiseLike<string, Error>} Path to the downloaded file
+ */
+export async function download(manifest, platform) {
+    const archivePath = getArchivePath(manifest, platform); 
+    const archiveDirectory = path.dirname(archivePath);
+
+    if (!fs.existsSync(archivePath)) {
+        mkdirp(archiveDirectory);
+
+        await spawnWithOutput('aria2c', [
+            manifest.url, 
+            '-d', archiveDirectory,
+            '--allow-overwrite=true',
+        ]);
+    } 
+
+    return archivePath;
+}
+
+/**
+* @param {string} [algorithm]
+* @param {string} archivePath
+*/
+function getChecksumCommand(algorithm, archivePath) {
+    switch (algorithm) {
+        case 'md5':
+            return [
+                'md5sum',
+                [
+                    '-b',
+                    archivePath,
+                ],
+            ];
+        case 'sha1':
+            return [
+                'sha1sum',
+                [
+                    archivePath,
+                ]
+            ];
+        case 'sha256':
+        default:
+            return [
+                'sha256sum',
+                [
+                    archivePath,
+                ]
+            ];
+    }
+}
+
+/**
+* @param {Manifest} manifest
+* @param {string} archivePath
+*/
+export function verify(manifest, archivePath) {
+    // get checksum from manifest
+    const [algorithm] = manifest.checksum.split('=');
+    const checksumAlgorithm = algorithm || 'sha256';
+
+    // generate checksum for archive
+    const checksumCommand = getChecksumCommand(checksumAlgorithm, archivePath);
+    const checksumProcess = child_process.spawnSync(...checksumCommand);
+
+    const actualChecksumHash = checksumProcess.stdout.toString().split(' ')[0].trim();
+    const actualChecksum = `${checksumAlgorithm}=${actualChecksumHash}`;
+
+    // throw error if checksum is not the same
+    if (manifest.checksum !== actualChecksum) {
+        throw new Error(`Checksum mismatch for ${archivePath}:
+            Expected: ${manifest.checksum}
+            Actual: ${actualChecksum}
+        `);
+    }
+}
+
+/**
+ * @param {string} source
+ * @param {string} destination
+ * @returns {[string, string[]]}
+ */
+function getExtractCommand(source, destination) {
+    if (source.endsWith('.tar')) {
+        return [
+            'tar', 
+            [
+                '-xvf', 
+                source,
+                '-C', destination,
+            ],
+        ];
+    } else if (source.endsWith('.tar.gz')) {
+        return [
+            'tar', 
+            [
+                '-xzvf', 
+                source,
+                '-C', destination,
+            ],
+        ];
+    } else if (source.endsWith('.tar.xz')) {
+        return [
+            'tar', 
+            [
+                '-xvf', 
+                source,
+                '-C', destination,
+            ],
+        ];
+    } else {
+        return [
+            '7z', 
+            [
+                'x',
+                source,
+                `-o${destination}`,
+                '-aoa',
+            ]
+        ];
+    }
+}
+
+/**
+ * @param {string} source
+ */
+export async function extract(source) {
+    const sourceDirectory = path.dirname(source);
+    const destination = path.join(sourceDirectory, 'extract');
+    const command = getExtractCommand(source, destination);
+
+    await mkdirp(destination);
+
+    await spawnWithOutput(...command);
+
+    return destination;
+}
+
+/** 
+* @param {Manifest} manifest
+*/
+function getBinarySourceFile(manifest) {
+    if (typeof(manifest.bin) === 'string') {
+        return manifest.bin;
+    }
+
+    return manifest.bin.source;
+}
+
+/**
+* @param {Manifest} manifest
+*/
+function getBinaryDestinationFile(manifest) {
+    if (typeof(manifest.bin) === 'string') {
+        return 'ffmpeg';
+    }
+
+    return manifest.bin.destination || 'ffmpeg';
+}
+
+/**
+* @param {Manifest} manifest
+* @param {string} platform
+* @param {string} extractPath
+*/
+export function copyBinaryToPlatformDirectory(manifest, platform, extractPath) {
+    const source = path.join(extractPath, getBinarySourceFile(manifest));
+    const destination = path.join(getPlatformDirectory(platform), getBinaryDestinationFile(manifest));
+
+    fs.copyFileSync(
+        source,
+        destination,
+    );
+
+    fs.chmodSync(
+        destination,
+        '+x'
+    );
+}
+
+/**
+* @param {string} platform
+* @returns {string}
+*/
+export function getPlatformDirectory(platform) {
+    return appRoot.resolve(`platforms/${platform}`);
+}
