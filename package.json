@@ -1,12 +1,12 @@
 {
-"name": "PRABATH-MD",
+"name": "ঔsɪʟᴇɴᴛ ☠︎︎ ʟᴏᴠᴇʀঔ",
 "version": "2.1.2",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "ঔsɪʟᴇɴᴛ ☠︎︎ ʟᴏᴠᴇʀঔ has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
-"restart": "pm2 restart prabath-md"
+"start": "pm2 start start.js --deep-monitoring --attach --name ঔsɪʟᴇɴᴛ ☠︎︎ ʟᴏᴠᴇʀঔ",
+"stop": "pm2 stop ঔsɪʟᴇɴᴛ ☠︎︎ ʟᴏᴠᴇʀঔ",
+"restart": "pm2 restart ঔsɪʟᴇɴᴛ ☠︎︎ ʟᴏᴠᴇʀঔ"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git",
