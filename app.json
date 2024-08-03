@@ -1,5 +1,5 @@
 {
-  "name": "PRABATH-MD (2.0.5)",
+  "name": "PRABATH-MD (2.1.2)",
   "description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
   "logo": "https://telegra.ph/file/ad25b2227fa2a1a01b707.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "multi device", "prabath-md"],
@@ -11,20 +11,12 @@
       "required": true
     },  
 
-  "SESSION_ID": {
-      "description": "If you like, scan the qr and put the session id here or you can open your app and scan the qr.",
+    "SESSION_ID": {
+      "description": "Put the session-id here.",
       "required": false
-    },
-    
-    "PASSWORD": {
-      "description": "Enter a password of your choice here, you will need this when going to scan the qr",
-      "required": true
-    },
-    
-    "GITHUB_USERNAME": {
-      "description": "Put your github username here.",
-      "required": true
-    },
+    },  
+
+
     "GITHUB_AUTH_TOKEN": {
       "description": "Put your github authtoken here.",
       "required": true
@@ -36,5 +28,7 @@
             "url": "https://github.com/heroku/heroku-buildpack-nodejs.git"
         }
      ],
-  "stack": "heroku-22"
+  "stack": "heroku-24"
+  
+  
 }
