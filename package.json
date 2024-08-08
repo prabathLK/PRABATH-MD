@@ -1,12 +1,12 @@
 {
-"name": "PRABATH-MD",
+"name": "dhana",
 "version": "2.1.2",
-"description": "PRABATH-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+"description": "dhana has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
 "main": "start.js",
 "scripts": {
-"start": "pm2 start start.js --deep-monitoring --attach --name prabath-md",
-"stop": "pm2 stop prabath-md",
-"restart": "pm2 restart prabath-md"
+"start": "pm2 start start.js --deep-monitoring --attach --name dhana",
+"stop": "pm2 stop dhana",
+"restart": "pm2 restart dhana"
 },
 "dependencies": {
 "@whiskeysockets/baileys": "git+https://github.com/prabathLK/Baileys-6.0.0.git#master",
